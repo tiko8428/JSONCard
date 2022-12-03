@@ -1,32 +1,32 @@
 const express = require("express");
 const { users } = require("../constants");
-
-const userError = (res, msg) => {
-    res.status(404);
-    res.send({ error: msg })
-}
-
+const adminRoutes = require("./adminRouter");
+const {readJsonFile,saveJson, readAdminsJson, userError} = require("../helper");
 
 const apiRoutes = express.Router();
 
-apiRoutes.use((req, res, next) => {
-    console.log("tiko");
-    next();
-})
+apiRoutes.use("/admin",adminRoutes); 
 
 apiRoutes.get("/allJson", (req, res) => {
-    const query = req.query;
-    res.json({ query: "query" });
+  const query = req.query;
+  res.json({ query: "query" });
 })
 
-apiRoutes.get("login", (req, res) => {
-    const { name, pass } = req.query;
-    if (name && pass) {
-        const currentUser = users.find((user) => user.name === name);
-        res.json(currentUser);
+
+
+apiRoutes.get("/login", (req, res) => {
+  const { name, pass } = req.query;
+  if (name && pass) {
+    const currentUser = users.find((user) => user.name === name);
+    if (currentUser) {
+      console.log(currentUser)
+      res.json(currentUser);
     } else {
-        userError("can't find user");
+      userError(res, "can't find user");
     }
+  } else {
+    userError(res, "pleas feel userName and pass");
+  }
 })
 
 

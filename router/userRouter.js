@@ -11,8 +11,10 @@ userRouter.use("/", (req, res, next) => {
 userRouter.get("/jsonData", (req, res) => {
   const { laval, language } = req.query
   const currentJSonData = readJsonFile(laval, language);
-  // if  currentJSonData empty;
-  res.json(currentJSonData);
+  // res.send("ok");
+  setTimeout(()=>{
+    res.json(JSON.stringify(currentJSonData));
+  },0)
 })
 
 userRouter.post("/create-item", (req, res) => {
@@ -25,7 +27,7 @@ userRouter.post("/create-item", (req, res) => {
   const newData = { ...currentJSonData, [data.cardNumber]: data }
   saveJson(laval, language, newData);
   res.send("ok");
-})
+})  
 
 module.exports = userRouter;
 

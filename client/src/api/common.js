@@ -12,11 +12,6 @@ class CommonApi {
     })
   }
 
-  deleteItem(item, user){
-    console.log({item, user});
-    this.api.delete()
-  }
-
   createItem({key, laval, language, data}){
     return this.api.post("/create-item", {
       body: { laval, language, data },

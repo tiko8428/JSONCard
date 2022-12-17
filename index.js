@@ -52,10 +52,6 @@ app.use(
   bodyParser.json({ limit: "50mb", type: "application/json", extended: true })
 );
 
-// app.use(
-//   bodyParser.text({ limit: "50mb", type: "application/json", extended: true })
-// );
-
 app.use(
   bodyParser.urlencoded({
     limit: "50mb",
@@ -63,9 +59,6 @@ app.use(
   })
 );
 
-// app.get("/", (req,res)=>{
-//   res.sendFile(path.join(__dirname, 'client', 'build', 'index.html'))
-// });
 
 app.use("/api",apiRouter);
 

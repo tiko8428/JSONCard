@@ -59,13 +59,12 @@ adminRoutes.delete("/delete-user", (req, res) => {
 });
 
 adminRoutes.delete("/delete-item", (req, res) => {
-  const { itemKey, lang, laval } = req.query;
-
-  const users = readJsonFile(laval, lang);
-  if (users) {
-    const filteredPeople = users.filter((item) => item.key !== itemKey);
-    saveUserJson(filteredPeople);
-    res.json(filteredPeople)
+  const { deleteItemKey, language, laval } = req.query;
+  const data = readJsonFile(laval, language);
+  if (data) {
+    delete data[deleteItemKey];
+    saveJson(laval, language, data);
+    res.send("ok")
   } else {
     userError(res, "can't find user List");
   }

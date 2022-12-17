@@ -2,8 +2,10 @@ import { useEffect, useState, useContext } from "react";
 import { UserContext } from "../../App";
 import { commonApi } from "../../api/common";
 import { adminApi } from "../../api/admin";
-import { Table, notification, Row, Button } from 'antd';
+import { Table, notification, Row, Col, Button } from 'antd';
 import CreatePopup from "../createPopup";
+import TranslatePopup from "../translatePopup";
+import EditPopup from "../editPopup";
 
 
 export const JsonTable = (props) => {
@@ -11,6 +13,10 @@ export const JsonTable = (props) => {
   const { user } = useContext(UserContext);
   const [data, setData] = useState([]);
   const [openCreate, setOpenCrate] = useState(false);
+  const [openEdit, setOpenEdit] = useState(false);
+  const [openTranslate, setOpenTranslate] = useState(false);
+
+  const [laval, language] = json.split("/");
 
   const getColumns = (user) => {
     const deleteColumn = {
@@ -19,7 +25,18 @@ export const JsonTable = (props) => {
       key: 'delete',
       fixed: 'right',
       width: 100,
-      render: (text, record) => <Button onClick={() => { commonApi.deleteItem(record, user) }}>delete</Button>,
+      render: (text, record) => (
+        <Button onClick={() => {
+          const confirmDelete = window.confirm("Are you sure about DELETE?");
+          if (confirmDelete) {
+            adminApi.deleteItem({ adminKey: user.key, item: record, laval, language }).then(() => {
+              updateTable()
+            }).catch(err => {
+              console.log("ERROR", err)
+            })
+          }
+        }
+        }>delete</Button>),
     };
 
     const columns = [
@@ -34,43 +51,36 @@ export const JsonTable = (props) => {
         title: 'field1',
         dataIndex: 'field1',
         key: 'field1',
-        // width: 100,
       },
       {
         title: 'field2',
         dataIndex: 'field2',
         key: 'field2',
-        // width: 100,
       },
       {
         title: 'field3',
         dataIndex: 'field3',
         key: 'field3',
-        // width: 100,
       },
       {
         title: 'field4',
         dataIndex: 'field4',
         key: 'field4',
-        // width: 300,
       },
       {
         title: 'field5',
         dataIndex: 'field5',
         key: 'field5',
-        // width: 100,
       },
       {
         title: 'field6',
         dataIndex: 'field6',
         key: 'field6',
-        // width: 100,
       },
       {
         title: 'category',
         dataIndex: 'category',
         key: 'category',
-        // width: 100,
       },
       {
         title: 'Edit',
@@ -90,16 +100,14 @@ export const JsonTable = (props) => {
   }
 
   const updateTable = () => {
-    // check permitions
     setData([]);
-    const [laval, language] = json.split("/");
     commonApi.getJson({ laval, language }).then(res => {
       let newData = [];
-      for (let key in res.data) {
-        const item = res.data[key];
+      const data = JSON.parse(res.data);
+      for (let key in data) {
+        const item = data[key];
         newData.push({ ...item, key: item.cardNumber })
       }
-      console.log(newData);
       setData(newData);
     }).catch(err => {
       notification.error({
@@ -110,8 +118,6 @@ export const JsonTable = (props) => {
   }
 
   const onCreate = (values) => {
-    console.log('Received values of form: ', values);
-    const [laval, language] = json.split("/");
     commonApi.createItem({ key: user.key, laval, language, data: values }).then(res => {
       updateTable();
     }).catch(err => {
@@ -123,8 +129,17 @@ export const JsonTable = (props) => {
     setOpenCrate(false);
   };
 
+  const onTranslate = (value) => {
+    console.log(value)
+    // save data
+  }
+
+  const onEdit = (value) => {
+    console.log(value)
+    // save data
+  }
+
   const onDownload = () => {
-    const [laval, language] = json.split("/");
     adminApi.downloadJson(user.key, laval, language)
       .then((res) => {
         const filename = `${json}.json`;
@@ -153,29 +168,77 @@ export const JsonTable = (props) => {
     if (user || user.key) {
       updateTable();
     }
-  }, [json])
+  }, [json, user])
 
   if (!user || !user.key) {
     return <div><p style={{ color: "red", fontSize: "25px" }}>something has gone wrong please try login again.</p></div>
   }
+
+  const translateButtons = () => {
+    if (!user) return null;
+    if (user?.rol === "admin") {
+      return ["ua", "ru", "en", "de"].map((item) => {
+        if (language !== item) {
+          return (
+            <Button
+              key={item}
+              style={{ textTransform: "uppercase", marginRight: 10 }}
+              onClick={() => {
+                setOpenTranslate(true);
+              }}
+            >
+              TRANSLATE TO {item}
+            </Button>)
+        } else {
+          return null
+        }
+      })
+    }
+    if (user?.rol.length > 0) {
+      return user.rol.map((rol) => {
+        if (language !== rol.language) {
+          return <Button key={rol.language} style={{ textTransform: "uppercase", marginRight: 10 }}>TRANSLATE TO {rol.language}</Button>
+        } else {
+          return null
+        }
+      })
+    }
+  }
   return (
     <div>
       <Row align={"middle"} style={{ marginBottom: 15 }}>
+        <CreatePopup
+          json={json}
+          open={openCreate}
+          onCreate={onCreate}
+          onCancel={() => {
+            setOpenCrate(false);
+          }}
+        />
+        <TranslatePopup
+          json={json}
+          open={openTranslate}
+          onCreate={onTranslate}
+          onCancel={() => {
+            setOpenTranslate(false);
+          }}
+        />
+        <EditPopup
+          json={json}
+          open={openEdit}
+          onCreate={onEdit}
+          onCancel={() => {
+            setOpenEdit(false);
+          }}
+        />
+        <Col> {translateButtons()} </Col>
         {
           (user && user.rol === "admin") &&
           (
-            <div>
+            <Col style={{ marginLeft: "auto" }}>
               <Button type="primary" onClick={() => { setOpenCrate(true) }}>CREATE</Button>
               <Button style={{ marginLeft: 20 }} onClick={onDownload}>Download</Button>
-              <CreatePopup
-                json={json}
-                open={openCreate}
-                onCreate={onCreate}
-                onCancel={() => {
-                  setOpenCrate(false);
-                }}
-              />
-            </div>
+            </Col>
           )
         }
       </Row>
@@ -190,6 +253,12 @@ export const JsonTable = (props) => {
         scroll={{
           x: 'calc(700px + 50%)',
           y: "calc(100vh - 235px)",
+        }}
+        rowSelection={{
+          type: "radio",
+          onChange: (cardNumber, itemData) => {
+            console.log(`selectedRowKeys: ${cardNumber}`, itemData);
+          },
         }}
       />
     </div>

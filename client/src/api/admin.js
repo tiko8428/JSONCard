@@ -27,8 +27,21 @@ class AdminApi {
       }
     })
   }
-  downloadJson(adminKey,laval, language ){
+
+  downloadJson(adminKey, laval, language) {
     return this.api.get(`/download?language=${language}&laval=${laval}&adminKey=${adminKey}`);
+  }
+
+  deleteItem({ adminKey, item, laval, language }) {
+    return this.api.delete("/delete-item", {
+      params: {
+        adminKey,
+        deleteItemKey: item.cardNumber,
+        laval,
+        language
+      }
+    })
+
   }
 }
 

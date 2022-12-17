@@ -1,7 +1,9 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useContext } from 'react';
 import { adminApi } from "../../api/admin";
 import { MinusCircleOutlined, PlusOutlined } from '@ant-design/icons';
 import { Button, Form, Input, Select, Space, Col, Row, Table } from 'antd';
+import { UserContext } from '../../App';
+import { notification } from 'antd';
 
 
 const laval = [
@@ -19,37 +21,46 @@ const language = [
   { label: 'en', value: 'en' },
 ];
 
-export const UserController = () => {
-  const columns = [
-    {
-      title: 'Name',
-      dataIndex: 'name',
-      key: 'name',
-    },
-    {
-      title: 'Rol',
-      dataIndex: 'rol',
-      key: 'rol',
-    },
-    {
-      title: 'Action',
-      dataIndex: '',
-      key: 'x',
-      render: (t) => {
-        return <a
-          onClick={() => {
-            adminApi.deleteUser(t.key)
-              .then((res) => {
-                updateTable(res.data)
-              })
-          }}
-        >Delete</a>
-      }
-    },
-  ];
-  const [form] = Form.useForm();
-  const [usersLoading, setUsersLoading] = useState();
-  const [users, setUsers] = useState([]);
+  export const UserController = () => {
+    const [form] = Form.useForm();
+    const [usersLoading, setUsersLoading] = useState();
+    const [users, setUsers] = useState([]);
+    const { user : activeUser } = useContext(UserContext);
+  
+    const columns = [
+      {
+        title: 'Name',
+        dataIndex: 'name',
+        key: 'name',
+      },
+      {
+        title: 'Pass',
+        dataIndex: 'pass',
+        key: 'pass',
+      },
+      {
+        title: 'Rol',
+        dataIndex: 'rol',
+        key: 'rol',
+      },
+      {
+        title: 'Action',
+        dataIndex: '',
+        key: 'x',
+        render: (t, item, test) => {
+          return <a
+            onClick={() => {
+              console.log(t, item, test);
+              adminApi.deleteUser({userKey: t.key, activeUserKey:activeUser.key})
+                .then((res) => {
+                  updateTable(res.data)
+                })
+            }}
+          >Delete</a>
+        }
+      },
+    ];
+  
 
   const updateTable = (data) => {
     const newUsers = data.map(item => {
@@ -63,7 +74,6 @@ export const UserController = () => {
       }
     });
     setUsers(newUsers);
-
   }
 
   const onFinish = (values) => {
@@ -72,29 +82,34 @@ export const UserController = () => {
       pass: values.password,
       rol: [...values.permissions]
     };
-    adminApi.createUser(user).then(res => {
+
+    adminApi.createUser(user, activeUser?.key).then(res => {
       updateTable(res.data);
     }).catch(err => {
-      console.log(err)
-      alert(err);
+      notification.error({
+        message: "LOGIN ERROR",
+        description: err.response.data.error,
+      });
     })
   };
 
   useEffect(() => {
     setUsersLoading(true);
-    adminApi.getUserList().then((res) => {
+    adminApi.getUserList(activeUser?.key).then((res) => {
       updateTable(res.data);
-
     }).catch(err => {
       const mes = err.response.data?.error || "unknown ERROR";
-      alert(mes)
+      notification.error({
+        message: "LOGIN ERROR",
+        description: err.response.data.error,
+      });
     }).finally(() => {
       setUsersLoading(false);
     });
   }, [])
   return (
-    <Row gutter={16}>
-      <Col span={12}>
+    <Row gutter={24} style={{}}>
+      <Col span={10} xs={24} md={10}>
         <Form form={form} name="dynamic_form_complex" onFinish={onFinish} autoComplete="off">
           <Form.Item
             label="Username"
@@ -172,7 +187,7 @@ export const UserController = () => {
           </Form.Item>
         </Form>
       </Col>
-      <Col span={12}>
+      <Col span={14}>
         <Table
           pagination={false}
           columns={columns}

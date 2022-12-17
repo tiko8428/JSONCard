@@ -11,18 +11,12 @@ function readUsersJson() {
 }
 
 function saveUserJson(data) {
-  fs.writeFileSync("./users.json", JSON.stringify(data), 'utf8', err => {
-    if (err) {
-      console.log(`Error writing file: ${err}`)
-    } else {
-      console.log(`File is written successfully!`)
-    }
-  })
+  fs.writeFileSync("./users.json", JSON.stringify(data), 'utf8');  
 }
 
 
-function readJsonFile(leng) {
-  const data = fs.readFileSync(`./src/json/data/${leng}.json`, 'utf8')
+function readJsonFile(laval, language) {
+  const data = fs.readFileSync(`./json_db/${laval}_${language}.json`, 'utf8')
   if (!data) {
     return {}
   }
@@ -30,14 +24,8 @@ function readJsonFile(leng) {
   return obj
 }
 
-function saveJson(lang, data) {
-  fs.writeFileSync(`./src/json/data/${lang}.json`, JSON.stringify(data), 'utf8', err => {
-    if (err) {
-      console.log(`Error writing file: ${err}`)
-    } else {
-      console.log(`File is written successfully!`)
-    }
-  })
+function saveJson(laval, language, data) {
+   fs.writeFileSync(`./json_db/${laval}_${language}.json`, JSON.stringify(data), 'utf8');
 }
 
 const userError = (res, msg) => {

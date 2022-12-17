@@ -1,22 +1,19 @@
 const express = require("express");
-const { users } = require("../constants");
-const { readJsonFile, saveJson, readUsersJson, userError, saveUserJson } = require("../helper");
 const uuid = require("uuid");
+const path = require("path");
+const { readJsonFile, saveJson, readUsersJson, userError, saveUserJson } = require("../helper");
+const { adminUser } = require("../constants");
 
 const adminRoutes = express.Router();
 
-const adminUser = {
-  "name": "karen",
-  "pass": "karen",
-  "key": "testKey",
-  "rol": "admin"
-};
+
 
 adminRoutes.use("/", (req, res, next) => {
   const { adminKey } = req.query;
   if (adminUser.key === adminKey) {
     next();
   } else {
+    console.log("YOU are not ADMIN");
     userError(res, "YOU are not ADMIN");
   }
 });
@@ -50,16 +47,38 @@ adminRoutes.post("/create-user", (req, res) => {
 });
 
 adminRoutes.delete("/delete-user", (req, res) => {
-  console.log(req.query.key);
-  const userKey = req.query.key;
+  const { deleteUser } = req.query;
   const users = readUsersJson();
-  
   if (users) {
-    const filteredPeople = users.filter((item) => item.key !== userKey);
+    const filteredPeople = users.filter((item) => item.key !== deleteUser);
     saveUserJson(filteredPeople);
     res.json(filteredPeople)
   } else {
     userError(res, "can't find user List");
   }
 });
+
+adminRoutes.delete("/delete-item", (req, res) => {
+  const { itemKey, lang, laval } = req.query;
+
+  const users = readJsonFile(laval, lang);
+  if (users) {
+    const filteredPeople = users.filter((item) => item.key !== itemKey);
+    saveUserJson(filteredPeople);
+    res.json(filteredPeople)
+  } else {
+    userError(res, "can't find user List");
+  }
+});
+
+adminRoutes.get("/download", (req, res) => {
+  const { language, laval } = req.query;
+  const filePhat = path.join(__dirname, `../json_db/${laval}_${language}.json`);
+  if (filePhat) {
+    res.download(filePhat);
+  } else {
+    userError(res, "can't find file");
+  }
+});
+
 module.exports = adminRoutes;

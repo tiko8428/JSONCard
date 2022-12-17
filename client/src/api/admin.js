@@ -1,33 +1,34 @@
 import axios from "axios"
+import { notification } from 'antd';
 
 class AdminApi {
   constructor() {
     this.api = axios.create({
       baseURL: "/api/admin",
-      params: {
-        adminKey: "testKey"
-      }
     });
   }
 
-  getUserList() {
-    return this.api.get("users")
+  getUserList(key) {
+    return this.api.get("users", { params: { adminKey: key } })
   }
 
-  createUser(data) {
-    return this.api.post("create-user", {
-      body: {
-        ...data
-      }
-    })
+  createUser(data, key) {
+    return this.api.post(`create-user`,
+      { body: { ...data } },
+      { params: { adminKey: key } }
+    )
   }
 
-  deleteUser(key){
-    return this.api.delete("delete-user",{
+  deleteUser({ userKey, activeUserKey }) {
+    return this.api.delete("delete-user", {
       params: {
-        key
+        adminKey: activeUserKey,
+        deleteUser: userKey
       }
     })
+  }
+  downloadJson(adminKey,laval, language ){
+    return this.api.get(`/download?language=${language}&laval=${laval}&adminKey=${adminKey}`);
   }
 }
 

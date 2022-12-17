@@ -1,3 +1,10 @@
+const adminUser = {
+  "name": "Karen",
+  "pass": "karen",
+  "key": "testKey",
+  "rol": "admin"
+};
+
 const laval = [
   {
     label: 'A1',
@@ -70,4 +77,4 @@ users.push(new Users({
   pass: "user"
 }));
 
-module.exports = { users }
+module.exports = { users, adminUser }

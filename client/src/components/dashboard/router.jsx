@@ -18,13 +18,11 @@ export const getRouter = (user) => {
   const loginRoute = {
     label: 'Login',
     key: 'login',
-    onClick: () => { console.log("login") }
   };
 
   const logoutRoute = {
     label: 'Logout',
     key: 'logout',
-    onClick: () => { console.log("logout") }
   };
 
 

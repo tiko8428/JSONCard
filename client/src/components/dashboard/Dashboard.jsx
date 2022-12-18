@@ -29,6 +29,7 @@ const ADashboard = () => {
       case "logout":
         setUser(null);
         localStorage.removeItem("user");
+        setCurrentPage("");
         return <Login />
       default:
         return <JsonTable json={currentPage} />
@@ -46,9 +47,6 @@ const ADashboard = () => {
             mode="inline"
             onClick={(props) => {
               setCurrentPage(props.key)
-              if (props.key === "logout") {
-                alert("logout");
-              }
             }}
             defaultSelectedKeys={['0']}
             style={{ height: '100%', borderRight: 0 }}

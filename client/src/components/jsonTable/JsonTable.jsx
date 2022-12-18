@@ -288,7 +288,7 @@ export const JsonTable = (props) => {
         size="middle"
         scroll={{
           x: 'calc(700px + 50%)',
-          y: "calc(100vh - 235px)",
+          y: "calc(100vh - 180px)",
         }}
         rowSelection={{
           type: "radio",

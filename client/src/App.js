@@ -5,7 +5,6 @@ import './App.css';
 
 export const UserContext = createContext(null);
 
-
 function App() {
   const [user, setUser] = useState({ key: "", name: "", rol: "" });
   const providerValue = useMemo(() => ({ user, setUser }), [user, setUser])

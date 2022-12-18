@@ -12,10 +12,12 @@ export const JsonTable = (props) => {
   const { json } = props;
   const { user } = useContext(UserContext);
   const [data, setData] = useState([]);
+  const [selectedRow, setSelectedRow] = useState();
   const [openCreate, setOpenCrate] = useState(false);
   const [openEdit, setOpenEdit] = useState(false);
   const [openTranslate, setOpenTranslate] = useState(false);
-
+  const [targetLanguage, setTargetLanguage] = useState();
+  const [editRecord, setEditRecord] = useState();
   const [laval, language] = json.split("/");
 
   const getColumns = (user) => {
@@ -38,7 +40,19 @@ export const JsonTable = (props) => {
         }
         }>delete</Button>),
     };
-
+    const editColumn = {
+      title: 'Edit',
+      dataIndex: 'Edit',
+      key: 'Edit',
+      fixed: 'right',
+      width: 80,
+      render: (text, record) => {
+        return <Button onClick={() => {
+          setOpenEdit(true);
+          setEditRecord(record);
+        }}> edit</Button >
+      },
+    };
     const columns = [
       {
         title: 'CN',
@@ -82,19 +96,12 @@ export const JsonTable = (props) => {
         dataIndex: 'category',
         key: 'category',
       },
-      {
-        title: 'Edit',
-        dataIndex: 'Edit',
-        key: 'Edit',
-        fixed: 'right',
-        width: 80,
-        render: (text, record) => {
-          return <Button onClick={() => { console.log(record) }}> edit</Button >
-        },
-      },
     ]
     if (user && user.rol === "admin") {
-      columns.push(deleteColumn);
+      columns.push(editColumn, deleteColumn);
+
+    } else if (language !== "de") {
+      columns.push(editColumn, deleteColumn);
     }
     return columns
   }
@@ -129,14 +136,29 @@ export const JsonTable = (props) => {
     setOpenCrate(false);
   };
 
-  const onTranslate = (value) => {
-    console.log(value)
+  const onTranslate = ({ values, language, laval }) => {
+    commonApi.translate({ values, language, laval }).then(res => {
+      setOpenTranslate(false);
+      setTargetLanguage(undefined);
+    }).catch(err => {
+      notification.error({
+        message: "translate item",
+        description: "Translate item ERROR",
+      });
+    });
     // save data
   }
 
-  const onEdit = (value) => {
-    console.log(value)
-    // save data
+  const onEdit = (values) => {
+    commonApi.edit({language, laval, values, originCardNumber: editRecord.cardNumber }).then(res=>{
+      setOpenEdit(false);
+      updateTable();
+    }).catch(err=>{
+      notification.error({
+        message: "Edit item",
+        description: "Edit item ERROR",
+      });
+    })
   }
 
   const onDownload = () => {
@@ -175,20 +197,31 @@ export const JsonTable = (props) => {
   }
 
   const translateButtons = () => {
+    const TranslateButton = (key, item) => {
+      return (
+        <Button
+          key={key}
+          name={key}
+          style={{ textTransform: "uppercase", marginRight: 10 }}
+          onClick={(e) => {
+            if (selectedRow) {
+              const { name } = e.currentTarget;
+              setTargetLanguage(name);
+              setOpenTranslate(true);
+            } else {
+              alert("pleas select the row");
+            }
+          }}
+        >
+          TRANSLATE TO {item}
+        </Button>
+      )
+    }
     if (!user) return null;
     if (user?.rol === "admin") {
       return ["ua", "ru", "en", "de"].map((item) => {
         if (language !== item) {
-          return (
-            <Button
-              key={item}
-              style={{ textTransform: "uppercase", marginRight: 10 }}
-              onClick={() => {
-                setOpenTranslate(true);
-              }}
-            >
-              TRANSLATE TO {item}
-            </Button>)
+          return TranslateButton(item, item);
         } else {
           return null
         }
@@ -196,8 +229,8 @@ export const JsonTable = (props) => {
     }
     if (user?.rol.length > 0) {
       return user.rol.map((rol) => {
-        if (language !== rol.language) {
-          return <Button key={rol.language} style={{ textTransform: "uppercase", marginRight: 10 }}>TRANSLATE TO {rol.language}</Button>
+        if (language !== rol.language && rol.language !== "de") {
+          return TranslateButton(rol.language, rol.language);
         } else {
           return null
         }
@@ -211,26 +244,29 @@ export const JsonTable = (props) => {
           json={json}
           open={openCreate}
           onCreate={onCreate}
-          onCancel={() => {
-            setOpenCrate(false);
-          }}
+          onCancel={() => { setOpenCrate(false) }}
         />
-        <TranslatePopup
-          json={json}
-          open={openTranslate}
-          onCreate={onTranslate}
-          onCancel={() => {
-            setOpenTranslate(false);
-          }}
-        />
-        <EditPopup
-          json={json}
-          open={openEdit}
-          onCreate={onEdit}
-          onCancel={() => {
-            setOpenEdit(false);
-          }}
-        />
+        {openTranslate &&
+          <TranslatePopup
+            json={json}
+            originData={selectedRow}
+            targetLanguage={targetLanguage}
+            open={openTranslate}
+            onTranslate={onTranslate}
+            onCancel={() => { setOpenTranslate(false) }}
+          />
+        }
+        {
+          editRecord &&
+          <EditPopup
+            json={json}
+            open={openEdit}
+            record={editRecord}
+            onEdit={onEdit}
+            onCancel={() => { setOpenEdit(false) }}
+          />
+        }
+
         <Col> {translateButtons()} </Col>
         {
           (user && user.rol === "admin") &&
@@ -256,8 +292,8 @@ export const JsonTable = (props) => {
         }}
         rowSelection={{
           type: "radio",
-          onChange: (cardNumber, itemData) => {
-            console.log(`selectedRowKeys: ${cardNumber}`, itemData);
+          onChange: (cardNumber, itemDataArray) => {
+            setSelectedRow(itemDataArray[0]);
           },
         }}
       />

@@ -4,16 +4,29 @@ import {
 
 
 export const getRouter = (user) => {
+
   const adminRouter = [
     {
       label: 'Admin', type: 'group', key: 'admin', mode: "vertical", icon: <UserOutlined />,
       children: [
-        // { label: 'dashboard', key: 'dashboard', onClick:()=>{console.log("login")} },
         { label: 'users', key: 'users' },
         { type: 'divider', }
       ],
     }
   ];
+
+  const loginRoute = {
+    label: 'Login',
+    key: 'login',
+    onClick: () => { console.log("login") }
+  };
+
+  const logoutRoute = {
+    label: 'Logout',
+    key: 'logout',
+    onClick: () => { console.log("logout") }
+  };
+
 
   const languages = [
     {
@@ -29,7 +42,6 @@ export const getRouter = (user) => {
     {
       label: 'A2',
       key: 'A2',
-      // disabled: true,
       children: [
         { label: 'de', key: 'A2/de' },
         { label: 'ua', key: 'A2/ua' },
@@ -40,7 +52,6 @@ export const getRouter = (user) => {
     {
       label: 'B1',
       key: 'B1',
-      // disabled: true,
       children: [
         { label: 'de', key: 'B1/de' },
         { label: 'ua', key: 'B1/ua' },
@@ -51,7 +62,6 @@ export const getRouter = (user) => {
     {
       label: 'B2',
       key: 'B2',
-      // disabled: true,
       children: [
         { label: 'de', key: 'B2/de' },
         { label: 'ua', key: 'B2/ua' },
@@ -63,7 +73,6 @@ export const getRouter = (user) => {
     {
       label: 'C1',
       key: 'C1',
-      // disabled: true,
       children: [
         { label: 'de', key: 'C1/de' },
         { label: 'ua', key: 'C1/ua' },
@@ -74,14 +83,20 @@ export const getRouter = (user) => {
   ];
 
 
-  let router = []
+  let router = [];
+ 
+  if(user?.rol){
+    router.push (logoutRoute);
+  }else{
+    router.push (loginRoute);
+  }
+
   if (user?.rol === "admin") {
     router = [...router, ...adminRouter, ...languages]
   } else if (!user) {
     router = []
   }
   if (user && user.rol !== "admin" && user.rol.length > 0) {
-
     user.rol.forEach(lang => {
       const currentRout = router.find(rout => rout.key === lang.laval)
       if (!currentRout) {

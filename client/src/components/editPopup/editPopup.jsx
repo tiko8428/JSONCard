@@ -1,21 +1,21 @@
-import { Form, Modal, Input, Typography } from "antd";
+import { Form, Modal, Input } from "antd";
 
-export const EditPopup = ({ open, onCreate, onCancel, json }) => {
+export const EditPopup = ({ open, onEdit, onCancel, json, record }) => {
   const [form] = Form.useForm();
 
   return (
     <Modal
       open={open}
       title={`EDIT a new card in ${json}`}
-      okText="Create"
+      okText="Edit"
       cancelText="Cancel"
       onCancel={onCancel}
       onOk={() => {
         form
           .validateFields()
           .then((values) => {
-            form.resetFields();
-            onCreate(values);
+            // form.resetFields();
+            onEdit(values);
           })
           .catch((info) => {
             console.log('Validate Failed:', info);
@@ -28,17 +28,13 @@ export const EditPopup = ({ open, onCreate, onCancel, json }) => {
         name="form_in_modal"
         initialValues={{
           modifier: 'public',
+          ...record
         }}
       >
-        <Form.Item
-          name="cardNumber"
-          label="card Number"
-          // disabled = {true}
-        >
-          <Input  />
+        <Form.Item name="cardNumber" label="card Number">
+          <Input type="textarea" />
         </Form.Item>
         <Form.Item name="field1" label="Field1">
-          <Typography.Paragraph>some text</Typography.Paragraph>
           <Input type="textarea" />
         </Form.Item>
         <Form.Item name="field2" label="Field2">

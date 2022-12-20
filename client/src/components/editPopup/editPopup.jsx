@@ -1,8 +1,22 @@
+import { useEffect } from "react";
 import { Form, Modal, Input } from "antd";
 
 export const EditPopup = ({ open, onEdit, onCancel, json, record }) => {
   const [form] = Form.useForm();
-
+  
+  useEffect(()=>{
+    form.setFieldsValue({
+      cardNumber: record["cardNumber"],
+      field1: record["field1"],
+      field2: record["field2"],
+      field3: record["field3"],
+      field4: record["field4"],
+      field5: record["field5"],
+      field6: record["field6"],
+      category: record["category"]
+    }
+    )
+  })
   return (
     <Modal
       open={open}

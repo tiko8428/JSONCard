@@ -43,6 +43,19 @@ class AdminApi {
     })
 
   }
+
+  getFromImage({file, adminKey}){
+    let formData = new FormData();
+    formData.append("file", file);
+    return this.api.post("get-data-array",formData,{
+      params: {
+        adminKey,
+      },
+      headers: {
+        "Content-Type": "multipart/form-data",
+      },
+    })
+  }
 }
 
 export const adminApi = new AdminApi();

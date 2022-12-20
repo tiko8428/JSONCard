@@ -1,4 +1,4 @@
-import { useEffect, useState, useContext } from "react";
+import { useEffect, useState, useContext, useRef } from "react";
 import { UserContext } from "../../App";
 import { commonApi } from "../../api/common";
 import { adminApi } from "../../api/admin";
@@ -19,6 +19,7 @@ export const JsonTable = (props) => {
   const [targetLanguage, setTargetLanguage] = useState();
   const [editRecord, setEditRecord] = useState();
   const [laval, language] = json.split("/");
+  const uploadImage = useRef(null);
 
   const getColumns = (user) => {
     const deleteColumn = {
@@ -150,10 +151,10 @@ export const JsonTable = (props) => {
   }
 
   const onEdit = (values) => {
-    commonApi.edit({language, laval, values, originCardNumber: editRecord.cardNumber }).then(res=>{
+    commonApi.edit({ language, laval, values, originCardNumber: editRecord.cardNumber }).then(res => {
       setOpenEdit(false);
       updateTable();
-    }).catch(err=>{
+    }).catch(err => {
       notification.error({
         message: "Edit item",
         description: "Edit item ERROR",
@@ -184,6 +185,22 @@ export const JsonTable = (props) => {
       .finally((final) => {
         return final
       });
+  }
+
+  const handelUploadImage = (e) => {
+    if (e.target.files.length > 0) {
+      const images = Array.from(e.target.files);
+      if (images.length > 0) {
+        images.forEach((file ) => {
+          adminApi.getFromImage({file, adminKey: user.key}).then(res=>{
+            setEditRecord(res.data.row);
+            setOpenEdit(true);
+          }).catch(err=>{
+            console.log("aAAAAAAAAAA",err);
+          });
+        });
+      }
+    }
   }
 
   useEffect(() => {
@@ -273,7 +290,9 @@ export const JsonTable = (props) => {
           (
             <Col style={{ marginLeft: "auto" }}>
               <Button type="primary" onClick={() => { setOpenCrate(true) }}>CREATE</Button>
+              <Button style={{ marginLeft: 20 }} onClick={()=>{uploadImage.current.click()}}>From Image</Button>
               <Button style={{ marginLeft: 20 }} onClick={onDownload}>Download</Button>
+              <input ref={uploadImage} onChange={handelUploadImage} style={{display:"none"}} type="file" multiple="multiple" />  
             </Col>
           )
         }

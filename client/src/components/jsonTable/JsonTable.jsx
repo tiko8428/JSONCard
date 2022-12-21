@@ -288,10 +288,10 @@ export const JsonTable = (props) => {
         {
           (user && user.rol === "admin") &&
           (
-            <Col style={{ marginLeft: "auto" }}>
-              <Button type="primary" onClick={() => { setOpenCrate(true) }}>CREATE</Button>
+            <Col style={{ marginLeft: "auto" , }} >
+              <Button style={{ marginLeft: 20 }} onClick={onDownload}> Download JSON</Button>
+              <Button type="primary" onClick={() => { setOpenCrate(true) }}>CREATE new</Button>
               <Button style={{ marginLeft: 20 }} onClick={()=>{uploadImage.current.click()}}>From Image</Button>
-              <Button style={{ marginLeft: 20 }} onClick={onDownload}>Download</Button>
               <input ref={uploadImage} onChange={handelUploadImage} style={{display:"none"}} type="file" multiple="multiple" />  
             </Col>
           )

@@ -6,13 +6,14 @@ import { getRouter } from "./router";
 import { UserContext } from "../../App";
 import Login from "../login";
 import JsonTable from "../jsonTable";
+import { useEffect } from "react";
 
 
 const ADashboard = () => {
   const [currentPage, setCurrentPage] = useState("");
   const { Content, Sider } = Layout;
   const { user, setUser } = useContext(UserContext)
-  const [collapsed, setCollapsed] = useState(false);
+  const [collapsed, setCollapsed] = useState(true);
   const router = useMemo(() => getRouter(user), [user])
 
   const mainRender = () => {
@@ -35,6 +36,10 @@ const ADashboard = () => {
         return <JsonTable json={currentPage} />
     }
   }
+  useEffect(()=>{
+    // setCollapsed(true);
+    // console.log(collapsed);
+  },[])
   return (
     <Layout style={{ height: "100%" }}>
       {/* <Header style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }} className="header" >

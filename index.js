@@ -38,7 +38,6 @@ app.use("/api",apiRouter);
 app.use(express.static(path.join(__dirname, './client/build')));
 
 app.listen("3000", () => {
-  // "192.168.1.108",
   console.log(`Example app listening \n`);
   // console.log("http:/192.168.1.108:3000");
 });

@@ -24,7 +24,7 @@ userRouter.post("/create-item", (req, res) => {
     userError(res, "json save error");
     return
   }
-  const newData = { ...currentJSonData, [data.cardNumber]: data }
+  const newData = { ...currentJSonData, [data.cardNumber]: data, imageName: "" }
   saveJson(laval, language, newData);
   res.send("ok");
 })

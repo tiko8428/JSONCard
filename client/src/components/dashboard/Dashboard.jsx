@@ -6,7 +6,6 @@ import { getRouter } from "./router";
 import { UserContext } from "../../App";
 import Login from "../login";
 import JsonTable from "../jsonTable";
-import { useEffect } from "react";
 
 
 const ADashboard = () => {
@@ -36,10 +35,7 @@ const ADashboard = () => {
         return <JsonTable json={currentPage} />
     }
   }
-  useEffect(()=>{
-    // setCollapsed(true);
-    // console.log(collapsed);
-  },[])
+
   return (
     <Layout style={{ height: "100%" }}>
       {/* <Header style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }} className="header" >

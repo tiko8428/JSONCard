@@ -93,6 +93,16 @@ export const JsonTable = (props) => {
         key: 'field6',
       },
       {
+        title: 'field7',
+        dataIndex: 'field7',
+        key: 'field7',
+      },
+      {
+        title: 'field8',
+        dataIndex: 'field8',
+        key: 'field8',
+      },
+      {
         title: 'category',
         dataIndex: 'category',
         key: 'category',

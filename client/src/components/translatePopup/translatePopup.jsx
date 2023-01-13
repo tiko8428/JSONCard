@@ -22,6 +22,8 @@ export const TranslatePopup = ({ open, onTranslate, onCancel, json, originData, 
           field4: targetData["field4"],
           field5: targetData["field5"],
           field6: targetData["field6"],
+          field6: targetData["field7"],
+          field6: targetData["field8"],
           category: targetData["category"]
         }
         )
@@ -75,6 +77,12 @@ export const TranslatePopup = ({ open, onTranslate, onCancel, json, originData, 
           <Input type="textarea" />
         </Form.Item>
         <Form.Item name="field6" label={labelRender("field6")}>
+          <Input type="textarea" />
+        </Form.Item>
+        <Form.Item name="field7" label={labelRender("field7")}>
+          <Input type="textarea" />
+        </Form.Item>
+        <Form.Item name="field8" label={labelRender("field8")}>
           <Input type="textarea" />
         </Form.Item>
         <Form.Item name="category" label={labelRender("category")}>

@@ -13,6 +13,8 @@ export const EditPopup = ({ open, onEdit, onCancel, json, record }) => {
       field4: record["field4"],
       field5: record["field5"],
       field6: record["field6"],
+      field6: record["field7"],
+      field6: record["field8"],
       category: record["category"]
     }
     )
@@ -66,7 +68,12 @@ export const EditPopup = ({ open, onEdit, onCancel, json, record }) => {
         <Form.Item name="field6" label="Field6">
           <Input type="textarea" />
         </Form.Item>
-
+        <Form.Item name="field7" label="Field7">
+          <Input type="textarea" />
+        </Form.Item>
+        <Form.Item name="field8" label="Field8">
+          <Input type="textarea" />
+        </Form.Item>
         <Form.Item name="category" label="Category">
           <Input type="textarea" />
         </Form.Item>

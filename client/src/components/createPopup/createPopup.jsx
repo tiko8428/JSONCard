@@ -55,6 +55,12 @@ export const CreatePopup = ({ open, onCreate, onCancel, json }) => {
         <Form.Item name="field6" label="Field6">
           <Input type="textarea" />
         </Form.Item>
+        <Form.Item name="field7" label="Field7">
+          <Input type="textarea" />
+        </Form.Item>
+        <Form.Item name="field8" label="Field8">
+          <Input type="textarea" />
+        </Form.Item>
 
         <Form.Item name="category" label="Category">
           <Input type="textarea" />

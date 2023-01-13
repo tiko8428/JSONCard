@@ -50,7 +50,6 @@ userRouter.put("/translate", (req, res)=>{
 
 userRouter.put("/edit", (req, res)=>{
   const { laval, language, values, originCardNumber } = req.body.body;
-  console.log(laval, language, values);
   const currentJSonData = readJsonFile(laval, language);
   delete currentJSonData[originCardNumber];
 

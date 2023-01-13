@@ -35,8 +35,6 @@ const client = new vision.ImageAnnotatorClient(CONFIG);
 const adminRoutes = express.Router();
 
 adminRoutes.post("/get-data-array", async (req, res) => {
-  // console.log(req.files.file);
-  // res.send("ok");
   const filePath = req.files.file.tempFilePath;
   try {
     const all = await client.textDetection(filePath);
@@ -52,6 +50,8 @@ adminRoutes.post("/get-data-array", async (req, res) => {
       field4: "",
       field5: "",
       field6: "",
+      field7: "",
+      field8: "",
       category: foolText[foolText.length - 2],
       imageName: "",
     }

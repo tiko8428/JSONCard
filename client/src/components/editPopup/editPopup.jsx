@@ -7,15 +7,15 @@ export const EditPopup = ({ open, onEdit, onCancel, json, record }) => {
   useEffect(()=>{
     form.setFieldsValue({
       cardNumber: record["cardNumber"],
+      category: record["category"],
       field1: record["field1"],
       field2: record["field2"],
       field3: record["field3"],
       field4: record["field4"],
       field5: record["field5"],
       field6: record["field6"],
-      field6: record["field7"],
-      field6: record["field8"],
-      category: record["category"]
+      field7: record["field7"],
+      field8: record["field8"],
     }
     )
   })

@@ -33,7 +33,7 @@ function updateJson() {
 }
 
 function addImageName (){
-  const data = readJsonFile("A2", "de");
+  const data = readJsonFile("B1", "ua");
   let newData = {};
   for (let key in data) {
     const item = data[key];
@@ -41,7 +41,7 @@ function addImageName (){
     const newItem = {...item, imageName: "" };
     newData[key] = newItem; 
   }
-  saveJson("A2", "de", newData);
+  saveJson("B1", "ua", newData);
 }
 
 addImageName()

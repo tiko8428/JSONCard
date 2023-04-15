@@ -35,6 +35,7 @@ export const getRouter = (user) => {
         { label: 'ua', key: 'A1/ua' },
         { label: 'ru', key: 'A1/ru' },
         { label: 'en', key: 'A1/en' },
+        { label: 'am', key: 'A1/am' },
       ],
     },
     {
@@ -45,6 +46,7 @@ export const getRouter = (user) => {
         { label: 'ua', key: 'A2/ua' },
         { label: 'ru', key: 'A2/ru' },
         { label: 'en', key: 'A2/en' },
+        { label: 'am', key: 'A2/am' },
       ],
     },
     {
@@ -55,6 +57,7 @@ export const getRouter = (user) => {
         { label: 'ua', key: 'B1/ua' },
         { label: 'ru', key: 'B1/ru' },
         { label: 'en', key: 'B1/en' },
+        { label: 'am', key: 'B1/am' },
       ],
     },
     {
@@ -65,6 +68,7 @@ export const getRouter = (user) => {
         { label: 'ua', key: 'B2/ua' },
         { label: 'ru', key: 'B2/ru' },
         { label: 'en', key: 'B2/en' },
+        { label: 'am', key: 'B2/am' },
       ],
     },
 
@@ -76,6 +80,7 @@ export const getRouter = (user) => {
         { label: 'ua', key: 'C1/ua' },
         { label: 'ru', key: 'C1/ru' },
         { label: 'en', key: 'C1/en' },
+        { label: 'am', key: 'C1/am' },
       ],
     },
   ];

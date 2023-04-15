@@ -1,4 +1,4 @@
-import { Form, Modal, Input, Typography } from "antd";
+import { Form, Modal, Input } from "antd";
 
 export const CreatePopup = ({ open, onCreate, onCancel, json }) => {
   const [form] = Form.useForm();
@@ -14,11 +14,11 @@ export const CreatePopup = ({ open, onCreate, onCancel, json }) => {
         form
           .validateFields()
           .then((values) => {
-            form.resetFields();
-            onCreate(values);
+            const success = onCreate(values);
+            if (success) form.resetFields();
           })
           .catch((info) => {
-            console.log('Validate Failed:', info);
+            console.log("Validate Failed:", info);
           });
       }}
     >
@@ -27,7 +27,7 @@ export const CreatePopup = ({ open, onCreate, onCancel, json }) => {
         layout="vertical"
         name="form_in_modal"
         initialValues={{
-          modifier: 'public',
+          modifier: "public",
         }}
       >
         <Form.Item
@@ -35,7 +35,7 @@ export const CreatePopup = ({ open, onCreate, onCancel, json }) => {
           label="card Number"
           // disabled = {true}
         >
-          <Input  />
+          <Input />
         </Form.Item>
         <Form.Item name="field1" label="Field1">
           <Input type="textarea" />

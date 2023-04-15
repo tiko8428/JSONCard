@@ -11,7 +11,6 @@ userRouter.use("/", (req, res, next) => {
 userRouter.get("/jsonData", (req, res) => {
   const { laval, language } = req.query
   const currentJSonData = readJsonFile(laval, language);
-  // res.send("ok");
   setTimeout(() => {
     res.json(JSON.stringify(currentJSonData));
   }, 0)
@@ -24,7 +23,7 @@ userRouter.post("/create-item", (req, res) => {
     userError(res, "json save error");
     return
   }
-  const newData = { ...currentJSonData, [data.cardNumber]: data, imageName: "" }
+  const newData = { ...currentJSonData, [data.cardNumber]: data }
   saveJson(laval, language, newData);
   res.send("ok");
 })

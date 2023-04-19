@@ -75,8 +75,6 @@ adminRoutes.post("/get-data-array", async (req, res) => {
 });
 
 
-
-
 adminRoutes.use("/", (req, res, next) => {
   const { adminKey } = req.query;
   if (adminUser.key === adminKey) {

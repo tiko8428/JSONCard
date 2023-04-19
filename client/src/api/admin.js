@@ -29,7 +29,11 @@ class AdminApi {
   }
 
   downloadJson(adminKey, laval, language) {
-    return this.api.get(`/download?language=${language}&laval=${laval}&adminKey=${adminKey}`);
+    const url = `/download?language=${language}&laval=${laval}&adminKey=${adminKey}`;
+
+    // return this.api.get(`/download?language=${language}&laval=${laval}&adminKey=${adminKey}`);
+    console.log(url);
+    return this.api.get(url);
   }
 
   deleteItem({ adminKey, item, laval, language }) {

@@ -46,7 +46,6 @@ const userSchema = new mongoose.Schema(
   {
     email: {
       type: String,
-      unique: true,
     },
     given_name: {
       type: String,

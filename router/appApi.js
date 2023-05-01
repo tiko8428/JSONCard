@@ -36,42 +36,26 @@ appApi.use("/", (req, res, next) => {
  */
 
 appApi.post("/user", async (req, res) => {
-  // if (
-  //   !req.body.id_token ||
-  //   !req.body.given_name ||
-  //   !req.body.family_name ||
-  //   !req.body.email
-  // ) {
-  //   res
-  //     .status(400)
-  //     .json({ message: "Bad request please check the input data." });
-  //   return;
-  // }
   if (!req.body.id_token) {
     res
       .status(400)
       .json({ message: "Bad request please check the input data." });
     return;
   }
-  try {
-    const newUser = new User(req.body);
-    await newUser.save();
-    res.status(201).json(newUser);
-  } catch (error) {
-    if(error.code === 11000){
-      try {
-        const user = await User.findOne({id_token: req.body.id_token });
-        if (!user) {
-          res.status(404).json({ message: "The user does not exist" });
-          return;
-        } else {
-          res.json(JSON.stringify(user));
-        }
-      } catch (error) {
-        res.status(500).json({ message: error.message });
-      }
+  const user = await User.findOne({ id_token: req.body.id_token });
+  if (user) {
+    res.status(200).json(user);
+    return;
+  } else {
+    try {
+      const newUser = new User(req.body);
+      await newUser.save();
+      res.status(200).json(newUser);
+      return;
+    } catch (error) {
+      res.status(500).json({ message: error.message });
+      return;
     }
-    res.status(500).json({ message: error.message });
   }
 });
 

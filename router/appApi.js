@@ -36,12 +36,18 @@ appApi.use("/", (req, res, next) => {
  */
 
 appApi.post("/user", async (req, res) => {
-  if (
-    !req.body.id_token ||
-    !req.body.given_name ||
-    !req.body.family_name ||
-    !req.body.email
-  ) {
+  // if (
+  //   !req.body.id_token ||
+  //   !req.body.given_name ||
+  //   !req.body.family_name ||
+  //   !req.body.email
+  // ) {
+  //   res
+  //     .status(400)
+  //     .json({ message: "Bad request please check the input data." });
+  //   return;
+  // }
+  if (!req.body.id_token) {
     res
       .status(400)
       .json({ message: "Bad request please check the input data." });
@@ -52,6 +58,20 @@ appApi.post("/user", async (req, res) => {
     await newUser.save();
     res.status(201).json(newUser);
   } catch (error) {
+    console.log(error.code);
+    if(error.code === 11000){
+      try {
+        const user = await User.findOne({id_token: req.body.id_token });
+        if (!user) {
+          res.status(404).json({ message: "The user does not exist" });
+          return;
+        } else {
+          res.json(JSON.stringify(user));
+        }
+      } catch (error) {
+        res.status(500).json({ message: error.message });
+      }
+    }
     res.status(500).json({ message: error.message });
   }
 });
@@ -185,12 +205,12 @@ appApi.get("/user", async (req, res) => {
  *         description: Server error.
  */
 
- appApi.put("/user", async (req, res) => {
+appApi.put("/user", async (req, res) => {
   const { id } = req.query;
   const params = req.body;
   if (id) {
     try {
-      const user = await User.findByIdAndUpdate(id, {...params});
+      const user = await User.findByIdAndUpdate(id, { ...params });
       if (!user) {
         res.status(404).json({ message: "The user does not exist" });
         return;
@@ -200,14 +220,12 @@ appApi.get("/user", async (req, res) => {
     } catch (error) {
       res.status(500).json({ message: error.message });
     }
-  }else {
+  } else {
     res
       .status(400)
       .json({ message: "Bad request please check the input data." });
   }
 });
-
-
 
 // DELETE
 

@@ -2,15 +2,27 @@ const express = require("express");
 const { users, adminUser } = require("../constants");
 const adminRoutes = require("./adminRouter");
 const userRouter = require("./userRouter");
-
+const appApi = require("./appApi");
 const { readUsersJson, userError } = require("../helper");
 
 const apiRoutes = express.Router();
 
-
 apiRoutes.use("/admin", adminRoutes);
 apiRoutes.use("/user", userRouter);
+apiRoutes.use("/app", appApi);
 
+/**
+ * @openapi
+ * /api/healthcheck:
+ *  get:
+ *     tags:
+ *     - Healthcheck
+ *     description: Responds if the app is up and running
+ *     responses:
+ *       200:
+ *         description: App is up and running
+ */
+apiRoutes.get("/healthcheck", (req, res) => res.sendStatus(200));
 
 apiRoutes.get("/login", (req, res) => {
   const { name, pass } = req.query;
@@ -34,7 +46,6 @@ apiRoutes.get("/login", (req, res) => {
   } else {
     userError(res, "pleas feel userName and pass");
   }
-})
-
+});
 
 module.exports = apiRoutes;

@@ -1,10 +1,15 @@
 const express = require("express");
 const uuid = require("uuid");
 const path = require("path");
-const { readJsonFile, saveJson, readUsersJson, userError, saveUserJson } = require("../helper");
+const {
+  readJsonFile,
+  saveJson,
+  readUsersJson,
+  userError,
+  saveUserJson,
+} = require("../helper");
 const { adminUser } = require("../constants");
 const vision = require("@google-cloud/vision");
-
 
 const CREDANTIOLS = JSON.parse(
   JSON.stringify({
@@ -31,7 +36,6 @@ const CONFIG = {
 
 const client = new vision.ImageAnnotatorClient(CONFIG);
 
-
 const adminRoutes = express.Router();
 
 adminRoutes.post("/get-data-array", async (req, res) => {
@@ -39,7 +43,7 @@ adminRoutes.post("/get-data-array", async (req, res) => {
   try {
     const all = await client.textDetection(filePath);
     const foolText = all[0].fullTextAnnotation.text.split("\n");
-	  const lang =
+    const lang =
       all[0].fullTextAnnotation.pages[0].property.detectedLanguages[0]
         .languageCode;
     const formatedData = {
@@ -54,18 +58,18 @@ adminRoutes.post("/get-data-array", async (req, res) => {
       field8: "",
       category: foolText[foolText.length - 2],
       imageName: "",
-    }
-    let counter = 1
+    };
+    let counter = 1;
     foolText.forEach((item, index) => {
-      if (index !== 0 && index !== foolText.length - 2 && counter<=6) {
+      if (index !== 0 && index !== foolText.length - 2 && counter <= 6) {
         formatedData["field" + counter] = item;
         counter += 1;
       }
-    })
-    res.send({ row:formatedData, lang: lang!=="de"? "ua": lang });
+    });
+    res.send({ row: formatedData, lang: lang !== "de" ? "ua" : lang });
   } catch (error) {
-    console.log(error)
-	  res.status(400)
+    console.log(error);
+    res.status(400);
     res.send({
       status: "error",
       error: "main Error > GOOGLE API",
@@ -73,7 +77,6 @@ adminRoutes.post("/get-data-array", async (req, res) => {
     return;
   }
 });
-
 
 adminRoutes.use("/", (req, res, next) => {
   const { adminKey } = req.query;
@@ -88,7 +91,7 @@ adminRoutes.use("/", (req, res, next) => {
 adminRoutes.get("/users", (req, res) => {
   const users = readUsersJson();
   if (users) {
-    res.json(users)
+    res.json(users);
   } else {
     userError(res, "can't find user List");
   }
@@ -98,16 +101,13 @@ adminRoutes.post("/create-user", (req, res) => {
   const item = req.body.body;
   const newUser = {
     ...item,
-    key: uuid.v4()
-  }
+    key: uuid.v4(),
+  };
   const users = readUsersJson();
   if (users) {
-    const newUsers = [
-      ...users,
-      newUser
-    ]
+    const newUsers = [...users, newUser];
     saveUserJson(newUsers);
-    res.json(newUsers)
+    res.json(newUsers);
   } else {
     userError(res, "can't find user List");
   }
@@ -119,7 +119,7 @@ adminRoutes.delete("/delete-user", (req, res) => {
   if (users) {
     const filteredPeople = users.filter((item) => item.key !== deleteUser);
     saveUserJson(filteredPeople);
-    res.json(filteredPeople)
+    res.json(filteredPeople);
   } else {
     userError(res, "can't find user List");
   }
@@ -131,7 +131,7 @@ adminRoutes.delete("/delete-item", (req, res) => {
   if (data) {
     delete data[deleteItemKey];
     saveJson(laval, language, data);
-    res.send("ok")
+    res.send("ok");
   } else {
     userError(res, "can't find user List");
   }

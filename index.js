@@ -1,14 +1,14 @@
 const express = require("express");
 const path = require("path");
-
 const cors = require("cors");
 const bodyParser = require("body-parser");
 const uuid = require("uuid");
 const url = require("url");
-
-const vision = require("@google-cloud/vision");
 const fileUpload = require("express-fileupload");
-const apiRouter = require("./router/apiRouter.js") 
+const vision = require("@google-cloud/vision");
+const swaggerConfig = require("./swaggerConfig");
+const apiRouter = require("./router/apiRouter.js");
+const connectMongo = require("./mongoDB/connect");
 
 const app = express();
 app.use(cors());
@@ -32,14 +32,16 @@ app.use(
   })
 );
 
+app.use("/api", apiRouter);
 
-app.use("/api",apiRouter);
+app.use(express.static(path.join(__dirname, "./client/build")));
 
-app.use(express.static(path.join(__dirname, './client/build')));
+
+
+swaggerConfig(app);
 
 app.listen("3000", () => {
+  connectMongo();
   console.log(`Example app listening \n`);
   // console.log("http:/192.168.1.108:3000");
 });
-
-

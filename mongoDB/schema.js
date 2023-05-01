@@ -46,16 +46,13 @@ const userSchema = new mongoose.Schema(
   {
     email: {
       type: String,
-      required: true,
       unique: true,
     },
     given_name: {
       type: String,
-      required: true,
     },
     family_name: {
       type: String,
-      required: true,
     },
     id_token: {
       type: String,

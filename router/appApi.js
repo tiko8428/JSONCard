@@ -58,7 +58,6 @@ appApi.post("/user", async (req, res) => {
     await newUser.save();
     res.status(201).json(newUser);
   } catch (error) {
-    console.log(error.code);
     if(error.code === 11000){
       try {
         const user = await User.findOne({id_token: req.body.id_token });

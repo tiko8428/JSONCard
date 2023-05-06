@@ -147,4 +147,29 @@ adminRoutes.get("/download", (req, res) => {
   }
 });
 
+adminRoutes.get("/getAll", (req, res) => {
+  const { targetLangnguge, lavel } = req.query;
+  try {
+    const DeData = readJsonFile(lavel, "de");
+    const DeDataKeys = Object.keys(DeData);
+    const targetData = readJsonFile(lavel, targetLangnguge);
+    
+    if (DeDataKeys.length > 0 ) {
+      const newArry = []
+      DeDataKeys.forEach((key)=>{
+        const newData ={ 
+          ...DeData[key],
+          translation: targetData[key]
+        };
+        newArry.push(newData)
+      })
+      res.status(200).json(newArry || {})
+    } else {
+      userError(res, "can't find word (rout => /word ) ");
+    }
+  } catch (error) {
+    userError(res, "can't find file (rout => /word ) ");
+  }
+});
+
 module.exports = adminRoutes;

@@ -8,7 +8,8 @@ appApi.use("/", (req, res, next) => {
   next();
 });
 
-// CREATE
+// ******************** CREATE *************************
+
 /**
  * @openapi
  * '/api/user':
@@ -36,6 +37,7 @@ appApi.use("/", (req, res, next) => {
  */
 
 appApi.post("/user", async (req, res) => {
+  // id_token => user 
   if (!req.body.id_token) {
     res
       .status(400)

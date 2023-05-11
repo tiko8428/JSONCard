@@ -148,11 +148,11 @@ adminRoutes.get("/download", (req, res) => {
 });
 
 adminRoutes.get("/getAll", (req, res) => {
-  const { targetLanguage, lavel } = req.query;
+  const { targetLanguage, level } = req.query;
   try {
-    const DeData = readJsonFile(lavel, "de");
+    const DeData = readJsonFile(level, "de");
     const DeDataKeys = Object.keys(DeData);
-    const targetData = readJsonFile(lavel, targetLanguage);
+    const targetData = readJsonFile(level, targetLanguage);
     
     if (DeDataKeys.length > 0 ) {
       const newArry = []

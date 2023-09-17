@@ -38,6 +38,16 @@ export const getRouter = (user) => {
         { label: "ar", key: "A1/ar",style },
         { label: "tr", key: "A1/tr",style },
         { label: "fr", key: "A1/fr",style },
+        { label: "hr", key: "A1/hr",style },
+        { label: "it", key: "A1/it",style },
+        { label: "ja", key: "A1/ja",style },
+        { label: "ko", key: "A1/ko",style },
+        { label: "nl", key: "A1/nl",style },
+        { label: "pt", key: "A1/pt",style },
+        { label: "ro", key: "A1/ro",style },
+        { label: "sv", key: "A1/sv",style },
+        { label: "zh", key: "A1/zh",style },
+
       ],
     },
     {
@@ -104,18 +114,19 @@ export const getRouter = (user) => {
   ];
 
   let router = [];
-
   if (user?.rol) {
     router.push(logoutRoute);
   } else {
     router.push(loginRoute);
   }
-
+  
   if (user?.rol === "admin") {
     router = [...router, ...adminRouter, ...languages];
   } else if (!user) {
     router = [];
   }
+  
+  console.log("AAAAAAAAAAAAAAAAAAAAAA",user);
   if (user && user.rol !== "admin" && user.rol.length > 0) {
     user.rol.forEach((lang) => {
       const currentRout = router.find((rout) => rout.key === lang.laval);

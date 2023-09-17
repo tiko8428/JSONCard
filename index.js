@@ -8,7 +8,7 @@ const fileUpload = require("express-fileupload");
 const vision = require("@google-cloud/vision");
 const swaggerConfig = require("./swaggerConfig");
 const apiRouter = require("./router/apiRouter.js");
-const connectMongo = require("./mongoDB/connect");
+// const connectMongo = require("./mongoDB/connect");
 
 const app = express();
 app.use(cors());
@@ -40,8 +40,8 @@ app.use(express.static(path.join(__dirname, "./client/build")));
 
 swaggerConfig(app);
 
-app.listen("3000", () => {
-  connectMongo();
+app.listen("4000", () => {
+  // connectMongo();
   console.log(`Example app listening \n`);
   // console.log("http:/192.168.1.108:3000");
 });

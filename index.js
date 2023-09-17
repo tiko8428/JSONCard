@@ -40,7 +40,7 @@ app.use(express.static(path.join(__dirname, "./client/build")));
 
 swaggerConfig(app);
 
-app.listen("4000", () => {
+app.listen("3000", () => {
   // connectMongo();
   console.log(`Example app listening \n`);
   // console.log("http:/192.168.1.108:3000");

@@ -1,8 +1,16 @@
-#root{
+#root {
   width: 100vw;
   height: 100vh;
 }
-.App{
+.App {
   width: 100vw;
   height: 100vh;
+}
+.ant-menu-sub  {
+  max-width: 220px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.ant-menu-sub > li {
+  max-width: 60px;
 }

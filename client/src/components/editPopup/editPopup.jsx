@@ -47,8 +47,8 @@ export const EditPopup = ({ open, onEdit, onCancel, json, record }) => {
           ...record
         }}
       >
-        <Form.Item name="cardNumber" label="card Number">
-          <Input type="textarea" />
+        <Form.Item name="cardNumber"  label="card Number">
+          <Input type="textarea" disabled />
         </Form.Item>
         <Form.Item name="field1" label="Field1">
           <Input type="textarea" />

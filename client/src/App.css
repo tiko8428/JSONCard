@@ -6,11 +6,27 @@
   width: 100vw;
   height: 100vh;
 }
-.ant-menu-sub  {
+.ant-menu-sub {
   max-width: 220px;
-  display: flex;
+  /* display: flex; */
   flex-wrap: wrap;
 }
 .ant-menu-sub > li {
   max-width: 60px;
+  display: inline-flex !important;
+  padding: 10px;
+  flex-wrap: wrap;
+}
+
+.ant-menu-vertical > li {
+  max-width: 60px;
+  padding: 10px;
+  
+}
+.ant-menu-item-only-child {
+  padding-left: 20px !important;
+}
+
+.ant-form-item{
+  margin-bottom: 5px;
 }

@@ -66,7 +66,6 @@ export const JsonTable = (props) => {
               setEditRecord(record);
             }}
           >
-            {" "}
             edit
           </Button>
         );
@@ -309,7 +308,8 @@ export const JsonTable = (props) => {
     };
     if (!user) return null;
     if (user?.rol === "admin") {
-      return ["ua", "ru", "en", "de"].map((item) => {
+      return [].map((item) => {
+        // return ["ua", "ru", "en", "de",].map((item) => {
         if (language !== item) {
           return TranslateButton(item, item);
         } else {
@@ -365,12 +365,12 @@ export const JsonTable = (props) => {
         <Col> {translateButtons()} </Col>
         {user && user.rol === "admin" && (
           <Col style={{ marginLeft: "auto" }}>
-            <Button style={{ marginLeft: 20 }} onClick={onDownload}>
+            {/* <Button style={{ marginLeft: 20 }} onClick={onDownload}>
               Download JSON
-            </Button>
+            </Button> */}
             <Button
               type="primary"
-              style={{marginLeft: 15}}
+              style={{ marginLeft: 15 }}
               onClick={() => {
                 setOpenCrate(true);
               }}

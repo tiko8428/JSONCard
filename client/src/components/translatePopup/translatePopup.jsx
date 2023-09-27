@@ -22,8 +22,8 @@ export const TranslatePopup = ({ open, onTranslate, onCancel, json, originData, 
           field4: targetData["field4"],
           field5: targetData["field5"],
           field6: targetData["field6"],
-          field6: targetData["field7"],
-          field6: targetData["field8"],
+          field7: targetData["field7"],
+          field8: targetData["field8"],
           category: targetData["category"]
         }
         )

@@ -161,7 +161,6 @@ export const getRouter = (user) => {
     router = [];
   }
 
-  console.log("AAAAAAAAAAAAAAAAAAAAAA", user);
   if (user && user.rol !== "admin" && user.rol.length > 0) {
     user.rol.forEach((lang) => {
       const currentRout = router.find((rout) => rout.key === lang.laval);

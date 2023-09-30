@@ -28,6 +28,10 @@ function saveJson(laval, language, data) {
    fs.writeFileSync(`./json_db/${laval}_${language}.json`, JSON.stringify(data), 'utf8');
 }
 
+function saveJsonMigrate(laval, language, data) {
+  fs.writeFileSync(`./json_test/${laval}_${language}.json`, JSON.stringify(data), 'utf8');
+}
+
 const userError = (res, msg) => {
   res.status(404);
   res.send({ error: msg })
@@ -39,4 +43,5 @@ module.exports = {
   readJsonFile,
   saveJson,
   userError,
+  saveJsonMigrate
 }

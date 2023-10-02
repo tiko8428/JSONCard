@@ -1,6 +1,6 @@
 const axios = require("axios");
 const OPENAI_API_URL = "https://api.openai.com/v1/chat/completions";
-const API_KEY = "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"; // Replace with your API Key
+const API_KEY = "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"; // Replace with your API Key
 
 const migrate = function async(word) {
   // const prompt = `I will provide german words write the plural of that word: ${word}`;
@@ -51,10 +51,9 @@ const migrate = function async(word) {
 // })();
 
 const { readJsonFile, saveJsonMigrate } = require("./helper");
-
+const laval = "C1";
+const language = "de";
 const migrateJson = async () => {
-  const laval = "A1";
-  const language = "de";
   const data = readJsonFile(laval, language);
   const objKeys = Object.keys(data);
   for (let i = 0; i <= objKeys.length - 1; i += 1) {

@@ -51,8 +51,17 @@ const migrate = function async(word) {
 // })();
 
 const { readJsonFile, saveJsonMigrate } = require("./helper");
-const laval = "C1";
+const laval = "A1";
 const language = "de";
+
+const testDuplicate = ()=>{
+  const data = readJsonFile(laval, language);
+  const objKeys = Object.keys(data);
+  for (let i = 0; i <= objKeys.length - 1; i += 1) {
+    
+  }
+} 
+
 const migrateJson = async () => {
   const data = readJsonFile(laval, language);
   const objKeys = Object.keys(data);
@@ -76,4 +85,4 @@ const migrateJson = async () => {
 //       res(field + " => " + index);
 //     }, 1);
 //   });
-migrateJson();
+// migrateJson();

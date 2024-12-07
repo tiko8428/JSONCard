@@ -34,14 +34,19 @@ app.use(
 
 app.use("/api", apiRouter);
 
-app.use(express.static(path.join(__dirname, "./client/build")));
+// app.use(express.static(path.join(__dirname, "./client/build")));
 
+app.use('/admin', express.static(path.join(__dirname, './client/build')));
+
+app.get("/", (req, res) => {
+  res.sendFile(path.join(__dirname, "static", "index.html"));
+})
 
 
 swaggerConfig(app);
 
 app.listen("3000", () => {
   // connectMongo();
-  console.log(`Example app listening \n`);
+  console.log(`Example app listening \n on port 3000!`);
   // console.log("http:/192.168.1.108:3000");
 });

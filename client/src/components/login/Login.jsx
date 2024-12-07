@@ -12,7 +12,7 @@ export const Login = () => {
 
   const onFinish = (values) => {
     setDisabled(true);
-    axios.get(`api/login?name=${values.username}&pass=${values.password}`).then(res => {
+    axios.get(`/api/login?name=${values.username}&pass=${values.password}`).then(res => {
       setUser(res.data);
       localStorage.setItem("user", JSON.stringify(res.data));
       return res;

@@ -10,3 +10,8 @@ prepare certbot
 generate ssl
 
 ```sudo certbot --nginx```
+
+test
+``` sudo certbot renew --dry-run```
+TODO: SETUp NGINX in corect whey
+

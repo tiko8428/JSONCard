@@ -36,10 +36,16 @@ app.use("/api", apiRouter);
 
 // app.use(express.static(path.join(__dirname, "./client/build")));
 
+app.use(express.static(path.join(__dirname, 'static')));
+
 app.use('/admin', express.static(path.join(__dirname, './client/build')));
 
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "static", "index.html"));
+})
+
+app.get("/privacy-policy", (req, res) => {
+  res.sendFile(path.join(__dirname, "static", "privacy-policy.html"));
 })
 
 

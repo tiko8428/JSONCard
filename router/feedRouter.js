@@ -100,7 +100,8 @@ const grokRequest = async ({ learningFromLanguage, limit }) => {
   Here is an example JSON for reference:
   ${exampleJson}
   Ensure the items are suitable for learning German and include translations or context in the language identified by the language code ${learningFromLanguage}.
-  `;
+
+  Use the example JSON as a reference to generate the feed items but in every request be creative and return different content.`;
 
   const XAI_API_KEY = process.env.XAI_API_KEY;
   // console.log(prompt);

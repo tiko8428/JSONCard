@@ -1,3 +1,4 @@
+require('dotenv').config();
 const express = require("express");
 const path = require("path");
 const cors = require("cors");
@@ -6,7 +7,6 @@ const uuid = require("uuid");
 const url = require("url");
 const fileUpload = require("express-fileupload");
 const vision = require("@google-cloud/vision");
-const swaggerConfig = require("./swaggerConfig");
 const apiRouter = require("./router/apiRouter.js");
 // const connectMongo = require("./mongoDB/connect");
 
@@ -47,9 +47,6 @@ app.get("/", (req, res) => {
 app.get("/privacy-policy", (req, res) => {
   res.sendFile(path.join(__dirname, "static", "privacy-policy.html"));
 })
-
-
-swaggerConfig(app);
 
 app.listen("3000", () => {
   // connectMongo();

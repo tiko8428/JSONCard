@@ -3,6 +3,7 @@ const { users, adminUser } = require("../constants");
 const adminRoutes = require("./adminRouter");
 const userRouter = require("./userRouter");
 const appApi = require("./appApi");
+const feedRouter = require("./feedRouter");
 const { readUsersJson, userError } = require("../helper");
 
 const apiRoutes = express.Router();
@@ -10,6 +11,7 @@ const apiRoutes = express.Router();
 apiRoutes.use("/admin", adminRoutes);
 apiRoutes.use("/user", userRouter);
 apiRoutes.use("/app", appApi);
+apiRoutes.use("/feed", feedRouter);
 
 /**
  * @openapi

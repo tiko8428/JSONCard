@@ -216,8 +216,8 @@ const grokRequest = async ({ learningFromLanguage }) => {
     let cleanResponse = stringData.trim().replace(/^```json/, "").replace(/```$/, "");
     cleanedString = cleanResponse.replace(/\n/g, "");
     const jsonObject = JSON.parse(cleanedString);
-    console.log(jsonObject);
-    return cleanResponse;
+    // console.log(jsonObject);
+    return jsonObject;
 
   } catch (error) {
     console.log("eeeeeeeeeeeeeee", error)

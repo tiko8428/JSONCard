@@ -78,90 +78,12 @@ const exampleJson = `
              {"speaker": "Clerk", "text": "Gern geschehen!"}
          ]
      },
-     {
-         "id": 11,
-         "type": "quiz",
-         "question": "Which of the following is the German word for 'house'?",
-         "options": ["Haus", "Buch", "Auto", "Stuhl"],
-         "correctAnswerIndex": 0
-     },
-     {
-         "id": 12,
-         "type": "vocabulary",
-         "word": "Katze",
-         "translation": "Cat",
-         "exampleSentence": "Die Katze schläft auf dem Sofa. (The cat is sleeping on the sofa.)"
-     },
-     {
-         "id": 13,
-         "type": "textLesson",
-         "title": "Days of the Week",
-         "description": "Montag (Monday), Dienstag (Tuesday), Mittwoch (Wednesday)..."
-     },
-     {
-         "id": 14,
-         "type": "quiz",
-         "question": "What is the plural form of 'Apfel'?",
-         "options": ["Apfels", "Äpfel", "Apfeln", "Apfel"],
-         "correctAnswerIndex": 1
-     },
-     {
-         "id": 15,
-         "type": "dialogue",
-         "title": "At the Hotel Reception",
-         "content": [
-             {"speaker": "Guest", "text": "Ich habe ein Zimmer reserviert."},
-             {"speaker": "Receptionist", "text": "Auf welchen Namen, bitte?"},
-             {"speaker": "Guest", "text": "Auf den Namen Müller."},
-             {"speaker": "Receptionist", "text": "Ihr Zimmer ist im dritten Stock."}
-         ]
-     },
-     {
-         "id": 16,
-         "type": "vocabulary",
-         "word": "Buch",
-         "translation": "Book",
-        "exampleSentence": "Ich lese ein Buch. (I am reading a book.)"
-     },
-     {
-         "id": 17,
-         "type": "textLesson",
-         "title": "Common Phrases",
-         "description": "Bitte (please), Danke (thank you), Entschuldigung (sorry), Ja (yes), Nein (no)..."
-     },
-     {
-         "id": 18,
-         "type": "quiz",
-         "question": "Which of the following means 'Good Night'?",
-         "options": ["Guten Abend", "Guten Morgen", "Gute Nacht", "Auf Wiedersehen"],
-         "correctAnswerIndex": 2
-     },
-     {
-         "id": 19,
-         "type": "vocabulary",
-         "word": "Auto",
-         "translation": "Car",
-         "exampleSentence": "Das Auto ist rot. (The car is red.)"
-     },
-     {
-         "id": 20,
-         "type": "dialogue",
-         "title": "Shopping at the Market",
-         "content": [
-             {"speaker": "Customer", "text": "Was kosten die Äpfel?"},
-             {"speaker": "Seller", "text": "Drei Euro pro Kilo."},
-             {"speaker": "Customer", "text": "Ich nehme ein Kilo, bitte."}
-         ]
-     }
- ]
+]`;
 
- `;
-
-
-const grokRequest = async ({ learningFromLanguage }) => {
+const grokRequest = async ({ learningFromLanguage, limit }) => {
 
   const prompt = `
-  Generate a JSON object with 20 feed items designed for teaching German.
+  Generate a JSON object with ${limit} feed items designed for teaching German.
   The content should be tailored to a user whose learning language is identified by the 
   language code ${learningFromLanguage}. Each item should include:
   - id: Unique identifier (integer)
@@ -172,17 +94,17 @@ const grokRequest = async ({ learningFromLanguage }) => {
   - options (optional for quizzes): An array of multiple-choice answers
   - correctAnswerIndex (optional for quizzes): Index of the correct answer in the options array
   - word (optional for vocabulary): A German vocabulary word
-  - translation (optional for vocabulary): The word's translation in the user’s learning language
-  - exampleSentence (optional for vocabulary): A sentence using the word in German with its translation in the user’s learning language
-  - content (optional for dialogues): Array of dialogue lines, where each line includes a \`speaker\` and \`text\`
- 
+  - translation (optional for vocabulary): The word's translation in the users learning language
+  - exampleSentence (optional for vocabulary): A sentence using the word in German with its translation in the users learning language
+  - content (optional for dialogues): Array of dialogue lines, where each line includes a speaker and text
   Here is an example JSON for reference:
-
   ${exampleJson}
   Ensure the items are suitable for learning German and include translations or context in the language identified by the language code ${learningFromLanguage}.
   `;
 
   const XAI_API_KEY = process.env.XAI_API_KEY;
+  // console.log(prompt);
+  // return {"test": prompt};
   if (!XAI_API_KEY) {
     return "no api kee";
   }
@@ -240,7 +162,7 @@ feedRouter.post("/grok", (req, res) => {
     page,
   } = req.body || {};
 
-  grokRequest({ learningFromLanguage }).then((data) => {
+  grokRequest({ learningFromLanguage, limit }).then((data) => {
     res.json(data);
   });
 

@@ -42,9 +42,9 @@ const exampleJson = `
          "type": "dialogue",
          "title": "At the Cafe",
          "content": [
-             {"speaker": "Customer", "text": "Ich hätte gerne einen Kaffee."},
-             {"speaker": "Waiter", "text": "Möchten Sie Milch oder Zucker?"},
-             {"speaker": "Customer", "text": "Nur Milch, bitte."}
+             {"speaker": "Customer", "text": "Ich hätte gerne einen Kaffee. (I would like a coffee.)"},
+             {"speaker": "Waiter", "text": "Möchten Sie Milch oder Zucker? (Would you like milk or sugar?)"},
+             {"speaker": "Customer", "text": "Nur Milch, bitte. (Just milk, please.)"}
          ]
      },
      {
@@ -66,18 +66,7 @@ const exampleJson = `
          "word": "Hund",
          "translation": "Dog",
          "exampleSentence": "Der Hund spielt im Garten. (The dog is playing in the garden.)"
-     },
-     {
-         "id": 10,
-         "type": "dialogue",
-         "title": "At the Train Station",
-         "content": [
-             {"speaker": "Passenger", "text": "Wann fährt der nächste Zug nach Berlin?"},
-             {"speaker": "Clerk", "text": "Der nächste Zug fährt um 10:30 Uhr."},
-             {"speaker": "Passenger", "text": "Danke schön!"},
-             {"speaker": "Clerk", "text": "Gern geschehen!"}
-         ]
-     },
+     }
 ]`;
 
 const grokRequest = async ({ learningFromLanguage, limit }) => {

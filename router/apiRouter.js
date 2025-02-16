@@ -4,6 +4,7 @@ const adminRoutes = require("./adminRouter");
 const userRouter = require("./userRouter");
 const appApi = require("./appApi");
 const feedRouter = require("./feedRouter");
+const germanWikiRouter = require("./germanWiki");
 const { readUsersJson, userError } = require("../helper");
 
 const apiRoutes = express.Router();
@@ -12,6 +13,7 @@ apiRoutes.use("/admin", adminRoutes);
 apiRoutes.use("/user", userRouter);
 apiRoutes.use("/app", appApi);
 apiRoutes.use("/feed", feedRouter);
+apiRoutes.use('/german-wiki', germanWikiRouter);
 
 /**
  * @openapi

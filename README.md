@@ -21,3 +21,29 @@ TODO: SETUp NGINX in corect whey
  
   /api/german-wiki/search/:word
   /api/german-wiki/page/:id
+
+
+ ``` horoscopeRouter Doc
+
+/api/horoscope/languages
+/api/horoscope/zodiac/signs
+
+annually
+
+weekly 
+  {zodiac}
+    business
+    common
+    love
+    health
+    car
+    beauty
+    erotic
+    gold
+daily 
+  {zodiac}
+    yesterday
+    today
+    tomorrow
+    tomorrow02
+    

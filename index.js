@@ -11,6 +11,8 @@ const apiRouter = require("./router/apiRouter.js");
 // const connectMongo = require("./mongoDB/connect");
 
 const app = express();
+const PORT = process.env.PORT || 3000;
+
 app.use(cors());
 
 app.use(
@@ -48,8 +50,8 @@ app.get("/privacy-policy", (req, res) => {
   res.sendFile(path.join(__dirname, "static", "privacy-policy.html"));
 })
 
-app.listen("3000", () => {
+app.listen(PORT, () => {
   // connectMongo();
-  console.log(`Example app listening \n on port 3000!`);
+  console.log(`Example app listening on port ${PORT}`);
   // console.log("http:/192.168.1.108:3000");
 });

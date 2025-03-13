@@ -5,6 +5,7 @@ const userRouter = require("./userRouter");
 const appApi = require("./appApi");
 const feedRouter = require("./feedRouter");
 const germanWikiRouter = require("./germanWiki");
+const horoscopeRouter = require("./horoscopeRouter");
 const { readUsersJson, userError } = require("../helper");
 
 const apiRoutes = express.Router();
@@ -14,18 +15,9 @@ apiRoutes.use("/user", userRouter);
 apiRoutes.use("/app", appApi);
 apiRoutes.use("/feed", feedRouter);
 apiRoutes.use('/german-wiki', germanWikiRouter);
+apiRoutes.use('/horoscope', horoscopeRouter);
 
-/**
- * @openapi
- * /api/healthcheck:
- *  get:
- *     tags:
- *     - Healthcheck
- *     description: Responds if the app is up and running
- *     responses:
- *       200:
- *         description: App is up and running
- */
+
 apiRoutes.get("/healthcheck", (req, res) => res.sendStatus(200));
 
 apiRoutes.get("/login", (req, res) => {

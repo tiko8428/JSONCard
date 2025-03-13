@@ -8,34 +8,6 @@ appApi.use("/", (req, res, next) => {
   next();
 });
 
-// ******************** CREATE *************************
-
-/**
- * @openapi
- * '/api/user':
- *  post:
- *     tags:
- *     - User
- *     summary: Register a user
- *     requestBody:
- *      required: true
- *      content:
- *        application/json:
- *           schema:
- *              $ref: '#/components/schemas/CreateUserInput'
- *     responses:
- *      200:
- *        description: Success
- *        content:
- *          application/json:
- *            schema:
- *              $ref: '#/components/schemas/CreateUserResponse'
- *      409:
- *        description: Conflict
- *      400:
- *        description: Bad request
- */
-
 appApi.post("/user", async (req, res) => {
   // id_token => user 
   if (!req.body.id_token) {
@@ -61,28 +33,6 @@ appApi.post("/user", async (req, res) => {
   }
 });
 
-// READ
-
-/**
- * @openapi
- * /api/app/users:
- *  get:
- *     tags:
- *     - User
- *     summary: Get All user list
- *     parameters:
- *     responses:
- *       200:
- *         description: Success
- *         content:
- *            application/json:
- *              schema:
- *                type: array
- *                items:
- *                  $ref: '#/components/schemas/CreateUserResponse'
- *       500:
- *         description: Server error
- */
 appApi.get("/users", async (req, res) => {
   try {
     const allUser = await User.find();
@@ -92,36 +42,6 @@ appApi.get("/users", async (req, res) => {
   }
 });
 
-/**
- * @openapi
- * /api/app/user?key={key}&value={value}:
- *  get:
- *     tags:
- *     - User
- *     summary: Get user by query
- *     parameters:
- *      - name: key
- *        in: path
- *        description: Get user by KEY name
- *        required: true
- *      - name: value
- *        in: path
- *        description: KEY value
- *        required: true
- *     responses:
- *       200:
- *         description: Success
- *         content:
- *            application/json:
- *              schema:
- *                $ref: '#/components/schemas/CreateUserResponse'
- *       400:
- *         description: Bad request please check the input data.
- *       404:
- *         description: The user does not exist.
- *       500:
- *         description: Server error.
- */
 
 appApi.get("/user", async (req, res) => {
   const { key, value } = req.query;

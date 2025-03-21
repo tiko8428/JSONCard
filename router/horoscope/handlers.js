@@ -3,8 +3,15 @@ const moment = require("moment");
 const { sendResponse } = require("./common");
 const { getZodiacByEnType } = require("./scraper");
 const { getZodiacByOtherLanguage } = require("./findfateApi");
-const parseString = require("xml2js").parseString;
-const { getTodayJsonFile, getHoroscope } = require("./helper");
+const { getTodayJsonFile,
+	getHoroscope,
+	checkCash,
+	getPredictionByLanguage,
+	translateToLanguage,
+	getBasePredictionAndCash,
+	updateCash,
+} = require("./helper");
+const { googleTranslateBySign } = require("./googleTranslate");
 
 const languages = require("./languages");
 
@@ -19,14 +26,6 @@ const HOROSCOPE = {
 		anti: {},
 	},
 	weekly: "",
-};
-
-const options = {
-	uri: "http://ignio.com/r/export/utf/xml/daily/bus.xml",
-	headers: {
-		"User-Agent":
-			"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.89 Safari/537.36",
-	},
 };
 
 const getLanguages = () => {
@@ -74,54 +73,31 @@ const getCategories = (lang, h) => {
 	return categories;
 };
 
-const getAllZodiac = async (language) => {
-	const localData = getTodayJsonFile();
-	if (localData) {
-		if (language !== "ru") {
-			// translate 
-		} else {
-			return localData;
-		}
+const getZodiacBySign = async (language, sign) => {
+	const localData = getTodayJsonFile() || await getBasePredictionAndCash();
+	if (!localData) return undefined;
+	// hastat data ka
+	if (localData[language]) {
+		if (localData[language][sign]) return localData[language][sign];
+		const ruData = localData.ru[sign];
+		const translated = await googleTranslateBySign(ruData, language);
+		if (!translated) return undefined;
+		updateCash({ language, sign, data: translated });
+		return translated;
 	} else {
-		const newHoroscope = getHoroscope();
-
-		return newHoroscope;
+		const ruData = localData.ru[sign];
+		const translated = await googleTranslateBySign(ruData, language);
+		if (!translated) return undefined;
+		updateCash({ language, sign, data: translated });
+		return translated;
 	}
-};
-
-const getZodiacByName = (language, zodiac) => {
-	const localData = getTodayJsonFile();
-	let currentZodiac;
-	if (localData) {
-		currentZodiac = localData[zodiac];
-	} else {
-		const newHoroscope = getHoroscope();
-		currentZodiac = newHoroscope[zodiac];
-	}
-	// Check language *****************
-	if (language !== "ru") {
-		//  currentZodiac translate
-		return {};
-	} else {
-		return currentZodiac;
-	}
-
 }
-
-// async function getWeekZodiac(opts) {
-// 	const options = {
-// 		...opts,
-// 		uri: urls.weekly,
-// 	};
-// 	return await rp(options);
-// }
 
 
 const handlers = {
 	getLanguages,
 	getCategories,
-	getAllZodiac,
-	getZodiacByName,
+	getZodiacBySign,
 };
 
 module.exports = handlers;

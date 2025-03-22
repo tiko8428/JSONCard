@@ -3,13 +3,15 @@ const moment = require("moment");
 const { sendResponse } = require("./common");
 const { getZodiacByEnType } = require("./scraper");
 const { getZodiacByOtherLanguage } = require("./findfateApi");
-const { getTodayJsonFile,
+const {
+	getTodayJsonFile,
 	getHoroscope,
 	checkCash,
-	getPredictionByLanguage,
 	translateToLanguage,
 	getBasePredictionAndCash,
 	updateCash,
+	getYearlyJsonFile,
+	translateYearlyAndCash,
 } = require("./helper");
 const { googleTranslateBySign } = require("./googleTranslate");
 
@@ -93,11 +95,20 @@ const getZodiacBySign = async (language, sign) => {
 	}
 }
 
+const getYearlyBySign = async (language, sign) => {
+	const yearlyData = getYearlyJsonFile();
+	if (!yearlyData) return undefined;
+	return yearlyData[language]?.[sign] ?
+		yearlyData[language][sign] :
+		translateYearlyAndCash(yearlyData.ru[sign], language, sign);
+}
 
 const handlers = {
 	getLanguages,
 	getCategories,
 	getZodiacBySign,
+	getYearlyBySign,
+	translateYearlyAndCash,
 };
 
 module.exports = handlers;

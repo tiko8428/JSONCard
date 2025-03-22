@@ -70,7 +70,24 @@ async function googleTranslateBySign(data, language) {
   return t;
 };
 
+async function googleTranslateYearly (data, language){
+  const translate = new Translate({ key: API_KEY });
+
+  async function translateText(text) {
+    if (!text) return text; // Ignore empty strings
+    const [translated] = await translate.translate(text, language);
+    return translated;
+  }
+  if (typeof data === "object" && data !== null) {
+    const entries = await Promise.all(
+      Object.entries(data).map(async ([key, value]) => [key, await translateText(value)])
+    );
+    return Object.fromEntries(entries);
+  }
+};
+
 module.exports = {
   googleTranslate,
   googleTranslateBySign,
+  googleTranslateYearly,
 }

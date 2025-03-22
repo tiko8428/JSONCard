@@ -3,8 +3,9 @@ const path = require('path');
 const axios = require('axios');
 const { parseStringPromise } = require('xml2js');
 const languages = require("./languages");
-const {googleTranslate} = require("./googleTranslate");
+const {googleTranslateYearly} = require("./googleTranslate");
 const libreTranslate = require("./libreTranslate");
+const { sign } = require('crypto');
 
 function _translate(obj, language) {
   return libreTranslate(obj, language)
@@ -23,6 +24,7 @@ const _removeNewlines = (obj) => {
   }
   return obj;
 };
+
 const removeField = (obj, fieldToRemove) => {
   if (typeof obj !== "object" || obj === null) {
     return obj; // Return as is if not an object
@@ -53,6 +55,7 @@ function _saveObjectToJsonFile(obj) {
 
   fs.writeFileSync(fullPath, jsonData, 'utf8');
 }
+
 
 function _clearFolder() {
   const folderPath = path.join(__dirname, 'temp');
@@ -172,6 +175,51 @@ function getTodayJsonFile() {
   return undefined;
 };
 
+function _saveYearlyJson (obj){
+  const folderPath = path.join(__dirname, 'temp'); // Converts to absolute path
+  // const filename = new Date().toISOString().split('T')[0]; // Format: YYYY-MM-DD
+  // const fullPath = folderPath + "/" + filename + ".json";
+  const thisYear = new Date().getFullYear() // Format: YYYY
+  const filePath = path.join(__dirname, 'temp', `Yearly-${thisYear}.json`);
+  const jsonData = JSON.stringify(obj, null, 2);
+
+  // Ensure directory exists
+  const dir = path.dirname(folderPath);
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
+  fs.writeFileSync(filePath, jsonData, 'utf8');
+}
+
+function getYearlyJsonFile() {
+  const thisYear = new Date().getFullYear() // Format: YYYY
+  const filePath = path.join(__dirname, 'temp', `Yearly-${thisYear}.json`);
+
+  if (fs.existsSync(filePath)) {
+    try {
+      const data = fs.readFileSync(filePath, 'utf8');
+      return JSON.parse(data);
+    } catch (error) {
+      console.error('Error reading JSON file:', error);
+      return undefined;
+    }
+  }
+  return undefined;
+};
+
+const translateYearlyAndCash = async (data, language, sign) =>{
+  const mainData = getYearlyJsonFile();
+const translatedData = await googleTranslateYearly(data, language);
+  if(mainData[language]){
+    mainData[language][sign] = translatedData;
+  }else{
+    mainData[language] = {};
+    mainData[language][sign] = translatedData;
+  }
+_saveYearlyJson(mainData)
+return translatedData;
+}
+
 const getBasePredictionAndCash = async () => {
   const urls = {
     daily: {
@@ -222,12 +270,8 @@ const getBasePredictionAndCash = async () => {
       ruResults[zodiac].weekly = { ...weeklyData[zodiac][0] };
     }
   }
-
-  const getYearly = async () => { }
-
   await getDaily();
   await getWeekly();
-  await getYearly();
   //******** Remove \n 
   ruResults = _removeNewlines(ruResults);
   ruResults = removeField(ruResults, "tomorrow02");
@@ -253,6 +297,7 @@ const checkCash = () => {
   const filePath = path.join(__dirname, 'temp', `${today}.json`);
   return fs.existsSync(filePath);
 }
+
 const updateCash = ({language, sign, data}) => {
   let cash = getTodayJsonFile();
   if(!cash) return undefined;
@@ -272,23 +317,16 @@ const updateCash = ({language, sign, data}) => {
   _saveObjectToJsonFile(cash);
   return cash;
 }
-const getPredictionByLanguage = (language) => {
-  const existingData = getTodayJsonFile()
-  if (existingData[language] && Object.keys(existingData[language]).length > 0) {
-    return existingData[language];
-  } else {
-    return undefined;
-  }
-};
 
 const helpers = {
   getTodayJsonFile,
   getHoroscope,
   checkCash,
-  getPredictionByLanguage,
   translateToLanguage,
   getBasePredictionAndCash,
   updateCash,
+  getYearlyJsonFile,
+  translateYearlyAndCash
 };
 
 

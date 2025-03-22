@@ -2,8 +2,12 @@ const express = require("express");
 
 // const Hapi = require("hapi");
 // const Inert = require("inert");
-const { getCategories, getZodiacBySign, getLanguages } = require("./horoscope/handlers");
-
+const { 
+  getCategories,
+  getZodiacBySign,
+  getLanguages,
+  getYearlyBySign
+} = require("./horoscope/handlers");
 // const Vision = require("vision");
 // require("./cron");
 
@@ -51,6 +55,17 @@ horoscopeRouter.get('/zodiac/categories', (req, res) => {
 //     res.status(500).json({ message: "No Zodiac horoscope found" });
 //   }
 // });
+horoscopeRouter.get("/yearly", async (req,res)=>{
+  const { language, sign } = req.query;
+  if (!language) { res.status(404).json({ message: "you need to sand language as a query" }) };
+  if (!sign) { res.status(404).json({ message: "you need to sand sign as a query" }) };
+  const horoscope = await getYearlyBySign(language, sign);
+  if (horoscope) {
+    res.status(200).json(horoscope);
+  } else {
+    res.status(500).json({ message: "No Yearly horoscope found" });
+  }
+})
 
 horoscopeRouter.get('/zodiac-by-sign', async (req, res) => {
   const { language, sign } = req.query;

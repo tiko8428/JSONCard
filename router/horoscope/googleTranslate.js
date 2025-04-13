@@ -39,8 +39,8 @@ async function googleTranslate(dataRu, language) {
 }
 
 async function googleTranslateBySign(data, language) {
+  console.log("start Translating");
   const translate = new Translate({ key: API_KEY });
-  // Function to translate text
   async function translateText(text) {
     if (!text) return text; // Ignore empty strings
     const [translated] = await translate.translate(text, language);

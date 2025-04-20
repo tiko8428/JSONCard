@@ -24,26 +24,14 @@ TODO: SETUp NGINX in corect whey
 
 
  ``` horoscopeRouter Doc
+For all "language" and "sign" is required
 
-/api/horoscope/languages
-/api/horoscope/zodiac/signs
+https://thegeneralapps.com/api/horoscope/zodiac/?language=ru&sign=aries
 
-annually
+https://thegeneralapps.com/api/horoscope/yearly/?language=ru&sign=aries
 
-weekly 
-  {zodiac}
-    business
-    common
-    love
-    health
-    car
-    beauty
-    erotic
-    gold
-daily 
-  {zodiac}
-    yesterday
-    today
-    tomorrow
-    tomorrow02
-    
+https://thegeneralapps.com/api/horoscope/weekly/?language=ru&sign=aries
+
+https://thegeneralapps.com/api/horoscope/daily/?language=ru&sign=aries
+
+

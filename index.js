@@ -11,10 +11,9 @@ const apiRouter = require("./router/apiRouter.js");
 // const connectMongo = require("./mongoDB/connect");
 
 const app = express();
-const PORT = process.NODE_ENV === "production" 
+const PORT = process.env.NODE_ENV === "production" 
 ? process.env.PORT_PRODUCTION || 3000 
 : process.env.PORT_DEVELOPMENT || 8000;
-
 app.use(cors());
 
 app.use(

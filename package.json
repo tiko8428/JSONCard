@@ -17,6 +17,7 @@
   "dependencies": {
     "@google-cloud/translate": "^8.5.1",
     "@google-cloud/vision": "^3.0.1",
+    "@sentry/node": "^9.14.0",
     "axios": "^1.5.1",
     "body-parser": "^1.20.1",
     "cheerio": "^1.0.0",

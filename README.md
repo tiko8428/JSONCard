@@ -15,12 +15,14 @@ test
 ``` sudo certbot renew --dry-run```
 TODO: SETUp NGINX in corect whey
 
+``` Wordschats
 
-
+https://thegeneralapps.com/api/admin/download?language=de&laval=A1&adminKey=testKey
+ 
  ``` German Wiki Doc
  
   /api/german-wiki/search/:word
-  /api/german-wiki/page/:id
+  /api/german-wiki/page/:id2
 
 
  ``` horoscopeRouter Doc

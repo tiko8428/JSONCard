@@ -31,7 +31,9 @@ const horoscopeRouter = express.Router();
 
 horoscopeRouter.get('/zodiac', queryCheckMiddleware, async (req, res) => {
   // ******** Return all by SIGN
-  const { language, sign } = req.query;
+  // const { language, sign } = req.query;
+  const { sign } = req.query;
+  const language = "ru"
   try {
     const YearlyHoroscope = await getYearlyBySign(language, sign);
     const WeeklyHoroscope = await getWeeklyBySign(language, sign);
@@ -50,7 +52,9 @@ horoscopeRouter.get('/zodiac', queryCheckMiddleware, async (req, res) => {
 
 
 horoscopeRouter.get("/yearly", queryCheckMiddleware, async (req, res) => {
-  const { language, sign } = req.query;
+  // const { language, sign } = req.query;
+  const { sign } = req.query;
+  const language = "ru";
   const horoscope = await getYearlyBySign(language, sign);
   if (horoscope) {
     res.status(200).json(horoscope);
@@ -60,8 +64,9 @@ horoscopeRouter.get("/yearly", queryCheckMiddleware, async (req, res) => {
 })
 
 horoscopeRouter.get('/weekly', queryCheckMiddleware, async (req, res) => {
-  const { language, sign } = req.query;
-
+  // const { language, sign } = req.query;
+  const { sign } = req.query;
+  const language = "ru";
   const horoscope = await getWeeklyBySign(language, sign);
   if (horoscope) {
     res.status(200).json(horoscope);
@@ -71,8 +76,9 @@ horoscopeRouter.get('/weekly', queryCheckMiddleware, async (req, res) => {
 });
 
 horoscopeRouter.get('/daily', queryCheckMiddleware, async (req, res) => {
-  const { language, sign } = req.query;
-
+  // const { language, sign } = req.query;
+  const { sign } = req.query;
+  const language = "ru";
   const horoscope = await getDailyBySign(language, sign);
   if (horoscope) {
     res.status(200).json(horoscope);

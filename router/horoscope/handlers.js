@@ -279,14 +279,15 @@ async function _requestWeeklyData() {
 const getWeeklyBySign = async (language, sign) => {
   const fileName = `${_getWeeklyRangeString()}`;
   let localData = _getLocalFile(fileName, "temp/weekly") || {};
+    console.log("fileName", !localData || !Object.entries(localData).length);
+
   if (!localData || !Object.entries(localData).length) {
     const requestedData = await _requestWeeklyData();
     if (!requestedData) return undefined;
     localData.date = requestedData.date;
     localData.ru = requestedData.data;
     _updateLocalData(localData, "temp/weekly");
-    console.log("aaaaa",fileName);
-    _clearFolder([fileName],"temp/weekly");
+    // _clearFolder([fileName],"temp/weekly");
   }
 
   localData[language] = localData[language] || {};

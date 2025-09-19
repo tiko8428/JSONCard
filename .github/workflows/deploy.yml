@@ -55,9 +55,23 @@ jobs:
         username: ${{ secrets.SSH_USER }}
         key: ${{ secrets.SSH_KEY }}
         port: 22
+        timeout: 30s
+        command_timeout: 10m
         script: |
-          cd /var/www/jsoncard
-          git pull origin main
+          echo "=== SSH Connection Successful ==="
+          whoami
+          pwd
+          echo "=== Starting Deployment ==="
+          cd /var/www/jsoncard || { echo "Directory not found, creating..."; mkdir -p /var/www/jsoncard; cd /var/www/jsoncard; }
+          
+          # Initialize git repository if it doesn't exist
+          if [ ! -d ".git" ]; then
+            echo "Initializing git repository..."
+            git clone https://github.com/tiko8428/JSONCard.git .
+          else
+            echo "Pulling latest changes..."
+            git pull origin main
+          fi
           npm install --production
           # Skip client build - using pre-built client or serve statically
           # Check if PM2 process exists and restart, otherwise start new

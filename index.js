@@ -53,6 +53,8 @@ app.get("/", (req, res) => {
 const lingoDirectory = path.join(__dirname, "Lingo");
 const comingSoonPage = path.join(lingoDirectory, "lesson-coming-soon.html");
 
+app.use("/lingo", express.static(lingoDirectory));
+
 app.get("/lingo/:lessonId", (req, res) => {
   const { lessonId } = req.params;
   const normalizedId = String(lessonId || "")

@@ -329,7 +329,9 @@
       ];
 
       const params = new URLSearchParams(window.location.search);
-      const requestedLang = (params.get("lang") || "en").toLowerCase();
+      const requestedLang = (
+        params.get("ln") || params.get("lang") || "en"
+      ).toLowerCase();
       const lessonId = params.get("lesson") || "";
       const lessonTitle = params.get("title") || "";
 
@@ -366,25 +368,21 @@
         document.title = `${heading.textContent} · The General Apps`;
       }
 
-      translations.forEach((translation) => {
-        const card = document.createElement("article");
-        card.className = "translation-card";
-        if (translation.code === activeTranslation.code) {
-          card.classList.add("translation-card--active");
-        }
-        card.setAttribute("lang", translation.code);
-        card.dir = translation.dir;
+      const card = document.createElement("article");
+      card.className = "translation-card translation-card--active";
+      card.setAttribute("lang", activeTranslation.code);
+      card.dir = activeTranslation.dir;
 
-        const title = document.createElement("h2");
-        title.textContent = translation.label;
+      const title = document.createElement("h2");
+      title.textContent = activeTranslation.label;
 
-        const message = document.createElement("p");
-        message.textContent = translation.text;
+      const message = document.createElement("p");
+      message.textContent = activeTranslation.text;
 
-        card.appendChild(title);
-        card.appendChild(message);
-        translationsContainer.appendChild(card);
-      });
+      card.appendChild(title);
+      card.appendChild(message);
+      translationsContainer.appendChild(card);
+
     </script>
   </body>
 </html>

@@ -49,6 +49,10 @@ app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "static", "index.html"));
 })
 
+app.get("/lingo/a1-1", (req, res) => {
+  res.sendFile(path.join(__dirname, "Lingo", "A1-1.html"));
+});
+
 app.get("/privacy-policy", (req, res) => {
   res.sendFile(path.join(__dirname, "static", "privacy-policy.html"));
 })

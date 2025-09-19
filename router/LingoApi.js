@@ -5,9 +5,7 @@ const path = require("path");
 const lingoRouter = express.Router();
 const structurePath = path.join(__dirname, "..", "Lingo", "Lingo_Structure");
 
-const CHAPTER_URLS = {
-  "A1-1": "/lingo/a1-1",
-};
+const BASE_URL = "https://thegeneralapps.com";
 
 const SUPPORTED_LANGUAGES = new Set([
   "en",
@@ -50,13 +48,33 @@ const readStructure = () => {
   return JSON.parse(fileContent);
 };
 
-const withChapterUrls = (structure) => ({
+const slugifyChapterId = (chapterId) =>
+  String(chapterId || "")
+    .trim()
+    .toLowerCase();
+
+const buildChapterUrl = (chapterId, language, chapterTitle) => {
+  const slug = slugifyChapterId(chapterId) || "coming-soon";
+  const url = new URL(`/lingo/${slug}`, BASE_URL);
+  if (language) {
+    url.searchParams.set("lang", language);
+  }
+  if (chapterId) {
+    url.searchParams.set("lesson", chapterId);
+  }
+  if (chapterTitle) {
+    url.searchParams.set("title", chapterTitle);
+  }
+  return url.toString();
+};
+
+const withChapterUrls = (structure, language) => ({
   ...structure,
   levels: (structure.levels || []).map((level) => ({
     ...level,
     chapters: (level.chapters || []).map((chapter) => ({
       ...chapter,
-      ...(CHAPTER_URLS[chapter.id] ? { url: CHAPTER_URLS[chapter.id] } : {}),
+      url: buildChapterUrl(chapter.id, language, chapter.title),
     })),
   })),
 });
@@ -69,7 +87,7 @@ lingoRouter.get("/structure", (req, res) => {
   }
 
   try {
-    const structure = withChapterUrls(readStructure());
+    const structure = withChapterUrls(readStructure(), language);
     res.json({ ...structure, language });
   } catch (error) {
     res.status(500).json({ message: error.message || "Unable to load structure" });
@@ -85,7 +103,7 @@ lingoRouter.get("/chapters/:chapterId", (req, res) => {
 
   try {
     const { chapterId } = req.params;
-    const structure = withChapterUrls(readStructure());
+    const structure = withChapterUrls(readStructure(), language);
     for (const level of structure.levels || []) {
       const chapter = (level.chapters || []).find(({ id }) => id === chapterId);
       if (chapter) {

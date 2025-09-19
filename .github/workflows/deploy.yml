@@ -5,6 +5,7 @@ on:
     branches: [ main ]
   pull_request:
     branches: [ main ]
+    types: [closed]
 
 jobs:
   # Skipped build-and-test job for faster deployment
@@ -24,7 +25,10 @@ jobs:
   deploy:
     # needs: build-and-test  # Removed dependency
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    # Deploy on direct push to main OR when PR is merged to main
+    if: |
+      (github.ref == 'refs/heads/main' && github.event_name == 'push') ||
+      (github.event.pull_request.merged == true && github.event.pull_request.base.ref == 'main')
     
     steps:
     - name: Checkout code

@@ -41,3 +41,4 @@ https://thegeneralapps.com/api/horoscope/daily/?language=ru&sign=aries
 
 You are a professional linguist keen to small details. I have two json files , each key in A2_de.json matches to key in A2_en.json, fix translations in english version A2_en.json file. ignore the plurals field of A2_de.json file
 
+Digo

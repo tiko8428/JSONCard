@@ -1,0 +1,68 @@
+name: Deploy to DigitalOcean Server
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  # Skipped build-and-test job for faster deployment
+  # build-and-test:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - name: Checkout code
+  #     uses: actions/checkout@v4
+  #   - name: Setup Node.js
+  #     uses: actions/setup-node@v4
+  #     with:
+  #       node-version: '22'
+  #       cache: 'npm'
+  #   - name: Install dependencies (Root)
+  #     run: npm install
+
+  deploy:
+    # needs: build-and-test  # Removed dependency
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Deploy to DigitalOcean Server
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: ${{ secrets.SSH_HOST }}
+        username: ${{ secrets.SSH_USER }}
+        key: ${{ secrets.SSH_KEY }}
+        port: 22
+        timeout: 30s
+        command_timeout: 10m
+        script: |
+          echo "=== SSH Connection Successful ==="
+          whoami
+          pwd
+          echo "=== Starting Deployment ==="
+          cd /var/www/jsoncard || { echo "Directory not found, creating..."; mkdir -p /var/www/jsoncard; cd /var/www/jsoncard; }
+          
+          # Initialize git repository if it doesn't exist
+          if [ ! -d ".git" ]; then
+            echo "Initializing git repository..."
+            git clone https://github.com/tiko8428/JSONCard.git .
+          else
+            echo "Pulling latest changes..."
+            git pull origin main
+          fi
+          npm install --production
+          # Skip client build - using pre-built client or serve statically
+          # Check if PM2 process exists and restart, otherwise start new
+          if pm2 describe app > /dev/null 2>&1; then
+            echo "Restarting existing PM2 process..."
+            pm2 restart app
+          else
+            echo "Starting new PM2 process..."
+            pm2 start ecosystem.config.js
+          fi
+          pm2 save
+          echo "Deployment completed successfully!"

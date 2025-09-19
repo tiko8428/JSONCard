@@ -43,17 +43,11 @@ jobs:
           whoami
           pwd
           echo "=== Starting Deployment ==="
-          cd /var/www/jsoncard || { echo "Directory not found, creating..."; mkdir -p /var/www/jsoncard; cd /var/www/jsoncard; }
-          
-          # Initialize git repository if it doesn't exist
-          if [ ! -d ".git" ]; then
-            echo "Initializing git repository..."
-            git clone https://github.com/tiko8428/JSONCard.git .
-          else
-            echo "Pulling latest changes..."
-            git pull
-          fi
-          npm install --production
+          cd /var/www/JSONcard 
+          echo "Pulling latest changes..."
+          git pull
+
+          # npm install --production
           # Skip client build - using pre-built client or serve statically
           # Check if PM2 process exists and restart, otherwise start new
           if pm2 describe app > /dev/null 2>&1; then

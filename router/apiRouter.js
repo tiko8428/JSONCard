@@ -6,6 +6,7 @@ const appApi = require("./appApi");
 const feedRouter = require("./feedRouter");
 const germanWikiRouter = require("./germanWiki");
 const horoscopeRouter = require("./horoscopeRouter");
+const lingoRouter = require("./LingoApi");
 const { readUsersJson, userError } = require("../helper");
 
 const apiRoutes = express.Router();
@@ -16,6 +17,7 @@ apiRoutes.use("/app", appApi);
 apiRoutes.use("/feed", feedRouter);
 apiRoutes.use('/german-wiki', germanWikiRouter);
 apiRoutes.use('/horoscope', horoscopeRouter);
+apiRoutes.use('/lingo', lingoRouter);
 
 
 apiRoutes.get("/healthcheck", (req, res) => res.sendStatus(200));

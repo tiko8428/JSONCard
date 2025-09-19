@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Lesson Coming Soon</title>
+    <style>
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+      }
+
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        min-height: 100%;
+        font-family: "SF Pro Text", "SF Pro Display", -apple-system,
+          BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: radial-gradient(120% 120% at 50% 0%, #4cd964 0%, #28a745 45%,
+            #198754 100%);
+        color: #0b3d2e;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-text-size-adjust: 100%;
+      }
+
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 48px 16px 64px;
+        user-select: none;
+        -webkit-user-select: none;
+        -ms-user-select: none;
+        -webkit-tap-highlight-color: transparent;
+      }
+
+      main {
+        width: min(640px, 100%);
+        background: rgba(255, 255, 255, 0.9);
+        backdrop-filter: blur(18px);
+        border-radius: 28px;
+        box-shadow: 0 20px 40px rgba(12, 105, 59, 0.25);
+        padding: 32px 24px 40px;
+      }
+
+      header {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        align-items: flex-start;
+        text-align: left;
+      }
+
+      .chip {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        padding: 8px 14px;
+        border-radius: 999px;
+        background: rgba(40, 167, 69, 0.15);
+        color: #0b3d2e;
+        font-size: 14px;
+        font-weight: 600;
+        letter-spacing: 0.01em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 0;
+        font-size: clamp(28px, 6vw, 36px);
+        font-weight: 700;
+        line-height: 1.1;
+        color: #0b3d2e;
+      }
+
+      .primary-message {
+        margin: 0;
+        font-size: clamp(18px, 4.8vw, 20px);
+        line-height: 1.45;
+        color: #145940;
+        font-weight: 500;
+      }
+
+      .cards-grid {
+        margin-top: 32px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+        gap: 16px;
+      }
+
+      .translation-card {
+        background: rgba(255, 255, 255, 0.92);
+        border-radius: 22px;
+        padding: 18px 16px 20px;
+        box-shadow: 0 12px 24px rgba(9, 60, 34, 0.12);
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        border: 2px solid transparent;
+        transition: transform 0.25s ease, border-color 0.25s ease,
+          box-shadow 0.25s ease;
+      }
+
+      .translation-card--active {
+        border-color: rgba(76, 217, 100, 0.9);
+        box-shadow: 0 16px 30px rgba(40, 167, 69, 0.25);
+        transform: translateY(-4px);
+      }
+
+      .translation-card h2 {
+        margin: 0;
+        font-size: 16px;
+        font-weight: 700;
+        color: #0b3d2e;
+        letter-spacing: 0.01em;
+      }
+
+      .translation-card p {
+        margin: 0;
+        font-size: 15px;
+        line-height: 1.5;
+        color: #145940;
+        font-weight: 500;
+        word-break: break-word;
+      }
+
+      footer {
+        margin-top: 36px;
+        display: flex;
+        flex-direction: column;
+        gap: 8px;
+        font-size: 13px;
+        color: rgba(11, 61, 46, 0.75);
+        text-align: center;
+      }
+
+      footer strong {
+        font-weight: 700;
+      }
+
+      @media (max-width: 480px) {
+        body {
+          padding: 32px 16px 40px;
+        }
+
+        main {
+          border-radius: 24px;
+          padding: 28px 18px 32px;
+        }
+
+        .cards-grid {
+          margin-top: 24px;
+          gap: 12px;
+        }
+
+        .translation-card {
+          padding: 16px 14px 18px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <span class="chip" data-lesson-chip>New lesson</span>
+        <h1 data-heading>Coming soon</h1>
+        <p class="primary-message" data-primary-message>
+          We're putting the finishing touches on this lesson. It will be available
+          very soon — thanks for your patience!
+        </p>
+      </header>
+
+      <section class="cards-grid" data-translations></section>
+
+      <footer>
+        <span>
+          <strong>The General Apps</strong> · Learning made friendly on every
+          device.
+        </span>
+        <span>
+          Have feedback? Let us know so we can build the perfect lesson for
+          you.
+        </span>
+      </footer>
+    </main>
+
+    <script>
+      const translations = [
+        {
+          code: "en",
+          label: "English",
+          headline: "Coming soon",
+          text:
+            "We're putting the finishing touches on this lesson. It will be available very soon — thanks for your patience!",
+          dir: "ltr",
+        },
+        {
+          code: "ru",
+          label: "Русский",
+          headline: "Скоро доступно",
+          text:
+            "Мы завершаем работу над этим уроком. Он скоро появится — спасибо за ваше терпение!",
+          dir: "ltr",
+        },
+        {
+          code: "uk",
+          label: "Українська",
+          headline: "Незабаром доступно",
+          text:
+            "Ми завершуємо роботу над цим уроком. Він незабаром з’явиться — дякуємо за терпіння!",
+          dir: "ltr",
+        },
+        {
+          code: "es",
+          label: "Español",
+          headline: "Disponible pronto",
+          text:
+            "Estamos ultimando los detalles de esta lección. Estará disponible muy pronto. ¡Gracias por tu paciencia!",
+          dir: "ltr",
+        },
+        {
+          code: "fr",
+          label: "Français",
+          headline: "Bientôt disponible",
+          text:
+            "Nous peaufinons cette leçon. Elle sera disponible très bientôt — merci pour votre patience !",
+          dir: "ltr",
+        },
+        {
+          code: "ar",
+          label: "العربية",
+          headline: "قريبًا متاح",
+          text:
+            "نضع اللمسات الأخيرة على هذا الدرس. سيكون متاحًا قريبًا جدًا – شكرًا على صبرك!",
+          dir: "rtl",
+        },
+        {
+          code: "tr",
+          label: "Türkçe",
+          headline: "Çok yakında",
+          text:
+            "Bu dersin son rötuşlarını yapıyoruz. Çok yakında hazır olacak — sabrınız için teşekkürler!",
+          dir: "ltr",
+        },
+        {
+          code: "it",
+          label: "Italiano",
+          headline: "Disponibile a breve",
+          text:
+            "Stiamo rifinendo questa lezione. Sarà disponibile a breve: grazie per la tua pazienza!",
+          dir: "ltr",
+        },
+        {
+          code: "ro",
+          label: "Română",
+          headline: "Disponibil în curând",
+          text:
+            "Punem la punct ultimele detalii pentru această lecție. Va fi disponibilă în curând — îți mulțumim pentru răbdare!",
+          dir: "ltr",
+        },
+        {
+          code: "sv",
+          label: "Svenska",
+          headline: "Kommer snart",
+          text:
+            "Vi finputsar den här lektionen. Den blir tillgänglig snart – tack för ditt tålamod!",
+          dir: "ltr",
+        },
+        {
+          code: "pt",
+          label: "Português",
+          headline: "Em breve",
+          text:
+            "Estamos dando os toques finais nesta lição. Ela estará disponível em breve — obrigado pela paciência!",
+          dir: "ltr",
+        },
+        {
+          code: "ko",
+          label: "한국어",
+          headline: "곧 만나요",
+          text:
+            "이 강의를 마무리하고 있어요. 곧 제공될 예정이니 조금만 기다려 주세요!",
+          dir: "ltr",
+        },
+        {
+          code: "ja",
+          label: "日本語",
+          headline: "まもなく公開",
+          text:
+            "このレッスンは仕上げの段階です。まもなく公開されますので、もう少しだけお待ちください！",
+          dir: "ltr",
+        },
+        {
+          code: "nl",
+          label: "Nederlands",
+          headline: "Binnenkort beschikbaar",
+          text:
+            "We leggen de laatste hand aan deze les. Hij is binnenkort beschikbaar — bedankt voor je geduld!",
+          dir: "ltr",
+        },
+        {
+          code: "zh",
+          label: "中文",
+          headline: "即将上线",
+          text:
+            "我们正在为这节课做最后的准备。很快就会上线，谢谢你的耐心等待！",
+          dir: "ltr",
+        },
+        {
+          code: "hr",
+          label: "Hrvatski",
+          headline: "Uskoro dostupno",
+          text:
+            "Dovršavamo ovu lekciju. Bit će dostupna uskoro – hvala na strpljenju!",
+          dir: "ltr",
+        },
+        {
+          code: "hy",
+          label: "Հայերեն",
+          headline: "Շուտով հասանելի",
+          text:
+            "Մենք ավարտին ենք հասցնում այս դասը։ Այն շուտով հասանելի կլինի՝ շնորհակալություն համբերության համար։",
+          dir: "ltr",
+        },
+      ];
+
+      const params = new URLSearchParams(window.location.search);
+      const requestedLang = (
+        params.get("ln") || params.get("lang") || "en"
+      ).toLowerCase();
+      const lessonId = params.get("lesson") || "";
+      const lessonTitle = params.get("title") || "";
+
+      const chip = document.querySelector("[data-lesson-chip]");
+      const heading = document.querySelector("[data-heading]");
+      const primaryMessage = document.querySelector("[data-primary-message]");
+      const translationsContainer = document.querySelector(
+        "[data-translations]"
+      );
+
+      const activeTranslation =
+        translations.find((item) => item.code === requestedLang) || translations[0];
+
+      document.documentElement.lang = activeTranslation.code;
+      document.body.dir = activeTranslation.dir;
+
+      if (lessonId && lessonTitle) {
+        chip.textContent = `${lessonId} · ${lessonTitle}`;
+      } else if (lessonTitle) {
+        chip.textContent = lessonTitle;
+      } else if (lessonId) {
+        chip.textContent = `Lesson ${lessonId}`;
+      } else {
+        chip.textContent = "Lesson coming soon";
+      }
+
+      heading.textContent = activeTranslation.headline || "Coming soon";
+
+      primaryMessage.textContent = activeTranslation.text;
+
+      if (lessonTitle) {
+        document.title = `${lessonTitle} · ${heading.textContent}`;
+      } else {
+        document.title = `${heading.textContent} · The General Apps`;
+      }
+
+      const card = document.createElement("article");
+      card.className = "translation-card translation-card--active";
+      card.setAttribute("lang", activeTranslation.code);
+      card.dir = activeTranslation.dir;
+
+      const title = document.createElement("h2");
+      title.textContent = activeTranslation.label;
+
+      const message = document.createElement("p");
+      message.textContent = activeTranslation.text;
+
+      card.appendChild(title);
+      card.appendChild(message);
+      translationsContainer.appendChild(card);
+    </script>
+  </body>
+</html>

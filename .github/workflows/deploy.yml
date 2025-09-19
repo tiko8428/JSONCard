@@ -43,19 +43,39 @@ jobs:
           whoami
           pwd
           echo "=== Starting Deployment ==="
-          cd /var/www/JSONcard 
-          echo "Pulling latest changes..."
-          git pull
-
-          # npm install --production
-          # Skip client build - using pre-built client or serve statically
-          # Check if PM2 process exists and restart, otherwise start new
+          
+          # Navigate to the correct project directory
+          cd /var/www/JSONcard || { echo "Directory /var/www/JSONcard not found, creating..."; mkdir -p /var/www/JSONcard; cd /var/www/JSONcard; }
+          
+          echo "Current directory: $(pwd)"
+          
+          # Initialize git repository if it doesn't exist
+          if [ ! -d ".git" ]; then
+            echo "Cloning repository..."
+            git clone https://github.com/tiko8428/JSONCard.git .
+            echo "Repository cloned successfully"
+          else
+            echo "Repository exists, pulling latest changes..."
+            git fetch origin
+            echo "Before pull - Current commit: $(git rev-parse HEAD)"
+            git pull origin main
+            echo "After pull - Current commit: $(git rev-parse HEAD)"
+            echo "Latest commit message: $(git log -1 --pretty=format:'%s')"
+          fi
+          
+          echo "Installing dependencies..."
+          npm install --production
+          
+          echo "Checking PM2 process..."
           if pm2 describe app > /dev/null 2>&1; then
-            echo "Restarting existing PM2 process..."
+            echo "Restarting existing PM2 process 'app'..."
             pm2 restart app
           else
-            echo "Starting new PM2 process..."
+            echo "PM2 process 'app' not found. Starting new process..."
             pm2 start ecosystem.config.js
           fi
+          
           pm2 save
-          echo "Deployment completed successfully!"
+          echo "=== Deployment completed successfully! ==="
+          echo "PM2 Status:"
+          pm2 status

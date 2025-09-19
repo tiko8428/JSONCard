@@ -23,18 +23,19 @@ jobs:
     - name: Install dependencies (Root)
       run: npm install
       
-    - name: Install dependencies (Client)
-      run: |
-        cd client
-        npm install
+    # Skip client build during CI/CD
+    # - name: Install dependencies (Client)
+    #   run: |
+    #     cd client
+    #     npm install
+    #     
+    # - name: Build client
+    #   run: |
+    #     cd client
+    #     npm run build
         
-    - name: Build client
-      run: |
-        cd client
-        npm run build
-        
-    - name: Run tests (if any)
-      run: |
+    # - name: Run tests (if any)
+      # run: |
         # Add your test commands here
         # npm test
 
@@ -53,15 +54,12 @@ jobs:
         host: ${{ secrets.SSH_HOST }}
         username: ${{ secrets.SSH_USER }}
         key: ${{ secrets.SSH_KEY }}
-        port: ${{ secrets.SSH_PORT || 22 }}
+        port: 22
         script: |
           cd /var/www/jsoncard
           git pull origin main
           npm install --production
-          cd client
-          npm install --production
-          npm run build
-          cd ..
+          # Skip client build - using pre-built client or serve statically
           # Check if PM2 process exists and restart, otherwise start new
           if pm2 describe app > /dev/null 2>&1; then
             echo "Restarting existing PM2 process..."

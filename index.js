@@ -2,6 +2,7 @@ require('dotenv').config();
 require("./instrument.js");
 const Sentry = require("@sentry/node");
 const express = require("express");
+const fs = require("fs");
 const path = require("path");
 const cors = require("cors");
 const bodyParser = require("body-parser");
@@ -48,6 +49,23 @@ app.use('/admin', express.static(path.join(__dirname, './client/build')));
 app.get("/", (req, res) => {
   res.sendFile(path.join(__dirname, "static", "index.html"));
 })
+
+const lingoDirectory = path.join(__dirname, "Lingo");
+const comingSoonPage = path.join(lingoDirectory, "lesson-coming-soon.html");
+
+app.get("/lingo/:lessonId", (req, res) => {
+  const { lessonId } = req.params;
+  const normalizedId = String(lessonId || "")
+    .trim()
+    .toUpperCase();
+
+  const candidatePath = path.join(lingoDirectory, `${normalizedId}.html`);
+  if (fs.existsSync(candidatePath)) {
+    return res.sendFile(candidatePath);
+  }
+
+  return res.sendFile(comingSoonPage);
+});
 
 app.get("/privacy-policy", (req, res) => {
   res.sendFile(path.join(__dirname, "static", "privacy-policy.html"));

@@ -1,0 +1,74 @@
+name: Deploy to DigitalOcean Server
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '22'
+        cache: 'npm'
+        
+    - name: Install dependencies (Root)
+      run: npm install
+      
+    - name: Install dependencies (Client)
+      run: |
+        cd client
+        npm install
+        
+    - name: Build client
+      run: |
+        cd client
+        npm run build
+        
+    - name: Run tests (if any)
+      run: |
+        # Add your test commands here
+        # npm test
+
+  deploy:
+    needs: build-and-test
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Deploy to DigitalOcean Server
+      uses: appleboy/ssh-action@v1.0.3
+      with:
+        host: ${{ secrets.SSH_HOST }}
+        username: ${{ secrets.SSH_USER }}
+        key: ${{ secrets.SSH_KEY }}
+        port: ${{ secrets.SSH_PORT || 22 }}
+        script: |
+          cd /var/www/jsoncard
+          git pull origin main
+          npm install --production
+          cd client
+          npm install --production
+          npm run build
+          cd ..
+          # Check if PM2 process exists and restart, otherwise start new
+          if pm2 describe app > /dev/null 2>&1; then
+            echo "Restarting existing PM2 process..."
+            pm2 restart app
+          else
+            echo "Starting new PM2 process..."
+            pm2 start ecosystem.config.js
+          fi
+          pm2 save
+          echo "Deployment completed successfully!"

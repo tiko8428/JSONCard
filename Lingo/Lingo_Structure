@@ -1,0 +1,113 @@
+{
+  "levels": [
+    {
+      "id": "A1",
+      "title": "Anfänger (A1)",
+      "chapters": [
+        { "id": "A1-1", "title": "Nomen und Artikel", "description": "Bestimmte/Unbestimmte Artikel, Pluralbildung, Verneinung mit ‚kein/keine‘." },
+        { "id": "A1-2", "title": "Pronomen", "description": "Personal-, Possessiv- und Reflexivpronomen im Grundgebrauch." },
+        { "id": "A1-3", "title": "Verbkonjugation", "description": "Regelmäßige/Unregelmäßige Verben, Modalverben, trennbare Verben, ‚sein‘/‚haben‘, Imperativ." },
+        { "id": "A1-4", "title": "Satzbau", "description": "Aussagesätze, Ja/Nein-Fragen, W-Fragen, Negation, ‚es gibt‘." },
+        { "id": "A1-5", "title": "Zahlen, Daten und Uhrzeit", "description": "Zahlen bis 100, Wochentage, Monate/Jahreszeiten, Uhrzeit, Datum/Kalender." },
+        { "id": "A1-6", "title": "Kasus (Fälle)", "description": "Nominativ, Akkusativ, Einführung in den Dativ mit häufigen Verben/Präpositionen." },
+        { "id": "A1-7", "title": "Negation", "description": "Negation mit ‚nicht‘ und ‚kein/keine‘; negative Aussagen im Alltag." },
+        { "id": "A1-8", "title": "Präpositionen", "description": "Lokale, temporale und Wechselpräpositionen (Akk./Dat.)." },
+        { "id": "A1-9", "title": "Adjektive", "description": "Adjektive ohne/mit Deklination, Komparativ und Superlativ (Grundlagen)." },
+        { "id": "A1-10", "title": "Alltagsvokabeln", "description": "Farben; Familie; Hobbys; Essen/Trinken; Berufe; Wohnung/Möbel; Kleidung; Wetter; Reisen/Verkehr." },
+        { "id": "A1-11", "title": "Dialoge und Leseverständnis", "description": "Begrüßung; Einkaufen; unterwegs; Arzt; Restaurant; zu Hause; Telefon; Stadt; Freizeit; Büro; Einladungen; Gefühle; Orientierung." },
+        { "id": "A1-12", "title": "Prüfungsvorbereitung A1", "description": "Hören, Lesen, Schreiben (Kurztexte), Sprechen (Vorstellen, Fragen, einfache Dialoge)." }
+      ]
+    },
+    {
+      "id": "A2",
+      "title": "Grundlegende Kenntnisse (A2)",
+      "chapters": [
+        { "id": "A2-1", "title": "Wiederholung A1 gezielt", "description": "Festigung von Artikeln, Grundverben, Basiswortschatz und Satzbau." },
+        { "id": "A2-2", "title": "Zeiten: Präsens & Perfekt", "description": "Perfektbildung mit ‚haben/sein‘; Partizip II häufiger Verben; Erzählung in der Vergangenheit." },
+        { "id": "A2-3", "title": "Präteritum der Modalverben", "description": "Kontrast Präsens/Präteritum von können, müssen, wollen, dürfen, sollen, mögen." },
+        { "id": "A2-4", "title": "Dativ vertiefen", "description": "Dativobjekte; Dativpräpositionen (mit, nach, bei, seit, von, zu, aus, außer, gegenüber)." },
+        { "id": "A2-5", "title": "Akkusativ vs. Dativ mit Wechselpräpositionen", "description": "Wechsel zwischen Lage und Richtung (in, an, auf, über, unter, vor, hinter, neben, zwischen)." },
+        { "id": "A2-6", "title": "Trennbare & untrennbare Verben", "description": "Bedeutungsunterschiede, Betonung, Perfektbildung." },
+        { "id": "A2-7", "title": "Adjektivendungen im A2-Umfang", "description": "Starke/schwache/gemischte Deklination in häufigen Mustern." },
+        { "id": "A2-8", "title": "Nebensätze: weil, dass, wenn", "description": "Verbendstellung; Konnektoren für Begründung, indirekte Aussagen und Bedingungen." },
+        { "id": "A2-9", "title": "Relativsätze im Nominativ/Akkusativ", "description": "Relativpronomen der/die/das; einfache Einbettung zur Beschreibung." },
+        { "id": "A2-10", "title": "Trends im Wortschatz Alltag", "description": "Gesundheit, Wohnen, Reisen, Arbeit, Schule, Medien, Einkaufen (A2-Umfang)." },
+        { "id": "A2-11", "title": "Höflichkeit & Formen", "description": "Höfliche Bitten, Vorschläge, Einladungen; Konjunktiv II von ‚mögen‘/‚würde‘-Formen." },
+        { "id": "A2-12", "title": "Vergleiche & Steigerung", "description": "Komparativ/Superlativ in typischen Sprechsituationen." },
+        { "id": "A2-13", "title": "Zeitangaben & Temporalsätze", "description": "vor/nach, seit/bis; als/wenn; Reihenfolgen erzählen." },
+        { "id": "A2-14", "title": "Präpositionen der Richtung", "description": "Wegbeschreibungen, Orientierung in der Stadt, Verkehrsmittel nutzen." },
+        { "id": "A2-15", "title": "Formulare & E-Mails", "description": "Einfach formell schreiben: Anfrage, Beschwerde, Bewerbungsskizze." },
+        { "id": "A2-16", "title": "Telefonieren & Termine", "description": "Nachfragen, bestätigen, verschieben; Redemittel am Telefon." },
+        { "id": "A2-17", "title": "Medien & Technik", "description": "Einfache Anleitungen verstehen; Online-Services nutzen; Sicherheitshinweise." },
+        { "id": "A2-18", "title": "Kultur & Freizeit planen", "description": "Einladungen, gemeinsame Pläne, Wetter & Kleidung, Ticketkauf." },
+        { "id": "A2-19", "title": "Fehlerquellen A2", "description": "Satzklammer, Verbzweit/Endstellung, Artikelwahl, Kasus bei Präpositionen." },
+        { "id": "A2-20", "title": "Prüfungsvorbereitung A2", "description": "Aufgabenformate Hören/Lesen/Schreiben/Sprechen mit Strategien." }
+      ]
+    },
+    {
+      "id": "B1",
+      "title": "Selbstständige Sprachverwendung (B1)",
+      "chapters": [
+        { "id": "B1-1", "title": "Zeiten im Überblick", "description": "Präsens, Perfekt, Präteritum, Plusquamperfekt – Erzählen über Vergangenheit." },
+        { "id": "B1-2", "title": "Futur I & Pläne", "description": "Vermutungen, Absichten und Vorhersagen ausdrücken." },
+        { "id": "B1-3", "title": "Konjunktiv II: Wünsche & Höflichkeit", "description": "würde-Formen; könnten/möchten; irreale Bedingungen im Ansatz." },
+        { "id": "B1-4", "title": "Passiv (werden/sein)", "description": "Prozess- und Zustandspassiv in Alltagstexten." },
+        { "id": "B1-5", "title": "Erweiterte Nebensätze", "description": "obwohl, damit, sodass, während; Verbendstellung sicher anwenden." },
+        { "id": "B1-6", "title": "Relativsätze alle Fälle", "description": "Nominativ, Akkusativ, Dativ, Genitiv; Kommasetzung." },
+        { "id": "B1-7", "title": "Nominalisierung & Komposita", "description": "Substantivierung, zusammengesetzte Nomen verstehen/bilden." },
+        { "id": "B1-8", "title": "Adjektivdeklination sicher", "description": "Systematisches Training in allen Fällen mit/ohne Artikel." },
+        { "id": "B1-9", "title": "Wortschatz Arbeit & Ausbildung", "description": "Bewerbung, Lebenslauf, Stellenanzeigen, Arbeitsalltag." },
+        { "id": "B1-10", "title": "Gesellschaft & Alltag", "description": "Behörden, Versicherungen, Wohnen, Umwelt, Konsum." },
+        { "id": "B1-11", "title": "Argumentieren & Meinung", "description": "Pro/Contra, Begründungen, Zustimmen/Widersprechen." },
+        { "id": "B1-12", "title": "Grafiken & Zahlen beschreiben", "description": "Trends, Vergleiche, Prozentangaben sprachlich umsetzen." },
+        { "id": "B1-13", "title": "Strategien Lesen/Hören", "description": "Selektives Lesen, Globalverstehen, Hörstrategien im Alltag." },
+        { "id": "B1-14", "title": "Schreiben B1", "description": "Formelle/halboffizielle E-Mails, Berichte, Beschwerden." },
+        { "id": "B1-15", "title": "Sprechen B1", "description": "Spontan reagieren, zusammenhängend erzählen, Erfahrungen schildern." },
+        { "id": "B1-16", "title": "Redemittel Präsentation", "description": "Vortrag strukturieren, Überleitungen, Schluss formulieren." },
+        { "id": "B1-17", "title": "Typische Fehler B1", "description": "Kasus nach Verben/Präpositionen, Wortstellung, Passivfallen." },
+        { "id": "B1-18", "title": "Prüfungsvorbereitung B1", "description": "Formatkenntnis, Zeitmanagement, Musterprüfungen." }
+      ]
+    },
+    {
+      "id": "B2",
+      "title": "Fortgeschrittene Sprachverwendung (B2)",
+      "chapters": [
+        { "id": "B2-1", "title": "Satzkomplexität & Konnektoren", "description": "Kausale, konzessive, konsekutive, finale, modale Verknüpfungen." },
+        { "id": "B2-2", "title": "Verbvalenz & Rektion", "description": "Verben mit festen Präpositionen; Bedeutungsunterschiede." },
+        { "id": "B2-3", "title": "Passivvarianten & Alternativen", "description": "Man-Form, lassen, sich-Passiv; stilistische Wahl." },
+        { "id": "B2-4", "title": "Konjunktiv I & indirekte Rede", "description": "Berichten, Distanz markieren, Quellenangaben." },
+        { "id": "B2-5", "title": "Nominalstil & Verdichtung", "description": "Dichte Fachtexte verstehen/produzieren, Präpositionalgruppen." },
+        { "id": "B2-6", "title": "Wortbildung B2", "description": "Präfixe/Suffixe, Bedeutungsnuancen, Wortfamilien." },
+        { "id": "B2-7", "title": "Stil & Register", "description": "Formell vs. informell, höflich vs. direkt, textsortengerecht." },
+        { "id": "B2-8", "title": "Diskutieren & Verhandeln", "description": "Nuanciert zustimmen/ablehnen, Vorschläge aushandeln." },
+        { "id": "B2-9", "title": "Akademischer Wortschatz", "description": "Definitionen, Beispiele, Ursache-Wirkung, Vergleich/Übertragung." },
+        { "id": "B2-10", "title": "Berufskommunikation", "description": "Meetings, Berichte, E-Mail-Etikette, Feedback geben." },
+        { "id": "B2-11", "title": "Diagramme & Studien", "description": "Daten präzise interpretieren und präsentieren." },
+        { "id": "B2-12", "title": "Kohärenz & Kohäsion", "description": "Themenentfaltung, Rückbezüge, Absatzlogik." },
+        { "id": "B2-13", "title": "Aussprachefeinheiten", "description": "Wortakzent, Satzmelodie, Reduktionen im schnellen Sprechen." },
+        { "id": "B2-14", "title": "Fehleranalyse B2", "description": "Feinheiten bei Kasus/Artikel, Verbzweit, Mehrfachnebensätze." },
+        { "id": "B2-15", "title": "Prüfungsvorbereitung B2", "description": "Aufgabentypen, Strategien, simulierte Prüfungen." }
+      ]
+    },
+    {
+      "id": "C1",
+      "title": "Fortgeschrittene Kenntnisse (C1)",
+      "chapters": [
+        { "id": "C1-1", "title": "Stilsicherheit & Nuancen", "description": "Ironie, Implikaturen, idiomatische Wendungen sicher verstehen/anwenden." },
+        { "id": "C1-2", "title": "Komplexe Syntax", "description": "Mehrfach eingebettete Nebensätze, Partizipial-/Infinitivkonstruktionen." },
+        { "id": "C1-3", "title": "Konjunktiv & Distanzierung", "description": "Konjunktiv I/II differenziert; Hedges, Vorsichtsformulierungen." },
+        { "id": "C1-4", "title": "Argumentation auf hohem Niveau", "description": "Thesen entwickeln, Gegenargumente antizipieren, Evidenz bewerten." },
+        { "id": "C1-5", "title": "Wissenschaftliche Textsorten", "description": "Abstract, Einleitung, Diskussion, Fazit; Zitierweisen." },
+        { "id": "C1-6", "title": "Fachsprache & Registerwechsel", "description": "Domänenspezifischer Wortschatz, präzise Terminologie, Registeranpassung." },
+        { "id": "C1-7", "title": "Diskurs & Rhetorik", "description": "Redestrategien, Metadiskurs, rhetorische Figuren." },
+        { "id": "C1-8", "title": "Feinsinnige Kohäsion", "description": "Anaphern, Ellipsen, Substitution, Thema-Rhema-Progression." },
+        { "id": "C1-9", "title": "Stilistische Überarbeitung", "description": "Redundanz vermeiden, Präzision steigern, Textökonomie." },
+        { "id": "C1-10", "title": "Interkulturelle Pragmatik", "description": "Höflichkeitsnormen, indirekte Sprechakte, Smalltalk vs. Fachgespräch." },
+        { "id": "C1-11", "title": "Hören/Lesen auf C1", "description": "Schnelles Erfassen komplexer Vorträge und längerer Fachtexte." },
+        { "id": "C1-12", "title": "Schreiben C1", "description": "Kohärente, gut strukturierte Essays/Reports mit starker Argumentationslinie." },
+        { "id": "C1-13", "title": "Sprechen C1", "description": "Flüssige, nuancierte Beiträge, spontane Präzisierung und Selbstkorrektur." },
+        { "id": "C1-14", "title": "Prüfungsvorbereitung C1", "description": "Aufgabenanalyse, Zeitplanung, Prüfungsrhetorik, Probe-Performances." }
+      ]
+    }
+  ]
+}

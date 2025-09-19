@@ -59,9 +59,6 @@ const buildChapterUrl = (chapterId, language) => {
   if (language) {
     url.searchParams.set("ln", language);
   }
-  if (chapterId) {
-    url.searchParams.set("lesson", chapterId);
-  }
   return url.toString();
 };
 

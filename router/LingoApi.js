@@ -53,17 +53,14 @@ const slugifyChapterId = (chapterId) =>
     .trim()
     .toLowerCase();
 
-const buildChapterUrl = (chapterId, language, chapterTitle) => {
+const buildChapterUrl = (chapterId, language) => {
   const slug = slugifyChapterId(chapterId) || "coming-soon";
   const url = new URL(`/lingo/${slug}`, BASE_URL);
   if (language) {
-    url.searchParams.set("lang", language);
+    url.searchParams.set("ln", language);
   }
   if (chapterId) {
     url.searchParams.set("lesson", chapterId);
-  }
-  if (chapterTitle) {
-    url.searchParams.set("title", chapterTitle);
   }
   return url.toString();
 };
@@ -74,7 +71,7 @@ const withChapterUrls = (structure, language) => ({
     ...level,
     chapters: (level.chapters || []).map((chapter) => ({
       ...chapter,
-      url: buildChapterUrl(chapter.id, language, chapter.title),
+      url: buildChapterUrl(chapter.id, language),
     })),
   })),
 });

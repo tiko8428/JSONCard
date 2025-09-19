@@ -994,7 +994,8 @@
 
       const applyLanguage = () => {
         const params = new URLSearchParams(window.location.search);
-        const lang = params.get("lang");
+        const langParam = params.get("ln") || params.get("lang") || "";
+        const lang = langParam.toLowerCase();
         const activeLang = supportedLanguages.includes(lang) ? lang : "en";
         document.documentElement.lang = activeLang;
         const messages = translations[activeLang] || translations.en;

@@ -52,7 +52,7 @@ jobs:
             git clone https://github.com/tiko8428/JSONCard.git .
           else
             echo "Pulling latest changes..."
-            git pull origin main
+            git pull
           fi
           npm install --production
           # Skip client build - using pre-built client or serve statically

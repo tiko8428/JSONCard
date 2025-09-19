@@ -1,16 +1,12 @@
 :root {
   color-scheme: light;
   --accent: #b084f5;
-  --accent-dark: #7b4fc9;
-  --surface: rgba(255, 255, 255, 0.94);
+  --accent-dark: #7a3deb;
+  --surface: rgba(255, 255, 255, 0.92);
   --surface-strong: rgba(255, 255, 255, 0.98);
-  --text-primary: #2c1f4b;
-  --text-secondary: rgba(44, 31, 75, 0.72);
-  --shadow: 0 16px 35px rgba(123, 79, 201, 0.22);
-  --shadow-strong: 0 18px 45px rgba(96, 66, 167, 0.2);
-  --chip-soft: rgba(176, 132, 245, 0.18);
-  --chip-highlight: rgba(176, 132, 245, 0.12);
-  --page-background: linear-gradient(160deg, #f4ecff 0%, #fdf2ff 35%, #eff5ff 100%);
+  --text-primary: #28154a;
+  --text-secondary: rgba(40, 21, 74, 0.72);
+  --shadow: 0 16px 35px rgba(122, 61, 235, 0.22);
 }
 
 *,
@@ -27,7 +23,7 @@ body {
   min-height: 100%;
   font-family: "SF Pro Text", "SF Pro Display", -apple-system, BlinkMacSystemFont,
     "Segoe UI", Roboto, sans-serif;
-  background: var(--page-background);
+  background: linear-gradient(160deg, #f0e8ff 0%, #f7f0ff 30%, #e8f3ff 100%);
   color: var(--text-primary);
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%;
@@ -70,7 +66,7 @@ header.hero::after {
   inset: -80px -40px auto auto;
   width: 200px;
   height: 200px;
-  background: radial-gradient(circle at top left, rgba(255, 255, 255, 0.7), transparent 70%);
+  background: radial-gradient(circle at top left, rgba(255, 255, 255, 0.75), transparent 70%);
   pointer-events: none;
 }
 
@@ -83,7 +79,7 @@ header.hero::after {
   letter-spacing: 0.01em;
   padding: 6px 14px;
   border-radius: 999px;
-  background: var(--chip-soft);
+  background: rgba(176, 132, 245, 0.18);
   color: var(--accent-dark);
   text-transform: uppercase;
 }
@@ -99,14 +95,6 @@ h1 {
   margin: 0;
   font-size: 16px;
   line-height: 1.55;
-  color: var(--text-secondary);
-}
-
-.primary-message {
-  margin: 0;
-  font-size: clamp(18px, 4.8vw, 20px);
-  line-height: 1.45;
-  font-weight: 500;
   color: var(--text-secondary);
 }
 
@@ -127,7 +115,7 @@ h1 {
   display: inline-flex;
   align-items: center;
   gap: 8px;
-  box-shadow: 0 8px 16px rgba(123, 79, 201, 0.18);
+  box-shadow: 0 8px 16px rgba(122, 61, 235, 0.18);
 }
 
 .badge svg {
@@ -140,7 +128,7 @@ section {
   background: var(--surface);
   border-radius: 26px;
   padding: 24px 22px;
-  box-shadow: var(--shadow-strong);
+  box-shadow: 0 18px 45px rgba(64, 24, 147, 0.14);
   backdrop-filter: blur(12px);
 }
 
@@ -174,7 +162,7 @@ section h2 {
   inset: auto -40px -60px auto;
   width: 160px;
   height: 160px;
-  background: radial-gradient(circle, var(--chip-highlight), transparent 65%);
+  background: radial-gradient(circle, rgba(176, 132, 245, 0.18), transparent 65%);
   pointer-events: none;
 }
 
@@ -200,7 +188,7 @@ section h2 {
   align-items: center;
   gap: 10px;
   margin-top: 14px;
-  background: var(--chip-highlight);
+  background: rgba(176, 132, 245, 0.14);
   color: var(--text-primary);
   padding: 12px 14px;
   border-radius: 18px;
@@ -232,7 +220,7 @@ section h2 {
   width: 28px;
   height: 28px;
   border-radius: 10px;
-  background: var(--chip-soft);
+  background: rgba(176, 132, 245, 0.2);
   color: var(--accent-dark);
   font-weight: 700;
   display: inline-flex;
@@ -274,18 +262,18 @@ section h2 {
 
 .chip.selected {
   border-color: var(--accent);
-  background: var(--chip-soft);
+  background: rgba(176, 132, 245, 0.2);
 }
 
 .chip.correct {
-  border-color: #5ac995;
-  background: rgba(90, 201, 149, 0.16);
-  color: #1f7f54;
+  border-color: #3da86f;
+  background: rgba(61, 168, 111, 0.16);
+  color: #227550;
 }
 
 .chip.incorrect {
   border-color: #ff7a5a;
-  background: rgba(255, 122, 90, 0.12);
+  background: rgba(255, 122, 90, 0.14);
   color: #ba3a24;
 }
 
@@ -293,7 +281,7 @@ section h2 {
   margin-top: 16px;
   height: 10px;
   border-radius: 999px;
-  background: rgba(44, 31, 75, 0.12);
+  background: rgba(40, 21, 74, 0.1);
   overflow: hidden;
 }
 
@@ -301,7 +289,7 @@ section h2 {
   display: block;
   height: 100%;
   width: 0;
-  background: linear-gradient(90deg, var(--accent), #d6b4ff);
+  background: linear-gradient(90deg, var(--accent), #d3a9ff);
   border-radius: inherit;
   transition: width 0.4s ease;
 }
@@ -310,7 +298,7 @@ footer {
   margin-top: 10px;
   font-size: 12px;
   text-align: center;
-  color: rgba(44, 31, 75, 0.45);
+  color: rgba(40, 21, 74, 0.5);
 }
 
 .floating-action {
@@ -336,24 +324,41 @@ footer {
   transform: scale(0.98);
 }
 
-/* Coming soon variations */
 
 .coming-soon {
   width: min(640px, 100%);
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(18px);
+  border-radius: 28px;
+  box-shadow: 0 24px 50px rgba(122, 61, 235, 0.22);
+  padding: 32px 24px 40px;
+  gap: 32px;
 }
 
 .coming-soon .hero {
-  display: flex;
-  flex-direction: column;
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
+  border-radius: 0;
   gap: 12px;
-  text-align: left;
+}
+
+.coming-soon .hero::after {
+  display: none;
 }
 
 .coming-soon .hero h1 {
-  margin-top: 12px;
+  margin: 12px 0 0;
+}
+
+.coming-soon section {
+  background: transparent;
+  box-shadow: none;
+  padding: 0;
 }
 
 .cards-grid {
+  margin-top: 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 16px;
@@ -363,7 +368,7 @@ footer {
   background: var(--surface-strong);
   border-radius: 22px;
   padding: 18px 16px 20px;
-  box-shadow: 0 12px 24px rgba(96, 66, 167, 0.16);
+  box-shadow: 0 12px 24px rgba(61, 34, 117, 0.14);
   display: flex;
   flex-direction: column;
   gap: 8px;
@@ -372,8 +377,8 @@ footer {
 }
 
 .translation-card--active {
-  border-color: rgba(176, 132, 245, 0.9);
-  box-shadow: 0 16px 30px rgba(123, 79, 201, 0.25);
+  border-color: rgba(176, 132, 245, 0.85);
+  box-shadow: 0 16px 30px rgba(122, 61, 235, 0.22);
   transform: translateY(-4px);
 }
 
@@ -395,13 +400,12 @@ footer {
 }
 
 .coming-soon footer {
-  margin-top: 24px;
+  margin-top: 0;
   display: flex;
   flex-direction: column;
   gap: 8px;
   font-size: 13px;
-  color: rgba(44, 31, 75, 0.65);
-  text-align: center;
+  color: rgba(40, 21, 74, 0.65);
 }
 
 .coming-soon footer strong {
@@ -427,8 +431,11 @@ footer {
     border-radius: 20px;
   }
 
+  .coming-soon {
+    padding: 28px 18px 32px;
+  }
+
   .cards-grid {
-    margin-top: 4px;
     gap: 12px;
   }
 

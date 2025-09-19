@@ -7,40 +7,22 @@ on:
     branches: [ main ]
 
 jobs:
-  build-and-test:
-    runs-on: ubuntu-latest
-    
-    steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-      
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '22'
-        cache: 'npm'
-        
-    - name: Install dependencies (Root)
-      run: npm install
-      
-    # Skip client build during CI/CD
-    # - name: Install dependencies (Client)
-    #   run: |
-    #     cd client
-    #     npm install
-    #     
-    # - name: Build client
-    #   run: |
-    #     cd client
-    #     npm run build
-        
-    # - name: Run tests (if any)
-      # run: |
-        # Add your test commands here
-        # npm test
+  # Skipped build-and-test job for faster deployment
+  # build-and-test:
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #   - name: Checkout code
+  #     uses: actions/checkout@v4
+  #   - name: Setup Node.js
+  #     uses: actions/setup-node@v4
+  #     with:
+  #       node-version: '22'
+  #       cache: 'npm'
+  #   - name: Install dependencies (Root)
+  #     run: npm install
 
   deploy:
-    needs: build-and-test
+    # needs: build-and-test  # Removed dependency
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     

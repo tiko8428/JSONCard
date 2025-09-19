@@ -45,7 +45,7 @@ jobs:
           echo "=== Starting Deployment ==="
           
           # Navigate to the correct project directory
-          cd /var/www/JSONcard || { echo "Directory /var/www/JSONcard not found, creating..."; mkdir -p /var/www/JSONcard; cd /var/www/JSONcard; }
+          cd /var/www/JSONCard || { echo "Directory /var/www/JSONCard not found, creating..."; mkdir -p /var/www/JSONCard; cd /var/www/JSONCard; }
           
           echo "Current directory: $(pwd)"
           

@@ -6,7 +6,7 @@ const appApi = require("./appApi");
 const feedRouter = require("./feedRouter");
 const germanWikiRouter = require("./germanWiki");
 const horoscopeRouter = require("./horoscopeRouter");
-const lingoRouter = require("./LingoApi");
+const lingoRouter = require("../Lingo/LingoApi");
 const { readUsersJson, userError } = require("../helper");
 
 const apiRoutes = express.Router();

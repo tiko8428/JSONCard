@@ -3,7 +3,7 @@ const fs = require("fs");
 const path = require("path");
 
 const lingoRouter = express.Router();
-const structurePath = path.join(__dirname, "..", "Lingo", "Lingo_Structure");
+const structurePath = path.join(__dirname, "Lingo_Structure");
 
 const BASE_URL = "https://thegeneralapps.com";
 

@@ -4,425 +4,239 @@
       "id": "A1",
       "title": "Anfänger (A1)",
       "chapters": [
-        {
-          "id": "A1-1",
-          "title": "Nomen und Artikel",
-          "description": "Bestimmte/Unbestimmte Artikel, Pluralbildung, Verneinung mit ‚kein/keine‘."
-        },
-        {
-          "id": "A1-2",
-          "title": "Pronomen",
-          "description": "Personal-, Possessiv- und Reflexivpronomen im Grundgebrauch."
-        },
-        {
-          "id": "A1-3",
-          "title": "Verbkonjugation",
-          "description": "Regelmäßige/Unregelmäßige Verben, Modalverben, trennbare Verben, ‚sein‘/‚haben‘, Imperativ."
-        },
-        {
-          "id": "A1-4",
-          "title": "Satzbau",
-          "description": "Aussagesätze, Ja/Nein-Fragen, W-Fragen, Negation, ‚es gibt‘."
-        },
-        {
-          "id": "A1-5",
-          "title": "Zahlen, Daten und Uhrzeit",
-          "description": "Zahlen bis 100, Wochentage, Monate/Jahreszeiten, Uhrzeit, Datum/Kalender."
-        },
-        {
-          "id": "A1-6",
-          "title": "Kasus (Fälle)",
-          "description": "Nominativ, Akkusativ, Einführung in den Dativ mit häufigen Verben/Präpositionen."
-        },
-        {
-          "id": "A1-7",
-          "title": "Negation",
-          "description": "Negation mit ‚nicht‘ und ‚kein/keine‘; negative Aussagen im Alltag."
-        },
-        {
-          "id": "A1-8",
-          "title": "Präpositionen",
-          "description": "Lokale, temporale und Wechselpräpositionen (Akk./Dat.)."
-        },
-        {
-          "id": "A1-9",
-          "title": "Adjektive",
-          "description": "Adjektive ohne/mit Deklination, Komparativ und Superlativ (Grundlagen)."
-        },
-        {
-          "id": "A1-10",
-          "title": "Alltagsvokabeln",
-          "description": "Farben; Familie; Hobbys; Essen/Trinken; Berufe; Wohnung/Möbel; Kleidung; Wetter; Reisen/Verkehr."
-        },
-        {
-          "id": "A1-11",
-          "title": "Dialoge und Leseverständnis",
-          "description": "Begrüßung; Einkaufen; unterwegs; Arzt; Restaurant; zu Hause; Telefon; Stadt; Freizeit; Büro; Einladungen; Gefühle; Orientierung."
-        },
-        {
-          "id": "A1-12",
-          "title": "Prüfungsvorbereitung A1",
-          "description": "Hören, Lesen, Schreiben (Kurztexte), Sprechen (Vorstellen, Fragen, einfache Dialoge)."
-        }
+        { "id": "A1-1", "title": "Bestimmte Artikel im Singular", "description": "der/die/das bei häufigen Nomen sicher anwenden." },
+        { "id": "A1-2", "title": "Unbestimmte Artikel im Singular", "description": "ein/eine in kurzen Vorstellungs- und Einkaufssätzen nutzen." },
+        { "id": "A1-3", "title": "Pluralbildung häufiger Nomen", "description": "Einfache Pluralendungen und Umlautwechsel üben." },
+        { "id": "A1-4", "title": "Kein/keine in Grundsätzen", "description": "Substantive verneinen und kurze Antworten geben." },
+        { "id": "A1-5", "title": "Personalpronomen als Subjekt", "description": "ich, du, er/sie/es, wir, ihr, sie in Alltagssätzen einsetzen." },
+        { "id": "A1-6", "title": "Possessivpronomen im Singular", "description": "mein, dein, sein/ihr vor Nomen passend wählen." },
+        { "id": "A1-7", "title": "Reflexivpronomen Basis", "description": "sich und mich/dich in Routinefragen verwenden." },
+        { "id": "A1-8", "title": "Regelmäßige Verben im Präsens", "description": "Endungen -e, -st, -t, -en in kurzen Sätzen trainieren." },
+        { "id": "A1-9", "title": "Unregelmäßige Verben top 5", "description": "sein, haben, werden, gehen, sehen im Präsens festigen." },
+        { "id": "A1-10", "title": "Modalverben können & müssen", "description": "Pflichten und Fähigkeiten ausdrücken." },
+        { "id": "A1-11", "title": "Verben sein & haben", "description": "Präsens und häufige Redewendungen anwenden." },
+        { "id": "A1-12", "title": "Imperativ du & ihr", "description": "Einfache Aufforderungen freundlich formulieren." },
+        { "id": "A1-13", "title": "Aussagesatz Wortstellung", "description": "Subjekt-Verb-Objekt sicher aufbauen." },
+        { "id": "A1-14", "title": "Ja/Nein-Fragen bilden", "description": "Verb-Subjekt-Tausch für schnelle Fragen üben." },
+        { "id": "A1-15", "title": "W-Fragen stellen", "description": "wer, was, wo, wann korrekt verwenden." },
+        { "id": "A1-16", "title": "Negation mit nicht", "description": "Sätze und Verben gezielt verneinen." },
+        { "id": "A1-17", "title": "Kein/keine im Satz", "description": "Substantive im Akkusativ verneinen." },
+        { "id": "A1-18", "title": "Zahlen 0–20", "description": "Zählen und Telefonnummern ansagen." },
+        { "id": "A1-19", "title": "Zahlen 21–100", "description": "Preise verstehen und sagen." },
+        { "id": "A1-20", "title": "Wochentage & Monate", "description": "Termine vereinbaren und benennen." },
+        { "id": "A1-21", "title": "Uhrzeit sagen", "description": "volle und halbe Stunden ausdrücken." },
+        { "id": "A1-22", "title": "Datum & Kalender", "description": "Tage, Daten und Jahreszeiten nennen." },
+        { "id": "A1-23", "title": "Nominativ erkennen", "description": "Subjektfälle in Standardsätzen markieren." },
+        { "id": "A1-24", "title": "Akkusativartikel", "description": "den/die/das im Akkusativ verwenden." },
+        { "id": "A1-25", "title": "Dativ mit häufigen Verben", "description": "helfen, danken, gefallen im Kontext üben." },
+        { "id": "A1-26", "title": "Lokale Präpositionen", "description": "in, an, auf zur Ortsbeschreibung einsetzen." },
+        { "id": "A1-27", "title": "Temporale Präpositionen", "description": "am, im, um in Terminabsprachen verwenden." },
+        { "id": "A1-28", "title": "Wechselpräpositionen Lage vs. Richtung", "description": "stehen vs. stellen mit in/auf/an unterscheiden." },
+        { "id": "A1-29", "title": "Adjektive ohne Endung", "description": "Adjektive nach sein/finden nutzen." },
+        { "id": "A1-30", "title": "Adjektivendungen Nominativ", "description": "kleiner, kleines, kleine im Grundmuster." },
+        { "id": "A1-31", "title": "Komparativ Grundlagen", "description": "Vergleiche mit größer und besser bilden." },
+        { "id": "A1-32", "title": "Superlativ Grundlagen", "description": "am schönsten / der schönste anwenden." },
+        { "id": "A1-33", "title": "Wortschatz Wohnen", "description": "Zimmer, Möbel und Hausarbeit benennen." },
+        { "id": "A1-34", "title": "Wortschatz Essen & Trinken", "description": "Lebensmittel einkaufen und bestellen." },
+        { "id": "A1-35", "title": "Wortschatz Familie", "description": "Verwandtschaft und Beziehungen vorstellen." },
+        { "id": "A1-36", "title": "Wortschatz Kleidung", "description": "Kleidungsstücke beschreiben und kaufen." },
+        { "id": "A1-37", "title": "Wortschatz Wetter & Reisen", "description": "Reisepläne und Wetterberichte verstehen." },
+        { "id": "A1-38", "title": "Mini-Dialog Einkaufen", "description": "Kurze Sätze an der Kasse trainieren." },
+        { "id": "A1-39", "title": "Mini-Dialog Arztbesuch", "description": "Symptome nennen und Hilfe bekommen." },
+        { "id": "A1-40", "title": "Mini-Dialog Restaurant", "description": "Bestellen, nachfragen und bezahlen üben." },
+        { "id": "A1-41", "title": "Mini-Dialog unterwegs", "description": "Nach Wegen fragen und reagieren." },
+        { "id": "A1-42", "title": "Mini-Dialog Telefon", "description": "Sich melden, nach Personen fragen, verabschieden." },
+        { "id": "A1-43", "title": "Leseübung kurzer Aushang", "description": "Wichtige Informationen in Minianzeigen finden." },
+        { "id": "A1-44", "title": "Leseübung Einladung", "description": "Private Nachrichten verstehen und beantworten." },
+        { "id": "A1-45", "title": "Prüfung Hören Tipp", "description": "Checkliste für Hörverstehen im Test anwenden." },
+        { "id": "A1-46", "title": "Prüfung Schreiben Tipp", "description": "Postkarte oder Nachricht strukturiert verfassen." },
+        { "id": "A1-47", "title": "Prüfung Sprechen Tipp", "description": "Kurz vorstellen, fragen und reagieren üben." }
       ]
     },
     {
       "id": "A2",
       "title": "Grundlegende Kenntnisse (A2)",
       "chapters": [
-        {
-          "id": "A2-1",
-          "title": "Wiederholung A1 gezielt",
-          "description": "Festigung von Artikeln, Grundverben, Basiswortschatz und Satzbau."
-        },
-        {
-          "id": "A2-2",
-          "title": "Zeiten: Präsens & Perfekt",
-          "description": "Perfektbildung mit ‚haben/sein‘; Partizip II häufiger Verben; Erzählung in der Vergangenheit."
-        },
-        {
-          "id": "A2-3",
-          "title": "Präteritum der Modalverben",
-          "description": "Kontrast Präsens/Präteritum von können, müssen, wollen, dürfen, sollen, mögen."
-        },
-        {
-          "id": "A2-4",
-          "title": "Dativ vertiefen",
-          "description": "Dativobjekte; Dativpräpositionen (mit, nach, bei, seit, von, zu, aus, außer, gegenüber)."
-        },
-        {
-          "id": "A2-5",
-          "title": "Akkusativ vs. Dativ mit Wechselpräpositionen",
-          "description": "Wechsel zwischen Lage und Richtung (in, an, auf, über, unter, vor, hinter, neben, zwischen)."
-        },
-        {
-          "id": "A2-6",
-          "title": "Trennbare & untrennbare Verben",
-          "description": "Bedeutungsunterschiede, Betonung, Perfektbildung."
-        },
-        {
-          "id": "A2-7",
-          "title": "Adjektivendungen im A2-Umfang",
-          "description": "Starke/schwache/gemischte Deklination in häufigen Mustern."
-        },
-        {
-          "id": "A2-8",
-          "title": "Nebensätze: weil, dass, wenn",
-          "description": "Verbendstellung; Konnektoren für Begründung, indirekte Aussagen und Bedingungen."
-        },
-        {
-          "id": "A2-9",
-          "title": "Relativsätze im Nominativ/Akkusativ",
-          "description": "Relativpronomen der/die/das; einfache Einbettung zur Beschreibung."
-        },
-        {
-          "id": "A2-10",
-          "title": "Trends im Wortschatz Alltag",
-          "description": "Gesundheit, Wohnen, Reisen, Arbeit, Schule, Medien, Einkaufen (A2-Umfang)."
-        },
-        {
-          "id": "A2-11",
-          "title": "Höflichkeit & Formen",
-          "description": "Höfliche Bitten, Vorschläge, Einladungen; Konjunktiv II von ‚mögen‘/‚würde‘-Formen."
-        },
-        {
-          "id": "A2-12",
-          "title": "Vergleiche & Steigerung",
-          "description": "Komparativ/Superlativ in typischen Sprechsituationen."
-        },
-        {
-          "id": "A2-13",
-          "title": "Zeitangaben & Temporalsätze",
-          "description": "vor/nach, seit/bis; als/wenn; Reihenfolgen erzählen."
-        },
-        {
-          "id": "A2-14",
-          "title": "Präpositionen der Richtung",
-          "description": "Wegbeschreibungen, Orientierung in der Stadt, Verkehrsmittel nutzen."
-        },
-        {
-          "id": "A2-15",
-          "title": "Formulare & E-Mails",
-          "description": "Einfach formell schreiben: Anfrage, Beschwerde, Bewerbungsskizze."
-        },
-        {
-          "id": "A2-16",
-          "title": "Telefonieren & Termine",
-          "description": "Nachfragen, bestätigen, verschieben; Redemittel am Telefon."
-        },
-        {
-          "id": "A2-17",
-          "title": "Medien & Technik",
-          "description": "Einfache Anleitungen verstehen; Online-Services nutzen; Sicherheitshinweise."
-        },
-        {
-          "id": "A2-18",
-          "title": "Kultur & Freizeit planen",
-          "description": "Einladungen, gemeinsame Pläne, Wetter & Kleidung, Ticketkauf."
-        },
-        {
-          "id": "A2-19",
-          "title": "Fehlerquellen A2",
-          "description": "Satzklammer, Verbzweit/Endstellung, Artikelwahl, Kasus bei Präpositionen."
-        },
-        {
-          "id": "A2-20",
-          "title": "Prüfungsvorbereitung A2",
-          "description": "Aufgabenformate Hören/Lesen/Schreiben/Sprechen mit Strategien."
-        }
+        { "id": "A2-1", "title": "Artikel wiederholen", "description": "der/die/das und ein/eine im Alltag kontrollieren." },
+        { "id": "A2-2", "title": "Satzbau mit Zeitangaben", "description": "Positionen im Aussagesatz festigen." },
+        { "id": "A2-3", "title": "Perfekt mit haben", "description": "Regelmäßige Verben in der Vergangenheit erzählen." },
+        { "id": "A2-4", "title": "Perfekt mit sein", "description": "Bewegungsverben korrekt bilden." },
+        { "id": "A2-5", "title": "Partizip II regelmäßig", "description": "ge-…-t Muster trainieren." },
+        { "id": "A2-6", "title": "Partizip II unregelmäßig", "description": "häufige Formen wie gesehen, gefahren merken." },
+        { "id": "A2-7", "title": "Präteritum können & müssen", "description": "Vergangene Pflichten und Fähigkeiten beschreiben." },
+        { "id": "A2-8", "title": "Präteritum wollen/sollen/dürfen/mögen", "description": "Gespräche über Pläne und Wünsche führen." },
+        { "id": "A2-9", "title": "Dativobjekte erkennen", "description": "Fragen mit wem? und antworten bilden." },
+        { "id": "A2-10", "title": "Dativpräpositionen Teil 1", "description": "mit, nach, bei, seit sicher benutzen." },
+        { "id": "A2-11", "title": "Dativpräpositionen Teil 2", "description": "von, zu, aus, außer, gegenüber üben." },
+        { "id": "A2-12", "title": "Wechselpräpositionen: Lage", "description": "Wo? mit in, an, auf beschreiben." },
+        { "id": "A2-13", "title": "Wechselpräpositionen: Richtung", "description": "Wohin? mit in, an, auf erklären." },
+        { "id": "A2-14", "title": "Trennbare Verben im Präsens", "description": "anrufen, einkaufen & Co. richtig trennen." },
+        { "id": "A2-15", "title": "Untrennbare Verben", "description": "ver-, be-, emp-, ent-, zer- kennenlernen." },
+        { "id": "A2-16", "title": "Perfekt mit trennbar/untrennbar", "description": "ge-Position und Betonung anwenden." },
+        { "id": "A2-17", "title": "Adjektivendungen mit bestimmtem Artikel", "description": "im Nominativ/Akkusativ/Dativ üben." },
+        { "id": "A2-18", "title": "Adjektivendungen mit unbestimmtem Artikel", "description": "einen großen, einer kleinen… festigen." },
+        { "id": "A2-19", "title": "Adjektivendungen ohne Artikel", "description": "guter Kaffee, kaltes Wasser bilden." },
+        { "id": "A2-20", "title": "Nebensatz mit weil", "description": "Gründe nennen und Verb ans Satzende setzen." },
+        { "id": "A2-21", "title": "Nebensatz mit dass", "description": "indirekte Aussagen formulieren." },
+        { "id": "A2-22", "title": "Nebensatz mit wenn", "description": "Bedingungen und Wiederholungen beschreiben." },
+        { "id": "A2-23", "title": "Relativsatz im Nominativ", "description": "der/die/das zur Beschreibung einsetzen." },
+        { "id": "A2-24", "title": "Relativsatz im Akkusativ", "description": "den/die/das bei Personen und Dingen nutzen." },
+        { "id": "A2-25", "title": "Wortschatz Gesundheit", "description": "Symptome erklären, Rezepte verstehen." },
+        { "id": "A2-26", "title": "Wortschatz Wohnen", "description": "Wohnungssuche und Verträge besprechen." },
+        { "id": "A2-27", "title": "Wortschatz Arbeit & Schule", "description": "Tätigkeiten, Termine, Projekte benennen." },
+        { "id": "A2-28", "title": "Wortschatz Reisen", "description": "Hotels buchen und Verkehrsmittel nutzen." },
+        { "id": "A2-29", "title": "Höfliche Bitten mit würde", "description": "Kundenservice-Dialoge gestalten." },
+        { "id": "A2-30", "title": "Vorschläge machen", "description": "Sollen wir…? und Lass uns… verwenden." },
+        { "id": "A2-31", "title": "Vergleiche mit als & wie", "description": "Unterschiede und Gleichheit ausdrücken." },
+        { "id": "A2-32", "title": "Zeitangaben vor/nach/seit", "description": "Vergangenheit und Dauer angeben." },
+        { "id": "A2-33", "title": "Temporalsätze mit als/wenn", "description": "Ereignisse in der Vergangenheit schildern." },
+        { "id": "A2-34", "title": "Richtungsangaben in der Stadt", "description": "Wegbeschreibungen geben und verstehen." },
+        { "id": "A2-35", "title": "Formulare ausfüllen", "description": "Persönliche Daten strukturiert eintragen." },
+        { "id": "A2-36", "title": "Kurze E-Mail Anfrage", "description": "Betreff, Anliegen und Grußformel passend wählen." },
+        { "id": "A2-37", "title": "Telefontermin vereinbaren", "description": "Nachfragen, bestätigen, verschieben." },
+        { "id": "A2-38", "title": "Medien & Technik Wortschatz", "description": "Geräte erklären und Online-Services nutzen." },
+        { "id": "A2-39", "title": "Freizeit planen", "description": "Einladungen, Tickets und Wetter besprechen." },
+        { "id": "A2-40", "title": "Fehlercheck Verbzweit", "description": "Satzklammer konsequent anwenden." },
+        { "id": "A2-41", "title": "Fehlercheck Kasus bei Präpositionen", "description": "Typische Stolpersteine erkennen und vermeiden." },
+        { "id": "A2-42", "title": "Prüfungshören Strategien", "description": "Vor, während und nach dem Hören planen." },
+        { "id": "A2-43", "title": "Prüfungslesen Strategien", "description": "Lesetechniken für Aufgaben auswählen." },
+        { "id": "A2-44", "title": "Prüfung schreiben: Notiz", "description": "Kurze Texte mit Pflichtangaben erstellen." },
+        { "id": "A2-45", "title": "Prüfung sprechen: Rollenspiel", "description": "Reagieren, nachfragen und abschließen üben." }
       ]
     },
     {
       "id": "B1",
       "title": "Selbstständige Sprachverwendung (B1)",
       "chapters": [
-        {
-          "id": "B1-1",
-          "title": "Zeiten im Überblick",
-          "description": "Präsens, Perfekt, Präteritum, Plusquamperfekt – Erzählen über Vergangenheit."
-        },
-        {
-          "id": "B1-2",
-          "title": "Futur I & Pläne",
-          "description": "Vermutungen, Absichten und Vorhersagen ausdrücken."
-        },
-        {
-          "id": "B1-3",
-          "title": "Konjunktiv II: Wünsche & Höflichkeit",
-          "description": "würde-Formen; könnten/möchten; irreale Bedingungen im Ansatz."
-        },
-        {
-          "id": "B1-4",
-          "title": "Passiv (werden/sein)",
-          "description": "Prozess- und Zustandspassiv in Alltagstexten."
-        },
-        {
-          "id": "B1-5",
-          "title": "Erweiterte Nebensätze",
-          "description": "obwohl, damit, sodass, während; Verbendstellung sicher anwenden."
-        },
-        {
-          "id": "B1-6",
-          "title": "Relativsätze alle Fälle",
-          "description": "Nominativ, Akkusativ, Dativ, Genitiv; Kommasetzung."
-        },
-        {
-          "id": "B1-7",
-          "title": "Nominalisierung & Komposita",
-          "description": "Substantivierung, zusammengesetzte Nomen verstehen/bilden."
-        },
-        {
-          "id": "B1-8",
-          "title": "Adjektivdeklination sicher",
-          "description": "Systematisches Training in allen Fällen mit/ohne Artikel."
-        },
-        {
-          "id": "B1-9",
-          "title": "Wortschatz Arbeit & Ausbildung",
-          "description": "Bewerbung, Lebenslauf, Stellenanzeigen, Arbeitsalltag."
-        },
-        {
-          "id": "B1-10",
-          "title": "Gesellschaft & Alltag",
-          "description": "Behörden, Versicherungen, Wohnen, Umwelt, Konsum."
-        },
-        {
-          "id": "B1-11",
-          "title": "Argumentieren & Meinung",
-          "description": "Pro/Contra, Begründungen, Zustimmen/Widersprechen."
-        },
-        {
-          "id": "B1-12",
-          "title": "Grafiken & Zahlen beschreiben",
-          "description": "Trends, Vergleiche, Prozentangaben sprachlich umsetzen."
-        },
-        {
-          "id": "B1-13",
-          "title": "Strategien Lesen/Hören",
-          "description": "Selektives Lesen, Globalverstehen, Hörstrategien im Alltag."
-        },
-        {
-          "id": "B1-14",
-          "title": "Schreiben B1",
-          "description": "Formelle/halboffizielle E-Mails, Berichte, Beschwerden."
-        },
-        {
-          "id": "B1-15",
-          "title": "Sprechen B1",
-          "description": "Spontan reagieren, zusammenhängend erzählen, Erfahrungen schildern."
-        },
-        {
-          "id": "B1-16",
-          "title": "Redemittel Präsentation",
-          "description": "Vortrag strukturieren, Überleitungen, Schluss formulieren."
-        },
-        {
-          "id": "B1-17",
-          "title": "Typische Fehler B1",
-          "description": "Kasus nach Verben/Präpositionen, Wortstellung, Passivfallen."
-        },
-        {
-          "id": "B1-18",
-          "title": "Prüfungsvorbereitung B1",
-          "description": "Formatkenntnis, Zeitmanagement, Musterprüfungen."
-        }
+        { "id": "B1-1", "title": "Präsens & Perfekt kombinieren", "description": "Gegenwart und Vergangenheit im Gespräch mischen." },
+        { "id": "B1-2", "title": "Präteritum häufiger Verben", "description": "war, hatte, sagte, ging sicher verwenden." },
+        { "id": "B1-3", "title": "Plusquamperfekt bilden", "description": "Vorvergangenheit kurz erklären." },
+        { "id": "B1-4", "title": "Erzählzeiten abstimmen", "description": "Zeitwechsel in Geschichten kontrollieren." },
+        { "id": "B1-5", "title": "Futur I bilden", "description": "Absichten und Planungen ausdrücken." },
+        { "id": "B1-6", "title": "Futur I Vermutungen", "description": "Vermutungen und Prognosen formulieren." },
+        { "id": "B1-7", "title": "Konjunktiv II mit würde", "description": "Wünsche und höfliche Bitten äußern." },
+        { "id": "B1-8", "title": "Konjunktiv II der Modalverben", "description": "könnte, müsste, dürfte differenziert einsetzen." },
+        { "id": "B1-9", "title": "Irreale wenn-Sätze", "description": "Hypothetische Situationen beschreiben." },
+        { "id": "B1-10", "title": "Passiv Präsens", "description": "Prozesse objektiv darstellen." },
+        { "id": "B1-11", "title": "Passiv Präteritum", "description": "Vergangene Abläufe neutral berichten." },
+        { "id": "B1-12", "title": "Zustandspassiv", "description": "sein + Partizip II im Alltag nutzen." },
+        { "id": "B1-13", "title": "Nebensatz obwohl", "description": "Kontraste mit Verbendstellung formulieren." },
+        { "id": "B1-14", "title": "Nebensatz damit", "description": "Ziele und Absichten beschreiben." },
+        { "id": "B1-15", "title": "Nebensatz sodass", "description": "Folgen und Ergebnisse erklären." },
+        { "id": "B1-16", "title": "Nebensatz während", "description": "Gleichzeitigkeit und Gegensatz ausdrücken." },
+        { "id": "B1-17", "title": "Relativsatz im Dativ", "description": "mit dem/der/den Personen & Dingen beschreiben." },
+        { "id": "B1-18", "title": "Relativsatz im Genitiv", "description": "dessen/deren für Besitz anwenden." },
+        { "id": "B1-19", "title": "Nominalisierung von Verben", "description": "das Lernen, beim Kochen etc. bilden." },
+        { "id": "B1-20", "title": "Komposita bilden", "description": "Hauptwortketten sinnvoll zusammensetzen." },
+        { "id": "B1-21", "title": "Adjektivdeklination wiederholen", "description": "Alle Fälle strukturiert auffrischen." },
+        { "id": "B1-22", "title": "Wortschatz Bewerbung", "description": "Lebenslauf, Fähigkeiten, Motivation präsentieren." },
+        { "id": "B1-23", "title": "Wortschatz Arbeitsplatz", "description": "Aufgaben, Teams, Projekte beschreiben." },
+        { "id": "B1-24", "title": "Wortschatz Behörden", "description": "Ämtergänge und Formalitäten bewältigen." },
+        { "id": "B1-25", "title": "Wortschatz Umwelt & Konsum", "description": "Nachhaltigkeit und Verbrauch diskutieren." },
+        { "id": "B1-26", "title": "Argumente strukturieren", "description": "Pro/Contra klar ordnen." },
+        { "id": "B1-27", "title": "Meinung begründen", "description": "Zustimmen und widersprechen mit Redemitteln." },
+        { "id": "B1-28", "title": "Gegensätze formulieren", "description": "Einerseits… andererseits… einsetzen." },
+        { "id": "B1-29", "title": "Grafiken beschreiben Einstieg", "description": "Aufbau und Überblick liefern." },
+        { "id": "B1-30", "title": "Prozentangaben sprachlich", "description": "Anteile präzise erläutern." },
+        { "id": "B1-31", "title": "Lesestrategie global", "description": "Kerngedanken schnell erfassen." },
+        { "id": "B1-32", "title": "Lesestrategie selektiv", "description": "Gezielt nach Informationen suchen." },
+        { "id": "B1-33", "title": "Hörstrategie Notizen", "description": "Stichpunkte effektiv festhalten." },
+        { "id": "B1-34", "title": "Schreiben formelle E-Mail", "description": "Anrede, Anliegen, Schlussformel korrekt." },
+        { "id": "B1-35", "title": "Schreiben Bericht", "description": "Gliederung und neutralen Stil üben." },
+        { "id": "B1-36", "title": "Sprechen Erfahrungsbericht", "description": "Erlebnisse strukturiert erzählen." },
+        { "id": "B1-37", "title": "Sprechen Diskussion", "description": "Argumentieren und reagieren im Dialog." },
+        { "id": "B1-38", "title": "Präsentation Einstieg", "description": "Thema vorstellen und Ziel nennen." },
+        { "id": "B1-39", "title": "Präsentation Übergänge", "description": "Zwischenpunkte elegant verbinden." },
+        { "id": "B1-40", "title": "Präsentation Schluss", "description": "Kernbotschaft zusammenfassen und danken." },
+        { "id": "B1-41", "title": "Fehleranalyse Wortstellung", "description": "Verbposition in Haupt- und Nebensätzen prüfen." },
+        { "id": "B1-42", "title": "Fehleranalyse Passiv", "description": "werde/wurde und Partizip korrekt kombinieren." },
+        { "id": "B1-43", "title": "Prüfung Hören Training", "description": "Aufgabenformate gezielt simulieren." },
+        { "id": "B1-44", "title": "Prüfung Schreiben Training", "description": "Zeitplan für Textproduktion erproben." },
+        { "id": "B1-45", "title": "Prüfung Sprechen Training", "description": "Partnerinteraktion und Monolog üben." }
       ]
     },
     {
       "id": "B2",
       "title": "Fortgeschrittene Sprachverwendung (B2)",
       "chapters": [
-        {
-          "id": "B2-1",
-          "title": "Satzkomplexität & Konnektoren",
-          "description": "Kausale, konzessive, konsekutive, finale, modale Verknüpfungen."
-        },
-        {
-          "id": "B2-2",
-          "title": "Verbvalenz & Rektion",
-          "description": "Verben mit festen Präpositionen; Bedeutungsunterschiede."
-        },
-        {
-          "id": "B2-3",
-          "title": "Passivvarianten & Alternativen",
-          "description": "Man-Form, lassen, sich-Passiv; stilistische Wahl."
-        },
-        {
-          "id": "B2-4",
-          "title": "Konjunktiv I & indirekte Rede",
-          "description": "Berichten, Distanz markieren, Quellenangaben."
-        },
-        {
-          "id": "B2-5",
-          "title": "Nominalstil & Verdichtung",
-          "description": "Dichte Fachtexte verstehen/produzieren, Präpositionalgruppen."
-        },
-        {
-          "id": "B2-6",
-          "title": "Wortbildung B2",
-          "description": "Präfixe/Suffixe, Bedeutungsnuancen, Wortfamilien."
-        },
-        {
-          "id": "B2-7",
-          "title": "Stil & Register",
-          "description": "Formell vs. informell, höflich vs. direkt, textsortengerecht."
-        },
-        {
-          "id": "B2-8",
-          "title": "Diskutieren & Verhandeln",
-          "description": "Nuanciert zustimmen/ablehnen, Vorschläge aushandeln."
-        },
-        {
-          "id": "B2-9",
-          "title": "Akademischer Wortschatz",
-          "description": "Definitionen, Beispiele, Ursache-Wirkung, Vergleich/Übertragung."
-        },
-        {
-          "id": "B2-10",
-          "title": "Berufskommunikation",
-          "description": "Meetings, Berichte, E-Mail-Etikette, Feedback geben."
-        },
-        {
-          "id": "B2-11",
-          "title": "Diagramme & Studien",
-          "description": "Daten präzise interpretieren und präsentieren."
-        },
-        {
-          "id": "B2-12",
-          "title": "Kohärenz & Kohäsion",
-          "description": "Themenentfaltung, Rückbezüge, Absatzlogik."
-        },
-        {
-          "id": "B2-13",
-          "title": "Aussprachefeinheiten",
-          "description": "Wortakzent, Satzmelodie, Reduktionen im schnellen Sprechen."
-        },
-        {
-          "id": "B2-14",
-          "title": "Fehleranalyse B2",
-          "description": "Feinheiten bei Kasus/Artikel, Verbzweit, Mehrfachnebensätze."
-        },
-        {
-          "id": "B2-15",
-          "title": "Prüfungsvorbereitung B2",
-          "description": "Aufgabentypen, Strategien, simulierte Prüfungen."
-        }
+        { "id": "B2-1", "title": "Konnektoren kausal", "description": "denn, weil, da für Begründungen variieren." },
+        { "id": "B2-2", "title": "Konnektoren konzessiv", "description": "obwohl, obgleich, trotzdem effektiv nutzen." },
+        { "id": "B2-3", "title": "Konnektoren final & konsekutiv", "description": "damit, um…zu, sodass präzise setzen." },
+        { "id": "B2-4", "title": "Verbvalenz verstehen", "description": "Ergänzungen und Satzklammer planen." },
+        { "id": "B2-5", "title": "Feste Präpositionen Gruppe A", "description": "sich freuen auf, warten auf, teilnehmen an." },
+        { "id": "B2-6", "title": "Feste Präpositionen Gruppe B", "description": "abhängig von, zuständig für, verantwortlich für." },
+        { "id": "B2-7", "title": "Passivvarianten: man-Form", "description": "Unpersönliche Aussagen elegant formulieren." },
+        { "id": "B2-8", "title": "Passivvarianten: lassen & sich", "description": "sich erledigen lassen und ähnliches einsetzen." },
+        { "id": "B2-9", "title": "Indirekte Rede: Konjunktiv I", "description": "Formen bilden und Anwenden begründen." },
+        { "id": "B2-10", "title": "Indirekte Rede: Zeiten", "description": "Zeitenfolge und Ersatzformen klären." },
+        { "id": "B2-11", "title": "Nominalstil umformen", "description": "Verben in prägnante Nominalphrasen verwandeln." },
+        { "id": "B2-12", "title": "Präpositionalgruppen verdichten", "description": "lange Attribute verständlich strukturieren." },
+        { "id": "B2-13", "title": "Wortbildung mit Präfixen", "description": "ver-, über-, um- differenziert einsetzen." },
+        { "id": "B2-14", "title": "Wortbildung mit Suffixen", "description": "-heit, -keit, -ung, -bar kreativ nutzen." },
+        { "id": "B2-15", "title": "Register formal vs. informell", "description": "Sprachwahl an Zielgruppe anpassen." },
+        { "id": "B2-16", "title": "Register diplomatisch", "description": "Höflichkeitsstrategien in Kritik und Feedback." },
+        { "id": "B2-17", "title": "Diskutieren nuanciert zustimmen", "description": "Teilweises Einverständnis elegant formulieren." },
+        { "id": "B2-18", "title": "Verhandeln & Kompromisse", "description": "Vorschläge entwickeln und Lösungen finden." },
+        { "id": "B2-19", "title": "Akademischer Wortschatz: Definitionen", "description": "Begriffe erläutern und Beispiele geben." },
+        { "id": "B2-20", "title": "Akademischer Wortschatz: Vergleiche", "description": "Analogien und Gegenüberstellungen ausbauen." },
+        { "id": "B2-21", "title": "Berufskommunikation Meetings", "description": "Agenden, Beiträge, Entscheidungen moderieren." },
+        { "id": "B2-22", "title": "Berufskommunikation Feedback", "description": "Konstruktiv loben und kritisieren." },
+        { "id": "B2-23", "title": "Diagramme beschreiben", "description": "Trends klar benennen und kommentieren." },
+        { "id": "B2-24", "title": "Studien interpretieren", "description": "Schlussfolgerungen sprachlich absichern." },
+        { "id": "B2-25", "title": "Kohärenz Thema-Rhema", "description": "Informationsfluss pro Absatz planen." },
+        { "id": "B2-26", "title": "Kohäsion Rückbezüge", "description": "Pronomen, Synonyme, Wiederaufnahmen steuern." },
+        { "id": "B2-27", "title": "Aussprache Wortakzent", "description": "Mehrsilbige Wörter sicher betonen." },
+        { "id": "B2-28", "title": "Aussprache Satzmelodie", "description": "Fragen, Aussagen und Aufzählungen variieren." },
+        { "id": "B2-29", "title": "Fehleranalyse Kasusfeinheiten", "description": "Genauigkeit bei Artikeln und Präpositionen erhöhen." },
+        { "id": "B2-30", "title": "Fehleranalyse Verbzweit & Nebensätze", "description": "Lange Sätze auf Struktur prüfen." },
+        { "id": "B2-31", "title": "Prüfung hören Strategie", "description": "Schlüsselwörter und Notizen fokussieren." },
+        { "id": "B2-32", "title": "Prüfung lesen Strategie", "description": "Aufgabentypen effizient bearbeiten." },
+        { "id": "B2-33", "title": "Prüfung schreiben Vorbereitung", "description": "Essays planen, Argumente ordnen." },
+        { "id": "B2-34", "title": "Prüfung sprechen Vorbereitung", "description": "Strukturierte Beiträge spontan liefern." },
+        { "id": "B2-35", "title": "Prüfung Reflexion", "description": "Eigene Leistung einschätzen und verbessern." }
       ]
     },
     {
       "id": "C1",
       "title": "Fortgeschrittene Kenntnisse (C1)",
       "chapters": [
-        {
-          "id": "C1-1",
-          "title": "Stilsicherheit & Nuancen",
-          "description": "Ironie, Implikaturen, idiomatische Wendungen sicher verstehen/anwenden."
-        },
-        {
-          "id": "C1-2",
-          "title": "Komplexe Syntax",
-          "description": "Mehrfach eingebettete Nebensätze, Partizipial-/Infinitivkonstruktionen."
-        },
-        {
-          "id": "C1-3",
-          "title": "Konjunktiv & Distanzierung",
-          "description": "Konjunktiv I/II differenziert; Hedges, Vorsichtsformulierungen."
-        },
-        {
-          "id": "C1-4",
-          "title": "Argumentation auf hohem Niveau",
-          "description": "Thesen entwickeln, Gegenargumente antizipieren, Evidenz bewerten."
-        },
-        {
-          "id": "C1-5",
-          "title": "Wissenschaftliche Textsorten",
-          "description": "Abstract, Einleitung, Diskussion, Fazit; Zitierweisen."
-        },
-        {
-          "id": "C1-6",
-          "title": "Fachsprache & Registerwechsel",
-          "description": "Domänenspezifischer Wortschatz, präzise Terminologie, Registeranpassung."
-        },
-        {
-          "id": "C1-7",
-          "title": "Diskurs & Rhetorik",
-          "description": "Redestrategien, Metadiskurs, rhetorische Figuren."
-        },
-        {
-          "id": "C1-8",
-          "title": "Feinsinnige Kohäsion",
-          "description": "Anaphern, Ellipsen, Substitution, Thema-Rhema-Progression."
-        },
-        {
-          "id": "C1-9",
-          "title": "Stilistische Überarbeitung",
-          "description": "Redundanz vermeiden, Präzision steigern, Textökonomie."
-        },
-        {
-          "id": "C1-10",
-          "title": "Interkulturelle Pragmatik",
-          "description": "Höflichkeitsnormen, indirekte Sprechakte, Smalltalk vs. Fachgespräch."
-        },
-        {
-          "id": "C1-11",
-          "title": "Hören/Lesen auf C1",
-          "description": "Schnelles Erfassen komplexer Vorträge und längerer Fachtexte."
-        },
-        {
-          "id": "C1-12",
-          "title": "Schreiben C1",
-          "description": "Kohärente, gut strukturierte Essays/Reports mit starker Argumentationslinie."
-        },
-        {
-          "id": "C1-13",
-          "title": "Sprechen C1",
-          "description": "Flüssige, nuancierte Beiträge, spontane Präzisierung und Selbstkorrektur."
-        },
-        {
-          "id": "C1-14",
-          "title": "Prüfungsvorbereitung C1",
-          "description": "Aufgabenanalyse, Zeitplanung, Prüfungsrhetorik, Probe-Performances."
-        }
+        { "id": "C1-1", "title": "Ironie erkennen", "description": "Tonfall und Kontext für Ironie deuten." },
+        { "id": "C1-2", "title": "Implikaturen verstehen", "description": "Unausgesprochenes sicher erschließen." },
+        { "id": "C1-3", "title": "Idiomatische Wendungen", "description": "Redewendungen gezielt einsetzen." },
+        { "id": "C1-4", "title": "Komplexe Satzklammer", "description": "Mehrfach eingebettete Strukturen auflösen." },
+        { "id": "C1-5", "title": "Partizipialkonstruktionen aktiv", "description": "Partizip I/II zur Verdichtung nutzen." },
+        { "id": "C1-6", "title": "Infinitivkonstruktionen mit zu", "description": "Satzverkürzungen elegant formulieren." },
+        { "id": "C1-7", "title": "Konjunktiv I differenziert", "description": "Distanz in Berichten markieren." },
+        { "id": "C1-8", "title": "Konjunktiv II Nuancen", "description": "Höfliche Distanz und Irrealität abstufen." },
+        { "id": "C1-9", "title": "Hedges formulieren", "description": "Behutsame Einschätzungen und Einschränkungen." },
+        { "id": "C1-10", "title": "Argumentation: These", "description": "Kernbotschaften wirkungsvoll platzieren." },
+        { "id": "C1-11", "title": "Argumentation: Gegenargument", "description": "Einwände antizipieren und entkräften." },
+        { "id": "C1-12", "title": "Argumentation: Evidenz", "description": "Belege bewerten und einbetten." },
+        { "id": "C1-13", "title": "Wissenschaftlicher Abstract", "description": "Kurzfassung präzise formulieren." },
+        { "id": "C1-14", "title": "Wissenschaftliche Einleitung", "description": "Problemstellung und Zielsetzung darstellen." },
+        { "id": "C1-15", "title": "Wissenschaftliche Diskussion", "description": "Ergebnisse interpretieren und vernetzen." },
+        { "id": "C1-16", "title": "Wissenschaftliches Fazit", "description": "Schlussfolgerungen überzeugend ziehen." },
+        { "id": "C1-17", "title": "Fachsprache präzisieren", "description": "Terminologie klar definieren." },
+        { "id": "C1-18", "title": "Registerwechsel meistern", "description": "Zwischen Alltag und Fachsprache wechseln." },
+        { "id": "C1-19", "title": "Diskursstrategien strukturieren", "description": "Redebeiträge logisch aufbauen." },
+        { "id": "C1-20", "title": "Rhetorische Figuren", "description": "Metaphern, Anaphern, Antithesen nutzen." },
+        { "id": "C1-21", "title": "Kohäsion: Anaphern", "description": "Rückbezüge gezielt steuern." },
+        { "id": "C1-22", "title": "Kohäsion: Ellipsen & Substitution", "description": "Texte verdichten ohne Informationsverlust." },
+        { "id": "C1-23", "title": "Thema-Rhema-Progression", "description": "Informationsketten professionell planen." },
+        { "id": "C1-24", "title": "Stilüberarbeitung: Kürzen", "description": "Überflüssiges erkennen und streichen." },
+        { "id": "C1-25", "title": "Stilüberarbeitung: Präzision", "description": "Exakte Wortwahl und Nuancen feinjustieren." },
+        { "id": "C1-26", "title": "Interkulturelle Höflichkeit", "description": "Direktheitsgrade kulturangemessen wählen." },
+        { "id": "C1-27", "title": "Indirekte Sprechakte", "description": "Bitten und Kritik verschlüsselt äußern." },
+        { "id": "C1-28", "title": "Smalltalk vs. Fachgespräch", "description": "Situationsgerecht wechseln und reagieren." },
+        { "id": "C1-29", "title": "Hören: komplexer Vortrag", "description": "Kernelemente und Details notieren." },
+        { "id": "C1-30", "title": "Lesen: langer Fachtext", "description": "Argumentationslinien schnell erkennen." },
+        { "id": "C1-31", "title": "Schreiben C1: Gliederung", "description": "Abschnitte planen und strukturieren." },
+        { "id": "C1-32", "title": "Schreiben C1: Kohärenz", "description": "Übergänge und Leitfäden sichern." },
+        { "id": "C1-33", "title": "Sprechen C1: Spontan reagieren", "description": "Unvorbereitet präzise antworten." },
+        { "id": "C1-34", "title": "Sprechen C1: Rückfragen stellen", "description": "Vertiefende Fragen elegant formulieren." },
+        { "id": "C1-35", "title": "Prüfungsvorbereitung Analyse", "description": "Aufgabenformate detailliert verstehen." },
+        { "id": "C1-36", "title": "Prüfungsvorbereitung Zeitplan", "description": "Bearbeitungszeiten strategisch einteilen." },
+        { "id": "C1-37", "title": "Prüfungsvorbereitung Rhetorik", "description": "Überzeugende Darstellung und Stimme trainieren." }
       ]
     }
   ]

@@ -1,0 +1,509 @@
+/* ------------------ GLOBAL ------------------ */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    min-height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #F5F8FF;
+    /* background: linear-gradient(to bottom, #5533DC, #EEA8CF); */
+}
+
+/* ------------------ HEADER ------------------ */
+header {
+    padding: 20px 8%;
+    box-sizing: border-box;
+    width: 100%;
+
+}
+
+.progress-bar-container {
+    width: 100%;
+    height: 12px;
+    background-color: rgb(234, 234, 234);
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 12px;
+}
+
+.progress-bar-fill {
+    width: 0%;
+    height: 100%;
+    background-color: #4caf50;
+    transition: width 0.3s ease-in-out;
+}
+
+.fixed-slide-label {
+    display: flex;
+    /* align-items: left; */
+    gap: 6px;
+}
+
+.slide-label-icon {
+    width: 20px;
+    height: 20px;
+    /* filter: invert(29%) sepia(86%) saturate(4220%) hue-rotate(251deg) brightness(92%) contrast(89%); */
+}
+
+.slide-label-text {
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+    /* Gradient text */
+    background: linear-gradient(90deg, #7734D9, #5A37DC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* for Firefox */
+    color: transparent;
+
+}
+
+/* ------------------ MAIN / SLIDER ------------------ */
+main.slider-container {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    /* horizontal center */
+    align-items: flex-start;
+    /* top-align vertically */
+    padding: 0 5% 100px 5%;
+    /* bottom padding for footer */
+    position: relative;
+    overflow: hidden;
+    width: 90%;
+}
+
+.slider {
+    position: relative;
+    width: 100%;
+    height: 100%;
+
+}
+
+.slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    border-radius: 22px;
+    background: #fff;
+    box-sizing: border-box;
+    text-align: left;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.4s ease;
+    max-height: 100%;
+    overflow-y: auto;
+    background-color: white;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
+    /* scroll only inside slide if content too tall */
+}
+
+.slide.active {
+    position: relative;
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.slide-first {
+    /* background: none;
+    color: #fff; */
+    text-align: left;
+}
+
+.slide-first .slide-title,
+.slide-first .slide-description {
+    /* color: #fff; */
+
+}
+
+.slide .slide-title,
+.slide .slide-description {
+    text-align: left;
+}
+
+.slide-first .slide-title,
+.slide-first .slide-description {
+    /* if you want first slide still left-aligned, keep this; else remove */
+    text-align: left;
+   
+
+}
+
+
+.slide-description {
+    color: #70658B;
+
+}
+
+
+.lesson-info-container {
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #DED3F9;
+    border-radius: 12px;
+    background: linear-gradient(180deg, #FBFAFE 0%, #EBE6FC 100%);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+    box-sizing: border-box;
+    /* <- add this */
+
+}
+
+.lesson-info-container>div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    /* space between icon and text */
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+    /* grey divider */
+}
+
+.lesson-info-container>div:last-child {
+    border-bottom: none;
+    /* remove divider from last item */
+    padding-bottom: 0;
+}
+
+.lesson-icon {
+    width: 20px;
+    height: 20px;
+}
+
+
+
+/* ------------------ FOOTER ------------------ */
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 16px 5%;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    box-sizing: border-box;
+    transition: background 0.3s ease;
+    z-index: 10;
+    /*  make sure it's above slides */
+}
+
+footer .feedback-message {
+    font-weight: 600;
+    font-size: 16px;
+    text-align: left;
+}
+
+.start-lesson-btn {
+    width: 100%;
+    padding: 12px 0;
+    border-radius: 12px;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+    color: #fff;
+    background: linear-gradient(135deg, #7734D9 0%, #BA7CD8 100%);
+    transition: background 0.3s ease, transform 0.2s ease;
+    /* Add bottom border effect */
+    box-shadow: 0 0 12px  #894eff inset; 
+    border-bottom: 5px solid #5A2BB8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px; /* spacing between icon and text */
+    
+}
+
+.btn-icon {
+    width: 20px;
+    height: 20px;
+    background-color: rebeccapurple;
+}
+
+
+/* Correct / wrong states */
+footer.correct {
+    background-color: #DFF5E0;
+}
+
+footer.correct .feedback-message {
+    color: #4CAF50;
+}
+
+footer.correct .start-lesson-btn {
+    background-color: #4CAF50;
+}
+
+footer.wrong {
+    background-color: #FDE2E2;
+}
+
+footer.wrong .feedback-message {
+    color: #F44336;
+}
+
+footer.wrong .start-lesson-btn {
+    background-color: #F44336;
+}
+
+/* Practice number circle */
+.practice-number {
+    width: 32px;
+    height: 32px;
+    background: #B652E2;
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 12px auto;
+}
+
+/* Practice content */
+.german-sentence {
+    font-size: 18px;
+    font-weight: 600;
+    color: #333;
+}
+
+.english-translation {
+    font-size: 16px;
+    color: #888;
+}
+
+
+/* List container */
+.slide-content {
+    display: flex;
+    flex-direction: column;
+    /* gap: 8px; */
+    margin-top: 16px;
+    list-style: none;
+    padding: 0;
+    /* remove side padding */
+}
+.german-sentence,
+.english-translation {
+    margin: 0; /* removes default <p> spacing */
+}
+
+.german-sentence {
+    margin-bottom: 6px; /* just a small gap */
+}
+
+/* List items */
+.slide-content li {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd;
+    /* subtle divider */
+    /* gap: 12px; */
+    /* spacing between left and right */
+    line-height: 1.5;
+}
+
+/* Left label */
+.slide-content li .left {
+    /* flex: 0 0 150px; */
+    /* fixed width for label */
+    font-weight: 600;
+    color: #7734D9;
+}
+
+/* Alternating left label color (grey variant) */
+.slide-content li .left.grey {
+    color: #888;
+}
+
+/* Right content */
+.slide-content li .right {
+    flex: 1;
+    /* take remaining width */
+    color: #444;
+}
+
+/* Right content grey text */
+.slide-content li .right.grey {
+    color: #888;
+}
+
+/* Optional: responsive wrap for small screens */
+@media (max-width: 480px) {
+    .slide-content li {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .slide-content li .left {
+        flex: none;
+        margin-bottom: 4px;
+    }
+
+    .slide-content li .right {
+        flex: none;
+    }
+}
+
+
+
+
+.practice-answers {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    gap: 12px;
+    /* padding: 0 10px; */
+}
+
+.fill-the-field{
+    
+    padding-right : 12px;
+    font-size: 22px;
+    
+    /* padding: 0 10px; */
+}
+
+/* Answer card */
+.answer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 12px 16px;
+    border: 2px solid #ccc;
+    /* default grey border */
+    border-radius: 12px;
+    cursor: pointer;
+    background: #f9f9f9;
+    /* default background */
+    font-size: 16px;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    position: relative;
+}
+
+/* Hover effect */
+.answer:hover {
+    border-color: #999;
+}
+
+/* Custom radio button */
+.answer::after {
+    content: "";
+    width: 18px;
+    height: 18px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    background: #eee;
+    flex-shrink: 0;
+    margin-left: 12px;
+    transition: all 0.2s ease;
+}
+
+/* Selected correct answer */
+.answer.selected.correct {
+    border-color: #4CAF50;
+    /* green stroke */
+    background-color: #DFF5E0;
+    /* soft green bg */
+    color: #4CAF50;
+    /* green text */
+}
+
+.answer.selected.correct::after {
+    background-color: #4CAF50;
+    /* filled green circle */
+    border-color: #4CAF50;
+    /* circle stroke green */
+}
+
+/* Selected wrong answer */
+.answer.selected.wrong {
+    border-color: #F44336;
+    /* red stroke */
+    background-color: #FDE2E2;
+    /* soft red bg */
+    color: #F44336;
+    /* red text */
+}
+
+.answer.selected.wrong::after {
+    background-color: #F44336;
+    /* filled red circle */
+    border-color: #F44336;
+    /* circle stroke red */
+}
+
+
+/* Shake animation for wrong answers */
+@keyframes shake {
+    0% {
+        transform: translateX(0);
+    }
+
+    20% {
+        transform: translateX(-5px);
+    }
+
+    40% {
+        transform: translateX(5px);
+    }
+
+    60% {
+        transform: translateX(-5px);
+    }
+
+    80% {
+        transform: translateX(5px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.answer.wrong.shake {
+    animation: shake 0.4s ease;
+}
+
+
+.answer-zone {
+    min-height: 40px;
+    margin: 10px 0;
+    border: 2px dashed #aaa;
+    border-radius: 8px;
+    padding: 10px;
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    background: #fafafa;
+}
+
+.word-bank {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.word {
+    padding: 6px 10px;
+    background: #e0e0e0;
+    border-radius: 6px;
+    cursor: grab;
+    user-select: none;
+}
+
+.word.dragging {
+    opacity: 0.5;
+}

@@ -291,8 +291,9 @@ function styleFooterButton(color) {
 }
 
 function playSound(audio) {
+    if (!audioUnlocked) return; // prevent playing before unlock
     audio.currentTime = 0;
-    audio.play();
+    audio.play().catch(() => { }); // catch promise to prevent errors
 }
 
 /* -----------------------------
@@ -371,7 +372,23 @@ startLessonBtn.addEventListener('click', () => {
         console.log("Lesson finished ✅");
     }
 });
+// Audio unlock for iOS WebView
+let audioUnlocked = false;
+function unlockAudio() {
+    if (audioUnlocked) return;
 
+    correctSound.play().catch(() => { });
+    wrongSound.play().catch(() => { });
+    correctSound.pause();
+    correctSound.currentTime = 0;
+    wrongSound.pause();
+    wrongSound.currentTime = 0;
+
+    audioUnlocked = true;
+}
+
+// Listen for first tap anywhere
+document.body.addEventListener('click', unlockAudio, { once: true });
 /* -----------------------------
    INIT
 ----------------------------- */

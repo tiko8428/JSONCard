@@ -104,7 +104,8 @@ function setupPracticeAnswers() {
                     feedbackMessage.textContent = "✅ Excellent!";
                     styleFooterButton("#4CAF50");
                     playSound(correctSound);
-                } else {
+                } 
+                else {
                     answer.classList.add('wrong');
                     footer.classList.add('wrong');
                     feedbackMessage.innerHTML = `❌ Incorrect!<br>Correct Answer: <strong>${correctAnswer.textContent}</strong>`;
@@ -122,102 +123,127 @@ function setupPracticeAnswers() {
 /* -----------------------------
    DRAG/DROP SETUP
 ----------------------------- */
-function setupDragDropPractices() {
+
+function setupClickToAnswerPractices() {
     const dragDropSlides = document.querySelectorAll('.slide[data-type="dragdrop"]');
 
     dragDropSlides.forEach(slide => {
         const words = slide.querySelectorAll('.word');
         const answerZone = slide.querySelector('.answer-zone');
 
-        const originalParents = new Map();
-        words.forEach(word => originalParents.set(word, word.parentElement));
+        // Clear previous words in answer zone
+        slide._resetWords = () => {
+            words.forEach(word => slide.appendChild(word));
+        };
 
         words.forEach(word => {
-            let isDragging = false;
-            let offsetX = 0;
-            let offsetY = 0;
+            word.style.cursor = 'pointer'; // indicate clickability
 
-            const startDrag = (x, y) => {
-                const rect = word.getBoundingClientRect();
-                offsetX = x - rect.left;
-                offsetY = y - rect.top;
-
-                isDragging = true;
-                word.style.position = 'absolute';
-                word.style.zIndex = 1000;
-                word.style.width = `${rect.width}px`; // preserve width
-                word.style.pointerEvents = 'none'; // prevent blocking pointer
-            };
-
-            const moveDrag = (x, y) => {
-                if (!isDragging) return;
-                word.style.left = `${x - offsetX}px`;
-                word.style.top = `${y - offsetY}px`;
-            };
-
-            const endDrag = () => {
-                if (!isDragging) return;
-                isDragging = false;
-
-                const wordRect = word.getBoundingClientRect();
-                const answerRect = answerZone.getBoundingClientRect();
-
-                if (
-                    wordRect.left + wordRect.width / 2 > answerRect.left &&
-                    wordRect.right - wordRect.width / 2 < answerRect.right &&
-                    wordRect.top + wordRect.height / 2 > answerRect.top &&
-                    wordRect.bottom - wordRect.height / 2 < answerRect.bottom
-                ) {
-                    answerZone.appendChild(word);
-                } else {
-                    const parent = originalParents.get(word);
-                    if (parent) parent.appendChild(word);
-                }
-
-                word.style.position = '';
-                word.style.left = '';
-                word.style.top = '';
-                word.style.zIndex = '';
-                word.style.width = '';
-                word.style.pointerEvents = '';
-            };
-
-            // Desktop mouse
-            word.addEventListener('mousedown', e => {
-                e.preventDefault();
-                startDrag(e.clientX, e.clientY);
-
-                const onMouseMove = e => moveDrag(e.clientX, e.clientY);
-                const onMouseUp = e => {
-                    endDrag();
-                    document.removeEventListener('mousemove', onMouseMove);
-                    document.removeEventListener('mouseup', onMouseUp);
-                };
-
-                document.addEventListener('mousemove', onMouseMove);
-                document.addEventListener('mouseup', onMouseUp);
-            });
-
-            // Mobile touch
-            word.addEventListener('touchstart', e => {
-                e.preventDefault();
-                const touch = e.touches[0];
-                startDrag(touch.clientX, touch.clientY);
-            });
-
-            word.addEventListener('touchmove', e => {
-                e.preventDefault();
-                const touch = e.touches[0];
-                moveDrag(touch.clientX, touch.clientY);
-            });
-
-            word.addEventListener('touchend', e => {
-                e.preventDefault();
-                endDrag();
+            word.addEventListener('click', () => {
+                // Move clicked word to answer zone
+                answerZone.appendChild(word);
             });
         });
     });
 }
+
+
+// function setupDragDropPractices() {
+//     const dragDropSlides = document.querySelectorAll('.slide[data-type="dragdrop"]');
+
+//     dragDropSlides.forEach(slide => {
+//         const words = slide.querySelectorAll('.word');
+//         const answerZone = slide.querySelector('.answer-zone');
+
+//         const originalParents = new Map();
+//         words.forEach(word => originalParents.set(word, word.parentElement));
+
+//         words.forEach(word => {
+//             let isDragging = false;
+//             let offsetX = 0;
+//             let offsetY = 0;
+
+//             const startDrag = (x, y) => {
+//                 const rect = word.getBoundingClientRect();
+//                 offsetX = x - rect.left;
+//                 offsetY = y - rect.top;
+
+//                 isDragging = true;
+//                 word.style.position = 'absolute';
+//                 word.style.zIndex = 1000;
+//                 word.style.width = `${rect.width}px`; // preserve width
+//                 word.style.pointerEvents = 'none'; // prevent blocking pointer
+//             };
+
+//             const moveDrag = (x, y) => {
+//                 if (!isDragging) return;
+//                 word.style.left = `${x - offsetX}px`;
+//                 word.style.top = `${y - offsetY}px`;
+//             };
+
+//             const endDrag = () => {
+//                 if (!isDragging) return;
+//                 isDragging = false;
+
+//                 const wordRect = word.getBoundingClientRect();
+//                 const answerRect = answerZone.getBoundingClientRect();
+
+//                 if (
+//                     wordRect.left + wordRect.width / 2 > answerRect.left &&
+//                     wordRect.right - wordRect.width / 2 < answerRect.right &&
+//                     wordRect.top + wordRect.height / 2 > answerRect.top &&
+//                     wordRect.bottom - wordRect.height / 2 < answerRect.bottom
+//                 ) {
+//                     answerZone.appendChild(word);
+//                 } else {
+//                     const parent = originalParents.get(word);
+//                     if (parent) parent.appendChild(word);
+//                 }
+
+//                 word.style.position = '';
+//                 word.style.left = '';
+//                 word.style.top = '';
+//                 word.style.zIndex = '';
+//                 word.style.width = '';
+//                 word.style.pointerEvents = '';
+//             };
+
+//             // Desktop mouse
+//             word.addEventListener('mousedown', e => {
+//                 e.preventDefault();
+//                 startDrag(e.clientX, e.clientY);
+
+//                 const onMouseMove = e => moveDrag(e.clientX, e.clientY);
+//                 const onMouseUp = e => {
+//                     endDrag();
+//                     document.removeEventListener('mousemove', onMouseMove);
+//                     document.removeEventListener('mouseup', onMouseUp);
+//                 };
+
+//                 document.addEventListener('mousemove', onMouseMove);
+//                 document.addEventListener('mouseup', onMouseUp);
+//             });
+
+//             // Mobile touch
+//             word.addEventListener('touchstart', e => {
+//                 e.preventDefault();
+//                 const touch = e.touches[0];
+//                 startDrag(touch.clientX, touch.clientY);
+//             });
+
+//             word.addEventListener('touchmove', e => {
+//                 e.preventDefault();
+//                 const touch = e.touches[0];
+//                 moveDrag(touch.clientX, touch.clientY);
+//             });
+
+//             word.addEventListener('touchend', e => {
+//                 e.preventDefault();
+//                 endDrag();
+//             });
+//         });
+//     });
+// }
 
 
 
@@ -303,4 +329,5 @@ startLessonBtn.addEventListener('click', () => {
 ----------------------------- */
 updateSlider();
 setupPracticeAnswers();
-setupDragDropPractices();
+// setupDragDropPractices();
+setupClickToAnswerPractices();

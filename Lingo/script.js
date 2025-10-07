@@ -104,7 +104,7 @@ function setupPracticeAnswers() {
                     feedbackMessage.textContent = "✅ Excellent!";
                     styleFooterButton("#4CAF50");
                     playSound(correctSound);
-                } 
+                }
                 else {
                     answer.classList.add('wrong');
                     footer.classList.add('wrong');
@@ -131,21 +131,44 @@ function setupClickToAnswerPractices() {
         const words = slide.querySelectorAll('.word');
         const answerZone = slide.querySelector('.answer-zone');
 
-        // Clear previous words in answer zone
+        // Save original order
+        const originalOrder = Array.from(words);
+
+        // Reset function (keep order, clear answer zone)
         slide._resetWords = () => {
-            words.forEach(word => slide.appendChild(word));
+            answerZone.innerHTML = '';
+            originalOrder.forEach(word => {
+                word.classList.remove('selected-in-zone', 'correct', 'wrong');
+                word.style.display = ''; // show again
+            });
         };
 
         words.forEach(word => {
-            word.style.cursor = 'pointer'; // indicate clickability
+            word.style.cursor = 'pointer';
 
             word.addEventListener('click', () => {
-                // Move clicked word to answer zone
-                answerZone.appendChild(word);
+                // Check if word is already in answer zone
+                const inAnswer = word.classList.contains('selected-in-zone');
+
+                if (!inAnswer) {
+                    // Move to answer zone
+                    const clone = word.cloneNode(true);
+                    clone.addEventListener('click', () => {
+                        // Allow removing from answer zone
+                        clone.remove();
+                        word.style.display = ''; // show again in original place
+                        word.classList.remove('selected-in-zone');
+                    });
+                    answerZone.appendChild(clone);
+
+                    word.classList.add('selected-in-zone');
+                    word.style.display = 'none'; // hide from original
+                }
             });
         });
     });
 }
+
 
 
 // function setupDragDropPractices() {
@@ -285,6 +308,7 @@ startLessonBtn.addEventListener('click', () => {
             startLessonBtn.style.color = '';
 
             if (userSentence === normalizedCorrect) {
+                // ✅ Correct
                 footer.classList.add('correct');
                 feedbackMessage.textContent = "✅ Well done!";
                 styleFooterButton("#4CAF50");
@@ -292,15 +316,26 @@ startLessonBtn.addEventListener('click', () => {
                 startLessonBtn.dataset.state = 'next';
                 updateButtonText("Next");
             } else {
+                // ❌ Wrong
                 footer.classList.add('wrong');
-                feedbackMessage.innerHTML = `❌ Wrong!<br>Try again!`;
                 styleFooterButton("#F44336");
                 playSound(wrongSound);
 
-                answerZone.classList.add('shake');
-                answerZone.addEventListener('animationend', () => answerZone.classList.remove('shake'), { once: true });
+                // Show correct answer without moving original labels
+                answerZone.innerHTML = ''; // clear user's clones
+                const correctWords = correctSentence.split(' ');
+                correctWords.forEach(wordText => {
+                    const w = document.createElement('div');
+                    w.textContent = wordText;
+                    w.classList.add('word', 'correct');
+                    answerZone.appendChild(w);
+                });
 
-                if (typeof currentSlide._resetWords === 'function') currentSlide._resetWords();
+                feedbackMessage.innerHTML = `❌ Incorrect!<br>Correct Answer: <strong>${correctSentence}</strong>`;
+
+                // Allow moving forward
+                startLessonBtn.dataset.state = 'next';
+                updateButtonText("Next");
             }
             return;
         }
@@ -315,6 +350,7 @@ startLessonBtn.addEventListener('click', () => {
             return;
         }
     }
+
 
     if (currentIndex < slides.length - 1) {
         currentIndex++;

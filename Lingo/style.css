@@ -46,12 +46,21 @@ header {
 }
 
 .progress-bar-container {
-    width: 100%;
+    width: 90%;
     height: 12px;
+    /* Align to right while leaving left padding */
+    margin-left: auto;
+    /* pushes it to the right */
+    margin-right: 0;
     background-color: rgb(234, 234, 234);
     border-radius: 8px;
     overflow: hidden;
     margin-bottom: 12px;
+
+
+
+
+
 }
 
 .progress-bar-fill {

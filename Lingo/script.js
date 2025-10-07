@@ -120,6 +120,18 @@ function setupPracticeAnswers() {
     });
 }
 
+// Prevent zoom on Ctrl + wheel (trackpad pinch)
+window.addEventListener('wheel', function (e) {
+    if (e.ctrlKey) {
+        e.preventDefault();
+    }
+}, { passive: false });
+
+// Optional: prevent pinch gesture on touch devices
+window.addEventListener('gesturestart', function (e) {
+    e.preventDefault();
+});
+
 /* -----------------------------
    DRAG/DROP SETUP
 ----------------------------- */

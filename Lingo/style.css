@@ -225,12 +225,11 @@ main.slider-container {
 /* ------------------ FOOTER ------------------ */
 /* Footer fixed at the bottom */
 footer {
-     position: fixed;
+    position: fixed;
     bottom: 0;
     left: 0;
     width: 100%;
     padding: 16px 5% 36px 5%; /* add extra 20px at bottom */
-    background: #fff;
     display: flex;
     flex-direction: column;
     gap: 12px;

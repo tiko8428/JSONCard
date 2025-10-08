@@ -293,7 +293,7 @@ function styleFooterButton(color) {
 function playSound(audio) {
     if (!audioUnlocked) return; // prevent playing before unlock
     audio.currentTime = 0;
-    audio.play().catch(() => { }); // catch promise to prevent errors
+    audio.play().catch(() => { }); // catch promise to prevent errorsgit 
 }
 
 /* -----------------------------

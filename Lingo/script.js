@@ -135,7 +135,6 @@ window.addEventListener('gesturestart', function (e) {
 /* -----------------------------
    DRAG/DROP SETUP
 ----------------------------- */
-
 function setupClickToAnswerPractices() {
     const dragDropSlides = document.querySelectorAll('.slide[data-type="dragdrop"]');
 
@@ -166,121 +165,19 @@ function setupClickToAnswerPractices() {
                     // Move to answer zone
                     const clone = word.cloneNode(true);
                     clone.addEventListener('click', () => {
-                        // Allow removing from answer zone
                         clone.remove();
-                        word.style.display = ''; // show again in original place
+                        word.style.display = '';
                         word.classList.remove('selected-in-zone');
                     });
                     answerZone.appendChild(clone);
 
                     word.classList.add('selected-in-zone');
-                    word.style.display = 'none'; // hide from original
+                    word.style.display = 'none';
                 }
             });
         });
     });
 }
-
-
-
-// function setupDragDropPractices() {
-//     const dragDropSlides = document.querySelectorAll('.slide[data-type="dragdrop"]');
-
-//     dragDropSlides.forEach(slide => {
-//         const words = slide.querySelectorAll('.word');
-//         const answerZone = slide.querySelector('.answer-zone');
-
-//         const originalParents = new Map();
-//         words.forEach(word => originalParents.set(word, word.parentElement));
-
-//         words.forEach(word => {
-//             let isDragging = false;
-//             let offsetX = 0;
-//             let offsetY = 0;
-
-//             const startDrag = (x, y) => {
-//                 const rect = word.getBoundingClientRect();
-//                 offsetX = x - rect.left;
-//                 offsetY = y - rect.top;
-
-//                 isDragging = true;
-//                 word.style.position = 'absolute';
-//                 word.style.zIndex = 1000;
-//                 word.style.width = `${rect.width}px`; // preserve width
-//                 word.style.pointerEvents = 'none'; // prevent blocking pointer
-//             };
-
-//             const moveDrag = (x, y) => {
-//                 if (!isDragging) return;
-//                 word.style.left = `${x - offsetX}px`;
-//                 word.style.top = `${y - offsetY}px`;
-//             };
-
-//             const endDrag = () => {
-//                 if (!isDragging) return;
-//                 isDragging = false;
-
-//                 const wordRect = word.getBoundingClientRect();
-//                 const answerRect = answerZone.getBoundingClientRect();
-
-//                 if (
-//                     wordRect.left + wordRect.width / 2 > answerRect.left &&
-//                     wordRect.right - wordRect.width / 2 < answerRect.right &&
-//                     wordRect.top + wordRect.height / 2 > answerRect.top &&
-//                     wordRect.bottom - wordRect.height / 2 < answerRect.bottom
-//                 ) {
-//                     answerZone.appendChild(word);
-//                 } else {
-//                     const parent = originalParents.get(word);
-//                     if (parent) parent.appendChild(word);
-//                 }
-
-//                 word.style.position = '';
-//                 word.style.left = '';
-//                 word.style.top = '';
-//                 word.style.zIndex = '';
-//                 word.style.width = '';
-//                 word.style.pointerEvents = '';
-//             };
-
-//             // Desktop mouse
-//             word.addEventListener('mousedown', e => {
-//                 e.preventDefault();
-//                 startDrag(e.clientX, e.clientY);
-
-//                 const onMouseMove = e => moveDrag(e.clientX, e.clientY);
-//                 const onMouseUp = e => {
-//                     endDrag();
-//                     document.removeEventListener('mousemove', onMouseMove);
-//                     document.removeEventListener('mouseup', onMouseUp);
-//                 };
-
-//                 document.addEventListener('mousemove', onMouseMove);
-//                 document.addEventListener('mouseup', onMouseUp);
-//             });
-
-//             // Mobile touch
-//             word.addEventListener('touchstart', e => {
-//                 e.preventDefault();
-//                 const touch = e.touches[0];
-//                 startDrag(touch.clientX, touch.clientY);
-//             });
-
-//             word.addEventListener('touchmove', e => {
-//                 e.preventDefault();
-//                 const touch = e.touches[0];
-//                 moveDrag(touch.clientX, touch.clientY);
-//             });
-
-//             word.addEventListener('touchend', e => {
-//                 e.preventDefault();
-//                 endDrag();
-//             });
-//         });
-//     });
-// }
-
-
 
 /* -----------------------------
    HELPERS
@@ -291,9 +188,9 @@ function styleFooterButton(color) {
 }
 
 function playSound(audio) {
-    if (!audioUnlocked) return; // prevent playing before unlock
+    if (!audioUnlocked) return;
     audio.currentTime = 0;
-    audio.play().catch(() => { }); // catch promise to prevent errorsgit 
+    audio.play().catch(() => { });
 }
 
 /* -----------------------------
@@ -307,18 +204,23 @@ startLessonBtn.addEventListener('click', () => {
         const correctSentence = currentSlide.dataset.correctSentence?.trim();
 
         if (startLessonBtn.dataset.state === 'check') {
-            // Get user words
-            const userWords = Array.from(answerZone.querySelectorAll('.word'))
-                .map(w => w.textContent.replace(/\u00A0/g, ' ').trim().toLowerCase());
+            function normalizeAnswer(str) {
+                return str
+                    .replace(/[.,!?]/g, '')
+                    .replace(/\s+/g, ' ')
+                    .trim()
+                    .toLowerCase();
+            }
 
-            // Get correct words
-            const correctWords = (correctSentence || "").split(' ').map(w => w.toLowerCase());
+            // ✅ FIXED: read words individually in order
+            const userAnswer = Array.from(answerZone.children)
+                .map(child => child.textContent.trim())
+                .join(' ');
 
-            // Compare arrays
-            const isCorrect = userWords.length === correctWords.length &&
-                userWords.every((w, i) => w === correctWords[i]);
+            const normalizedUserAnswer = normalizeAnswer(userAnswer);
+            const normalizedCorrect = normalizeAnswer(correctSentence);
 
-            if (isCorrect) {
+            if (normalizedUserAnswer === normalizedCorrect && normalizedUserAnswer !== "") {
                 // ✅ Correct
                 footer.classList.add('correct');
                 feedbackMessage.textContent = "✅ Well done!";
@@ -332,10 +234,9 @@ startLessonBtn.addEventListener('click', () => {
                 styleFooterButton("#F44336");
                 playSound(wrongSound);
 
-                // Show correct answer without moving original labels
-                answerZone.innerHTML = ''; // clear user's clones
-                const correctWords = correctSentence.split(' ');
-                correctWords.forEach(wordText => {
+                // Show correct answer
+                answerZone.innerHTML = '';
+                correctSentence.split(' ').forEach(wordText => {
                     const w = document.createElement('div');
                     w.textContent = wordText;
                     w.classList.add('word', 'correct');
@@ -343,8 +244,6 @@ startLessonBtn.addEventListener('click', () => {
                 });
 
                 feedbackMessage.innerHTML = `❌ Incorrect!<br>Correct Answer: <strong>${correctSentence}</strong>`;
-
-                // Allow moving forward
                 startLessonBtn.dataset.state = 'next';
                 updateButtonText("Next");
             }
@@ -362,7 +261,7 @@ startLessonBtn.addEventListener('click', () => {
         }
     }
 
-
+    // Normal navigation for non-dragdrop slides
     if (currentIndex < slides.length - 1) {
         currentIndex++;
         updateSlider();
@@ -370,6 +269,7 @@ startLessonBtn.addEventListener('click', () => {
         console.log("Lesson finished ✅");
     }
 });
+
 // Audio unlock for iOS WebView
 let audioUnlocked = false;
 function unlockAudio() {
@@ -387,10 +287,10 @@ function unlockAudio() {
 
 // Listen for first tap anywhere
 document.body.addEventListener('click', unlockAudio, { once: true });
+
 /* -----------------------------
    INIT
 ----------------------------- */
 updateSlider();
 setupPracticeAnswers();
-// setupDragDropPractices();
 setupClickToAnswerPractices();

@@ -307,20 +307,18 @@ startLessonBtn.addEventListener('click', () => {
         const correctSentence = currentSlide.dataset.correctSentence?.trim();
 
         if (startLessonBtn.dataset.state === 'check') {
-            const userSentence = Array.from(answerZone.querySelectorAll('.word'))
-                .map(w => w.textContent.trim())
-                .join(' ')
-                .replace(/\s+/g, ' ')
-                .toLowerCase();
+            // Get user words
+            const userWords = Array.from(answerZone.querySelectorAll('.word'))
+                .map(w => w.textContent.replace(/\u00A0/g, ' ').trim().toLowerCase());
 
-            const normalizedCorrect = (correctSentence || "").replace(/\s+/g, ' ').toLowerCase();
+            // Get correct words
+            const correctWords = (correctSentence || "").split(' ').map(w => w.toLowerCase());
 
-            footer.classList.remove('correct', 'wrong');
-            feedbackMessage.textContent = '';
-            startLessonBtn.style.background = '';
-            startLessonBtn.style.color = '';
+            // Compare arrays
+            const isCorrect = userWords.length === correctWords.length &&
+                userWords.every((w, i) => w === correctWords[i]);
 
-            if (userSentence === normalizedCorrect) {
+            if (isCorrect) {
                 // ✅ Correct
                 footer.classList.add('correct');
                 feedbackMessage.textContent = "✅ Well done!";

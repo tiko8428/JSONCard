@@ -307,18 +307,18 @@ startLessonBtn.addEventListener('click', () => {
         const correctSentence = currentSlide.dataset.correctSentence?.trim();
 
         if (startLessonBtn.dataset.state === 'check') {
-            // Get user words
-            const userWords = Array.from(answerZone.querySelectorAll('.word'))
-                .map(w => w.textContent.replace(/\u00A0/g, ' ').trim().toLowerCase());
+            function normalizeAnswer(str) {
+                return str
+                    .replace(/[.,!?]/g, '')  // remove punctuation
+                    .replace(/\s+/g, ' ')    // normalize spaces
+                    .trim()
+                    .toLowerCase();
+            }
 
-            // Get correct words
-            const correctWords = (correctSentence || "").split(' ').map(w => w.toLowerCase());
+            const userAnswer = normalizeAnswer(answerZone.textContent);
+            const correct = normalizeAnswer(correctSentence);
 
-            // Compare arrays
-            const isCorrect = userWords.length === correctWords.length &&
-                userWords.every((w, i) => w === correctWords[i]);
-
-            if (isCorrect) {
+            if (userAnswer === correct && userAnswer !== "") {
                 // ✅ Correct
                 footer.classList.add('correct');
                 feedbackMessage.textContent = "✅ Well done!";

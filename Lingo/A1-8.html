@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Regelmäßige Verben im Präsens</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Regelmäßige Verben im Präsens</h2>
+                <h3>Regular Verbs in the Present Tense</h3>
+                <p class="slide-description">
+                    Master the <strong>-e, -st, -t, -en endings</strong> so you can talk about what you and others do every day.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Beginner / A1</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">8 min</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Konjugationsmuster -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Konjugationsmuster</h2>
+                <h3>Pattern</h3>
+                <p class="slide-description">Stamm + typische Endung:</p>
+                <ul class="slide-content">
+                    <li><span class="left">ich lerne</span><span class="right grey">I learn → -e</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">du lernst</span><span class="right grey">you learn → -st</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">er/sie/es lernt</span><span class="right grey">he/she/it learns → -t</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">wir lernen</span><span class="right grey">we learn → -en</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">ihr lernt</span><span class="right grey">you all learn → -t</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">sie/Sie lernen</span><span class="right grey">they/you formal learn → -en</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Beispielsätze -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Beispielsätze</h2>
+                <h3>Example Sentences</h3>
+                <p class="slide-description">Nutze regelmäßige Verben, um Routinen zu beschreiben:</p>
+                <ul class="slide-content">
+                    <li><span class="left">Ich mache Kaffee am Morgen.</span><span class="right grey">I make coffee in the morning.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Du arbeitest heute im Büro.</span><span class="right grey">You work in the office today.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Wir besuchen Freunde am Wochenende.</span><span class="right grey">We visit friends at the weekend.</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ich ___ Deutsch jeden Abend.</p>
+                    <p class="english-translation">I ___ German every evening.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">lerne</div>
+                        <div class="answer wrong" data-correct="false">lernst</div>
+                        <div class="answer wrong" data-correct="false">lernt</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Du ___ in Berlin.</p>
+                    <p class="english-translation">You ___ in Berlin.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">wohne</div>
+                        <div class="answer correct" data-correct="true">wohnst</div>
+                        <div class="answer wrong" data-correct="false">wohnt</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Practice 3 (Drag/Drop) -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Wir spielen am Abend Karten">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Wörter.</p>
+                    <p class="english-translation">Build the German sentence: "We play cards in the evening."</p>
+
+                    <div class="answer-zone" id="answer-zone-3"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">spielen</div>
+                        <div class="word" draggable="true">am</div>
+                        <div class="word" draggable="true">Wir</div>
+                        <div class="word" draggable="true">Abend</div>
+                        <div class="word" draggable="true">Karten</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Er ___ jeden Tag Kaffee.</p>
+                    <p class="english-translation">He ___ coffee every day.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">trinke</div>
+                        <div class="answer wrong" data-correct="false">trinkst</div>
+                        <div class="answer correct" data-correct="true">trinkt</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Grammar Tip -->
+            <div class="slide" data-label="grammar tip" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title">Grammar Tip: Stamm + Endung</h2>
+                <p class="slide-description">Beachte besondere Schreibweisen:</p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Stamm endet auf -t/-d</span><span class="right">füge ein -e- ein: du arbeit<strong>e</strong>st, er wart<strong>e</strong>t.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Verben auf -eln/-ern</span><span class="right grey">ich sammle → wir sammeln; ich wandere → wir wandern.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Achte auf Aussprache</span><span class="right">sprich jede Endung klar mit: lern<strong>en</strong>, arbeit<strong>est</strong>.</span></li>
+                </ul>
+                <p class="slide-description">Mit diesen Endungen beschreibst du schnell tägliche Aktivitäten.</p>
+            </div>
+            <!-- End Slide 8 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Start Lesson
+            <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

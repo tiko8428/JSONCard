@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Kein/keine in Grundsätzen</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Kein/keine in Grundsätzen</h2>
+                <h3>Negating Nouns with kein/keine</h3>
+                <p class="slide-description">
+                    Learn how to <strong>use kein and keine to negate nouns</strong> and give short answers in everyday
+                    conversations.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Beginner / A1</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">7 min</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Überblick -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Wann benutzt man kein/keine?</h2>
+                <h3>When do we use kein/keine?</h3>
+                <p class="slide-description">Kein/keine verneint Nomen und ersetzt den Artikel:</p>
+                <ul class="slide-content">
+                    <li><span class="left">kein + maskulin/neutrum</span><span class="right grey">kein Kaffee, kein Auto</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">keine + feminin</span><span class="right grey">keine Lampe</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">keine + Plural</span><span class="right grey">keine Bücher</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Beispielsätze -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Beispiele im Alltag</h2>
+                <h3>Everyday Examples</h3>
+                <p class="slide-description">Nutze kein/keine, wenn du sagst, dass etwas nicht existiert oder nicht da ist:</p>
+                <ul class="slide-content">
+                    <li><span class="left">Ich habe kein Geld.</span><span class="right grey">I don't have any money.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Wir haben keine Zeit.</span><span class="right grey">We don't have time.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Das sind keine Studenten.</span><span class="right grey">They aren't students.</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ich habe ___ Auto.</p>
+                    <p class="english-translation">I don't have a car.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">kein</div>
+                        <div class="answer wrong" data-correct="false">keine</div>
+                        <div class="answer wrong" data-correct="false">nicht</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Sie hat ___ Zeit.</p>
+                    <p class="english-translation">She has no time.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">kein</div>
+                        <div class="answer correct" data-correct="true">keine</div>
+                        <div class="answer wrong" data-correct="false">keinen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Practice 3 (Drag/Drop) -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Wir haben keine Fragen">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Wörter.</p>
+                    <p class="english-translation">Build the German sentence: "We have no questions."</p>
+
+                    <div class="answer-zone" id="answer-zone-3"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Wir</div>
+                        <div class="word" draggable="true">haben</div>
+                        <div class="word" draggable="true">keine</div>
+                        <div class="word" draggable="true">Fragen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Habt ihr Brot? Nein, wir haben ___ Brot.</p>
+                    <p class="english-translation">Do you have bread? No, we have no bread.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">kein</div>
+                        <div class="answer wrong" data-correct="false">keine</div>
+                        <div class="answer wrong" data-correct="false">keinen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Grammar Tip -->
+            <div class="slide" data-label="grammar tip" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title">Grammar Tip: kein oder nicht?</h2>
+                <p class="slide-description">Kein ersetzt den Artikel des Nomens und verneint ganze Substantivgruppen:</p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Maskulin/Neutrum</span><span class="right">kein Mann, kein Wasser</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Feminin/Plural</span><span class="right grey">keine Tasche, keine Tickets</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Nicht benutzen</span><span class="right">nutze <em>nicht</em> bei Verben oder Adjektiven:
+                            "Ich spiele nicht."</span></li>
+                </ul>
+                <p class="slide-description">In kurzen Antworten reicht oft ein Wort: "Hast du Zeit?" – "Nein, keine."</p>
+            </div>
+            <!-- End Slide 8 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Start Lesson
+            <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

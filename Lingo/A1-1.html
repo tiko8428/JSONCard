@@ -4,38 +4,32 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-    <title>Begrüßungen und Einführungen</title>
+    <title>Bestimmte Artikel im Singular</title>
     <link rel="stylesheet" href="style.css" />
 </head>
 
 <body>
 
     <header>
-        <!-- Progress Bar at the very top -->
         <div class="progress-bar-container">
             <div class="progress-bar-fill"></div>
         </div>
-        <!-- Slide fixed label always at the top -->
         <div class="fixed-slide-label">
             <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
-
             <span class="slide-label-text">LESSON</span>
         </div>
     </header>
 
-    <!-- Slider -->
     <main class="slider-container">
         <div id="slider" class="slider">
-            <!-- slides go here -->
 
             <!-- Slide 1: Intro -->
-            <div class="slide slide-first " data-label="lesson" data-icon="icons/lesson-icon.svg">
-                <h2 class="slide-title">Begrüßungen und Einführungen</h2>
-                <h3>Greetings and Introductions </h3>
-
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Bestimmte Artikel im Singular</h2>
+                <h3>Definite Articles in the Singular</h3>
                 <p class="slide-description">
-                    Learn how to <strong>say hello, introduce yourself, and ask how someone is</strong> in German.
-                    Perfect for beginners!
+                    Learn how to <strong>choose the correct definite article der, die, or das</strong> when you talk about
+                    people, objects, or places you already know.
                 </p>
                 <div class="lesson-info-container">
                     <div class="lesson-level-container">
@@ -44,176 +38,125 @@
                     </div>
                     <div class="lesson-duration-container">
                         <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
-                        <span class="lesson-duration-text">6 min</span>
+                        <span class="lesson-duration-text">7 min</span>
                     </div>
                 </div>
             </div>
             <!-- End Slide 1 -->
 
-            <!-- Slide 2: Beispiele (Begrüßungen und Einführungen) -->
+            <!-- Slide 2: Artikelübersicht -->
             <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
-                <h2 class="slide-title">Beispiele: Begrüßungen</h2>
-                <h3>Examples: Greetings </h3>
-                <p class="slide-description">A few common greetings and their translations:</p>
+                <h2 class="slide-title">Artikelübersicht</h2>
+                <h3>Overview</h3>
+                <p class="slide-description">Jedes Nomen hat ein grammatisches Geschlecht und braucht seinen bestimmten Artikel:</p>
                 <ul class="slide-content">
-                    <li><span class="left">Hallo!</span><span class="right grey">Hello!</span></li>
+                    <li><span class="left">der Mann</span><span class="right grey">the man (masculine)</span></li>
                     <div class="divider"></div>
-
-                    <li><span class="left">Guten Morgen!</span><span class="right grey">Good morning!</span></li>
+                    <li><span class="left">die Lampe</span><span class="right grey">the lamp (feminine)</span></li>
                     <div class="divider"></div>
+                    <li><span class="left">das Kind</span><span class="right grey">the child (neuter)</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
 
-                    <li><span class="left">Guten Tag!</span><span class="right grey">Good day!</span></li>
+            <!-- Slide 3: Beispielsätze -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Beispielsätze</h2>
+                <h3>Example Sentences</h3>
+                <p class="slide-description">Nutze der/die/das, wenn Sprecher und Zuhörer das Nomen schon kennen:</p>
+                <ul class="slide-content">
+                    <li><span class="left">Der Lehrer erklärt die Aufgabe.</span><span class="right grey">The teacher explains the task.</span></li>
                     <div class="divider"></div>
-
-                    <li><span class="left">Tschüss!</span><span class="right grey">Bye!</span></li>
+                    <li><span class="left">Die Tasse steht auf dem Tisch.</span><span class="right grey">The cup is on the table.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Das Hotel ist sehr modern.</span><span class="right grey">The hotel is very modern.</span></li>
                 </ul>
             </div>
             <!-- End Slide 3 -->
 
-
-            <!-- Slide 3: Practice 1 -->
+            <!-- Slide 4: Practice 1 -->
             <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
                 <div class="practice-number">1</div>
-
                 <div class="slide-content practice-content">
-                    <p class="german-sentence">Guten <span class="fill-the-field">...!</span> Ich heiße Anna.</p>
-                    <p class="english-translation">Good ...! My name is Anna.</p>
-
+                    <p class="german-sentence">___ Mann arbeitet im Café.</p>
+                    <p class="english-translation">The man works at the café.</p>
                     <div class="practice-answers">
-                        <div class="answer correct" data-correct="true">Morgen</div>
-                        <div class="answer wrong" data-correct="false">Abend</div>
-                        <div class="answer wrong" data-correct="false">Tschüss</div>
+                        <div class="answer correct" data-correct="true">Der</div>
+                        <div class="answer wrong" data-correct="false">Die</div>
+                        <div class="answer wrong" data-correct="false">Das</div>
                     </div>
                 </div>
             </div>
-            <!-- End Slide 3 -->
-
-
-            <!-- Slide 3: Beispiele (konkrete Nomen) -->
-            <!-- <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
-                <h2 class="slide-title">Beispiele: Häufige Nomen</h2>
-                <p class="slide-description">Ein paar häufige Nomen mit Singular → Plural:</p>
-
-                <ul class="slide-content">
-                    <li><span class="left grey">der Tisch</span><span class="right">die Tische (-e)</span></li>
-                    <div class="divider"></div>
-
-                    <li><span class="left">die Lampe</span><span class="right grey">die Lampen (-en)</span></li>
-                </ul>
-            </div> -->
-            <!-- End Slide 3 -->
-
-
-
-
-
+            <!-- End Slide 4 -->
 
             <!-- Slide 5: Practice 2 -->
             <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
                 <div class="practice-number">2</div>
-
                 <div class="slide-content practice-content">
-                    <p class="german-sentence">...! Schön, dich kennenzulernen.</p>
-                    <p class="english-translation">...! Nice to meet you.</p>
-
+                    <p class="german-sentence">Wo ist ___ Tasche?</p>
+                    <p class="english-translation">Where is the bag?</p>
                     <div class="practice-answers">
-                        <div class="answer correct" data-correct="true">Hallo</div>
-                        <div class="answer wrong" data-correct="false">Tschüss</div>
-                        <div class="answer wrong" data-correct="false">Gute Nacht</div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Slide 6: Practice 3 -->
-            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
-                <div class="practice-number">3</div>
-
-                <div class="slide-content practice-content">
-                    <p class="german-sentence">Wie ... du?</p>
-                    <p class="english-translation">What is your name?</p>
-
-                    <div class="practice-answers">
-                        <div class="answer correct" data-correct="true">heißt</div>
-                        <div class="answer wrong" data-correct="false">ist</div>
-                        <div class="answer wrong" data-correct="false">bist</div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- Slide 7: Practice 4 -->
-            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
-                <div class="practice-number">4</div>
-
-                <div class="slide-content practice-content">
-                    <p class="german-sentence">..., bis morgen!</p>
-                    <p class="english-translation">..., see you tomorrow!</p>
-
-                    <div class="practice-answers">
-                        <div class="answer correct" data-correct="true">Tschüss</div>
-                        <div class="answer wrong" data-correct="false">Hallo</div>
-                        <div class="answer wrong" data-correct="false">Guten Tag</div>
-                    </div>
-                </div>
-            </div>
-
-
-
-
-            <!-- Slide 5: Practice 2 (Drag/Drop Version) -->
-            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
-                data-correct-sentence="The cars are plural">
-                <div class="practice-number">2</div>
-
-                <div class="slide-content practice-content">
-                    <p class="german-sentence">Plural: die Autos</p>
-                    <p class="english-translation">Form the correct English sentence:</p>
-
-                    <div class="answer-zone" id="answer-zone-2"></div>
-
-                    <div class="word-bank">
-                        <div class="word" draggable="true">cars</div>
-                        <div class="word" draggable="true">The</div>
-                        <div class="word" draggable="true">are</div>
-                        <div class="word" draggable="true">plural</div>
+                        <div class="answer wrong" data-correct="false">Der</div>
+                        <div class="answer correct" data-correct="true">Die</div>
+                        <div class="answer wrong" data-correct="false">Das</div>
                     </div>
                 </div>
             </div>
             <!-- End Slide 5 -->
 
-            <!-- Slide 7: Grammar Tip -->
-            <div class="slide" data-label="grammar tip" data-icon="icons/grammar-icon.svg">
-                <h2 class="slide-title">Grammar Tip: Regeln & Hinweise</h2>
-                <p class="slide-description">
-                    Einige wichtige Hinweise zur Pluralbildung:
-                </p>
+            <!-- Slide 6: Practice 3 (Drag/Drop) -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Das Kind spielt im Park">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Wörter.</p>
+                    <p class="english-translation">Build the German sentence: "The child plays in the park."</p>
 
-                <ul class="slide-content">
-                    <li><span class="left grey">Artikel im Plural</span><span class="right">Fast immer:
-                            <strong>die</strong></span></li>
-                    <div class="divider"></div>
+                    <div class="answer-zone" id="answer-zone-3"></div>
 
-                    <li><span class="left">Umlaut</span><span class="right grey">Viele kurze männliche Nomen
-                            bekommen
-                            Umlaut im Plural (z. B. Mann → Männer, Apfel → Äpfel).</span></li>
-                    <li><span class="left grey">Endungen</span><span class="right grey">-e, -en, -er, -s oder keine
-                            Endung — keine 100% Regel, daher Vokabeln lernen.</span></li>
-                    <li><span class="left">Fremdwörter</span><span class="right grey">Häufig -s (Auto → Autos, Hotel
-                            →
-                            Hotels).</span></li>
-                    <li><span class="left grey">Neutra auf -chen/-lein</span><span class="right grey">Keine Änderung
-                            im
-                            Plural (das Mädchen → die Mädchen).</span></li>
-                </ul>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Kind</div>
+                        <div class="word" draggable="true">Das</div>
+                        <div class="word" draggable="true">im</div>
+                        <div class="word" draggable="true">spielt</div>
+                        <div class="word" draggable="true">Park</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
 
-                <p class="slide-description">
-                    Merke: Lern die häufigen Nomen mit ihrem Plural (z. B. „der Tisch — die Tische“). Muster helfen,
-                    aber Ausnahmen sind normal.
-                </p>
+            <!-- Slide 7: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ich brauche ___ Brot für das Frühstück.</p>
+                    <p class="english-translation">I need the bread for breakfast.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Der</div>
+                        <div class="answer wrong" data-correct="false">Die</div>
+                        <div class="answer correct" data-correct="true">Das</div>
+                    </div>
+                </div>
             </div>
             <!-- End Slide 7 -->
+
+            <!-- Slide 8: Grammar Tip -->
+            <div class="slide" data-label="grammar tip" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title">Grammar Tip: der, die oder das?</h2>
+                <p class="slide-description">Merke dir den Artikel zusammen mit jedem neuen Nomen und nutze kleine Strategien:</p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Maskuline Endungen</span><span class="right">oft -er, -en, -ig → der Kalender, der Garten.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Feminine Wörter</span><span class="right grey">häufig -e, -heit, -keit → die Blume, die Freiheit.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Neutrale Nomen</span><span class="right">meist mit Ge-, -chen, -lein → das Gebäude, das Mädchen.</span></li>
+                </ul>
+                <p class="slide-description">Im Wörterbuch findest du den Artikel mit einem Kürzel: r (der), e (die), s (das).</p>
+            </div>
+            <!-- End Slide 8 -->
+
         </div>
     </main>
-
 
     <footer>
         <div class="feedback-message"></div>
@@ -221,16 +164,10 @@
             Start Lesson
             <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
         </button>
-
     </footer>
-
-
-
 
     <script src="script.js"></script>
 
-
 </body>
-
 
 </html>

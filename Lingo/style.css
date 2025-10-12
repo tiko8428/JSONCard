@@ -466,6 +466,18 @@ footer.wrong .start-lesson-btn {
     transition: all 0.2s ease;
 }
 
+/* Selected (before validation) */
+.answer.selected:not(.correct):not(.wrong) {
+    border-color: #4e7cf3;
+    background-color: #edf1ff;
+    color: #1d2b52;
+}
+
+.answer.selected:not(.correct):not(.wrong)::after {
+    background-color: #4e7cf3;
+    border-color: #4e7cf3;
+}
+
 /* Selected correct answer */
 .answer.selected.correct {
     border-color: #4CAF50;

@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Possessivpronomen im Singular</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Possessivpronomen im Singular</h2>
+                <h3>Possessive Pronouns in the Singular</h3>
+                <p class="slide-description">
+                    Learn how to <strong>choose the correct possessive pronoun</strong> like <em>mein</em>, <em>dein</em>, or
+                    <em>sein/ihr</em> before a noun.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Beginner / A1</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">8 min</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Übersicht -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Übersicht</h2>
+                <h3>Overview</h3>
+                <p class="slide-description">Possessivpronomen zeigen, wem etwas gehört. Sie passen zum Besitzer:</p>
+                <ul class="slide-content">
+                    <li><span class="left">ich → mein Buch</span><span class="right grey">my book</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">du → dein Auto</span><span class="right grey">your car (informal)</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">er/sie → sein/ihr Handy</span><span class="right grey">his/her phone</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Beispielsätze -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Beispielsätze</h2>
+                <h3>Example Sentences</h3>
+                <p class="slide-description">Nutze das passende Possessivpronomen vor dem Nomen:</p>
+                <ul class="slide-content">
+                    <li><span class="left">Das ist mein Freund Tom.</span><span class="right grey">That is my friend Tom.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Ist das dein Schlüssel?</span><span class="right grey">Is that your key?</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Sie sucht ihr Buch.</span><span class="right grey">She is looking for her book.</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wo ist ___ Tasche? (ich)</p>
+                    <p class="english-translation">Where is my bag?</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">meine</div>
+                        <div class="answer wrong" data-correct="false">deine</div>
+                        <div class="answer wrong" data-correct="false">seine</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Paul, ist das ___ Fahrrad?</p>
+                    <p class="english-translation">Paul, is that your bicycle?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">mein</div>
+                        <div class="answer correct" data-correct="true">dein</div>
+                        <div class="answer wrong" data-correct="false">ihr</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Practice 3 (Drag/Drop) -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Das ist sein Bruder">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Wörter.</p>
+                    <p class="english-translation">Build the German sentence: "That is his brother."</p>
+
+                    <div class="answer-zone" id="answer-zone-3"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">sein</div>
+                        <div class="word" draggable="true">Das</div>
+                        <div class="word" draggable="true">Bruder</div>
+                        <div class="word" draggable="true">ist</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Frau Lee ruft ___ Mutter an.</p>
+                    <p class="english-translation">Mrs. Lee is calling her mother.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">sein</div>
+                        <div class="answer correct" data-correct="true">ihre</div>
+                        <div class="answer wrong" data-correct="false">deine</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Grammar Tip -->
+            <div class="slide" data-label="grammar tip" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title">Grammar Tip: Formen merken</h2>
+                <p class="slide-description">Die Endung richtet sich nach dem Nomen:</p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Maskulin/Neutrum</span><span class="right">mein Vater, dein Haus, sein Kind</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Feminin</span><span class="right grey">meine Schwester, deine Lampe, ihre Tasche</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Frage</span><span class="right">Wem gehört das? → Das ist mein/dein/ihr...</span></li>
+                </ul>
+                <p class="slide-description">Merke: <em>sein</em> gehört zu er/es, <em>ihr</em> gehört zu sie (Singular).</p>
+            </div>
+            <!-- End Slide 8 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Start Lesson
+            <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

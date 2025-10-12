@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Personalpronomen als Subjekt</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Personalpronomen als Subjekt</h2>
+                <h3>Subject Pronouns in German</h3>
+                <p class="slide-description">
+                    Learn how to <strong>use ich, du, er/sie/es, wir, ihr, sie</strong> as the subject in everyday
+                    German sentences.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Beginner / A1</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">8 min</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Pronoun Overview -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Überblick Pronomen</h2>
+                <h3>Overview</h3>
+                <p class="slide-description">Die deutschen Personalpronomen stehen für Personen oder Dinge, die das Verb
+                    ausführen:</p>
+                <ul class="slide-content">
+                    <li><span class="left">ich</span><span class="right grey">I (speaking about myself)</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">du</span><span class="right grey">you (informal singular)</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">er / sie / es</span><span class="right grey">he / she / it</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">wir</span><span class="right grey">we</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">ihr</span><span class="right grey">you (informal plural)</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">sie / Sie</span><span class="right grey">they / you (formal)</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Example Sentences -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Beispielsätze</h2>
+                <h3>Example Sentences</h3>
+                <p class="slide-description">Setze das passende Pronomen als Subjekt vor das Verb:</p>
+                <ul class="slide-content">
+                    <li><span class="left">Ich lerne Deutsch.</span><span class="right grey">I am learning German.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Du arbeitest heute.</span><span class="right grey">You are working today.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Sie kochen zusammen.</span><span class="right grey">They are cooking together.</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">___ bin müde nach der Arbeit.</p>
+                    <p class="english-translation">I am tired after work.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Ich</div>
+                        <div class="answer wrong" data-correct="false">Du</div>
+                        <div class="answer wrong" data-correct="false">Wir</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Thomas ist spät. ___ kommt später zum Essen.</p>
+                    <p class="english-translation">Thomas is late. ___ is coming later for dinner.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Sie</div>
+                        <div class="answer correct" data-correct="true">Er</div>
+                        <div class="answer wrong" data-correct="false">Wir</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Practice 3 (Drag/Drop) -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Wir lernen am Abend">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Wörter.</p>
+                    <p class="english-translation">Build the German sentence: "We study in the evening."</p>
+
+                    <div class="answer-zone" id="answer-zone-3"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">lernen</div>
+                        <div class="word" draggable="true">Wir</div>
+                        <div class="word" draggable="true">Abend</div>
+                        <div class="word" draggable="true">am</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">___ möchtet einen Kaffee?</p>
+                    <p class="english-translation">Which of you would like a coffee?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Wir</div>
+                        <div class="answer correct" data-correct="true">Ihr</div>
+                        <div class="answer wrong" data-correct="false">Sie</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Grammar Tip -->
+            <div class="slide" data-label="grammar tip" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title">Grammar Tip: Groß oder klein?</h2>
+                <p class="slide-description">Merke dir die Pronomen mit ihrer Verbform:</p>
+                <ul class="slide-content">
+                    <li><span class="left grey">ich / du / wir / ihr</span><span class="right">klein geschrieben</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Sie</span><span class="right grey">groß = höfliche Anrede</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">sie</span><span class="right">klein = "they" (3rd person plural)</span></li>
+                </ul>
+                <p class="slide-description">Achte darauf, dass das Verb immer zur Person passt: <em>du bist</em>, <em>wir
+                        sind</em>, <em>sie haben</em>.</p>
+            </div>
+            <!-- End Slide 8 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message" aria-live="polite"></div>
+        <button class="start-lesson-btn" data-state="start">
+            Start Lesson
+            <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

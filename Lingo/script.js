@@ -41,17 +41,32 @@ function updateProgress() {
 /* -----------------------------
    SLIDER UPDATE
 ----------------------------- */
+function isMultipleChoiceSlide(slide) {
+    return slide?.dataset.label === 'practice' && slide.dataset.type !== 'dragdrop';
+}
+
+function resetMultipleChoiceSlide(slide) {
+    if (!slide) return;
+    const answers = slide.querySelectorAll('.answer');
+    answers.forEach(answer => answer.classList.remove('selected', 'correct', 'wrong'));
+    slide.dataset.locked = 'false';
+}
+
 function updateSlider() {
     slides.forEach((slide, idx) => {
         slide.classList.toggle('active', idx === currentIndex);
     });
 
-    const label = slides[currentIndex].dataset.label || 'LESSON';
+    const currentSlide = slides[currentIndex];
+    const label = currentSlide.dataset.label || 'LESSON';
     fixedLabel.textContent = label.toUpperCase();
 
-    if (slides[currentIndex].dataset.type === 'dragdrop') {
+    if (currentSlide.dataset.type === 'dragdrop' || isMultipleChoiceSlide(currentSlide)) {
         startLessonBtn.dataset.state = "check";
         updateButtonText("Check");
+        if (isMultipleChoiceSlide(currentSlide)) {
+            resetMultipleChoiceSlide(currentSlide);
+        }
     } else if (currentIndex === 0) {
         updateButtonText("Start Lesson");
     } else if (currentIndex === slides.length - 1) {
@@ -85,36 +100,14 @@ function setupPracticeAnswers() {
 
     practiceSlides.forEach(slide => {
         const answers = slide.querySelectorAll('.answer');
-        slide.classList.remove('answered');
+        slide.dataset.locked = 'false';
 
         answers.forEach(answer => {
             answer.addEventListener('click', () => {
-                if (slide.classList.contains('answered')) return;
-                slide.classList.add('answered');
+                if (slide.dataset.locked === 'true') return;
 
-                answers.forEach(a => a.classList.remove('selected', 'correct', 'wrong'));
+                answers.forEach(a => a.classList.remove('selected'));
                 answer.classList.add('selected');
-
-                const isCorrect = answer.dataset.correct === "true";
-                const correctAnswer = slide.querySelector('.answer[data-correct="true"]');
-
-                if (isCorrect) {
-                    answer.classList.add('correct');
-                    footer.classList.add('correct');
-                    feedbackMessage.textContent = "✅ Excellent!";
-                    styleFooterButton("#4CAF50");
-                    playSound(correctSound);
-                }
-                else {
-                    answer.classList.add('wrong');
-                    footer.classList.add('wrong');
-                    feedbackMessage.innerHTML = `❌ Incorrect!<br>Correct Answer: <strong>${correctAnswer.textContent}</strong>`;
-                    styleFooterButton("#F44336");
-                    playSound(wrongSound);
-
-                    answer.classList.add('shake');
-                    answer.addEventListener('animationend', () => answer.classList.remove('shake'), { once: true });
-                }
             });
         });
     });
@@ -198,6 +191,63 @@ function playSound(audio) {
 ----------------------------- */
 startLessonBtn.addEventListener('click', () => {
     const currentSlide = slides[currentIndex];
+
+    if (isMultipleChoiceSlide(currentSlide)) {
+        const answers = currentSlide.querySelectorAll('.answer');
+        const selected = currentSlide.querySelector('.answer.selected');
+
+        if (startLessonBtn.dataset.state === 'check') {
+            if (!selected) {
+                feedbackMessage.textContent = "Please select an answer before checking.";
+                footer.classList.remove('correct', 'wrong');
+                startLessonBtn.style.background = '';
+                startLessonBtn.style.color = '';
+                return;
+            }
+
+            const isCorrect = selected.dataset.correct === "true";
+            const correctAnswer = currentSlide.querySelector('.answer[data-correct="true"]');
+
+            answers.forEach(answer => answer.classList.remove('correct', 'wrong', 'shake'));
+            footer.classList.remove('correct', 'wrong');
+
+            if (isCorrect) {
+                selected.classList.add('correct');
+                footer.classList.add('correct');
+                feedbackMessage.textContent = "✅ Excellent!";
+                styleFooterButton("#4CAF50");
+                playSound(correctSound);
+            } else {
+                selected.classList.add('wrong');
+                if (correctAnswer) {
+                    correctAnswer.classList.add('correct');
+                }
+                footer.classList.add('wrong');
+                feedbackMessage.innerHTML = `❌ Incorrect!<br>Correct Answer: <strong>${correctAnswer?.textContent || ''}</strong>`;
+                styleFooterButton("#F44336");
+                playSound(wrongSound);
+
+                selected.classList.add('shake');
+                selected.addEventListener('animationend', () => selected.classList.remove('shake'), { once: true });
+            }
+
+            currentSlide.dataset.locked = 'true';
+            startLessonBtn.dataset.state = 'next';
+            updateButtonText("Next");
+            return;
+        }
+
+        if (startLessonBtn.dataset.state === 'next') {
+            if (currentIndex < slides.length - 1) {
+                currentIndex++;
+                updateSlider();
+            } else {
+                console.log("Lesson finished ✅");
+            }
+        }
+
+        return;
+    }
 
     if (currentSlide.dataset.type === 'dragdrop') {
         const answerZone = currentSlide.querySelector('.answer-zone');

@@ -468,14 +468,14 @@ footer.wrong .start-lesson-btn {
 
 /* Selected (before validation) */
 .answer.selected:not(.correct):not(.wrong) {
-    border-color: #4e7cf3;
+    border-color: #7734D9;
     background-color: #edf1ff;
     color: #1d2b52;
 }
 
 .answer.selected:not(.correct):not(.wrong)::after {
-    background-color: #4e7cf3;
-    border-color: #4e7cf3;
+    background-color: #7734D9;
+    border-color: #7734D9;
 }
 
 /* Selected correct answer */

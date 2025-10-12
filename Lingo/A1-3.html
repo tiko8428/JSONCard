@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Pluralbildung häufiger Nomen</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Pluralbildung häufiger Nomen</h2>
+                <h3>Forming the Plural of Common Nouns</h3>
+                <p class="slide-description">
+                    Learn how to <strong>recognize the most common plural endings in German</strong> so you can talk
+                    about more than one person, object, or place with confidence.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Beginner / A1</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">7 min</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Plural Patterns -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Häufige Pluralendungen</h2>
+                <h3>Common Endings</h3>
+                <p class="slide-description">Viele Nomen bilden den Plural mit festen Mustern. Merke dir die wichtigsten:</p>
+                <ul class="slide-content">
+                    <li><span class="left">-e</span><span class="right grey">der Tisch → die Tische</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">-er (oft mit Umlaut)</span><span class="right">das Buch → die Bücher</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">-n/-en</span><span class="right grey">die Lampe → die Lampen</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">keine Endung (häufig -er Nomen)</span><span class="right">der Lehrer → die Lehrer</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Example Sentences -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Beispielsätze</h2>
+                <h3>Example Sentences</h3>
+                <p class="slide-description">Sieh dir an, wie die Pluralformen in einfachen Sätzen funktionieren:</p>
+                <ul class="slide-content">
+                    <li><span class="left">Die Kinder spielen im Garten.</span><span class="right grey">The children are playing in the garden.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Auf dem Tisch stehen drei Gläser.</span><span class="right grey">There are three glasses on the table.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Wir kaufen frische Eier auf dem Markt.</span><span class="right grey">We are buying fresh eggs at the market.</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Im Regal stehen viele ___ .</p>
+                    <p class="english-translation">There are many lamps on the shelf.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Lampe</div>
+                        <div class="answer correct" data-correct="true">Lampen</div>
+                        <div class="answer wrong" data-correct="false">Lämpen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wir kaufen zwei frische ___ .</p>
+                    <p class="english-translation">We are buying two fresh rolls.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Brötchen</div>
+                        <div class="answer wrong" data-correct="false">Brötchens</div>
+                        <div class="answer wrong" data-correct="false">Brötchene</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Practice 3 (Drag/Drop) -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Die Kinder spielen in den Gärten">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Wörter.</p>
+                    <p class="english-translation">Build the German sentence: "The children are playing in the gardens."</p>
+
+                    <div class="answer-zone" id="answer-zone-3"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Die</div>
+                        <div class="word" draggable="true">Kinder</div>
+                        <div class="word" draggable="true">spielen</div>
+                        <div class="word" draggable="true">in</div>
+                        <div class="word" draggable="true">den</div>
+                        <div class="word" draggable="true">Gärten</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Meine Nachbarn haben zwei kleine ___ .</p>
+                    <p class="english-translation">My neighbours have two small children.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Kind</div>
+                        <div class="answer wrong" data-correct="false">Kinderen</div>
+                        <div class="answer correct" data-correct="true">Kinder</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Grammar Tip -->
+            <div class="slide" data-label="grammar tip" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title">Grammar Tip: Plural merken</h2>
+                <p class="slide-description">Viele Plurale folgen Regeln, aber es gibt Ausnahmen. Einige Tipps helfen beim Lernen:</p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Artikel prüfen</span><span class="right">Plural braucht immer <strong>die</strong> oder keine Artikel im Plural.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Mit Umlaut</span><span class="right grey">a → ä, o → ö, u → ü bei vielen -e/-er Pluralen (der Mann → die Männer).</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Notizen machen</span><span class="right">Lerne neue Wörter immer mit ihrer Pluralform: "die Lampe, Plural: die Lampen".</span></li>
+                </ul>
+                <p class="slide-description">Ein Wörterbuch zeigt dir den Plural mit Abkürzungen wie Pl.: Häuser. Sprich die Formen laut, um sie zu verankern!</p>
+            </div>
+            <!-- End Slide 8 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Start Lesson
+            <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

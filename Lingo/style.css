@@ -456,13 +456,28 @@ footer.wrong .start-lesson-btn {
 /* Custom radio button */
 .answer::after {
     content: "";
-    width: 18px;
-    height: 18px;
-    border: 2px solid #ccc;
+    width: 20px;
+    height: 20px;
+    border: 5px solid #ccc;
     border-radius: 50%;
-    background: #eee;
+    background: transparent; /* No fill */
     flex-shrink: 0;
     margin-left: 12px;
+    transition: all 0.2s ease;
+    position: relative; /* Needed for inner circle */
+}
+
+/* Small inner circle (hidden by default) */
+.answer::after::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 6px;
+    height: 6px;
+    background: transparent;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
     transition: all 0.2s ease;
 }
 
@@ -474,8 +489,11 @@ footer.wrong .start-lesson-btn {
 }
 
 .answer.selected:not(.correct):not(.wrong)::after {
-    background-color: #7734D9;
-    border-color: #7734D9;
+    border-color: #7734D9; /* purple stroke */
+}
+
+.answer.selected:not(.correct):not(.wrong)::after::before {
+    background: #7734D9; /* small filled dot */
 }
 
 /* Selected correct answer */
@@ -489,11 +507,14 @@ footer.wrong .start-lesson-btn {
 }
 
 .answer.selected.correct::after {
-    background-color: #4CAF50;
-    /* filled green circle */
-    border-color: #4CAF50;
-    /* circle stroke green */
+        border-color: #4CAF50; /* green stroke */
+
 }
+
+.answer.selected.correct::after::before {
+    background: #4CAF50; /* green dot */
+}
+
 
 /* Selected wrong answer */
 .answer.selected.wrong {
@@ -506,12 +527,12 @@ footer.wrong .start-lesson-btn {
 }
 
 .answer.selected.wrong::after {
-    background-color: #F44336;
-    /* filled red circle */
-    border-color: #F44336;
-    /* circle stroke red */
-}
+        border-color: #F44336; /* red stroke */
 
+}
+.answer.selected.wrong::after::before {
+    background: #F44336; /* red dot */
+}
 
 /* Shake animation for wrong answers */
 @keyframes shake {

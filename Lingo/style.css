@@ -1,474 +1,448 @@
 /* ------------------ GLOBAL ------------------ */
 /* Prevent text selection globally */
 * {
-    -webkit-user-select: none;
-    /* Safari */
-    -moz-user-select: none;
-    /* Firefox */
-    -ms-user-select: none;
-    /* old IE */
-    user-select: none;
-    /* Standard */
+  -webkit-user-select: none;
+  /* Safari */
+  -moz-user-select: none;
+  /* Firefox */
+  -ms-user-select: none;
+  /* old IE */
+  user-select: none;
+  /* Standard */
 }
 
 html,
 body {
-    height: 100%;
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
-    background: #F5F8FF;
-    font-family: 'Inter', sans-serif;
+  height: 100%;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background: #f5f8ff;
+  font-family: "Inter", sans-serif;
 }
 
-
 body {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    min-height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #F5F8FF;
-    /* background: linear-gradient(to bottom, #5533DC, #EEA8CF); */
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  min-height: 100vh;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f8ff;
+  /* background: linear-gradient(to bottom, #5533DC, #EEA8CF); */
 }
 
 /* ------------------ HEADER ------------------ */
 header {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    z-index: 100;
-    background: #F5F8FF;
-    padding: 20px 8%;
-    box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+  background: #f5f8ff;
+  padding: 20px 8%;
+  box-sizing: border-box;
 }
 
 .progress-bar-container {
-    width: 90%;
-    height: 12px;
-    /* Align to right while leaving left padding */
-    margin-left: auto;
-    /* pushes it to the right */
-    margin-right: 0;
-    background-color: rgb(234, 234, 234);
-    border-radius: 8px;
-    overflow: hidden;
-    margin-bottom: 12px;
-
-
-
-
-
+  width: 90%;
+  height: 12px;
+  /* Align to right while leaving left padding */
+  margin-left: auto;
+  /* pushes it to the right */
+  margin-right: 0;
+  background-color: rgb(234, 234, 234);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 12px;
 }
 
 .progress-bar-fill {
-    width: 0%;
-    height: 100%;
-    background-color: #4caf50;
-    transition: width 0.3s ease-in-out;
+  width: 0%;
+  height: 100%;
+  background-color: #4caf50;
+  transition: width 0.3s ease-in-out;
 }
 
 .fixed-slide-label {
-    display: flex;
-    /* align-items: left; */
-    padding-top: 12px;
-    gap: 6px;
+  display: flex;
+  /* align-items: left; */
+  padding-top: 12px;
+  gap: 6px;
 }
 
 .slide-label-icon {
-    width: 20px;
-    height: 20px;
-    /* filter: invert(29%) sepia(86%) saturate(4220%) hue-rotate(251deg) brightness(92%) contrast(89%); */
+  width: 20px;
+  height: 20px;
+  /* filter: invert(29%) sepia(86%) saturate(4220%) hue-rotate(251deg) brightness(92%) contrast(89%); */
 }
 
 .slide-label-text {
-    font-size: 16px;
-    font-weight: 700;
-    text-transform: uppercase;
-    /* Gradient text */
-    background: linear-gradient(90deg, #7734D9, #5A37DC);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-    /* for Firefox */
-    color: transparent;
-
+  font-size: 16px;
+  font-weight: 700;
+  text-transform: uppercase;
+  /* Gradient text */
+  background: linear-gradient(90deg, #7734d9, #5a37dc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  /* for Firefox */
+  color: transparent;
 }
 
 /* ------------------ MAIN / SLIDER ------------------ */
 /* Main slider container sits between header and footer */
 main.slider-container {
-    position: absolute;
-    top: 100px;
-    /* adjust based on header height */
-    bottom: 90px;
-    /* adjust based on footer height */
-    left: 0;
-    right: 0;
-    overflow: hidden;
-    /* prevent outer scroll */
-    display: flex;
-    justify-content: center;
-    align-items: flex-start;
-    padding: 0 5%;
-    box-sizing: border-box;
+  position: absolute;
+  top: 100px;
+  /* adjust based on header height */
+  bottom: 90px;
+  /* adjust based on footer height */
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  /* prevent outer scroll */
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0 5%;
+  box-sizing: border-box;
 }
 
 .slider {
-    position: relative;
-    width: 100%;
-    height: 100%;
-
+  position: relative;
+  width: 100%;
+  height: 100%;
 }
 
 /* All slides default: fit content height, no internal scroll */
 .slide {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: fit-content;
-    /* key difference */
-    padding: 20px;
-    border-radius: 22px;
-    background: #fff;
-    box-sizing: border-box;
-    text-align: left;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 0.4s ease;
-    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
-    overflow: visible;
-    /* allow full height expansion */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: fit-content;
+  /* key difference */
+  padding: 20px;
+  border-radius: 22px;
+  background: #fff;
+  box-sizing: border-box;
+  text-align: left;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.4s ease;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
+  overflow: visible;
+  /* allow full height expansion */
 }
-
 
 /* Active slide visible */
 .slide.active {
-    opacity: 1;
-    pointer-events: auto;
-    position: relative;
+  opacity: 1;
+  pointer-events: auto;
+  position: relative;
 }
 
 .slide-first {
-    /* background: none;
+  /* background: none;
     color: #fff; */
-    text-align: left;
+  text-align: left;
 }
 
 .slide-first .slide-title,
 .slide-first .slide-description {
-    /* color: #fff; */
-
+  /* color: #fff; */
 }
 
 .slide .slide-title,
 .slide .slide-description {
-    text-align: left;
+  text-align: left;
 }
 
 .slide-first .slide-title,
 .slide-first .slide-description {
-    /* if you want first slide still left-aligned, keep this; else remove */
-    text-align: left;
-
-
+  /* if you want first slide still left-aligned, keep this; else remove */
+  text-align: left;
 }
-
 
 .slide-description {
-    color: #70658B;
-
+  color: #70658b;
 }
-
 
 .lesson-info-container {
-    width: 100%;
-    padding: 20px;
-    border: 1px solid #DED3F9;
-    border-radius: 12px;
-    background: linear-gradient(180deg, #FBFAFE 0%, #EBE6FC 100%);
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
+  width: 100%;
+  padding: 20px;
+  border: 1px solid #ded3f9;
+  border-radius: 12px;
+  background: linear-gradient(180deg, #fbfafe 0%, #ebe6fc 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
 
-    box-sizing: border-box;
-    /* <- add this */
-
+  box-sizing: border-box;
+  /* <- add this */
 }
 
-.lesson-info-container>div {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    /* space between icon and text */
-    padding-bottom: 10px;
-    border-bottom: 1px solid #ccc;
-    /* grey divider */
+.lesson-info-container > div {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  /* space between icon and text */
+  padding-bottom: 10px;
+  border-bottom: 1px solid #ccc;
+  /* grey divider */
 }
 
-.lesson-info-container>div:last-child {
-    border-bottom: none;
-    /* remove divider from last item */
-    padding-bottom: 0;
+.lesson-info-container > div:last-child {
+  border-bottom: none;
+  /* remove divider from last item */
+  padding-bottom: 0;
 }
 
 .lesson-icon {
-    width: 20px;
-    height: 20px;
+  width: 20px;
+  height: 20px;
 }
-
-
 
 /* ------------------ FOOTER ------------------ */
 /* Footer fixed at the bottom */
 footer {
-    position: fixed;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    padding: 16px 5% 36px 5%; /* add extra 20px at bottom */
-    display: flex;
-    flex-direction: column;
-    gap: 12px;
-    box-sizing: border-box;
-    transition: background 0.3s ease;
-    z-index: 10;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 16px 5% 36px 5%; /* add extra 20px at bottom */
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  box-sizing: border-box;
+  transition: background 0.3s ease;
+  z-index: 10;
 }
 
 footer .feedback-message {
-    font-weight: 600;
-    font-size: 16px;
-    text-align: left;
+  font-weight: 600;
+  font-size: 16px;
+  text-align: left;
 }
 
 .start-lesson-btn {
-    width: 100%;
-    padding: 12px 0;
-    border-radius: 12px;
-    border: none;
-    font-size: 18px;
-    font-weight: 600;
-    cursor: pointer;
-    color: #fff;
-    background: linear-gradient(135deg, #7734D9 0%, #BA7CD8 100%);
-    transition: all 0.3s ease;
-    box-shadow: 0 0 12px #894eff inset;
-    border-bottom: 5px solid #5A2BB8;
-    /* base purple tone */
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 8px;
+  width: 100%;
+  padding: 12px 0;
+  border-radius: 12px;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  color: #fff;
+  background: linear-gradient(135deg, #7734d9 0%, #ba7cd8 100%);
+  transition: all 0.3s ease;
+  box-shadow: 0 0 12px #894eff inset;
+  border-bottom: 5px solid #5a2bb8;
+  /* base purple tone */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
 }
 
 .btn-icon {
-    width: 20px;
-    height: 20px;
-    /* background-color: rebeccapurple; */
+  width: 20px;
+  height: 20px;
+  /* background-color: rebeccapurple; */
 }
-
 
 /* Correct / wrong states */
 footer.correct {
-    background-color: #DFF5E0;
+  background-color: #dff5e0;
 }
 
 /* When footer is in correct (green) mode */
 footer.correct .start-lesson-btn {
-    background: linear-gradient(135deg, #43A047 0%, #66BB6A 100%);
-    border-bottom: 5px solid #2E7D32;
-    /* darker green bottom stroke */
-    box-shadow: 0 0 12px #66BB6A inset;
+  background: linear-gradient(135deg, #43a047 0%, #66bb6a 100%);
+  border-bottom: 5px solid #2e7d32;
+  /* darker green bottom stroke */
+  box-shadow: 0 0 12px #66bb6a inset;
 }
 
 footer.correct .start-lesson-btn {
-    background-color: #4CAF50;
+  background-color: #4caf50;
 }
 
 footer.wrong {
-    background-color: #FDE2E2;
+  background-color: #fde2e2;
 }
 
 /* When footer is in wrong (red) mode */
 footer.wrong .start-lesson-btn {
-    background: linear-gradient(135deg, #E53935 0%, #EF5350 100%);
-    border-bottom: 5px solid #B71C1C;
-    /* darker red bottom stroke */
-    box-shadow: 0 0 12px #EF5350 inset;
+  background: linear-gradient(135deg, #e53935 0%, #ef5350 100%);
+  border-bottom: 5px solid #b71c1c;
+  /* darker red bottom stroke */
+  box-shadow: 0 0 12px #ef5350 inset;
 }
 
 footer.wrong .start-lesson-btn {
-    background-color: #F44336;
+  background-color: #f44336;
 }
 
 /* Practice number circle */
 .practice-number {
-    width: 32px;
-    height: 32px;
-    background: #B652E2;
-    color: #fff;
-    font-weight: 700;
-    font-size: 20px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 auto 12px auto;
+  width: 32px;
+  height: 32px;
+  background: #b652e2;
+  color: #fff;
+  font-weight: 700;
+  font-size: 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto 12px auto;
 }
 
 /* Practice content */
 .german-sentence {
-    font-size: 18px;
-    font-weight: 600;
-    color: #333;
+  font-size: 18px;
+  font-weight: 600;
+  color: #333;
 }
 
 .english-translation {
-    font-size: 16px;
-    color: #888;
+  font-size: 16px;
+  color: #888;
 }
-
 
 /* List container */
 .slide-content {
-    display: flex;
-    flex-direction: column;
-    /* gap: 8px; */
-    margin-top: 16px;
-    list-style: none;
-    padding: 0;
-    /* remove side padding */
+  display: flex;
+  flex-direction: column;
+  /* gap: 8px; */
+  margin-top: 16px;
+  list-style: none;
+  padding: 0;
+  /* remove side padding */
 }
 
 .german-sentence,
 .english-translation {
-    margin: 0;
-    /* removes default <p> spacing */
+  margin: 0;
+  /* removes default <p> spacing */
 }
 
 .german-sentence {
-    margin-bottom: 6px;
-    /* just a small gap */
+  margin-bottom: 6px;
+  /* just a small gap */
 }
 
 /* List items */
 .slide-content li {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    padding: 10px 0;
-    border-bottom: 1px solid #ddd;
-    /* subtle divider */
-    /* gap: 12px; */
-    /* spacing between left and right */
-    line-height: 1.5;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 10px 0;
+  border-bottom: 1px solid #ddd;
+  /* subtle divider */
+  /* gap: 12px; */
+  /* spacing between left and right */
+  line-height: 1.5;
 }
 
 /* Left label */
 .slide-content li .left {
-    /* flex: 0 0 150px; */
-    /* fixed width for label */
-    font-weight: 600;
-    color: #7734D9;
+  /* flex: 0 0 150px; */
+  /* fixed width for label */
+  font-weight: 600;
+  color: #7734d9;
 }
 
 /* Alternating left label color (grey variant) */
 .slide-content li .left.grey {
-    color: #888;
+  color: #888;
 }
 
 /* Right content */
 .slide-content li .right {
-    flex: 1;
-    /* take remaining width */
-    color: #444;
+  flex: 1;
+  /* take remaining width */
+  color: #444;
 }
 
 /* Right content grey text */
 .slide-content li .right.grey {
-    color: #888;
+  color: #888;
 }
 
 /* Optional: responsive wrap for small screens */
 @media (max-width: 480px) {
-    .slide-content li {
-        flex-direction: column;
-        align-items: flex-start;
-    }
+  .slide-content li {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 
-    .slide-content li .left {
-        flex: none;
-        margin-bottom: 4px;
-    }
+  .slide-content li .left {
+    flex: none;
+    margin-bottom: 4px;
+  }
 
-    .slide-content li .right {
-        flex: none;
-    }
+  .slide-content li .right {
+    flex: none;
+  }
 }
-
-
-
 
 .practice-answers {
-    display: flex;
-    flex-direction: column;
-    margin-top: 20px;
-    gap: 12px;
-    /* padding: 0 10px; */
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  gap: 12px;
+  /* padding: 0 10px; */
 }
 
-
-
 .fill-the-field {
+  padding-right: 12px;
+  font-size: 22px;
 
-    padding-right: 12px;
-    font-size: 22px;
-
-    /* padding: 0 10px; */
+  /* padding: 0 10px; */
 }
 
 /* Answer card */
 .answer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 12px 16px;
-    border: 2px solid #ccc;
-    /* default grey border */
-    border-radius: 12px;
-    cursor: pointer;
-    background: #f9f9f9;
-    /* default background */
-    font-size: 16px;
-    font-weight: 500;
-    transition: all 0.2s ease;
-    position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+  border: 2px solid #ccc;
+  /* default grey border */
+  border-radius: 12px;
+  cursor: pointer;
+  background: #f9f9f9;
+  /* default background */
+  font-size: 16px;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  position: relative;
 }
 
 /* Hover effect */
 .answer:hover {
-    border-color: #999;
+  border-color: #999;
 }
 
 /* Custom radio button */
 .answer::after {
-    content: "";
-    width: 20px;
-    height: 20px;
-    border: 5px solid #ccc;
-    border-radius: 50%;
-    background: transparent; /* No fill */
-    flex-shrink: 0;
-    margin-left: 12px;
-    transition: all 0.2s ease;
-    position: relative; /* Needed for inner circle */
+  content: "";
+  width: 18px;
+  height: 18px;
+  border: 2px solid #ccc;
+  border-radius: 50%;
+  background: #eee; /* No fill */
+  flex-shrink: 0;
+  margin-left: 12px;
+  transition: all 0.2s ease;
+  position: relative; /* Needed for inner circle */
 }
 
 /* Small inner circle (hidden by default) */
-.answer::after::before {
+/* .answer::after::before {
     content: "";
     position: absolute;
     top: 50%;
@@ -479,143 +453,165 @@ footer.wrong .start-lesson-btn {
     border-radius: 50%;
     transform: translate(-50%, -50%);
     transition: all 0.2s ease;
-}
+} */
 
 /* Selected (before validation) */
 .answer.selected:not(.correct):not(.wrong) {
-    border-color: #7734D9;
-    background-color: #edf1ff;
-    color: #1d2b52;
+  border-color: #7734d9;
+  background-color: #edf1ff;
+  color: #1d2b52;
 }
 
 .answer.selected:not(.correct):not(.wrong)::after {
-    border-color: #7734D9; /* purple stroke */
+  /* border-color: #7734D9; purple stroke */
+  /* background: radial-gradient(
+    circle at center,
+    #7734d9 30%,
+    #fcfafa,
+    #aa98c5 83%
+  ); */
+  background: radial-gradient(
+    circle at center,
+    #7734d9 30%,
+    /* #fcfafa, */ #ffffff 60%
+  );
+  border-color: #aa98c5;
+  /* background-color: #7734d9; */
+  /* border-color: #aa98c5; */
 }
 
 .answer.selected:not(.correct):not(.wrong)::after::before {
-    background: #7734D9; /* small filled dot */
+  background: #7734d9; /* small filled dot */
 }
 
 /* Selected correct answer */
 .answer.selected.correct {
-    border-color: #4CAF50;
-    /* green stroke */
-    background-color: #DFF5E0;
-    /* soft green bg */
-    color: #4CAF50;
-    /* green text */
+  border-color: #4caf50;
+  /* green stroke */
+  background-color: #dff5e0;
+  /* soft green bg */
+  color: #4caf50;
+  /* green text */
 }
 
 .answer.selected.correct::after {
-        border-color: #4CAF50; /* green stroke */
-
+  background: radial-gradient(
+    circle at center,
+    #4caf50 30%,
+    /* #fcfafa, */ #ffffff 60%
+  );
+  border-color: #4caf50; /* green stroke */
+  background-color: #4caf50;
 }
 
 .answer.selected.correct::after::before {
-    background: #4CAF50; /* green dot */
+  background: #4caf50; /* green dot */
 }
-
 
 /* Selected wrong answer */
 .answer.selected.wrong {
-    border-color: #F44336;
-    /* red stroke */
-    background-color: #FDE2E2;
-    /* soft red bg */
-    color: #F44336;
-    /* red text */
+  border-color: #f44336;
+  /* red stroke */
+  background-color: #fde2e2;
+  /* soft red bg */
+  color: #f44336;
+  /* red text */
 }
 
 .answer.selected.wrong::after {
-        border-color: #F44336; /* red stroke */
-
+  /* background-color: #F44336; */
+  border-color: #f44336; /* red stroke */
+  background: radial-gradient(
+    circle at center,
+    #f44336 30%,
+    /* #fcfafa, */ #ffffff 60%
+  );
 }
 .answer.selected.wrong::after::before {
-    background: #F44336; /* red dot */
+  background: #f44336; /* red dot */
 }
 
 /* Shake animation for wrong answers */
 @keyframes shake {
-    0% {
-        transform: translateX(0);
-    }
+  0% {
+    transform: translateX(0);
+  }
 
-    20% {
-        transform: translateX(-5px);
-    }
+  20% {
+    transform: translateX(-5px);
+  }
 
-    40% {
-        transform: translateX(5px);
-    }
+  40% {
+    transform: translateX(5px);
+  }
 
-    60% {
-        transform: translateX(-5px);
-    }
+  60% {
+    transform: translateX(-5px);
+  }
 
-    80% {
-        transform: translateX(5px);
-    }
+  80% {
+    transform: translateX(5px);
+  }
 
-    100% {
-        transform: translateX(0);
-    }
+  100% {
+    transform: translateX(0);
+  }
 }
 
 .answer.wrong.shake {
-    animation: shake 0.4s ease;
+  animation: shake 0.4s ease;
 }
 
-
 .answer-zone {
-    min-height: 40px;
-    margin: 10px 0;
-    border: 2px dashed #aaa;
-    border-radius: 8px;
-    padding: 10px;
-    display: flex;
-    flex-wrap: nowrap;
-    /* prevent wrapping */
-    gap: 8px;
-    flex-wrap: wrap;
-    background: #fafafa;
+  min-height: 40px;
+  margin: 10px 0;
+  border: 2px dashed #aaa;
+  border-radius: 8px;
+  padding: 10px;
+  display: flex;
+  flex-wrap: nowrap;
+  /* prevent wrapping */
+  gap: 8px;
+  flex-wrap: wrap;
+  background: #fafafa;
 }
 
 .word-bank {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
 }
 
 .word {
-    padding: 6px 10px;
-    background: #e0e0e0;
-    border-radius: 6px;
-    cursor: grab;
-    user-select: none;
+  padding: 6px 10px;
+  background: #e0e0e0;
+  border-radius: 6px;
+  cursor: grab;
+  user-select: none;
 }
 
 .word.dragging {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 /* === Grammar Tip Slide === */
 /* Only this one gets internal scrolling */
 .slide[data-label="grammar tip"] {
-    height: calc(100% - 20px);
-    /* keeps it scrollable but leaves gap */
-    overflow-y: auto;
-    padding-right: 16px;
-    margin-bottom: 20px;
-    /* visual space before footer */
-    box-sizing: border-box;
+  height: calc(100% - 20px);
+  /* keeps it scrollable but leaves gap */
+  overflow-y: auto;
+  padding-right: 16px;
+  margin-bottom: 20px;
+  /* visual space before footer */
+  box-sizing: border-box;
 }
 
 /* Optional prettier scrollbar */
 .slide[data-label="grammar tip"]::-webkit-scrollbar {
-    width: 8px;
+  width: 8px;
 }
 
 .slide[data-label="grammar tip"]::-webkit-scrollbar-thumb {
-    background: #ccc;
-    border-radius: 4px;
+  background: #ccc;
+  border-radius: 4px;
 }

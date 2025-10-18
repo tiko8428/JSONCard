@@ -7,8 +7,11 @@ const footer = document.querySelector('footer');
 const feedbackMessage = document.querySelector('.feedback-message');
 
 // Audio feedback
-const correctSound = new Audio('sounds/correct.mp3');
-const wrongSound = new Audio('sounds/error.mp3');
+// const correctSound = new Audio('sounds/correct.mp3');
+// const wrongSound = new Audio('sounds/error.mp3');
+
+const correctSound = new Audio('http://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FCorrect.mp3?alt=media&token=e11ef4ef-c020-431f-a87c-9e57bddc343c');
+const wrongSound = new Audio('https://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FError.mp3?alt=media&token=5d61b9e3-8db2-483f-9526-86f8f797e3a9');
 
 let currentIndex = 0;
 

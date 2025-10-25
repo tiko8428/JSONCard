@@ -123,7 +123,9 @@ function onLessonComplete() {
 
 // Initialize on page load
 document.addEventListener('DOMContentLoaded', function() {
-    initAppDownloadPrompt();
+    setTimeout(function() {
+        initAppDownloadPrompt();
+    }, 0);
 });
 
 // ****************************************************************

@@ -13,6 +13,122 @@ const feedbackMessage = document.querySelector('.feedback-message');
 const correctSound = new Audio('https://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FCorrect.mp3?alt=media&token=e11ef4ef-c020-431f-a87c-9e57bddc343c');
 const wrongSound = new Audio('https://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FError.mp3?alt=media&token=5d61b9e3-8db2-483f-9526-86f8f797e3a9');
 
+var isOpenedFromApp = false;
+var appStoreUrl = 'https://apps.apple.com/app/id1660563339';
+
+// set share function
+function calledFromLingVoiOSApp() {
+    isOpenedFromApp = true;
+    return true;
+}
+function initAppDownloadPrompt() {
+    var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+    var isMac = /Macintosh|MacIntel|MacPPC|Mac68K/.test(navigator.userAgent);
+    
+    // Only show for iOS or Mac users not from app
+    if (!isOpenedFromApp && (isIOS || isMac)) {
+        setTimeout(function() {
+            createAppBanner();
+            showAppBanner();
+        }, 3000);
+    }
+}
+
+function createAppBanner() {
+    var banner = document.createElement('div');
+    banner.id = 'app-download-banner';
+    banner.innerHTML = 
+        '<div class="app-banner-content">' +
+            '<div class="app-info">' +
+                '<div class="app-icon">📱</div>' +
+                '<div class="app-text">' +
+                    '<div class="app-title">Get the LingVo App</div>' +
+                    '<div class="app-subtitle">Better learning experience</div>' +
+                '</div>' +
+            '</div>' +
+            '<div class="app-actions">' +
+                '<button class="download-btn" onclick="downloadApp()">Download</button>' +
+                '<button class="close-btn" onclick="dismissAppBanner()">&times;</button>' +
+            '</div>' +
+        '</div>';
+
+    document.body.insertBefore(banner, document.body.firstChild);
+}
+
+function showAppBanner() {
+    var banner = document.getElementById('app-download-banner');
+    if (banner) {
+        setTimeout(function() {
+            banner.classList.add('show');
+            document.body.classList.add('banner-shown');
+        }, 100);
+    }
+}
+
+function downloadApp() {
+    window.open(appStoreUrl, '_blank');
+    console.log('App download clicked from web');
+    setTimeout(function() { dismissAppBanner(); }, 1000);
+}
+
+function dismissAppBanner() {
+    var banner = document.getElementById('app-download-banner');
+    if (!banner) return;
+    banner.classList.remove('show');
+    document.body.classList.remove('banner-shown');
+    setTimeout(function() {
+        if (banner && banner.parentNode) banner.remove();
+    }, 400);
+}
+
+function showAppDownloadModal() {
+    if (isOpenedFromApp) return;
+    var modal = document.createElement('div');
+    modal.id = 'app-download-modal';
+    modal.innerHTML = 
+        '<div class="modal-overlay" onclick="closeAppModal()">' +
+            '<div class="modal-content" onclick="event.stopPropagation()">' +
+                '<button class="modal-close" onclick="closeAppModal()">&times;</button>' +
+                '<div class="modal-icon">🎉</div><h2>Great Job!</h2>' +
+                '<p>Download the LingVo app for the best learning experience!</p>' +
+                '<div class="modal-buttons">' +
+                    '<button class="btn-download" onclick="downloadAppFromModal()">📱 Download App</button>' +
+                    '<button class="btn-continue" onclick="closeAppModal()">Continue in Browser</button>' +
+                '</div>' +
+            '</div>' +
+        '</div>';
+    document.body.appendChild(modal);
+}
+
+function closeAppModal() {
+    var modal = document.getElementById('app-download-modal');
+    if (modal) modal.remove();
+}
+
+function downloadAppFromModal() {
+    window.open(appStoreUrl, '_blank');
+    closeAppModal();
+}
+
+function onLessonComplete() {
+    var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
+    var isMac = /Macintosh|MacIntel|MacPPC|Mac68K/.test(navigator.userAgent);
+    
+    if (!isOpenedFromApp && (isIOS || isMac)) {
+        setTimeout(function() {
+            showAppDownloadModal();
+        }, 500);
+    }
+}
+
+// Initialize on page load
+document.addEventListener('DOMContentLoaded', function() {
+    initAppDownloadPrompt();
+});
+
+// ****************************************************************
+
+
 let currentIndex = 0;
 
 /* -----------------------------
@@ -74,6 +190,7 @@ function updateSlider() {
         updateButtonText("Start Lesson");
     } else if (currentIndex === slides.length - 1) {
         updateButtonText("Finish");
+        onLessonComplete();
     } else {
         updateButtonText("Next");
     }

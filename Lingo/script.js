@@ -25,6 +25,8 @@ function calledFromLingVoiOSApp() {
   isOpenedFromApp = true;
   return true;
 }
+window.calledFromLingVoiOSApp = calledFromLingVoiOSApp;
+
 function initAppDownloadPrompt() {
   var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
   var isMac = /Macintosh|MacIntel|MacPPC|Mac68K/.test(navigator.userAgent);
@@ -128,11 +130,9 @@ function onLessonComplete() {
 }
 
 // Initialize on page load
-setTimeout(function () {
   document.addEventListener("DOMContentLoaded", function () {
     initAppDownloadPrompt();
   });
-}, 1000);
 // ****************************************************************
 
 let currentIndex = 0;

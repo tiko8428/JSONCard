@@ -17,7 +17,7 @@ const wrongSound = new Audio(
   "https://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FError.mp3?alt=media&token=5d61b9e3-8db2-483f-9526-86f8f797e3a9"
 );
 
-var isOpenedFromApp = false;
+var isOpenedFromApp = true;
 var appStoreUrl = "https://apps.apple.com/app/id1660563339";
 
 // set share function

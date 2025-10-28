@@ -260,7 +260,7 @@ header {
 }
 
 .progress-bar-container {
-  width: 80%;
+  width: 75%;
   height: 12px;
   /* Leave equal room for header buttons on both sides */
   margin: 12px auto ;

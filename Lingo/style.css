@@ -260,10 +260,10 @@ header {
 }
 
 .progress-bar-container {
-  width: 90%;
+  width: 80%;
   height: 12px;
   /* Leave equal room for header buttons on both sides */
-  margin: 0 auto 12px;
+  margin: 12px auto ;
   background-color: rgb(234, 234, 234);
   border-radius: 8px;
   overflow: hidden;

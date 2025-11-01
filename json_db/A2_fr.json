@@ -1,13 +1,13 @@
 {
     "1": {
         "cardNumber": "1",
-        "field1": "cuire",
-        "field2": "(cuits-cuits-cuits)",
+        "field1": "cuire au four",
+        "field2": "(cuit-cuisait-a cuit)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Grand-mère prépare le gâteau",
+        "field7": "Grand-mère fait cuire le gâteau.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -15,47 +15,47 @@
         "cardNumber": "2",
         "field1": "amer",
         "field2": "",
-        "field3": "doux",
+        "field3": "sucré",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "chocolat amer",
+        "field7": "Du chocolat amer.",
         "field8": "",
         "category": "Nourriture"
     },
     "3": {
         "cardNumber": "3",
-        "field1": "rôti",
-        "field2": "(frit-frit-frit)",
+        "field1": "faire frire",
+        "field2": "(fait frire-faisait frire-a fait frire)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La mère fait frire du poisson",
+        "field7": "La mère fait frire du poisson.",
         "field8": "",
         "category": "Nourriture"
     },
     "4": {
         "cardNumber": "4",
         "field1": "le café",
-        "field2": "Les cafés",
+        "field2": "les cafés",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "dans le café",
+        "field7": "Au café.",
         "field8": "je vais au café le dimanche",
         "category": "Nourriture"
     },
     "5": {
         "cardNumber": "5",
         "field1": "le poulet",
-        "field2": "le poulet",
+        "field2": "les poulets",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Deux poulets rôtis aux légumes",
+        "field7": "Deux poulets rôtis avec des légumes.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -67,19 +67,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "frire dans l'huile",
+        "field7": "Faire revenir dans l'huile.",
         "field8": "",
         "category": "Nourriture"
     },
     "7": {
         "cardNumber": "7",
         "field1": "le miel",
-        "field2": "Pour le petit déjeuner il y a du pain, du miel et du lait",
+        "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "",
+        "field7": "Au petit-déjeuner, il y a du pain, du miel et du lait.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -91,7 +91,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Avez-vous des yaourts faibles en gras?",
+        "field7": "Avez-vous des yaourts allégés ?",
         "field8": "",
         "category": "Nourriture"
     },
@@ -103,7 +103,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je voudrais une tasse de café s'il vous plaît !",
+        "field7": "Je voudrais une tasse de café, s'il vous plaît !",
         "field8": "",
         "category": "Nourriture"
     },
@@ -115,15 +115,15 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je bois une tasse de cacao au petit déjeuner",
+        "field7": "Au petit-déjeuner, je bois une tasse de cacao.",
         "field8": "",
         "category": "Nourriture"
     },
     "11": {
         "cardNumber": "11",
-        "field1": "le cookie",
-        "field2": "les cookies",
-        "field3": "le cookie aux pépites de chocolat",
+        "field1": "le biscuit",
+        "field2": "les biscuits",
+        "field3": "le biscuit au chocolat",
         "field4": "",
         "field5": "le biscuit au beurre",
         "field6": "",
@@ -133,9 +133,9 @@
     },
     "12": {
         "cardNumber": "12",
-        "field1": "le poivre",
+        "field1": "le poivron",
         "field2": "les poivrons",
-        "field3": "paprika doux",
+        "field3": "le paprika doux",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -163,15 +163,15 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous aimez cueillir des champignons ?",
+        "field7": "Aimes-tu cueillir des champignons ?",
         "field8": "Je n'aime pas cueillir des champignons",
         "category": "Nourriture"
     },
     "15": {
         "cardNumber": "15",
-        "field1": "le caillé",
+        "field1": "le fromage blanc",
         "field2": "",
-        "field3": "le gâteau au caillé",
+        "field3": "le gâteau au fromage blanc",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -182,36 +182,36 @@
     "16": {
         "cardNumber": "16",
         "field1": "le jambon",
-        "field2": "le jambon",
+        "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Envie d'un petit pain au jambon ?",
+        "field7": "Tu veux un petit pain au jambon ?",
         "field8": "",
         "category": "Nourriture"
     },
     "17": {
         "cardNumber": "17",
         "field1": "le bar",
-        "field2": "les barres",
+        "field2": "les bars",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il y a de nombreux bars dans le centre-ville",
+        "field7": "Il y a de nombreux bars dans le centre-ville.",
         "field8": "Il va dans un bar",
         "category": "Nourriture"
     },
     "18": {
         "cardNumber": "18",
-        "field1": "La poire",
+        "field1": "la poire",
         "field2": "les poires",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ces poires sont si juteuses!",
+        "field7": "Ces poires sont si juteuses !",
         "field8": "",
         "category": "Nourriture"
     },
@@ -236,7 +236,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "cornichons aigres",
+        "field7": "Des cornichons au vinaigre.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -268,13 +268,13 @@
     },
     "23": {
         "cardNumber": "23",
-        "field1": "les nouilles",
+        "field1": "les pâtes",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Les nouilles sont prêtes",
+        "field7": "Les pâtes sont prêtes.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -286,7 +286,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Les prunes ne sont pas encore mûres",
+        "field7": "Les prunes ne sont pas encore mûres.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -298,7 +298,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Crème fraîche",
+        "field7": "De la crème aigre.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -310,7 +310,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Émincer les oignons !",
+        "field7": "Coupe les oignons en dés !",
         "field8": "",
         "category": "Nourriture"
     },
@@ -322,7 +322,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le pain est frais",
+        "field7": "Le petit pain est frais.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -340,19 +340,19 @@
     },
     "29": {
         "cardNumber": "29",
-        "field1": "bien",
+        "field1": "super",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le gâteau est super !",
+        "field7": "Le gâteau est excellent !",
         "field8": "",
         "category": "Nourriture"
     },
     "30": {
         "cardNumber": "30",
-        "field1": "sel",
+        "field1": "saler",
         "field2": "",
         "field3": "le sel",
         "field4": "",
@@ -364,25 +364,25 @@
     },
     "31": {
         "cardNumber": "31",
-        "field1": "bon goût",
+        "field1": "avoir bon goût",
         "field2": "",
         "field3": "savoureux",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Aimez-vous le poisson?",
+        "field7": "Est-ce que le poisson te plaît ?",
         "field8": "",
         "category": "Nourriture"
     },
     "32": {
         "cardNumber": "32",
         "field1": "couper",
-        "field2": "(couper couper couper)",
+        "field2": "(coupe-coupait-a coupé)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "tranche",
+        "field7": "Couper en tranches.",
         "field8": "",
         "category": "Nourriture"
     },
@@ -394,31 +394,31 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mettez-vous à l'aise!",
+        "field7": "Mettez-vous à l'aise !",
         "field8": "",
         "category": "Loger"
     },
     "34": {
         "cardNumber": "34",
-        "field1": "l'étude",
-        "field2": "l'étude",
+        "field1": "le bureau",
+        "field2": "les bureaux",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est dans son bureau",
+        "field7": "Il est dans son bureau.",
         "field8": "",
         "category": "Loger"
     },
     "35": {
         "cardNumber": "35",
-        "field1": "la chambre des enfants",
+        "field1": "la chambre d'enfant",
         "field2": "les chambres d'enfants",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tous les jouets sont dans la chambre des enfants",
+        "field7": "Tous les jouets sont dans la chambre des enfants.",
         "field8": "",
         "category": "Loger"
     },
@@ -430,7 +430,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous avons besoin d'un tapis pour le salon",
+        "field7": "Nous avons besoin d'un tapis pour le salon.",
         "field8": "",
         "category": "Loger"
     },
@@ -442,14 +442,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Prends-tu l'ascenseur ?",
+        "field7": "Prenez-vous l'ascenseur ?",
         "field8": "",
         "category": "Loger"
     },
     "38": {
         "cardNumber": "38",
-        "field1": "le plancher",
-        "field2": "les étages",
+        "field1": "le sol",
+        "field2": "les sols",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -466,7 +466,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mes voisins sont gentils",
+        "field7": "Mes voisins sont gentils.",
         "field8": "",
         "category": "Loger"
     },
@@ -478,67 +478,67 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La porte s'ouvre avec la clé",
+        "field7": "On ouvre la porte avec la clé.",
         "field8": "",
         "category": "Loger"
     },
     "41": {
         "cardNumber": "41",
-        "field1": "le plancher",
+        "field1": "l'étage",
         "field2": "les étages",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "j'habite au premier étage",
+        "field7": "J'habite au premier étage.",
         "field8": "",
         "category": "Loger"
     },
     "42": {
         "cardNumber": "42",
-        "field1": "(se laver",
-        "field2": "(lavage-lavage-lavage)",
+        "field1": "se laver",
+        "field2": "(se lave-se lava-s'est lavé(e))",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je me lave les mains",
+        "field7": "Je me lave les mains.",
         "field8": "je me lave tous les jours",
         "category": "Tous les jours"
     },
     "43": {
         "cardNumber": "43",
         "field1": "le verre",
-        "field2": "les lunettes",
+        "field2": "les verres",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un verre de vin",
+        "field7": "Un verre de vin.",
         "field8": "un verre à vin",
         "category": "Tous les jours"
     },
     "44": {
         "cardNumber": "44",
-        "field1": "La poubelle",
+        "field1": "les déchets",
         "field2": "",
-        "field3": "tri des déchets",
+        "field3": "le tri des déchets",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elle jette la bouteille à la poubelle",
+        "field7": "Elle jette la bouteille à la poubelle.",
         "field8": "",
         "category": "Tous les jours"
     },
     "45": {
         "cardNumber": "45",
-        "field1": "La saleté",
+        "field1": "la saleté",
         "field2": "",
         "field3": "sale",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vos lunettes sont sales",
+        "field7": "Tes lunettes sont sales.",
         "field8": "",
         "category": "Tous les jours"
     },
@@ -550,19 +550,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Essuyez le tableau noir avec l'éponge !",
+        "field7": "Essuie le tableau avec l'éponge !",
         "field8": "",
         "category": "Tous les jours"
     },
     "47": {
         "cardNumber": "47",
-        "field1": "le pot",
-        "field2": "les marmites",
+        "field1": "la casserole",
+        "field2": "les casseroles",
         "field3": "le pot de fleurs",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "mettre une casserole sur le feu",
+        "field7": "Mets une casserole sur le feu.",
         "field8": "",
         "category": "Tous les jours"
     },
@@ -599,19 +599,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "la commande doit être",
+        "field7": "Il faut de l'ordre.",
         "field8": "",
         "category": "Tous les jours"
     },
     "51": {
         "cardNumber": "51",
         "field1": "la poêle",
-        "field2": "les casseroles",
+        "field2": "les poêles",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je fais frire le poisson dans la poêle",
+        "field7": "Je fais cuire le poisson dans la poêle.",
         "field8": "",
         "category": "Tous les jours"
     },
@@ -619,11 +619,11 @@
         "cardNumber": "52",
         "field1": "la propreté",
         "field2": "",
-        "field3": "faire le ménage",
+        "field3": "propre",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "nettoyer",
+        "field7": "Nettoyer.",
         "field8": "",
         "category": "Tous les jours"
     },
@@ -631,11 +631,11 @@
         "cardNumber": "53",
         "field1": "le savon",
         "field2": "",
-        "field3": "la bulle",
+        "field3": "la bulle de savon",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "savon liquide",
+        "field7": "Savon liquide.",
         "field8": "",
         "category": "Tous les jours"
     },
@@ -647,55 +647,55 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elle achète un tube de dentifrice",
+        "field7": "Elle achète un tube de dentifrice.",
         "field8": "",
         "category": "Tous les jours"
     },
     "55": {
         "cardNumber": "55",
-        "field1": "complet",
+        "field1": "prêt",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le repas est prêt",
+        "field7": "Le repas est prêt.",
         "field8": "Es-tu prêt?",
         "category": "Tous les jours"
     },
     "56": {
         "cardNumber": "56",
-        "field1": "fonction",
+        "field1": "fonctionner",
         "field2": "",
         "field3": "la fonction",
         "field4": "les fonctions",
         "field5": "",
         "field6": "",
-        "field7": "Comment cela marche-t-il?",
+        "field7": "Comment cela fonctionne ?",
         "field8": "",
         "category": "Tous les jours"
     },
     "57": {
         "cardNumber": "57",
-        "field1": "battre",
+        "field1": "frapper",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Quelqu'un frappe à la porte",
+        "field7": "Quelqu'un frappe à la porte.",
         "field8": "",
         "category": "Tous les jours"
     },
     "58": {
         "cardNumber": "58",
-        "field1": "humide",
+        "field1": "mouillé",
         "field2": "",
         "field3": "sec",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le sol de la salle de bain est mouillé",
+        "field7": "Le sol de la salle de bain est mouillé.",
         "field8": "",
         "category": "Tous les jours"
     },
@@ -703,35 +703,35 @@
         "cardNumber": "59",
         "field1": "pratique",
         "field2": "",
-        "field3": "pas pratique",
+        "field3": "peu pratique",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ces chaussures sont très pratiques",
+        "field7": "Ces chaussures sont très pratiques.",
         "field8": "",
         "category": "Tous les jours"
     },
     "60": {
         "cardNumber": "60",
-        "field1": "être debout",
-        "field2": "(est-était-été)",
+        "field1": "être ouvert",
+        "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La boulangerie est ouverte",
+        "field7": "La boulangerie est ouverte.",
         "field8": "La porte est ouverte",
         "category": "Achats et services"
     },
     "61": {
         "cardNumber": "61",
-        "field1": "l'achat",
-        "field2": "les achats",
+        "field1": "les courses",
+        "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Merci de faire les courses !",
+        "field7": "S'il te plaît, fais les courses !",
         "field8": "",
         "category": "Achats et services"
     },
@@ -743,19 +743,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'achète les journaux au kiosque",
+        "field7": "J'achète les journaux au kiosque.",
         "field8": "",
         "category": "Achats et services"
     },
     "63": {
         "cardNumber": "63",
-        "field1": "le consommateur",
-        "field2": "le consommateur",
-        "field3": "le consommateur",
+        "field1": "le client",
+        "field2": "les clients",
+        "field3": "la cliente",
         "field4": "les clients",
         "field5": "",
         "field6": "",
-        "field7": "Ici chaque client est roi",
+        "field7": "Ici, chaque client est roi.",
         "field8": "",
         "category": "Achats et services"
     },
@@ -779,7 +779,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'apporte mes chaussures chez le cordonnier",
+        "field7": "J'apporte mes chaussures chez le cordonnier.",
         "field8": "",
         "category": "Achats et services"
     },
@@ -791,19 +791,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Son oncle est un horloger qualifié",
+        "field7": "Son oncle est un horloger qualifié.",
         "field8": "",
         "category": "Achats et services"
     },
     "67": {
         "cardNumber": "67",
         "field1": "la boulangerie",
-        "field2": "Les boulangeries",
+        "field2": "les boulangeries",
         "field3": "le boulanger",
         "field4": "les boulangers",
         "field5": "",
         "field6": "",
-        "field7": "Comment se rendre à la boulangerie ?",
+        "field7": "Comment puis-je aller à la boulangerie ?",
         "field8": "",
         "category": "Achats et services"
     },
@@ -815,25 +815,25 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Y a-t-il une librairie près d'ici ?",
+        "field7": "Y a-t-il une librairie près d'ici ?",
         "field8": "",
         "category": "Achats et services"
     },
     "69": {
         "cardNumber": "69",
-        "field1": "la pharmacie",
-        "field2": "les pharmacies",
+        "field1": "la droguerie",
+        "field2": "les drogueries",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je dois aller à la pharmacie",
+        "field7": "Je dois passer rapidement à la droguerie.",
         "field8": "",
         "category": "Achats et services"
     },
     "70": {
         "cardNumber": "70",
-        "field1": "la caisse enregistreuse",
+        "field1": "la caisse",
         "field2": "les caisses",
         "field3": "",
         "field4": "",
@@ -846,36 +846,36 @@
     "71": {
         "cardNumber": "71",
         "field1": "donner",
-        "field2": "(donne-donne-donne)",
+        "field2": "(donne-donnait-a donné)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Donnez-moi trois rouleaux, s'il vous plaît !",
+        "field7": "Donnez-moi trois petits pains, s'il vous plaît !",
         "field8": "Il me donne le reçu",
         "category": "Achats et services"
     },
     "72": {
         "cardNumber": "72",
-        "field1": "s'il te plaît",
-        "field2": "(aimé-aimé-aimé)",
+        "field1": "plaire",
+        "field2": "(plaît-plaisait-a plu)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Quel chemisier aimez-vous?",
+        "field7": "Quelle blouse te plaît ?",
         "field8": "j'aime ces chaussures",
         "category": "Achats et services"
     },
     "73": {
         "cardNumber": "73",
-        "field1": "bien",
+        "field1": "bon",
         "field2": "",
         "field3": "mauvais",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "bonne qualité",
+        "field7": "De bonne qualité.",
         "field8": "",
         "category": "Achats et services"
     },
@@ -887,15 +887,15 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il suffit de regarder!",
+        "field7": "Regarde !",
         "field8": "",
         "category": "Achats et services"
     },
     "75": {
         "cardNumber": "75",
-        "field1": "qui?",
+        "field1": "lequel ?",
         "field2": "",
-        "field3": "qui?",
+        "field3": "laquelle ?",
         "field4": "",
         "field5": "qui?",
         "field6": "",
@@ -911,19 +911,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je ne veux rien acheter",
+        "field7": "Je ne veux rien acheter.",
         "field8": "Nous voulons faire du shopping",
         "category": "Achats et services"
     },
     "77": {
         "cardNumber": "77",
-        "field1": "être",
-        "field2": "(est-était-été)",
+        "field1": "être fermé",
+        "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le magasin est fermé",
+        "field7": "Le magasin est fermé.",
         "field8": "La porte est fermée",
         "category": "Achats et services"
     },
@@ -935,7 +935,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Êtes-vous content?",
+        "field7": "Êtes-vous satisfait ?",
         "field8": "",
         "category": "Achats et services"
     },
@@ -947,7 +947,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "tout les hommes",
+        "field7": "Tous les hommes.",
         "field8": "toutes les femmes",
         "category": "Famille"
     },
@@ -959,39 +959,39 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "seul à la maison",
+        "field7": "Seul à la maison.",
         "field8": "",
         "category": "Famille"
     },
     "81": {
         "cardNumber": "81",
-        "field1": "Tous mes vœux!",
+        "field1": "Tous mes vœux !",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Joyeux anniversaire!",
+        "field7": "Joyeux anniversaire !",
         "field8": "",
         "category": "Famille"
     },
     "82": {
         "cardNumber": "82",
         "field1": "recevoir",
-        "field2": "(obtenir-obtenir-obtenir)",
+        "field2": "(reçoit-recevait-a reçu)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je reçois beaucoup de cadeaux pour mon anniversaire",
+        "field7": "Pour mon anniversaire, je reçois beaucoup de cadeaux.",
         "field8": "",
         "category": "Famille"
     },
     "83": {
         "cardNumber": "83",
-        "field1": "L'autre",
+        "field1": "l'autre (homme)",
         "field2": "",
-        "field3": "L'autre",
+        "field3": "l'autre (femme)",
         "field4": "",
         "field5": "L'autre",
         "field6": "",
@@ -1002,7 +1002,7 @@
     "84": {
         "cardNumber": "84",
         "field1": "le petit-fils",
-        "field2": "les petits-enfants",
+        "field2": "les petits-fils",
         "field3": "la petite-fille",
         "field4": "Les petites-filles",
         "field5": "les petits-enfants",
@@ -1015,24 +1015,24 @@
     "85": {
         "cardNumber": "85",
         "field1": "l'école maternelle",
-        "field2": "les jardins d'enfants",
+        "field2": "les écoles maternelles",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mon fils va à la maternelle",
+        "field7": "Mon fils va à la maternelle.",
         "field8": "",
         "category": "Famille"
     },
     "86": {
         "cardNumber": "86",
         "field1": "l'être humain",
-        "field2": "l'humain",
+        "field2": "les êtres humains",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Personne ne le sait",
+        "field7": "Personne ne le sait.",
         "field8": "",
         "category": "Famille"
     },
@@ -1044,7 +1044,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il y a beaucoup de monde dans le parc",
+        "field7": "Il y a beaucoup de monde dans le parc.",
         "field8": "",
         "category": "Famille"
     },
@@ -1056,19 +1056,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "à la fête",
+        "field7": "À la fête.",
         "field8": "Nous allons à la fête demain",
         "category": "Famille"
     },
     "89": {
         "cardNumber": "89",
         "field1": "la personne",
-        "field2": "les gens",
+        "field2": "les personnes",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "une table pour quatre personnes",
+        "field7": "Une table pour quatre personnes.",
         "field8": "",
         "category": "Famille"
     },
@@ -1080,7 +1080,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il était avec sa tante",
+        "field7": "Il était avec sa tante.",
         "field8": "",
         "category": "Famille"
     },
@@ -1088,19 +1088,19 @@
         "cardNumber": "91",
         "field1": "la surprise",
         "field2": "les surprises",
-        "field3": "l'oeuf surprise",
+        "field3": "l'œuf surprise",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "une agréable surprise",
+        "field7": "Une agréable surprise.",
         "field8": "",
         "category": "Famille"
     },
     "92": {
         "cardNumber": "92",
-        "field1": "ce",
+        "field1": "celui-ci",
         "field2": "",
-        "field3": "ce",
+        "field3": "celle-ci",
         "field4": "",
         "field5": "ce",
         "field6": "",
@@ -1110,20 +1110,20 @@
     },
     "93": {
         "cardNumber": "93",
-        "field1": "toi",
+        "field1": "tu",
         "field2": "",
-        "field3": "en termes de prénom",
+        "field3": "tutoyer",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Es-tu Allemand?",
+        "field7": "Es-tu allemand ?",
         "field8": "",
         "category": "Famille"
     },
     "94": {
         "cardNumber": "94",
         "field1": "inviter",
-        "field2": "(invités-invités-invités)",
+        "field2": "(invite-invitait-a invité)",
         "field3": "l'invitation",
         "field4": "les invitations",
         "field5": "",
@@ -1140,7 +1140,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le vin est pour vous",
+        "field7": "Le vin est pour toi.",
         "field8": "",
         "category": "Famille"
     },
@@ -1152,7 +1152,7 @@
         "field4": "les naissances",
         "field5": "",
         "field6": "",
-        "field7": "je suis né en 1985",
+        "field7": "Je suis né en 1985.",
         "field8": "",
         "category": "Famille"
     },
@@ -1170,25 +1170,25 @@
     },
     "98": {
         "cardNumber": "98",
-        "field1": "Non",
+        "field1": "aucun",
         "field2": "",
-        "field3": "Non",
+        "field3": "aucune",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "certainement pas",
+        "field7": "Certainement pas !",
         "field8": "",
         "category": "Famille"
     },
     "99": {
         "cardNumber": "99",
-        "field1": "seul",
+        "field1": "célibataire",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mon frère est célibataire",
+        "field7": "Mon frère est célibataire.",
         "field8": "Ma soeur est célibataire",
         "category": "Famille"
     },
@@ -1200,43 +1200,43 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Personne n'a d'argent",
+        "field7": "Personne n'a d'argent.",
         "field8": "Personne n'est à la maison",
         "category": "Famille"
     },
     "101": {
         "cardNumber": "101",
-        "field1": "donner un cadeau",
+        "field1": "offrir",
         "field2": "",
         "field3": "le cadeau",
         "field4": "les cadeaux",
         "field5": "",
         "field6": "",
-        "field7": "Qu'est-ce qu'on lui offre pour son anniversaire ?",
+        "field7": "Que lui offrons-nous pour son anniversaire ?",
         "field8": "",
         "category": "Famille"
     },
     "102": {
         "cardNumber": "102",
-        "field1": "Elle",
-        "field2": "Elle",
+        "field1": "vous",
+        "field2": "vous",
         "field3": "",
         "field4": "",
-        "field5": "utiliser le terme formel d'adresse",
+        "field5": "vouvoyer",
         "field6": "",
-        "field7": "Êtes-vous fatigué?",
+        "field7": "Êtes-vous fatigué ?",
         "field8": "",
         "category": "Famille"
     },
     "103": {
         "cardNumber": "103",
-        "field1": "elle",
+        "field1": "ils/elles",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elles sont médecins",
+        "field7": "Ils sont médecins.",
         "field8": "",
         "category": "Famille"
     },
@@ -1248,19 +1248,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "elle est bien",
+        "field7": "Elle est gentille.",
         "field8": "",
         "category": "Famille"
     },
     "105": {
         "cardNumber": "105",
         "field1": "mourir",
-        "field2": "(meurt-mort-mort)",
+        "field2": "(meurt-mourait-est mort)",
         "field3": "la mort",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est mort en 1947",
+        "field7": "Il est mort en 1947.",
         "field8": "",
         "category": "Famille"
     },
@@ -1272,31 +1272,31 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "mon frère est marié",
-        "field8": "ma soeur est mariée",
+        "field7": "Mon frère est marié.",
+        "field8": "Ma sœur est mariée.",
         "category": "Famille"
     },
     "107": {
         "cardNumber": "107",
-        "field1": "depuis",
+        "field1": "de",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Les fleurs sont à moi",
+        "field7": "Les fleurs sont de moi.",
         "field8": "",
         "category": "Famille"
     },
     "108": {
         "cardNumber": "108",
-        "field1": "accueillir",
+        "field1": "bienvenue",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Accueillir!",
+        "field7": "Soyez les bienvenus !",
         "field8": "",
         "category": "Famille"
     },
@@ -1308,57 +1308,57 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous sommes étudiants",
+        "field7": "Nous sommes étudiants.",
         "field8": "",
         "category": "Famille"
     },
     "110": {
         "cardNumber": "110",
-        "field1": "souhait",
+        "field1": "souhaiter",
         "field2": "",
-        "field3": "le désir",
+        "field3": "le souhait",
         "field4": "les souhaits",
         "field5": "",
         "field6": "",
-        "field7": "Que souhaites-tu?",
+        "field7": "Que souhaites-tu ?",
         "field8": "",
         "category": "Famille"
     },
     "111": {
         "cardNumber": "111",
-        "field1": "(pour s'habiller",
-        "field2": "(mettre sur-mettre sur-mettre sur)",
+        "field1": "s'habiller",
+        "field2": "(s'habille-s'habillait-s'est habillé)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je m'habille",
-        "field8": "je mets le manteau",
-        "category": "Regarder"
+        "field7": "Je m'habille.",
+        "field8": "Je mets le manteau.",
+        "category": "Apparence"
     },
     "112": {
         "cardNumber": "112",
-        "field1": "(dépouiller",
-        "field2": "(décollage-décollage-décollage)",
+        "field1": "se déshabiller",
+        "field2": "(se déshabille-se déshabillait-s'est déshabillé)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "L'enfant se déshabille",
-        "field8": "L'enfant enlève ses chaussures",
-        "category": "Regarder"
+        "field7": "L'enfant se déshabille.",
+        "field8": "L'enfant enlève ses chaussures.",
+        "category": "Apparence"
     },
     "113": {
         "cardNumber": "113",
         "field1": "décrire",
-        "field2": "(décrit-décrit-décrit)",
+        "field2": "(décrit-décrivait-a décrit)",
         "field3": "la description",
-        "field4": "les descriptifs",
+        "field4": "les descriptions",
         "field5": "",
         "field6": "",
-        "field7": "Décrivez le!",
+        "field7": "Décris-le !",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "114": {
         "cardNumber": "114",
@@ -1368,21 +1368,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je suis blonde",
-        "field8": "elle a les cheveux blonds",
-        "category": "Regarder"
+        "field7": "Je suis blond.",
+        "field8": "Elle a les cheveux blonds.",
+        "category": "Apparence"
     },
     "115": {
         "cardNumber": "115",
         "field1": "le chapeau",
-        "field2": "Chapeaux",
+        "field2": "les chapeaux",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Le chapeau est trop cher",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "116": {
         "cardNumber": "116",
@@ -1394,35 +1394,35 @@
         "field6": "",
         "field7": "Emportez le parapluie avec vous !",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "117": {
         "cardNumber": "117",
-        "field1": "l'anneau",
-        "field2": "les anneaux",
+        "field1": "la bague",
+        "field2": "les bagues",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Elle porte une bague en argent",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "118": {
         "cardNumber": "118",
-        "field1": "La figure",
-        "field2": "les figures",
+        "field1": "la silhouette",
+        "field2": "les silhouettes",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Sa copine est en forme",
+        "field7": "Sa copine a une belle silhouette.",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "119": {
         "cardNumber": "119",
-        "field1": "la coupe de cheveux",
+        "field1": "la coiffure",
         "field2": "les coiffures",
         "field3": "",
         "field4": "",
@@ -1430,19 +1430,19 @@
         "field6": "",
         "field7": "une coiffure moderne",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "120": {
         "cardNumber": "120",
         "field1": "la mode",
         "field2": "",
-        "field3": "élégant",
+        "field3": "à la mode",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "selon la dernière mode",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "121": {
         "cardNumber": "121",
@@ -1454,59 +1454,59 @@
         "field6": "",
         "field7": "une paire de chaussettes tricotées",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "122": {
         "cardNumber": "122",
-        "field1": "la poche",
+        "field1": "le sac",
         "field2": "les sacs",
-        "field3": "Le sac a main",
+        "field3": "le sac à main",
         "field4": "",
-        "field5": "le porte-feuille",
+        "field5": "le portefeuille",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "123": {
         "cardNumber": "123",
         "field1": "mince",
         "field2": "",
-        "field3": "épais",
+        "field3": "gros/grosse",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ta tante est mince",
+        "field7": "Ta tante est mince.",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "124": {
         "cardNumber": "124",
-        "field1": "étroitement",
+        "field1": "serré",
         "field2": "",
-        "field3": "loin",
+        "field3": "large",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ce pantalon est trop grand pour moi",
+        "field7": "Ce pantalon est trop large pour moi.",
         "field8": "",
-        "category": "Regarder"
+        "category": "Apparence"
     },
     "125": {
         "cardNumber": "125",
-        "field1": "bien",
+        "field1": "sage",
         "field2": "",
-        "field3": "vilain",
+        "field3": "désobéissant",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Sois poli!",
+        "field7": "Sois sage !",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "126": {
         "cardNumber": "126",
-        "field1": "le personnage",
+        "field1": "le caractère",
         "field2": "les personnages",
         "field3": "caractéristique",
         "field4": "",
@@ -1514,7 +1514,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "127": {
         "cardNumber": "127",
@@ -1524,9 +1524,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je te raconte une blague",
+        "field7": "Je te raconte une blague.",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "128": {
         "cardNumber": "128",
@@ -1536,33 +1536,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je crains",
-        "field8": "N'ai pas peur!",
-        "category": "sentiments"
+        "field7": "J'ai peur.",
+        "field8": "N'aie pas peur !",
+        "category": "Sentiments"
     },
     "129": {
         "cardNumber": "129",
-        "field1": "le fantasme",
+        "field1": "l'imagination",
         "field2": "",
         "field3": "fantastique",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Votre imagination ne connaît pas de limites",
+        "field7": "Ton imagination n'a pas de limites.",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "130": {
         "cardNumber": "130",
-        "field1": "joyeux",
+        "field1": "content",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je suis content",
+        "field7": "Je suis content.",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "131": {
         "cardNumber": "131",
@@ -1574,79 +1574,79 @@
         "field6": "",
         "field7": "Aujourd'hui tout le monde est si impatient !",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "132": {
         "cardNumber": "132",
-        "field1": "détester",
+        "field1": "haïr",
         "field2": "",
         "field3": "la haine",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je le déteste",
+        "field7": "Je le hais.",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "133": {
         "cardNumber": "133",
-        "field1": "espoir",
+        "field1": "espérer",
         "field2": "",
         "field3": "l'espoir",
         "field4": "les espoirs",
         "field5": "",
         "field6": "",
-        "field7": "Je l'espère",
+        "field7": "Je l'espère.",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "134": {
         "cardNumber": "134",
-        "field1": "baiser",
+        "field1": "embrasser",
         "field2": "",
         "field3": "le baiser",
-        "field4": "les bisous",
+        "field4": "les baisers",
         "field5": "",
         "field6": "",
-        "field7": "Embrasse-moi!",
+        "field7": "Embrasse-moi !",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "135": {
         "cardNumber": "135",
-        "field1": "réjouir",
+        "field1": "se réjouir",
         "field2": "",
         "field3": "la joie",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Cela me fait plaisir",
+        "field7": "Cela me fait plaisir.",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "136": {
         "cardNumber": "136",
-        "field1": "grave",
+        "field1": "strict",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mon professeur d'allemand est strict",
+        "field7": "Mon professeur d'allemand est strict.",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "137": {
         "cardNumber": "137",
-        "field1": "amical",
+        "field1": "aimable",
         "field2": "",
         "field3": "antipathique",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elle le trouve assez sympathique",
+        "field7": "Elle le trouve assez sympathique.",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "138": {
         "cardNumber": "138",
@@ -1656,19 +1656,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ne pleure pas!",
+        "field7": "Ne pleure pas !",
         "field8": "",
-        "category": "sentiments"
+        "category": "Sentiments"
     },
     "139": {
         "cardNumber": "139",
-        "field1": "(sentir",
-        "field2": "",
+        "field1": "se sentir",
+        "field2": "(se sent-se sentait-s'est senti)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je me sens malade",
+        "field7": "Je me sens malade.",
         "field8": "",
         "category": "Santé"
     },
@@ -1680,7 +1680,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous pouvez donner votre sang ici",
+        "field7": "Vous pouvez donner votre sang ici.",
         "field8": "",
         "category": "Santé"
     },
@@ -1692,31 +1692,31 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "j'ai de la fièvre",
-        "field8": "Avez-vous déjà pris votre fièvre?",
+        "field7": "J'ai de la fièvre.",
+        "field8": "As-tu déjà pris ta température ?",
         "category": "Santé"
     },
     "142": {
         "cardNumber": "142",
         "field1": "le cœur",
-        "field2": "Les cœurs",
+        "field2": "les cœurs",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "tout mon cœur",
+        "field7": "De tout cœur.",
         "field8": "",
         "category": "Santé"
     },
     "143": {
         "cardNumber": "143",
-        "field1": "la drogue",
+        "field1": "le médicament",
         "field2": "les médicaments",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un médicament contre les maux de tête",
+        "field7": "Un médicament contre les maux de tête.",
         "field8": "",
         "category": "Santé"
     },
@@ -1728,7 +1728,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le thermomètre indique 39 degrés",
+        "field7": "Le thermomètre indique 39 degrés.",
         "field8": "",
         "category": "Santé"
     },
@@ -1740,7 +1740,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'ai mal à l'estomac",
+        "field7": "Mon ventre me fait mal.",
         "field8": "",
         "category": "Santé"
     },
@@ -1752,19 +1752,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Appuyez-vous sur vos coudes !",
+        "field7": "Appuie-toi sur les coudes !",
         "field8": "",
         "category": "Santé"
     },
     "147": {
         "cardNumber": "147",
         "field1": "le doigt",
-        "field2": "le doigt",
+        "field2": "les doigts",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "j'ai dix doigts",
+        "field7": "J'ai dix doigts.",
         "field8": "",
         "category": "Santé"
     },
@@ -1776,17 +1776,17 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "le médecin des oreilles, du nez et de la gorge",
+        "field7": "Le médecin ORL.",
         "field8": "",
         "category": "Santé"
     },
     "149": {
         "cardNumber": "149",
         "field1": "la douleur",
-        "field2": "la douleur",
+        "field2": "les douleurs",
         "field3": "le mal de tête",
         "field4": "",
-        "field5": "mal de gorge",
+        "field5": "le mal de gorge",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -1800,27 +1800,27 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous avez tous les symptômes de l'angine de poitrine",
+        "field7": "Vous avez tous les symptômes de l'angine.",
         "field8": "",
         "category": "Santé"
     },
     "151": {
         "cardNumber": "151",
         "field1": "la pharmacie",
-        "field2": "les officines",
+        "field2": "les pharmacies",
         "field3": "le pharmacien",
         "field4": "les pharmaciens",
         "field5": "",
         "field6": "",
-        "field7": "je dois aller à la pharmacie",
+        "field7": "Je dois aller à la pharmacie.",
         "field8": "",
         "category": "Santé"
     },
     "152": {
         "cardNumber": "152",
         "field1": "la poitrine",
-        "field2": "les seins",
-        "field3": "brasse",
+        "field2": "les poitrines",
+        "field3": "nager la brasse",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1831,13 +1831,13 @@
     },
     "153": {
         "cardNumber": "153",
-        "field1": "santé",
+        "field1": "la santé",
         "field2": "",
         "field3": "en bonne santé",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Comment est ta santé?",
+        "field7": "Comment est ta santé ?",
         "field8": "",
         "category": "Santé"
     },
@@ -1849,7 +1849,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'ai la grippe",
+        "field7": "J'ai la grippe.",
         "field8": "",
         "category": "Santé"
     },
@@ -1873,7 +1873,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ma mère travaille comme infirmière",
+        "field7": "Ma mère travaille comme infirmière.",
         "field8": "",
         "category": "Santé"
     },
@@ -1885,19 +1885,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Klaus est malade",
+        "field7": "Klaus est malade.",
         "field8": "",
         "category": "Santé"
     },
     "158": {
         "cardNumber": "158",
-        "field1": "la pilule",
-        "field2": "les tablettes",
-        "field3": "l'analgésique",
+        "field1": "le comprimé",
+        "field2": "les comprimés",
+        "field3": "l'antalgique",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Veuillez prendre ces pilules !",
+        "field7": "Veuillez prendre ces comprimés !",
         "field8": "",
         "category": "Santé"
     },
@@ -1909,7 +1909,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "il m'a offert une cigarette",
+        "field7": "Il m'a offert une cigarette.",
         "field8": "",
         "category": "Santé"
     },
@@ -1921,67 +1921,67 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "S'il vous plaît, montrez votre langue !",
+        "field7": "S'il vous plaît, montrez votre langue !",
         "field8": "",
         "category": "Santé"
     },
     "161": {
         "cardNumber": "161",
-        "field1": "fumeur",
+        "field1": "fumer",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous n'êtes pas autorisé à fumer",
+        "field7": "Il est interdit de fumer.",
         "field8": "",
         "category": "Santé"
     },
     "162": {
         "cardNumber": "162",
-        "field1": "appel",
-        "field2": "(appels-appels-appels)",
+        "field1": "appeler",
+        "field2": "(appelle-appelait-a appelé)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Appelle le docteur!",
+        "field7": "Appelle le docteur !",
         "field8": "",
         "category": "Santé"
     },
     "163": {
         "cardNumber": "163",
-        "field1": "dommage",
+        "field1": "nuire",
         "field2": "",
         "field3": "nuisible",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "la fumée nuit à la santé",
+        "field7": "Fumer nuit à la santé.",
         "field8": "",
         "category": "Santé"
     },
     "164": {
         "cardNumber": "164",
-        "field1": "devrait",
+        "field1": "devoir",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tu devrais aller chez le docteur",
-        "field8": "Tu devrais manger beaucoup de fruits",
+        "field7": "Tu devrais aller chez le médecin.",
+        "field8": "On devrait manger beaucoup de fruits.",
         "category": "Santé"
     },
     "165": {
         "cardNumber": "165",
-        "field1": "enquêter",
+        "field1": "examiner",
         "field2": "",
-        "field3": "l'enquête",
-        "field4": "les enquêtes",
+        "field3": "l'examen",
+        "field4": "les examens",
         "field5": "",
         "field6": "",
-        "field7": "Je vais t'examiner dans un instant",
+        "field7": "Je vous examine tout de suite.",
         "field8": "",
         "category": "Santé"
     },
@@ -1993,9 +1993,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il fait cinq degrés au-dessus de zéro",
-        "field8": "Il fait deux degrés sous zéro",
-        "category": "Temps"
+        "field7": "Il fait cinq degrés au-dessus de zéro.",
+        "field8": "Il fait deux degrés sous zéro.",
+        "category": "Météo"
     },
     "167": {
         "cardNumber": "167",
@@ -2005,33 +2005,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La température monte",
-        "field8": "La température baisse",
-        "category": "Temps"
+        "field7": "La température monte.",
+        "field8": "La température baisse.",
+        "category": "Météo"
     },
     "168": {
         "cardNumber": "168",
-        "field1": "sembler",
-        "field2": "(semble-semble-semble)",
+        "field1": "briller",
+        "field2": "(brille-brillait-a brillé)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le soleil brille",
-        "field8": "briller",
-        "category": "Temps"
+        "field7": "Le soleil brille.",
+        "field8": "Briller vivement.",
+        "category": "Météo"
     },
     "169": {
         "cardNumber": "169",
-        "field1": "neige",
+        "field1": "neiger",
         "field2": "",
         "field3": "la neige",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il neige",
+        "field7": "Il neige.",
         "field8": "",
-        "category": "Temps"
+        "category": "Météo"
     },
     "170": {
         "cardNumber": "170",
@@ -2061,12 +2061,12 @@
     "172": {
         "cardNumber": "172",
         "field1": "le mouton",
-        "field2": "Le mouton",
-        "field3": "la feta",
+        "field2": "les moutons",
+        "field3": "le fromage de brebis",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "doux comme un mouton",
+        "field7": "Doux comme un mouton.",
         "field8": "",
         "category": "Nature"
     },
@@ -2078,17 +2078,17 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "cochon sauvage",
-        "field8": "Il était chanceux",
+        "field7": "Cochon sauvage.",
+        "field8": "Il a eu de la chance.",
         "category": "Nature"
     },
     "174": {
         "cardNumber": "174",
         "field1": "l'aigle",
-        "field2": "les Aigles",
+        "field2": "les aigles",
         "field3": "le nez d'aigle",
         "field4": "",
-        "field5": "la vue de l'aigle",
+        "field5": "la vue d'aigle",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2102,7 +2102,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous pouvez nourrir les singes du zoo",
+        "field7": "On peut nourrir les singes au zoo.",
         "field8": "",
         "category": "Nature"
     },
@@ -2126,7 +2126,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous faites une montagne d'une taupinière !",
+        "field7": "Tu fais d'une mouche un éléphant !",
         "field8": "",
         "category": "Nature"
     },
@@ -2138,8 +2138,8 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ne soyez pas une grenouille !",
-        "field8": "Cette grenouille est verte",
+        "field7": "Ne sois pas une poule mouillée !",
+        "field8": "Cette grenouille est verte.",
         "category": "Nature"
     },
     "179": {
@@ -2150,31 +2150,31 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "C'est un renard rusé",
+        "field7": "C'est un renard rusé.",
         "field8": "",
         "category": "Nature"
     },
     "180": {
         "cardNumber": "180",
-        "field1": "le lapin",
-        "field2": "les lapins",
+        "field1": "le lièvre",
+        "field2": "les lièvres",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "lapereau",
+        "field7": "Un jeune lièvre.",
         "field8": "",
         "category": "Nature"
     },
     "181": {
         "cardNumber": "181",
         "field1": "le lion",
-        "field2": "les Lions",
+        "field2": "les lions",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ce lion a très faim",
+        "field7": "Ce lion est très affamé.",
         "field8": "",
         "category": "Nature"
     },
@@ -2186,7 +2186,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "l'océan Atlantique",
+        "field7": "L'océan Atlantique.",
         "field8": "",
         "category": "Nature"
     },
@@ -2198,7 +2198,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le perroquet est dans la cage",
+        "field7": "Le perroquet est dans la cage.",
         "field8": "",
         "category": "Nature"
     },
@@ -2210,7 +2210,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La plage est de sable",
+        "field7": "La plage est sablonneuse.",
         "field8": "",
         "category": "Nature"
     },
@@ -2222,7 +2222,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il y a beaucoup de pierres sur le chemin",
+        "field7": "Sur le chemin, il y a beaucoup de pierres.",
         "field8": "",
         "category": "Nature"
     },
@@ -2230,23 +2230,23 @@
         "cardNumber": "186",
         "field1": "l'étoile",
         "field2": "les étoiles",
-        "field3": "le zodiaque",
+        "field3": "le signe du zodiaque",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "les étoiles dans le ciel",
+        "field7": "Les étoiles dans le ciel.",
         "field8": "",
         "category": "Nature"
     },
     "187": {
         "cardNumber": "187",
         "field1": "le tigre",
-        "field2": "les Tigres",
+        "field2": "les tigres",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "petit tigre",
+        "field7": "Petit tigre.",
         "field8": "",
         "category": "Nature"
     },
@@ -2258,7 +2258,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Quand tu parles du loup, il regarde par-dessus la haie",
+        "field7": "Quand on parle du loup, on en voit la queue.",
         "field8": "",
         "category": "Nature"
     },
@@ -2270,7 +2270,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elle est occupée comme une abeille",
+        "field7": "Elle est travailleuse comme une abeille.",
         "field8": "",
         "category": "Nature"
     },
@@ -2282,7 +2282,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La vache donne beaucoup de lait",
+        "field7": "La vache donne beaucoup de lait.",
         "field8": "",
         "category": "Nature"
     },
@@ -2294,19 +2294,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "L'air est frais",
-        "field8": "Tu devrais prendre beaucoup d'air",
+        "field7": "L'air est frais.",
+        "field8": "Il faut prendre l'air.",
         "category": "Nature"
     },
     "192": {
         "cardNumber": "192",
         "field1": "la souris",
-        "field2": "la souris",
+        "field2": "les souris",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le chat chasse la souris",
+        "field7": "Le chat chasse la souris.",
         "field8": "",
         "category": "Nature"
     },
@@ -2318,8 +2318,8 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'aime la nature",
-        "field8": "la belle nature",
+        "field7": "J'aime la nature.",
+        "field8": "La belle nature.",
         "category": "Nature"
     },
     "194": {
@@ -2330,15 +2330,15 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Cette ligne est longue",
-        "field8": "faire la queue",
+        "field7": "Ce serpent est long.",
+        "field8": "Faire la queue.",
         "category": "Nature"
     },
     "195": {
         "cardNumber": "195",
         "field1": "l'environnement",
         "field2": "",
-        "field3": "la pollution",
+        "field3": "la pollution de l'environnement",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2350,21 +2350,21 @@
         "cardNumber": "196",
         "field1": "le monde",
         "field2": "",
-        "field3": "la tournée mondiale",
+        "field3": "le tour du monde",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "dans le monde",
+        "field7": "Dans le monde.",
         "field8": "",
         "category": "Nature"
     },
     "197": {
         "cardNumber": "197",
-        "field1": "protection",
+        "field1": "protéger",
         "field2": "",
         "field3": "la protection",
         "field4": "",
-        "field5": "protection environnementale",
+        "field5": "la protection de l'environnement",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2378,7 +2378,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le lion est un animal sauvage",
+        "field7": "Le lion est un animal sauvage.",
         "field8": "",
         "category": "Nature"
     },
@@ -2388,59 +2388,59 @@
         "field2": "",
         "field3": "quatre-vingts",
         "field4": "",
-        "field5": "quatre vingt huit",
+        "field5": "quatre-vingt-huit",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "200": {
         "cardNumber": "200",
         "field1": "discuter",
-        "field2": "(discuté-discuté-discuté)",
+        "field2": "(discute-discutait-a discuté)",
         "field3": "la réunion",
         "field4": "les réunions",
         "field5": "",
         "field6": "",
-        "field7": "Je veux discuter de cette question",
+        "field7": "Je veux discuter de cette question.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "201": {
         "cardNumber": "201",
-        "field1": "visite",
+        "field1": "fréquenter",
         "field2": "",
         "field3": "la visite",
         "field4": "les visites",
         "field5": "",
         "field6": "",
-        "field7": "Votre fils va-t-il à l'école ?",
+        "field7": "Votre fils fréquente-t-il l'école ?",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "202": {
         "cardNumber": "202",
-        "field1": "le domaine d'expertise",
-        "field2": "Les sujets",
+        "field1": "la matière",
+        "field2": "les matières",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ma leçon préférée est l'allemand",
+        "field7": "Ma matière préférée est l'allemand.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "203": {
         "cardNumber": "203",
-        "field1": "le sujet",
-        "field2": "les sujets",
+        "field1": "le thème",
+        "field2": "les thèmes",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "à ce sujet",
-        "field8": "changer de sujet",
-        "category": "sciences et éducation"
+        "field7": "Sur ce thème.",
+        "field8": "changer de thème",
+        "category": "Sciences et éducation"
     },
     "204": {
         "cardNumber": "204",
@@ -2450,33 +2450,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous faites beaucoup d'erreurs",
+        "field7": "Vous faites beaucoup d'erreurs.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "205": {
         "cardNumber": "205",
         "field1": "l'enseignant",
-        "field2": "les profs",
+        "field2": "les enseignants",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "professeur d'allemand",
+        "field7": "Le professeur d'allemand.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "206": {
         "cardNumber": "206",
-        "field1": "l'étudiant",
-        "field2": "l'étudiant",
+        "field1": "l'élève",
+        "field2": "les élèves",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "tu es un bon élève",
+        "field7": "Tu es un bon élève.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "207": {
         "cardNumber": "207",
@@ -2486,9 +2486,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un F en biologie",
+        "field7": "un 6 en biologie.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "208": {
         "cardNumber": "208",
@@ -2498,9 +2498,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un C en chimie",
+        "field7": "un 3 en chimie.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "209": {
         "cardNumber": "209",
@@ -2510,9 +2510,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un B en géographie",
+        "field7": "un 2 en géographie.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "210": {
         "cardNumber": "210",
@@ -2522,9 +2522,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un cinq dans l'histoire",
+        "field7": "un 5 en histoire.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "211": {
         "cardNumber": "211",
@@ -2534,57 +2534,57 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La classe compte 20 élèves",
+        "field7": "La classe compte 20 élèves.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "212": {
         "cardNumber": "212",
-        "field1": "le travail en classe",
-        "field2": "le travail en classe",
+        "field1": "le contrôle",
+        "field2": "les contrôles",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous discutons du travail en classe",
+        "field7": "Nous discutons du contrôle.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "213": {
         "cardNumber": "213",
-        "field1": "La craie",
+        "field1": "la craie",
         "field2": "les craies",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "j'écris à la craie",
+        "field7": "J'écris à la craie.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "214": {
         "cardNumber": "214",
         "field1": "la leçon",
-        "field2": "les cours",
+        "field2": "les leçons",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous sommes en anglais sur la 4ème leçon",
+        "field7": "Nous en sommes à la quatrième leçon d'anglais.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "215": {
         "cardNumber": "215",
-        "field1": "mathématiques",
+        "field1": "les mathématiques",
         "field2": "",
         "field3": "les maths",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un A en maths",
+        "field7": "un 1 en maths.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "216": {
         "cardNumber": "216",
@@ -2594,9 +2594,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "deux milliards",
+        "field7": "deux milliards.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "217": {
         "cardNumber": "217",
@@ -2606,9 +2606,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "quatre millions",
+        "field7": "quatre millions.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "218": {
         "cardNumber": "218",
@@ -2618,9 +2618,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un D en physique",
+        "field7": "un 4 en physique.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "219": {
         "cardNumber": "219",
@@ -2630,21 +2630,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "à la page 26",
+        "field7": "À la page 26.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "220": {
         "cardNumber": "220",
-        "field1": "le tableau blanc",
-        "field2": "Les planches",
+        "field1": "le tableau",
+        "field2": "les tableaux",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Merci de l'écrire au tableau !",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "221": {
         "cardNumber": "221",
@@ -2656,19 +2656,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "222": {
         "cardNumber": "222",
-        "field1": "idiot",
+        "field1": "bête",
         "field2": "",
         "field3": "intelligent",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "C'est un homme intelligent",
+        "field7": "C'est un homme intelligent.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "223": {
         "cardNumber": "223",
@@ -2680,31 +2680,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "224": {
         "cardNumber": "224",
-        "field1": "simplement",
+        "field1": "simple",
         "field2": "",
         "field3": "difficile",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La tâche est simple",
+        "field7": "La tâche est simple.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "225": {
         "cardNumber": "225",
         "field1": "cent",
         "field2": "",
-        "field3": "deux cent",
+        "field3": "deux cents",
         "field4": "",
         "field5": "trois cents",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "226": {
         "cardNumber": "226",
@@ -2716,19 +2716,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "227": {
         "cardNumber": "227",
         "field1": "paresseux",
         "field2": "",
-        "field3": "travailleur",
+        "field3": "assidu",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Cet étudiant est paresseux",
+        "field7": "Cet élève est paresseux.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "228": {
         "cardNumber": "228",
@@ -2736,23 +2736,23 @@
         "field2": "",
         "field3": "cinquante",
         "field4": "",
-        "field5": "cinquante cinq",
+        "field5": "cinquante-cinq",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "229": {
         "cardNumber": "229",
         "field1": "devoir",
-        "field2": "",
+        "field2": "(doit-devait-a dû)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tu dois apprendre",
-        "field8": "Il faut faire preuve de diligence",
-        "category": "sciences et éducation"
+        "field7": "Tu dois étudier.",
+        "field8": "Il faut être assidu.",
+        "category": "Sciences et éducation"
     },
     "230": {
         "cardNumber": "230",
@@ -2764,7 +2764,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "231": {
         "cardNumber": "231",
@@ -2772,11 +2772,11 @@
         "field2": "",
         "field3": "soixante",
         "field4": "",
-        "field5": "soixante six",
+        "field5": "soixante-six",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "232": {
         "cardNumber": "232",
@@ -2784,35 +2784,35 @@
         "field2": "",
         "field3": "soixante-dix",
         "field4": "",
-        "field5": "soixante-dix sept",
+        "field5": "soixante-dix-sept",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "233": {
         "cardNumber": "233",
         "field1": "comprendre",
-        "field2": "(comprendre-esprit-comprendre)",
+        "field2": "(comprend-comprenait-a compris)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je ne comprends pas ce texte",
+        "field7": "Je ne comprends pas ce texte.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "234": {
         "cardNumber": "234",
         "field1": "quatorze",
         "field2": "",
-        "field3": "Quarante",
+        "field3": "quarante",
         "field4": "",
         "field5": "quarante-quatre",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "235": {
         "cardNumber": "235",
@@ -2822,9 +2822,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je ne suis pas prêt aujourd'hui",
+        "field7": "Je ne suis pas préparé aujourd'hui.",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "236": {
         "cardNumber": "236",
@@ -2834,9 +2834,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Montre-moi ce que tu as entre les mains !",
+        "field7": "Montre donc ce que tu as dans les mains !",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "237": {
         "cardNumber": "237",
@@ -2848,7 +2848,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sciences et éducation"
+        "category": "Sciences et éducation"
     },
     "238": {
         "cardNumber": "238",
@@ -2858,21 +2858,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Grand-mère lit un conte de fées",
+        "field7": "Grand-mère lit un conte.",
         "field8": "",
-        "category": "culture et arts"
+        "category": "Culture et arts"
     },
     "239": {
         "cardNumber": "239",
         "field1": "l'affiche",
-        "field2": "les posters",
+        "field2": "les affiches",
         "field3": "l'affiche du film",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "culture et arts",
+        "category": "Culture et arts",
         "imageName": ""
     },
     "240": {
@@ -2883,9 +2883,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "connaissez-vous l'auteur",
+        "field7": "Connaissez-vous l'auteur ?",
         "field8": "",
-        "category": "culture et arts"
+        "category": "Culture et arts"
     },
     "241": {
         "cardNumber": "241",
@@ -2895,9 +2895,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le livre s'intitule \"L'été\"",
+        "field7": "Le livre s'intitule « Été ».",
         "field8": "",
-        "category": "culture et arts"
+        "category": "Culture et arts"
     },
     "242": {
         "cardNumber": "242",
@@ -2907,9 +2907,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La vie culturelle à Cracovie est riche",
+        "field7": "La vie culturelle à Cracovie est riche.",
         "field8": "",
-        "category": "culture et arts"
+        "category": "Culture et arts"
     },
     "243": {
         "cardNumber": "243",
@@ -2919,81 +2919,81 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ma mère écoute de la musique classique",
+        "field7": "Ma mère écoute de la musique classique.",
         "field8": "",
-        "category": "culture et arts"
+        "category": "Culture et arts"
     },
     "244": {
         "cardNumber": "244",
         "field1": "fort",
         "field2": "",
-        "field3": "calme",
+        "field3": "à voix basse",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il faut parler doucement ici",
+        "field7": "Ici, il faut parler à voix basse.",
         "field8": "",
-        "category": "culture et arts"
+        "category": "Culture et arts"
     },
     "245": {
         "cardNumber": "245",
         "field1": "dessiner",
         "field2": "",
         "field3": "le dessin",
-        "field4": "la peinture",
+        "field4": "les dessins",
         "field5": "",
         "field6": "",
-        "field7": "Elle dessine la nature",
+        "field7": "Elle dessine la nature.",
         "field8": "",
-        "category": "culture et arts"
+        "category": "Culture et arts"
     },
     "246": {
         "cardNumber": "246",
-        "field1": "lumière",
+        "field1": "allumer",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "j'allume les bougies",
+        "field7": "J'allume les bougies.",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "247": {
         "cardNumber": "247",
-        "field1": "la Croix",
+        "field1": "la croix",
         "field2": "les croix",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elle a fait une croix",
+        "field7": "Elle a fait un signe de croix.",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "248": {
         "cardNumber": "248",
-        "field1": "l'émerveillement",
-        "field2": "les merveilles",
+        "field1": "le miracle",
+        "field2": "les miracles",
         "field3": "merveilleux",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je ne crois pas aux miracles",
+        "field7": "Je ne crois pas aux miracles.",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "249": {
         "cardNumber": "249",
         "field1": "l'ange",
-        "field2": "l'ange",
+        "field2": "les anges",
         "field3": "l'ange gardien",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religion",
+        "category": "Religion",
         "imageName": ""
     },
     "250": {
@@ -3006,20 +3006,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religion",
+        "category": "Religion",
         "imageName": ""
     },
     "251": {
         "cardNumber": "251",
-        "field1": "le père Noël",
+        "field1": "saint Nicolas",
         "field2": "",
-        "field3": "Jour de la Saint-Nicolas",
+        "field3": "la Saint-Nicolas",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le Père Noël arrive demain",
+        "field7": "Saint Nicolas arrive demain.",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "252": {
         "cardNumber": "252",
@@ -3029,46 +3029,46 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le prêtre prêche la Sainte Messe",
+        "field7": "Le prêtre célèbre la messe.",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "253": {
         "cardNumber": "253",
         "field1": "le diable",
-        "field2": "les Diables",
+        "field2": "les diables",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ne mettez pas le diable au mur !",
+        "field7": "Ne peins pas le diable sur le mur !",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "254": {
         "cardNumber": "254",
         "field1": "la bougie",
         "field2": "les bougies",
-        "field3": "la chandelle",
+        "field3": "la lumière des bougies",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religion",
+        "category": "Religion",
         "imageName": ""
     },
     "255": {
         "cardNumber": "255",
         "field1": "la religion",
-        "field2": "la religion",
+        "field2": "les religions",
         "field3": "religieux",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "A quelle religion appartenez-vous ?",
+        "field7": "À quelle religion appartenez-vous ?",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "256": {
         "cardNumber": "256",
@@ -3078,9 +3078,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je crois en Dieu",
+        "field7": "Je crois en Dieu.",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "257": {
         "cardNumber": "257",
@@ -3090,27 +3090,27 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Les enfants décorent le sapin de Noël",
+        "field7": "Les enfants décorent le sapin de Noël.",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "258": {
         "cardNumber": "258",
         "field1": "commencer",
-        "field2": "(commencé-commencé-commencé)",
+        "field2": "(commence-commençait-a commencé)",
         "field3": "le début",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "A quelle heure commence le cours d'allemand ?",
+        "field7": "À quelle heure commence le cours d'allemand ?",
         "field8": "",
         "category": "Temps"
     },
     "259": {
         "cardNumber": "259",
         "field1": "le calendrier",
-        "field2": "le calendrier",
-        "field3": "le calendrier des rendez-vous",
+        "field2": "les calendriers",
+        "field3": "l'agenda",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3123,11 +3123,11 @@
         "cardNumber": "260",
         "field1": "le moment",
         "field2": "les moments",
-        "field3": "à l'heure actuelle",
+        "field3": "actuel",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Attendez un moment!",
+        "field7": "Attendez un moment !",
         "field8": "",
         "category": "Temps"
     },
@@ -3139,32 +3139,32 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "dans l'après-midi",
-        "field8": "après-midi",
+        "field7": "Dans l'après-midi.",
+        "field8": "l'après-midi",
         "category": "Temps"
     },
     "262": {
         "cardNumber": "262",
-        "field1": "L'été",
-        "field2": "L'été",
+        "field1": "l'été",
+        "field2": "les étés",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "en été",
+        "field7": "En été.",
         "field8": "",
         "category": "Temps"
     },
     "263": {
         "cardNumber": "263",
-        "field1": "le matin",
-        "field2": "les matins",
+        "field1": "la matinée",
+        "field2": "les matinées",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "le matin",
-        "field8": "matin",
+        "field7": "Dans la matinée.",
+        "field8": "le matin",
         "category": "Temps"
     },
     "264": {
@@ -3187,7 +3187,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "toutes les cinq minutes",
+        "field7": "Toutes les cinq minutes.",
         "field8": "",
         "category": "Temps"
     },
@@ -3199,91 +3199,91 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "à minuit",
+        "field7": "À minuit.",
         "field8": "",
         "category": "Temps"
     },
     "267": {
         "cardNumber": "267",
-        "field1": "la deuxième",
-        "field2": "La deuxième",
+        "field1": "la seconde",
+        "field2": "les secondes",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je reviens dans une seconde",
+        "field7": "Je reviens dans une seconde.",
         "field8": "",
         "category": "Temps"
     },
     "268": {
         "cardNumber": "268",
-        "field1": "finir",
-        "field2": "",
+        "field1": "se terminer",
+        "field2": "(se termine-se terminait-s'est terminé)",
         "field3": "la fin",
         "field4": "les fins",
         "field5": "",
         "field6": "",
-        "field7": "Le cours se termine à une",
+        "field7": "Le cours se termine à une heure.",
         "field8": "",
         "category": "Temps"
     },
     "269": {
         "cardNumber": "269",
-        "field1": "contre",
+        "field1": "vers",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Contre neuf",
+        "field7": "Vers neuf heures.",
         "field8": "",
         "category": "Temps"
     },
     "270": {
         "cardNumber": "270",
-        "field1": "droit",
+        "field1": "en ce moment",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il prend son petit déjeuner",
+        "field7": "Il est en train de prendre son petit-déjeuner.",
         "field8": "",
         "category": "Temps"
     },
     "271": {
         "cardNumber": "271",
-        "field1": "même",
+        "field1": "tout de suite",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je reviens tout de suite",
+        "field7": "J'arrive tout de suite.",
         "field8": "",
         "category": "Temps"
     },
     "272": {
         "cardNumber": "272",
-        "field1": "moitié",
+        "field1": "demi",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est quatre heure et demie",
-        "field8": "je vais attendre une demi-heure",
+        "field7": "Il est quatre heures et demie.",
+        "field8": "Je vais attendre une demi-heure.",
         "category": "Temps"
     },
     "273": {
         "cardNumber": "273",
-        "field1": "désir",
+        "field1": "combien de temps",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Combien de temps?",
+        "field7": "Combien de temps ?",
         "field8": "",
         "category": "Temps"
     },
@@ -3295,19 +3295,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Parfois je vais au théâtre",
+        "field7": "Parfois je vais au théâtre.",
         "field8": "",
         "category": "Temps"
     },
     "275": {
         "cardNumber": "275",
-        "field1": "le Nouvel An / Nouvel An",
+        "field1": "le Nouvel An",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Une heureuse nouvelle année!",
+        "field7": "Bonne année !",
         "field8": "",
         "category": "Temps"
     },
@@ -3319,7 +3319,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "plus jamais",
+        "field7": "Plus jamais.",
         "field8": "",
         "category": "Temps"
     },
@@ -3331,7 +3331,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Avez-vous fini?",
+        "field7": "As-tu déjà fini ?",
         "field8": "",
         "category": "Temps"
     },
@@ -3343,7 +3343,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'ai rarement des maux de tête",
+        "field7": "J'ai rarement mal à la tête.",
         "field8": "",
         "category": "Temps"
     },
@@ -3361,25 +3361,25 @@
     },
     "280": {
         "cardNumber": "280",
-        "field1": "quotidien",
+        "field1": "quotidiennement",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "que fais-tu quotidiennement",
+        "field7": "Que fais-tu chaque jour ?",
         "field8": "",
         "category": "Temps"
     },
     "281": {
         "cardNumber": "281",
-        "field1": "avant",
+        "field1": "moins",
         "field2": "",
         "field3": "après",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est onze heures cinq",
+        "field7": "Il est onze heures cinq.",
         "field8": "",
         "category": "Temps"
     },
@@ -3391,9 +3391,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "tout est avec moi",
+        "field7": "J'ai tout avec moi.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "283": {
         "cardNumber": "283",
@@ -3403,9 +3403,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La rue est large",
+        "field7": "La rue est large.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "284": {
         "cardNumber": "284",
@@ -3415,9 +3415,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "deux grammes de sel",
+        "field7": "Deux grammes de sel.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "285": {
         "cardNumber": "285",
@@ -3427,33 +3427,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La pièce est carrée",
+        "field7": "La pièce est carrée.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "286": {
         "cardNumber": "286",
-        "field1": "Le cercle",
+        "field1": "le cercle",
         "field2": "les cercles",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous nous tenons en cercle",
+        "field7": "Nous nous tenons en cercle.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "287": {
         "cardNumber": "287",
-        "field1": "former",
-        "field2": "les formulaires",
+        "field1": "la forme",
+        "field2": "les formes",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "L'article a une forme ovale",
+        "field7": "L'objet a une forme ovale.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "288": {
         "cardNumber": "288",
@@ -3463,9 +3463,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "trois tonnes de pommes de terre",
+        "field7": "Trois tonnes de pommes de terre.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "289": {
         "cardNumber": "289",
@@ -3475,9 +3475,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "quelque chose à manger",
-        "field8": "Dire quelque chose!",
-        "category": "Dimensions"
+        "field7": "Quelque chose à manger.",
+        "field8": "Dis quelque chose !",
+        "category": "Mesures"
     },
     "290": {
         "cardNumber": "290",
@@ -3487,33 +3487,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ce pays est plat",
+        "field7": "Ce pays est plat.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "291": {
         "cardNumber": "291",
-        "field1": "assez",
+        "field1": "entier",
         "field2": "",
-        "field3": "très bien",
+        "field3": "assez bien",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Toute la famille est là",
+        "field7": "Toute la famille est ici.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "292": {
         "cardNumber": "292",
-        "field1": "Exactement",
+        "field1": "exact",
         "field2": "",
-        "field3": "inexacte",
+        "field3": "inexact",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "exactement deux kilos",
+        "field7": "exactement deux kilos.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "293": {
         "cardNumber": "293",
@@ -3523,9 +3523,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Cette route est droite",
+        "field7": "Cette route est droite.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "294": {
         "cardNumber": "294",
@@ -3535,129 +3535,129 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La jupe est trop longue",
+        "field7": "La jupe est trop longue.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "295": {
         "cardNumber": "295",
         "field1": "vide",
         "field2": "",
-        "field3": "complet",
+        "field3": "plein",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La canette est vide",
+        "field7": "La boîte est vide.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "296": {
         "cardNumber": "296",
-        "field1": "seul",
+        "field1": "seulement",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je n'ai qu'une semaine de vacances",
+        "field7": "Je n'ai qu'une semaine de vacances.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "297": {
         "cardNumber": "297",
-        "field1": "autour",
+        "field1": "rond",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Votre visage est rond",
+        "field7": "Votre visage est rond.",
         "field8": "",
-        "category": "Dimensions"
+        "category": "Mesures"
     },
     "298": {
         "cardNumber": "298",
         "field1": "apporter",
-        "field2": "(apporter apporté apporté)",
+        "field2": "(apporte-apportait-a apporté)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'apporterai la nourriture demain",
+        "field7": "J'apporterai la nourriture demain.",
         "field8": "",
-        "category": "articles"
+        "category": "Objets"
     },
     "299": {
         "cardNumber": "299",
         "field1": "la trousse",
-        "field2": "la trousse",
+        "field2": "les trousses",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'oublie toujours la trousse",
+        "field7": "J'oublie toujours la trousse.",
         "field8": "",
-        "category": "articles"
+        "category": "Objets"
     },
     "300": {
         "cardNumber": "300",
         "field1": "la règle",
-        "field2": "les dirigeants",
+        "field2": "les règles",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il dessine un carré avec la règle",
+        "field7": "Il dessine un carré avec la règle.",
         "field8": "",
-        "category": "articles"
+        "category": "Objets"
     },
     "301": {
         "cardNumber": "301",
         "field1": "appartenir",
-        "field2": "",
+        "field2": "(appartient-appartenait-a appartenu)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "à qui appartient ce",
-        "field8": "Cela m'appartient",
-        "category": "articles"
+        "field7": "À qui cela appartient-il ?",
+        "field8": "Ça m'appartient.",
+        "category": "Objets"
     },
     "302": {
         "cardNumber": "302",
         "field1": "aller chercher",
-        "field2": "",
+        "field2": "(va chercher-allait chercher-est allé(e) chercher)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je vais l'avoir tout de suite",
+        "field7": "Je vais le chercher tout de suite.",
         "field8": "",
-        "category": "articles"
+        "category": "Objets"
     },
     "303": {
         "cardNumber": "303",
-        "field1": "permis",
-        "field2": "(laisser-laisser-laisser)",
+        "field1": "laisser",
+        "field2": "(laisse-laissait-a laissé)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Laisse-le ici",
-        "field8": "Elle laisse la voiture au parking",
-        "category": "articles"
+        "field7": "Laisse-le ici !",
+        "field8": "Elle laisse la voiture au parking.",
+        "category": "Objets"
     },
     "304": {
         "cardNumber": "304",
-        "field1": "consister",
-        "field2": "(passe-passe-passe)",
+        "field1": "se composer de",
+        "field2": "(se compose-se composait-s'est composé(e))",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La famille est composée de trois personnes",
-        "field8": "La table est en bois",
-        "category": "tissus et matières"
+        "field7": "La famille se compose de trois personnes.",
+        "field8": "La table est en bois.",
+        "category": "Matières et matériaux"
     },
     "305": {
         "cardNumber": "305",
@@ -3667,9 +3667,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "une chaîne d'or",
+        "field7": "Une chaîne en or.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "306": {
         "cardNumber": "306",
@@ -3679,9 +3679,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La porte est en bois",
+        "field7": "La porte est en bois.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "307": {
         "cardNumber": "307",
@@ -3691,9 +3691,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "cuir souple",
+        "field7": "Le cuir est souple.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "308": {
         "cardNumber": "308",
@@ -3703,9 +3703,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La tasse est en argent",
+        "field7": "La tasse est en argent.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "309": {
         "cardNumber": "309",
@@ -3715,33 +3715,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un pull en 100% coton",
+        "field7": "Un pull 100 % coton.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "310": {
         "cardNumber": "310",
         "field1": "la laine",
         "field2": "",
-        "field3": "le manteau de laine",
+        "field3": "le manteau en laine",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "laine pure",
+        "field7": "C'est de la laine pure.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "311": {
         "cardNumber": "311",
-        "field1": "Gris",
+        "field1": "gris",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elle a les yeux gris",
+        "field7": "Elle a les yeux gris.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "312": {
         "cardNumber": "312",
@@ -3751,21 +3751,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "dur comme la pierre",
+        "field7": "C'est dur comme la pierre.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "313": {
         "cardNumber": "313",
-        "field1": "brillant",
+        "field1": "clair",
         "field2": "",
         "field3": "sombre",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "C'est lumineux",
+        "field7": "Il fait clair.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "314": {
         "cardNumber": "314",
@@ -3775,21 +3775,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "une robe orange",
+        "field7": "Une robe orange.",
         "field8": "",
-        "category": "tissus et matières"
+        "category": "Matières et matériaux"
     },
     "315": {
         "cardNumber": "315",
-        "field1": "Échecs",
+        "field1": "les échecs",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je joue souvent aux échecs avec mon père",
+        "field7": "Je joue souvent aux échecs avec mon père.",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "316": {
         "cardNumber": "316",
@@ -3799,9 +3799,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je vais à la piscine le mardi",
+        "field7": "Le mardi, je vais à la piscine.",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "317": {
         "cardNumber": "317",
@@ -3813,31 +3813,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "318": {
         "cardNumber": "318",
-        "field1": "le skate",
-        "field2": "les patins",
+        "field1": "le patin à glace",
+        "field2": "les patins à glace",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "peux-tu patiner",
+        "field7": "Sais-tu faire du patin à glace ?",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "319": {
         "cardNumber": "319",
-        "field1": "Le sportif",
-        "field2": "les athlètes",
+        "field1": "le sportif",
+        "field2": "les sportifs",
         "field3": "sportif",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est devenu sportif",
+        "field7": "Il est devenu sportif.",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "320": {
         "cardNumber": "320",
@@ -3847,21 +3847,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je n'aime pas aller au cirque",
+        "field7": "Je n'aime pas aller au cirque.",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "321": {
         "cardNumber": "321",
-        "field1": "le disco",
+        "field1": "la discothèque",
         "field2": "les discothèques",
-        "field3": "le club",
-        "field4": "les discothèques",
-        "field5": "Nous allons à la discothèque demain",
+        "field3": "la disco",
+        "field4": "les discos",
+        "field5": "Demain, nous allons en discothèque.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport et temps libre",
+        "category": "Sport et loisirs",
         "imageName": ""
     },
     "322": {
@@ -3874,20 +3874,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport et temps libre",
+        "category": "Sport et loisirs",
         "imageName": ""
     },
     "323": {
         "cardNumber": "323",
         "field1": "attraper",
-        "field2": "(attraper-attraper-attraper)",
+        "field2": "(attrape-attrapait-a attrapé)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Klaus attrape le ballon",
+        "field7": "Klaus attrape le ballon.",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "324": {
         "cardNumber": "324",
@@ -3897,21 +3897,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ils sont très forts",
+        "field7": "Ils sont très forts.",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "325": {
         "cardNumber": "325",
-        "field1": "Intéressé par",
+        "field1": "s'intéresser",
         "field2": "",
-        "field3": "l'interêt",
+        "field3": "l'intérêt",
         "field4": "les intérêts",
         "field5": "",
         "field6": "",
-        "field7": "Qu'est-ce qui vous intéresse?",
+        "field7": "Qu'est-ce qui t'intéresse ?",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "326": {
         "cardNumber": "326",
@@ -3921,33 +3921,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je ne m'ennuie jamais",
+        "field7": "Je ne m'ennuie jamais.",
         "field8": "",
-        "category": "sport et temps libre"
+        "category": "Sport et loisirs"
     },
     "327": {
         "cardNumber": "327",
-        "field1": "(renseignez-vous",
+        "field1": "s'informer",
         "field2": "",
         "field3": "l'information",
-        "field4": "l'information",
+        "field4": "les informations",
         "field5": "",
         "field6": "",
-        "field7": "Il a besoin d'informations",
+        "field7": "Il a besoin d'informations.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "328": {
         "cardNumber": "328",
-        "field1": "apprendre à se connaître l'un l'autre)",
+        "field1": "faire connaissance",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'aime faire connaissance avec de nouvelles personnes",
-        "field8": "Nous nous sommes rencontrés hier",
-        "category": "Voyage"
+        "field7": "J'aime faire connaissance avec de nouvelles personnes.",
+        "field8": "Nous avons fait connaissance hier.",
+        "category": "Voyages"
     },
     "329": {
         "cardNumber": "329",
@@ -3957,21 +3957,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "une agréable journée",
+        "field7": "Une journée agréable.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "330": {
         "cardNumber": "330",
-        "field1": "baigner",
-        "field2": "",
-        "field3": "la salle de bain",
+        "field1": "se baigner",
+        "field2": "(se baigne-se baignait-s'est baigné(e))",
+        "field3": "le bain",
         "field4": "les bains",
         "field5": "",
         "field6": "",
-        "field7": "j'aime nager dans la mer",
+        "field7": "J'aime me baigner dans la mer.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "331": {
         "cardNumber": "331",
@@ -3981,21 +3981,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Berlin est une ville bien connue",
+        "field7": "Berlin est une ville connue.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "332": {
         "cardNumber": "332",
-        "field1": "voir",
+        "field1": "visiter",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous aimerions visiter Brême",
+        "field7": "Nous aimerions visiter Brême.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "333": {
         "cardNumber": "333",
@@ -4005,45 +4005,45 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "le monument de Mozart",
+        "field7": "Le monument de Mozart.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "334": {
         "cardNumber": "334",
-        "field1": "le vol",
-        "field2": "les randonnées",
+        "field1": "l'excursion",
+        "field2": "les excursions",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Demain nous partons en voyage à Hambourg",
+        "field7": "Demain, nous faisons une excursion à Hambourg.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "335": {
         "cardNumber": "335",
         "field1": "l'étranger",
-        "field2": "l'étranger",
+        "field2": "les étrangers",
         "field3": "étranger",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Beaucoup d'étrangers vivent ici",
+        "field7": "Beaucoup d'étrangers vivent ici.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "336": {
         "cardNumber": "336",
-        "field1": "Le guide",
+        "field1": "le guide touristique",
         "field2": "les guides touristiques",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Avez-vous des guides?",
+        "field7": "Avez-vous un guide touristique ?",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "337": {
         "cardNumber": "337",
@@ -4053,21 +4053,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je prépare le sac à dos",
+        "field7": "Je prépare mon sac à dos.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "338": {
         "cardNumber": "338",
         "field1": "la plage",
-        "field2": "Les plages",
+        "field2": "les plages",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous êtes sur la plage",
-        "field8": "Aujourd'hui nous allons à la plage",
-        "category": "Voyage"
+        "field7": "Ils sont à la plage.",
+        "field8": "Aujourd'hui, nous allons à la plage.",
+        "category": "Voyages"
     },
     "339": {
         "cardNumber": "339",
@@ -4075,23 +4075,23 @@
         "field2": "les touristes",
         "field3": "le tourisme",
         "field4": "",
-        "field5": "informations touristiques",
+        "field5": "l'office de tourisme",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "340": {
         "cardNumber": "340",
         "field1": "la frontière",
-        "field2": "les limites",
+        "field2": "les frontières",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous avons attendu deux heures à la frontière",
+        "field7": "Nous avons attendu deux heures à la frontière.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "341": {
         "cardNumber": "341",
@@ -4103,44 +4103,44 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voyage",
+        "category": "Voyages",
         "imageName": ""
     },
     "342": {
         "cardNumber": "342",
         "field1": "étranger",
         "field2": "",
-        "field3": "une langue étrangère",
+        "field3": "la langue étrangère",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je suis un étranger ici",
+        "field7": "Je suis étranger ici.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "343": {
         "cardNumber": "343",
         "field1": "saluer",
         "field2": "",
         "field3": "la salutation",
-        "field4": "salutations",
+        "field4": "les salutations",
         "field5": "",
         "field6": "",
-        "field7": "Salutations de Berlin",
+        "field7": "Salutations de Berlin.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "344": {
         "cardNumber": "344",
-        "field1": "savoir",
-        "field2": "(savoir-savoir-savoir)",
+        "field1": "connaître",
+        "field2": "(connaît-connaissait-a connu)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Connaissez-vous cet homme?",
+        "field7": "Connais-tu cet homme ?",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "345": {
         "cardNumber": "345",
@@ -4150,69 +4150,69 @@
         "field4": "les traductions",
         "field5": "",
         "field6": "",
-        "field7": "je traduis le texte",
+        "field7": "Je traduis le texte.",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "346": {
         "cardNumber": "346",
-        "field1": "camping",
+        "field1": "camper",
         "field2": "",
         "field3": "la tente",
         "field4": "les tentes",
-        "field5": "Le camping",
+        "field5": "le terrain de camping",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voyage"
+        "category": "Voyages"
     },
     "347": {
         "cardNumber": "347",
-        "field1": "(S'allonger",
-        "field2": "",
+        "field1": "se coucher",
+        "field2": "(se couche-se couchait-s'est couché(e))",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Poser!",
-        "field8": "je me couche sur le côté",
-        "category": "mouvement et emplacement"
+        "field7": "Allonge-toi !",
+        "field8": "Je me couche sur le côté.",
+        "category": "Déplacements et localisation"
     },
     "348": {
         "cardNumber": "348",
-        "field1": "à",
+        "field1": "contre",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il accroche la photo au mur",
-        "field8": "Le canapé est contre le mur",
-        "category": "mouvement et emplacement"
+        "field7": "Il accroche le tableau au mur.",
+        "field8": "Le canapé est contre le mur.",
+        "category": "Déplacements et localisation"
     },
     "349": {
         "cardNumber": "349",
         "field1": "rester",
-        "field2": "(rester-rester-rester)",
+        "field2": "(reste-restait-est resté(e))",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Combien de temps restes-tu ici?",
+        "field7": "Combien de temps restes-tu ici ?",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "350": {
         "cardNumber": "350",
-        "field1": "La sortie",
+        "field1": "la sortie",
         "field2": "les sorties",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La sortie est là",
+        "field7": "La sortie est là-bas.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "351": {
         "cardNumber": "351",
@@ -4224,7 +4224,7 @@
         "field6": "",
         "field7": "Où est l'entrée ?",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "352": {
         "cardNumber": "352",
@@ -4234,21 +4234,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "dans le nord",
-        "field8": "Nord",
-        "category": "mouvement et emplacement"
+        "field7": "Dans le nord.",
+        "field8": "Vers le nord.",
+        "category": "Déplacements et localisation"
     },
     "353": {
         "cardNumber": "353",
-        "field1": "L'est",
+        "field1": "l'est",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "dans l'est",
-        "field8": "vers l'est",
-        "category": "mouvement et emplacement"
+        "field7": "À l'est.",
+        "field8": "Vers l'est.",
+        "category": "Déplacements et localisation"
     },
     "354": {
         "cardNumber": "354",
@@ -4258,9 +4258,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "dans le Sud",
-        "field8": "au sud",
-        "category": "mouvement et emplacement"
+        "field7": "Dans le sud.",
+        "field8": "Vers le sud.",
+        "category": "Déplacements et localisation"
     },
     "355": {
         "cardNumber": "355",
@@ -4270,9 +4270,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "dans l'ouest",
-        "field8": "à l'ouest",
-        "category": "mouvement et emplacement"
+        "field7": "À l'ouest.",
+        "field8": "Vers l'ouest.",
+        "category": "Déplacements et localisation"
     },
     "356": {
         "cardNumber": "356",
@@ -4282,9 +4282,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le livre est au milieu",
-        "field8": "Mettez le vase au milieu !",
-        "category": "mouvement et emplacement"
+        "field7": "Le livre est au milieu.",
+        "field8": "Mets le vase au milieu !",
+        "category": "Déplacements et localisation"
     },
     "357": {
         "cardNumber": "357",
@@ -4294,9 +4294,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "J'entends la musique à travers le mur",
+        "field7": "J'entends la musique à travers le mur.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "358": {
         "cardNumber": "358",
@@ -4306,9 +4306,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "en face de la maison",
+        "field7": "En face de la maison.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "359": {
         "cardNumber": "359",
@@ -4318,21 +4318,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Veuillez aller tout droit !",
+        "field7": "Allez tout droit, s'il vous plaît !",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "360": {
         "cardNumber": "360",
         "field1": "accrocher",
-        "field2": "(Accrocher accroché)",
+        "field2": "(accroche-accrochait-a accroché)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il accroche le costume dans le placard",
-        "field8": "La lampe est suspendue au-dessus de la table",
-        "category": "mouvement et emplacement"
+        "field7": "Il accroche le costume dans l'armoire.",
+        "field8": "La lampe est suspendue au-dessus de la table.",
+        "category": "Déplacements et localisation"
     },
     "361": {
         "cardNumber": "361",
@@ -4342,93 +4342,93 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je vais à la cuisine",
+        "field7": "Je vais dans la cuisine.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "362": {
         "cardNumber": "362",
-        "field1": "Gauche",
+        "field1": "gauche",
         "field2": "",
-        "field3": "À droite",
+        "field3": "droite",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Allez à gauche!",
+        "field7": "Va à gauche !",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "363": {
         "cardNumber": "363",
-        "field1": "fermer",
+        "field1": "près",
         "field2": "",
         "field3": "loin",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous sommes proches du but",
+        "field7": "Nous sommes près du but.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "364": {
         "cardNumber": "364",
-        "field1": "ensemble",
+        "field1": "asseoir",
         "field2": "",
         "field3": "s'asseoir",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Veuillez vous asseoir sur la chaise !",
+        "field7": "Assieds-toi sur la chaise, s'il te plaît !",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "365": {
         "cardNumber": "365",
-        "field1": "rester",
-        "field2": "(debout-debout-debout)",
-        "field3": "",
-        "field4": "",
-        "field5": "",
-        "field6": "",
-        "field7": "Je suis debout ici depuis deux heures",
-        "field8": "",
-        "category": "mouvement et emplacement"
-    },
-    "366": {
-        "cardNumber": "366",
-        "field1": "lieu",
+        "field1": "se tenir debout",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mettez le pot là-bas!",
+        "field7": "Je suis debout ici depuis deux heures.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
+    },
+    "366": {
+        "cardNumber": "366",
+        "field1": "poser",
+        "field2": "",
+        "field3": "",
+        "field4": "",
+        "field5": "",
+        "field6": "",
+        "field7": "Pose la casserole là-bas !",
+        "field8": "",
+        "category": "Déplacements et localisation"
     },
     "367": {
         "cardNumber": "367",
         "field1": "au-dessus de",
         "field2": "",
-        "field3": "sous",
+        "field3": "en dessous de",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tu vis au-dessus de moi",
+        "field7": "Ils vivent au-dessus de chez moi.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "368": {
         "cardNumber": "368",
-        "field1": "avant",
+        "field1": "devant",
         "field2": "",
         "field3": "derrière",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La voiture est devant la maison",
+        "field7": "La voiture est garée devant la maison.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "369": {
         "cardNumber": "369",
@@ -4438,21 +4438,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "entre le parc et la berge",
+        "field7": "Entre le parc et la banque.",
         "field8": "",
-        "category": "mouvement et emplacement"
+        "category": "Déplacements et localisation"
     },
     "370": {
         "cardNumber": "370",
-        "field1": "Danger!",
+        "field1": "Attention !",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Attention étape !",
+        "field7": "Attention, une marche !",
         "field8": "",
-        "category": "transport"
+        "category": "Transports"
     },
     "371": {
         "cardNumber": "371",
@@ -4462,9 +4462,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "pouvez-vous conduire une moto",
+        "field7": "Sais-tu conduire une moto ?",
         "field8": "",
-        "category": "transport"
+        "category": "Transports"
     },
     "372": {
         "cardNumber": "372",
@@ -4474,86 +4474,86 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le navire est au port",
+        "field7": "Le navire est au port.",
         "field8": "",
-        "category": "transport"
+        "category": "Transports"
     },
     "373": {
         "cardNumber": "373",
         "field1": "le pilote",
-        "field2": "Les pilotes",
+        "field2": "les pilotes",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le pilote pilote l'avion",
+        "field7": "Le pilote fait voler l'avion.",
         "field8": "",
-        "category": "transport"
+        "category": "Transports"
     },
     "374": {
         "cardNumber": "374",
-        "field1": "l'espace",
+        "field1": "la place",
         "field2": "les places",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Merci de prendre de la place !",
+        "field7": "Veuillez prendre place !",
         "field8": "",
-        "category": "transport"
+        "category": "Transports"
     },
     "375": {
         "cardNumber": "375",
         "field1": "la voiture",
-        "field2": "les wagons",
-        "field3": "la poussette",
+        "field2": "les voitures",
+        "field3": "le landau",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je vais à Berlin en voiture",
+        "field7": "Je vais à Berlin en voiture.",
         "field8": "",
-        "category": "transport"
+        "category": "Transports"
     },
     "376": {
         "cardNumber": "376",
-        "field1": "gratuit",
+        "field1": "libre",
         "field2": "",
         "field3": "occupé",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ce siège est-il occupé ?",
+        "field7": "Ce siège est-il libre ?",
         "field8": "",
-        "category": "transport"
+        "category": "Transports"
     },
     "377": {
         "cardNumber": "377",
         "field1": "ponctuel",
         "field2": "",
-        "field3": "non ponctuel",
+        "field3": "en retard",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le train est arrivé à l'heure",
+        "field7": "Le train est arrivé à l'heure.",
         "field8": "",
-        "category": "transport"
+        "category": "Transports"
     },
     "378": {
         "cardNumber": "378",
-        "field1": "attendez",
-        "field2": "",
+        "field1": "attendre",
+        "field2": "(attend-attendait-a attendu)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il attend à la gare",
-        "field8": "j'attends le train",
-        "category": "transport"
+        "field7": "Il attend à la gare.",
+        "field8": "J'attends le train.",
+        "category": "Transports"
     },
     "379": {
         "cardNumber": "379",
         "field1": "le bâtiment",
-        "field2": "les immeubles",
+        "field2": "les bâtiments",
         "field3": "l'immeuble de bureaux",
         "field4": "",
         "field5": "",
@@ -4570,7 +4570,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un pont sur la rivière",
+        "field7": "Un pont au-dessus du fleuve.",
         "field8": "",
         "category": "Ville"
     },
@@ -4582,37 +4582,37 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je prends le tram pour aller travailler",
+        "field7": "Je vais au travail en tramway.",
         "field8": "",
         "category": "Ville"
     },
     "382": {
         "cardNumber": "382",
         "field1": "le métro",
-        "field2": "",
+        "field2": "les métros",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mon frère prend souvent le métro",
+        "field7": "Mon frère prend souvent le métro.",
         "field8": "",
         "category": "Ville"
     },
     "383": {
         "cardNumber": "383",
-        "field1": "prise",
-        "field2": "(tiens-tiens-tiens)",
+        "field1": "s'arrêter",
+        "field2": "(s'arrête-s'arrêtait-s'est arrêté(e))",
         "field3": "l'arrêt de bus",
         "field4": "les arrêts de bus",
         "field5": "",
         "field6": "",
-        "field7": "à l'arrêt de bus",
+        "field7": "À l'arrêt de bus.",
         "field8": "",
         "category": "Ville"
     },
     "384": {
         "cardNumber": "384",
-        "field1": "principal-",
+        "field1": "principal",
         "field2": "",
         "field3": "l'entrée principale",
         "field4": "",
@@ -4626,11 +4626,11 @@
         "cardNumber": "385",
         "field1": "haut",
         "field2": "",
-        "field3": "faible",
+        "field3": "bas",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ce bâtiment est grand",
+        "field7": "Ce bâtiment est haut.",
         "field8": "",
         "category": "Ville"
     },
@@ -4642,19 +4642,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "l'art moderne",
+        "field7": "L'art moderne.",
         "field8": "",
         "category": "Ville"
     },
     "387": {
         "cardNumber": "387",
-        "field1": "parc",
+        "field1": "se garer",
         "field2": "",
-        "field3": "la place de voiture",
+        "field3": "le parking",
         "field4": "les parkings",
         "field5": "",
         "field6": "",
-        "field7": "tu ne peux pas te garer ici",
+        "field7": "On ne peut pas se garer ici.",
         "field8": "",
         "category": "Ville"
     },
@@ -4666,7 +4666,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "travailler dans les champs",
+        "field7": "Travailler dans les champs.",
         "field8": "",
         "category": "Village"
     },
@@ -4678,15 +4678,15 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Les vaches mangent de l'herbe",
-        "field8": "L'herbe est encore humide",
+        "field7": "Les vaches mangent de l'herbe.",
+        "field8": "L'herbe est encore humide.",
         "category": "Village"
     },
     "390": {
         "cardNumber": "390",
         "field1": "la ferme",
         "field2": "les fermes",
-        "field3": "l'économie agricole",
+        "field3": "l'exploitation agricole",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4698,12 +4698,12 @@
     "391": {
         "cardNumber": "391",
         "field1": "le moulin",
-        "field2": "Les moulins",
+        "field2": "les moulins",
         "field3": "le moulin à vent",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le moulin tourne",
+        "field7": "Le moulin tourne.",
         "field8": "",
         "category": "Village"
     },
@@ -4715,17 +4715,17 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Les roses fleurissent",
+        "field7": "Les roses fleurissent.",
         "field8": "",
         "category": "Village"
     },
     "393": {
         "cardNumber": "393",
-        "field1": "le FIR",
+        "field1": "le sapin",
         "field2": "les sapins",
-        "field3": "le sapin",
+        "field3": "le sapin de Noël",
         "field4": "",
-        "field5": "la forêt de sapins",
+        "field5": "la sapinière",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -4746,39 +4746,39 @@
     },
     "395": {
         "cardNumber": "395",
-        "field1": "comme",
+        "field1": "que",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elle court plus vite que moi",
-        "field8": "Il est plus grand que moi",
-        "category": "communication vocale"
+        "field7": "Elle court plus vite que moi.",
+        "field8": "Il est plus grand que moi.",
+        "category": "Communication orale"
     },
     "396": {
         "cardNumber": "396",
-        "field1": "différent",
+        "field1": "autrement",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Faites-le différemment !",
+        "field7": "Fais-le autrement !",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "397": {
         "cardNumber": "397",
-        "field1": "moyenne",
+        "field1": "signifier",
         "field2": "",
-        "field3": "le sens",
+        "field3": "la signification",
         "field4": "les significations",
         "field5": "",
         "field6": "",
-        "field7": "Qu'est-ce que cela signifie?",
+        "field7": "Que signifie cela ?",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "398": {
         "cardNumber": "398",
@@ -4788,21 +4788,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tu dois avoir faim",
+        "field7": "Tu dois certainement avoir faim.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "399": {
         "cardNumber": "399",
-        "field1": "sort",
+        "field1": "épeler",
         "field2": "",
         "field3": "la lettre",
-        "field4": "Les lettres",
+        "field4": "les lettres",
         "field5": "",
         "field6": "",
-        "field7": "Épelez votre nom!",
+        "field7": "Épelle ton nom !",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "400": {
         "cardNumber": "400",
@@ -4812,9 +4812,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "classer par ordre alphabétique",
+        "field7": "Classer par ordre alphabétique.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "401": {
         "cardNumber": "401",
@@ -4824,9 +4824,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Par exemple",
-        "field8": "L'exemple est pertinent",
-        "category": "communication vocale"
+        "field7": "Par exemple.",
+        "field8": "L'exemple est pertinent.",
+        "category": "Communication orale"
     },
     "402": {
         "cardNumber": "402",
@@ -4836,45 +4836,45 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je suis à court de mots",
+        "field7": "Je suis à court de mots.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "403": {
         "cardNumber": "403",
-        "field1": "ce",
+        "field1": "que",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je sais que tu l'aimes",
+        "field7": "Je sais que tu l'aimes.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "404": {
         "cardNumber": "404",
         "field1": "penser",
-        "field2": "(pense-pense-pense)",
+        "field2": "(pense-pensait-a pensé)",
         "field3": "la pensée",
-        "field4": "pensées",
+        "field4": "les pensées",
         "field5": "",
         "field6": "",
         "field7": "Je pense que...",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "405": {
         "cardNumber": "405",
-        "field1": "alors",
+        "field1": "car",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je rentre car il est tard",
+        "field7": "Je rentre à la maison, car il est tard.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "406": {
         "cardNumber": "406",
@@ -4884,69 +4884,69 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Pouvez-vous traduire cette phrase en allemand ?",
+        "field7": "Peux-tu traduire cette phrase en allemand ?",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "407": {
         "cardNumber": "407",
-        "field1": "pour cette raison",
+        "field1": "c'est pourquoi",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est tard, alors je rentre à la maison",
+        "field7": "Il est tard, c'est pourquoi je rentre à la maison.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "408": {
         "cardNumber": "408",
-        "field1": "n'a pas d'importance",
+        "field1": "peu importe",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je ne m'inquiète pas",
+        "field7": "Ça m'est égal.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "409": {
         "cardNumber": "409",
-        "field1": "Oui",
+        "field1": "oui",
         "field2": "",
-        "field3": "Non",
+        "field3": "non",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Merci de répondre oui ou non",
+        "field7": "Veuillez répondre par oui ou par non.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "410": {
         "cardNumber": "410",
         "field1": "possible",
         "field2": "impossible",
-        "field3": "C'est impossible",
+        "field3": "C'est impossible.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "411": {
         "cardNumber": "411",
-        "field1": "naturellement",
+        "field1": "bien sûr",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Bien sûr je viendrai aussi",
+        "field7": "Bien sûr que je viens aussi.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "412": {
         "cardNumber": "412",
@@ -4956,57 +4956,57 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je ne sais pas s'il vient",
+        "field7": "Je ne sais pas s'il vient.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "413": {
         "cardNumber": "413",
         "field1": "dire",
-        "field2": "",
+        "field2": "(dit-disait-a dit)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Dis ça en allemand !",
+        "field7": "Dis-le en allemand !",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "414": {
         "cardNumber": "414",
-        "field1": "imaginer",
-        "field2": "",
+        "field1": "se présenter",
+        "field2": "(se présente-se présentait-s'est présenté(e))",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Présentez-vous!",
-        "field8": "Puis-je me présenter?",
-        "category": "communication vocale"
+        "field7": "Présente-toi !",
+        "field8": "Puis-je me présenter ?",
+        "category": "Communication orale"
     },
     "415": {
         "cardNumber": "415",
-        "field1": "donc",
+        "field1": "tellement",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "elle est tellement belle",
+        "field7": "Elle est tellement belle.",
         "field8": "C'est tellement beau ici !",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "416": {
         "cardNumber": "416",
-        "field1": "plutôt",
+        "field1": "mais",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ce n'est pas rouge, c'est jaune",
+        "field7": "Ce n'est pas rouge, mais jaune.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "417": {
         "cardNumber": "417",
@@ -5016,9 +5016,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Peut-être que j'irai au lac",
+        "field7": "Peut-être que j'irai au lac.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "418": {
         "cardNumber": "418",
@@ -5028,21 +5028,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Est-ce vrai?",
-        "field8": "Pas vrai?",
-        "category": "communication vocale"
+        "field7": "Est-ce vrai ?",
+        "field8": "N'est-ce pas ?",
+        "category": "Communication orale"
     },
     "419": {
         "cardNumber": "419",
-        "field1": "Quoi",
+        "field1": "quoi",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Que fais-tu?",
+        "field7": "Que fais-tu ?",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "420": {
         "cardNumber": "420",
@@ -5052,21 +5052,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "C'est très important pour lui",
+        "field7": "C'est très important pour lui.",
         "field8": "",
-        "category": "communication vocale"
+        "category": "Communication orale"
     },
     "421": {
         "cardNumber": "421",
         "field1": "appeler",
-        "field2": "(appels-appelés-appelés)",
+        "field2": "(appelle-appelait-a appelé)",
         "field3": "l'appel",
         "field4": "les appels",
         "field5": "",
         "field6": "",
-        "field7": "Je vous appellerai demain",
+        "field7": "Je t'appellerai demain.",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "422": {
         "cardNumber": "422",
@@ -5076,57 +5076,57 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "le programme culturel",
+        "field7": "Le programme culturel.",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "423": {
         "cardNumber": "423",
         "field1": "le facteur",
-        "field2": "le facteur",
+        "field2": "les facteurs",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Quand est-ce que le facteur vient?",
+        "field7": "Quand passe le facteur ?",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "424": {
         "cardNumber": "424",
         "field1": "l'ordinateur",
-        "field2": "l'ordinateur",
-        "field3": "le jeu informatique",
+        "field2": "les ordinateurs",
+        "field3": "le jeu vidéo",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous travaillons sur ordinateur",
+        "field7": "Nous travaillons sur l'ordinateur.",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "425": {
         "cardNumber": "425",
-        "field1": "la télévision",
-        "field2": "les postes de télévision",
-        "field3": "la télé",
-        "field4": "la télé",
+        "field1": "le téléviseur",
+        "field2": "les téléviseurs",
+        "field3": "la télévision",
+        "field4": "les télévisions",
         "field5": "",
         "field6": "",
-        "field7": "Éteins la télévision!",
+        "field7": "Éteins le téléviseur !",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "426": {
         "cardNumber": "426",
-        "field1": "le cachet",
+        "field1": "le timbre",
         "field2": "les timbres",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Quel est le prix du timbre pour cette lettre ?",
+        "field7": "Combien coûte le timbre pour cette lettre ?",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "427": {
         "cardNumber": "427",
@@ -5136,9 +5136,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je suis à la poste",
-        "field8": "je dois aller à la poste",
-        "category": "médias"
+        "field7": "Je suis à la poste.",
+        "field8": "Je dois aller à la poste.",
+        "category": "Médias"
     },
     "428": {
         "cardNumber": "428",
@@ -5148,9 +5148,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "avez-vous reçu ma carte postale?",
+        "field7": "As-tu reçu ma carte postale ?",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "429": {
         "cardNumber": "429",
@@ -5160,55 +5160,55 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "une carte téléphonique vierge",
+        "field7": "Une carte téléphonique vierge.",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "430": {
         "cardNumber": "430",
-        "field1": "la télé",
-        "field2": "(regarde la télé regarde la télé regarde la télé)",
-        "field3": "télévision",
+        "field1": "regarder la télévision",
+        "field2": "(regarde-regardait-a regardé)",
+        "field3": "la télévision",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "à la télé",
+        "field7": "À la télévision.",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "431": {
         "cardNumber": "431",
-        "field1": "anneau",
+        "field1": "sonner",
         "field2": "",
-        "field3": "la cloche",
-        "field4": "les cloches",
+        "field3": "la sonnette",
+        "field4": "les sonnettes",
         "field5": "",
         "field6": "",
-        "field7": "Le téléphone sonne!",
+        "field7": "Le téléphone sonne !",
         "field8": "",
-        "category": "médias"
+        "category": "Médias"
     },
     "432": {
         "cardNumber": "432",
-        "field1": "le genre",
-        "field2": "les genres",
+        "field1": "le sexe",
+        "field2": "les sexes",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "sexe masculin",
-        "field8": "sexe féminin",
+        "field7": "Sexe masculin.",
+        "field8": "Sexe féminin.",
         "category": "Travail"
     },
     "433": {
         "cardNumber": "433",
         "field1": "le chef",
-        "field2": "Les leaders",
+        "field2": "les chefs",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Qui est le patron de l'entreprise ?",
+        "field7": "Qui est le chef de l'entreprise ?",
         "field8": "",
         "category": "Travail"
     },
@@ -5220,7 +5220,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Elle est avec le directeur",
+        "field7": "Elle est chez le directeur.",
         "field8": "",
         "category": "Travail"
     },
@@ -5232,26 +5232,26 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mon père est ingénieur de profession",
+        "field7": "Mon père est ingénieur de profession.",
         "field8": "",
         "category": "Travail"
     },
     "436": {
         "cardNumber": "436",
-        "field1": "Le collègue",
+        "field1": "le collègue",
         "field2": "les collègues",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mon collègue est en vacances",
+        "field7": "Mon collègue est en vacances.",
         "field8": "",
         "category": "Travail"
     },
     "437": {
         "cardNumber": "437",
         "field1": "le lieu",
-        "field2": "les emplacements",
+        "field2": "les lieux",
         "field3": "le lieu de naissance",
         "field4": "",
         "field5": "le lieu de résidence",
@@ -5264,23 +5264,23 @@
         "cardNumber": "438",
         "field1": "le prénom",
         "field2": "les prénoms",
-        "field3": "nom de famille",
+        "field3": "le nom de famille",
         "field4": "les noms de famille",
         "field5": "",
         "field6": "",
-        "field7": "Quel est votre prénom?",
+        "field7": "Quel est votre prénom ?",
         "field8": "",
         "category": "Travail"
     },
     "439": {
         "cardNumber": "439",
-        "field1": "l'oeuvre",
+        "field1": "le travail",
         "field2": "les travaux",
-        "field3": "le travailleur",
-        "field4": "les travailleurs",
+        "field3": "l'ouvrier",
+        "field4": "les ouvriers",
         "field5": "",
         "field6": "",
-        "field7": "vas-tu travailler aujourd'hui",
+        "field7": "Vas-tu au travail aujourd'hui ?",
         "field8": "",
         "category": "Travail"
     },
@@ -5292,19 +5292,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Quelle est ta nationalité?",
+        "field7": "Quelle est votre nationalité ?",
         "field8": "",
         "category": "Travail"
     },
     "441": {
         "cardNumber": "441",
-        "field1": "le secrétaire",
+        "field1": "la secrétaire",
         "field2": "les secrétaires",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je suis secrétaire de profession",
+        "field7": "Je suis secrétaire de profession.",
         "field8": "",
         "category": "Travail"
     },
@@ -5316,7 +5316,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Malheureusement, la réponse est négative",
+        "field7": "La réponse est malheureusement négative.",
         "field8": "",
         "category": "Travail"
     },
@@ -5328,7 +5328,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La réponse est positive",
+        "field7": "La réponse est positive.",
         "field8": "",
         "category": "Travail"
     },
@@ -5340,19 +5340,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous sommes très fatigués",
+        "field7": "Nous sommes très fatigués.",
         "field8": "",
         "category": "Travail"
     },
     "445": {
         "cardNumber": "445",
-        "field1": "soi",
+        "field1": "soi-même",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je le fais moi-même",
+        "field7": "Je le fais moi-même.",
         "field8": "",
         "category": "Travail"
     },
@@ -5364,7 +5364,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "il faut absolument venir",
+        "field7": "Tu dois absolument venir.",
         "field8": "",
         "category": "Travail"
     },
@@ -5376,25 +5376,25 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je n'ai pas d'argent sur le compte",
+        "field7": "Je n'ai pas d'argent sur le compte.",
         "field8": "",
         "category": "Entreprise"
     },
     "448": {
         "cardNumber": "448",
-        "field1": "L'homme d'affaires",
-        "field2": "les gens d'affaires",
-        "field3": "La femme d'affaires",
+        "field1": "l'homme d'affaires",
+        "field2": "les hommes d'affaires",
+        "field3": "la femme d'affaires",
         "field4": "les femmes d'affaires",
         "field5": "",
         "field6": "",
-        "field7": "Ce n'est pas un bon homme d'affaires",
+        "field7": "Ce n'est pas un bon homme d'affaires.",
         "field8": "",
         "category": "Entreprise"
     },
     "449": {
         "cardNumber": "449",
-        "field1": "L'industrie",
+        "field1": "l'industrie",
         "field2": "",
         "field3": "industriel",
         "field4": "",
@@ -5406,13 +5406,13 @@
     },
     "450": {
         "cardNumber": "450",
-        "field1": "la déclaration",
+        "field1": "la facture",
         "field2": "les factures",
         "field3": "la facture de téléphone",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "selon ma facture",
+        "field7": "Selon mon calcul.",
         "field8": "",
         "category": "Entreprise"
     },
@@ -5424,19 +5424,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le bureau de change le plus proche est au centre",
+        "field7": "Le prochain bureau de change est au centre-ville.",
         "field8": "",
         "category": "Entreprise"
     },
     "452": {
         "cardNumber": "452",
-        "field1": "posséder",
+        "field1": "propre",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "j'ai ma propre maison",
+        "field7": "J'ai ma propre maison.",
         "field8": "",
         "category": "Entreprise"
     },
@@ -5448,7 +5448,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Le trajet coûte près de 500 €",
+        "field7": "Le voyage coûte presque 500 €.",
         "field8": "",
         "category": "Entreprise"
     },
@@ -5460,79 +5460,79 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je n'ai pas assez d'argent pour le voyage",
+        "field7": "Je n'ai pas assez d'argent pour le voyage.",
         "field8": "",
         "category": "Entreprise"
     },
     "455": {
         "cardNumber": "455",
-        "field1": "ont",
-        "field2": "(a-avait-eu)",
+        "field1": "avoir",
+        "field2": "(a-avait-a eu)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je n'ai pas d'argent",
-        "field8": "Vous avez beaucoup d'argent",
+        "field7": "Je n'ai pas d'argent.",
+        "field8": "Ils ont beaucoup d'argent.",
         "category": "Entreprise"
     },
     "456": {
         "cardNumber": "456",
-        "field1": "Privé",
+        "field1": "privé",
         "field2": "",
         "field3": "l'école privée",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ceci est un événement privé",
+        "field7": "C'est un événement privé.",
         "field8": "",
         "category": "Entreprise"
     },
     "457": {
         "cardNumber": "457",
-        "field1": "sauvegarder",
+        "field1": "économiser",
         "field2": "",
         "field3": "la caisse d'épargne",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nous économisons pour une nouvelle voiture",
+        "field7": "Nous économisons pour une nouvelle voiture.",
         "field8": "",
         "category": "Entreprise"
     },
     "458": {
         "cardNumber": "458",
-        "field1": "échange",
+        "field1": "changer",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Où puis-je changer de l'argent?",
+        "field7": "Où puis-je changer de l'argent ?",
         "field8": "",
         "category": "Entreprise"
     },
     "459": {
         "cardNumber": "459",
-        "field1": "(rencontrer",
-        "field2": "(coup-coup-coup)",
-        "field3": "la réunion",
-        "field4": "les réunions",
+        "field1": "se rencontrer",
+        "field2": "(se rencontre-se rencontrait-s'est rencontré(e))",
+        "field3": "la rencontre",
+        "field4": "les rencontres",
         "field5": "",
         "field6": "",
-        "field7": "Quand nous rencontrons-nous?",
+        "field7": "Quand nous rencontrons-nous ?",
         "field8": "",
         "category": "Pays"
     },
     "460": {
         "cardNumber": "460",
-        "field1": "Parlement",
+        "field1": "le parlement",
         "field2": "les parlements",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Cette année, le peuple élira un nouveau parlement",
+        "field7": "Cette année, le peuple élit un nouveau parlement.",
         "field8": "",
         "category": "Pays"
     },
@@ -5544,7 +5544,7 @@
         "field4": "les reines",
         "field5": "",
         "field6": "",
-        "field7": "le roi d'espagne",
+        "field7": "Le roi d'Espagne.",
         "field8": "",
         "category": "Pays"
     },
@@ -5552,9 +5552,9 @@
         "cardNumber": "462",
         "field1": "le ministre",
         "field2": "les ministres",
-        "field3": "le ministre des affaires étrangères",
+        "field3": "le ministre des Affaires étrangères",
         "field4": "",
-        "field5": "le ministre de l'intérieur",
+        "field5": "le ministre de l'Intérieur",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -5562,9 +5562,9 @@
     },
     "463": {
         "cardNumber": "463",
-        "field1": "Le président",
+        "field1": "le président",
         "field2": "les présidents",
-        "field3": "le Premier ministre",
+        "field3": "le ministre-président",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5576,7 +5576,7 @@
     "464": {
         "cardNumber": "464",
         "field1": "le prince",
-        "field2": "Les princes",
+        "field2": "les princes",
         "field3": "la princesse",
         "field4": "les princesses",
         "field5": "le prince de conte de fées",
@@ -5588,13 +5588,13 @@
     },
     "465": {
         "cardNumber": "465",
-        "field1": "l'état",
+        "field1": "l'État",
         "field2": "les États",
-        "field3": "État",
+        "field3": "étatique",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un état indépendant",
+        "field7": "Un État indépendant.",
         "field8": "",
         "category": "Pays"
     },
@@ -5602,18 +5602,18 @@
         "cardNumber": "466",
         "field1": "la liberté",
         "field2": "",
-        "field3": "gratuit",
+        "field3": "libre",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "la liberté de la presse",
+        "field7": "La liberté de la presse.",
         "field8": "",
         "category": "Pays"
     },
     "467": {
         "cardNumber": "467",
         "field1": "la nation",
-        "field2": "Les nations",
+        "field2": "les nations",
         "field3": "national",
         "field4": "",
         "field5": "international",
@@ -5624,13 +5624,13 @@
     },
     "468": {
         "cardNumber": "468",
-        "field1": "la fête",
-        "field2": "les parties",
+        "field1": "le parti",
+        "field2": "les partis",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est membre de ce parti",
+        "field7": "Il est membre de ce parti.",
         "field8": "",
         "category": "Pays"
     },
@@ -5654,19 +5654,19 @@
         "field4": "les organisations",
         "field5": "",
         "field6": "",
-        "field7": "Organisation des Nations Unies (ONU)",
+        "field7": "Organisation des Nations Unies (ONU).",
         "field8": "",
         "category": "Pays"
     },
     "471": {
         "cardNumber": "471",
-        "field1": "gouverne",
+        "field1": "gouverner",
         "field2": "",
         "field3": "le gouvernement",
-        "field4": "le gouvernement",
+        "field4": "les gouvernements",
         "field5": "",
         "field6": "",
-        "field7": "La reine gouverne le pays",
+        "field7": "La reine gouverne le pays.",
         "field8": "",
         "category": "Pays"
     },
@@ -5678,9 +5678,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il va certainement en prison",
+        "field7": "Il va certainement en prison.",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "473": {
         "cardNumber": "473",
@@ -5690,21 +5690,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "L'affaire passera devant le tribunal demain",
+        "field7": "L'affaire passera demain devant le tribunal.",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "474": {
         "cardNumber": "474",
-        "field1": "la droite",
-        "field2": "la droite",
-        "field3": "légalement",
+        "field1": "le droit",
+        "field2": "les droits",
+        "field3": "juridique",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Droits et obligations",
+        "field7": "Droits et obligations.",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "475": {
         "cardNumber": "475",
@@ -5716,36 +5716,36 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Droite",
+        "category": "Droit",
         "imageName": ""
     },
     "476": {
         "cardNumber": "476",
         "field1": "le juge",
-        "field2": "le juge",
+        "field2": "les juges",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un juge sévère",
+        "field7": "Un juge sévère.",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "477": {
         "cardNumber": "477",
         "field1": "la police",
         "field2": "",
         "field3": "le policier",
-        "field4": "Les policiers",
-        "field5": "le poste de police",
+        "field4": "les policiers",
+        "field5": "le commissariat de police",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "478": {
         "cardNumber": "478",
-        "field1": "le blâme",
+        "field1": "la culpabilité",
         "field2": "",
         "field3": "coupable",
         "field4": "",
@@ -5753,55 +5753,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "479": {
         "cardNumber": "479",
-        "field1": "peut",
+        "field1": "avoir le droit",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous n'êtes pas autorisé à fumer!",
+        "field7": "Tu n'as pas le droit de fumer !",
         "field8": "Il est interdit de fumer ici !",
-        "category": "Droite"
+        "category": "Droit"
     },
     "480": {
         "cardNumber": "480",
         "field1": "voler",
-        "field2": "(vole-acier-vole)",
+        "field2": "(vole-volait-a volé)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Pourquoi vole-t-il ?",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "481": {
         "cardNumber": "481",
         "field1": "mort",
         "field2": "",
-        "field3": "le certificat de décès",
+        "field3": "l'acte de décès",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est mort",
+        "field7": "Il est mort.",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "482": {
         "cardNumber": "482",
         "field1": "tuer",
         "field2": "",
-        "field3": "la tuerie",
-        "field4": "les tueries",
+        "field3": "l'homicide",
+        "field4": "les homicides",
         "field5": "",
         "field6": "",
-        "field7": "Tu as tué un humain",
+        "field7": "Ils ont tué un homme.",
         "field8": "",
-        "category": "Droite"
+        "category": "Droit"
     },
     "483": {
         "cardNumber": "483",
@@ -5811,9 +5811,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ces gens sont riches",
+        "field7": "Ces gens sont riches.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "484": {
         "cardNumber": "484",
@@ -5823,9 +5823,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "la flamme olympique",
+        "field7": "Le feu olympique.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "485": {
         "cardNumber": "485",
@@ -5835,9 +5835,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il a de sérieux ennuis",
+        "field7": "Il a de graves problèmes.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "486": {
         "cardNumber": "486",
@@ -5847,21 +5847,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vous n'êtes pas autorisé à boire de l'alcool",
-        "field8": "boissons non alcoolisées",
-        "category": "conflits sociaux"
+        "field7": "Tu n'as pas le droit de boire d'alcool.",
+        "field8": "Boissons sans alcool.",
+        "category": "Conflits sociaux"
     },
     "487": {
         "cardNumber": "487",
         "field1": "l'ennemi",
-        "field2": "l'ennemi",
+        "field2": "les ennemis",
         "field3": "hostile",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il a beaucoup d'ennemis",
+        "field7": "Il a beaucoup d'ennemis.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "488": {
         "cardNumber": "488",
@@ -5871,9 +5871,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il y a la paix",
+        "field7": "La paix règne.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "489": {
         "cardNumber": "489",
@@ -5883,21 +5883,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "la seconde Guerre mondiale",
+        "field7": "La Seconde Guerre mondiale.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "490": {
         "cardNumber": "490",
-        "field1": "le tank",
-        "field2": "les réservoirs",
-        "field3": "le tank",
+        "field1": "le char",
+        "field2": "les chars",
+        "field3": "le véhicule blindé",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "conflits sociaux",
+        "category": "Conflits sociaux",
         "imageName": ""
     },
     "491": {
@@ -5908,9 +5908,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "un vieux soldat",
+        "field7": "Un vieux soldat.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "492": {
         "cardNumber": "492",
@@ -5920,9 +5920,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Il est dans l'armée",
+        "field7": "Il est dans l'armée.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "493": {
         "cardNumber": "493",
@@ -5934,7 +5934,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "conflits sociaux",
+        "category": "Conflits sociaux",
         "imageName": ""
     },
     "494": {
@@ -5945,9 +5945,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Les drogues sont mauvaises pour la santé",
+        "field7": "Les drogues nuisent à la santé.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "495": {
         "cardNumber": "495",
@@ -5957,9 +5957,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "C'est trop dangereux",
+        "field7": "C'est trop dangereux.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "496": {
         "cardNumber": "496",
@@ -5969,21 +5969,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Pouvez-vous tirer le pistolet?",
+        "field7": "Sais-tu tirer au pistolet ?",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "497": {
         "cardNumber": "497",
-        "field1": "La sécurité",
+        "field1": "la sécurité",
         "field2": "",
-        "field3": "sécurisé",
+        "field3": "sûr",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "je me sens en sécurité ici",
+        "field7": "Je me sens en sécurité ici.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "498": {
         "cardNumber": "498",
@@ -5993,21 +5993,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "La situation est difficile",
+        "field7": "La situation est difficile.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "499": {
         "cardNumber": "499",
         "field1": "tirer",
-        "field2": "(tirer-tirer-tirer)",
+        "field2": "(tire-tirait-a tiré)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Les soldats tirent sur l'ennemi",
+        "field7": "Les soldats tirent sur l'ennemi.",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     },
     "500": {
         "cardNumber": "500",
@@ -6017,8 +6017,8 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Faire attention!",
+        "field7": "Sois prudent !",
         "field8": "",
-        "category": "conflits sociaux"
+        "category": "Conflits sociaux"
     }
 }

@@ -21,14 +21,14 @@ var isOpenedFromApp = false;
 var appStoreUrl = "https://apps.apple.com/app/id1660563339";
 
 // set share function
-function calledFromLingVoiOSApp() {
- const sliderElem = document.getElementById("slider");
-  sliderElem.style.backgroundColor = "red";  
-  isOpenedFromApp = true;
-  return true;
-}
+// function calledFromLingVoiOSApp() {
+//  const sliderElem = document.getElementById("slider");
+//   sliderElem.style.backgroundColor = "red";  
+//   isOpenedFromApp = true;
+//   return true;
+// }
 
-window.calledFromLingVoiOSApp = calledFromLingVoiOSApp;
+// window.calledFromLingVoiOSApp = calledFromLingVoiOSApp;
 
 function initAppDownloadPrompt() {
   var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
@@ -134,7 +134,13 @@ function onLessonComplete() {
 
 // Initialize on page load
   document.addEventListener("DOMContentLoaded", function () {
-    initAppDownloadPrompt();
+     var ua = navigator.userAgent;
+
+    console.log(ua);
+    if(ua.indexOf('LingVo') !== -1){
+    }else{
+      initAppDownloadPrompt();
+    } 
   });
 // ****************************************************************
 

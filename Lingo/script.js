@@ -127,6 +127,20 @@ function onLessonComplete() {
 document.addEventListener("DOMContentLoaded", function () {
   initAppDownloadPrompt();
 });
+
+function notifyLessonCompleted() {
+  try {
+    const handler = window?.webkit?.messageHandlers?.lingvo;
+    if (!handler || typeof handler.postMessage !== "function") {
+      return false;
+    }
+    handler.postMessage({ command: "lessonCompleted" });
+    return true;
+  } catch (e) {
+    console.error("[lingvo] postMessage failed:", e);
+    return false;
+  }
+}
 // ****************************************************************
 
 let currentIndex = 0;
@@ -466,9 +480,7 @@ startLessonBtn.addEventListener("click", () => {
   } else {
     console.log("Lesson finished 2 ✅");
     onLessonComplete();
-    window.webkit?.messageHandlers.lingvoHandler.postMessage({
-      command: "lessonCompleted",
-    });
+    notifyLessonCompleted();
   }
 });
 

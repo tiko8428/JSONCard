@@ -130,7 +130,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 function notifyLessonCompleted() {
   try {
-    const handler = window?.webkit?.messageHandlers?.lingvo;
+    const handler = window?.webkit?.messageHandlers?.lingVo;
     if (!handler || typeof handler.postMessage !== "function") {
       return false;
     }

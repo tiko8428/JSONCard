@@ -26,7 +26,7 @@ function calledFromLingVoiOSApp() {
   isOpenedFromApp = true;
   return true;
 }
-
+alert("aaaaaaaaaa")
 window.calledFromLingVoiOSApp = calledFromLingVoiOSApp;
 
 function initAppDownloadPrompt() {

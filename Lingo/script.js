@@ -22,9 +22,11 @@ var appStoreUrl = "https://apps.apple.com/app/id1660563339";
 
 // set share function
 function calledFromLingVoiOSApp() {
+  alert("calledFromLingVoiOSApp called");
   isOpenedFromApp = true;
   return true;
 }
+
 window.calledFromLingVoiOSApp = calledFromLingVoiOSApp;
 
 function initAppDownloadPrompt() {

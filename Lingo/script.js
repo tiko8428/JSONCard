@@ -17,25 +17,18 @@ const wrongSound = new Audio(
   "https://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FError.mp3?alt=media&token=5d61b9e3-8db2-483f-9526-86f8f797e3a9"
 );
 
-var isOpenedFromApp = false;
 var appStoreUrl = "https://apps.apple.com/app/id1660563339";
 
-// set share function
-// function calledFromLingVoiOSApp() {
-//  const sliderElem = document.getElementById("slider");
-//   sliderElem.style.backgroundColor = "red";  
-//   isOpenedFromApp = true;
-//   return true;
-// }
-
-// window.calledFromLingVoiOSApp = calledFromLingVoiOSApp;
+function isOpenedFromApp() {
+  var ua = navigator.userAgent;
+  return ua.indexOf("LingVo") !== -1;
+}
 
 function initAppDownloadPrompt() {
   var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
   var isMac = /Macintosh|MacIntel|MacPPC|Mac68K/.test(navigator.userAgent);
-
   // Only show for iOS or Mac users not from app
-  if (!isOpenedFromApp && (isIOS || isMac)) {
+  if (!isOpenedFromApp() && (isIOS || isMac)) {
     setTimeout(function () {
       createAppBanner();
       showAppBanner();
@@ -93,7 +86,6 @@ function dismissAppBanner() {
 }
 
 function showAppDownloadModal() {
-  if (isOpenedFromApp) return;
   var modal = document.createElement("div");
   modal.id = "app-download-modal";
   modal.innerHTML =
@@ -124,8 +116,7 @@ function downloadAppFromModal() {
 function onLessonComplete() {
   var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent);
   var isMac = /Macintosh|MacIntel|MacPPC|Mac68K/.test(navigator.userAgent);
-
-  if (!isOpenedFromApp && (isIOS || isMac)) {
+  if (!isOpenedFromApp() && (isIOS || isMac)) {
     setTimeout(function () {
       showAppDownloadModal();
     }, 500);
@@ -133,15 +124,9 @@ function onLessonComplete() {
 }
 
 // Initialize on page load
-  document.addEventListener("DOMContentLoaded", function () {
-     var ua = navigator.userAgent;
-
-    console.log(ua);
-    if(ua.indexOf('LingVo') !== -1){
-    }else{
-      initAppDownloadPrompt();
-    } 
-  });
+document.addEventListener("DOMContentLoaded", function () {
+  initAppDownloadPrompt();
+});
 // ****************************************************************
 
 let currentIndex = 0;
@@ -212,7 +197,6 @@ function updateSlider() {
     updateButtonText("Start Lesson");
   } else if (currentIndex === slides.length - 1) {
     updateButtonText("Finish");
-    onLessonComplete();
   } else {
     updateButtonText("Next");
   }
@@ -469,7 +453,7 @@ startLessonBtn.addEventListener("click", () => {
         currentIndex++;
         updateSlider();
       } else {
-        console.log("Lesson finished ✅");
+        console.log("Lesson finished 1 ✅");
       }
       return;
     }
@@ -480,7 +464,11 @@ startLessonBtn.addEventListener("click", () => {
     currentIndex++;
     updateSlider();
   } else {
-    console.log("Lesson finished ✅");
+    console.log("Lesson finished 2 ✅");
+    onLessonComplete();
+    window.webkit?.messageHandlers.lingvoHandler.postMessage({
+      command: "lessonCompleted",
+    });
   }
 });
 

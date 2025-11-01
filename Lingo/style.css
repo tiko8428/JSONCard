@@ -179,6 +179,8 @@ body.banner-shown {
 }
 
 .modal-content {
+    top: 50%;
+    transform: translateY(-50%);
     background: white;
     border-radius: 16px;
     padding: 32px 24px;

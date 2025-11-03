@@ -175,9 +175,8 @@ function updateProgress() {
    SLIDER UPDATE
 ----------------------------- */
 function isMultipleChoiceSlide(slide) {
-  return (
-    slide?.dataset.label === "practice" && slide.dataset.type !== "dragdrop"
-  );
+  if (!slide || slide.dataset.type === "dragdrop") return false;
+  return Boolean(slide.querySelector(".practice-answers"));
 }
 
 function resetMultipleChoiceSlide(slide) {
@@ -236,12 +235,12 @@ function goToSlide(index) {
    MULTIPLE-CHOICE SETUP
 ----------------------------- */
 function setupPracticeAnswers() {
-  const practiceSlides = document.querySelectorAll(
-    '.slide[data-label="practice"]:not([data-type="dragdrop"])'
-  );
+  slides.forEach((slide) => {
+    if (!isMultipleChoiceSlide(slide)) return;
 
-  practiceSlides.forEach((slide) => {
-    const answers = slide.querySelectorAll(".answer");
+    const answers = slide.querySelectorAll(".practice-answers .answer");
+    if (!answers.length) return;
+
     slide.dataset.locked = "false";
 
     answers.forEach((answer) => {

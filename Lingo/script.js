@@ -44,12 +44,12 @@ function createAppBanner() {
     '<div class="app-info">' +
     '<div class="app-icon">📱</div>' +
     '<div class="app-text">' +
-    '<div class="app-title">Get the LingVo App</div>' +
-    '<div class="app-subtitle">Better learning experience</div>' +
+    '<div class="app-title">Hol dir die LingVo App</div>' +
+    '<div class="app-subtitle">Noch besser lernen</div>' +
     "</div>" +
     "</div>" +
     '<div class="app-actions">' +
-    '<button class="download-btn" onclick="downloadApp()">Download</button>' +
+    '<button class="download-btn" onclick="downloadApp()">Jetzt laden</button>' +
     '<button class="close-btn" onclick="dismissAppBanner()">&times;</button>' +
     "</div>" +
     "</div>";
@@ -69,7 +69,7 @@ function showAppBanner() {
 
 function downloadApp() {
   window.open(appStoreUrl, "_blank");
-  console.log("App download clicked from web");
+  console.log("App-Download im Web ausgelöst");
   setTimeout(function () {
     dismissAppBanner();
   }, 1000);
@@ -92,11 +92,11 @@ function showAppDownloadModal() {
     '<div class="modal-overlay" onclick="closeAppModal()">' +
     '<div class="modal-content" onclick="event.stopPropagation()">' +
     '<button class="modal-close" onclick="closeAppModal()">&times;</button>' +
-    '<div class="modal-icon">🎉</div><h2>Great Job!</h2>' +
-    "<p>Download the LingVo app for the best learning experience!</p>" +
+    '<div class="modal-icon">🎉</div><h2>Super gemacht!</h2>' +
+    "<p>Lade die LingVo App für das beste Lernerlebnis herunter!</p>" +
     '<div class="modal-buttons">' +
-    '<button class="btn-download" onclick="downloadAppFromModal()">📱 Download App</button>' +
-    '<button class="btn-continue" onclick="closeAppModal()">Continue in Browser</button>' +
+    '<button class="btn-download" onclick="downloadAppFromModal()">📱 App herunterladen</button>' +
+    '<button class="btn-continue" onclick="closeAppModal()">Im Browser fortfahren</button>' +
     "</div>" +
     "</div>" +
     "</div>";
@@ -203,16 +203,16 @@ function updateSlider() {
     isMultipleChoiceSlide(currentSlide)
   ) {
     startLessonBtn.dataset.state = "check";
-    updateButtonText("Check");
+    updateButtonText("Prüfen");
     if (isMultipleChoiceSlide(currentSlide)) {
       resetMultipleChoiceSlide(currentSlide);
     }
   } else if (currentIndex === 0) {
-    updateButtonText("Start Lesson");
+    updateButtonText("Lektion starten");
   } else if (currentIndex === slides.length - 1) {
     updateButtonText("Finish");
   } else {
-    updateButtonText("Next");
+    updateButtonText("Weiter");
   }
 
   footer.classList.remove("correct", "wrong");
@@ -347,7 +347,7 @@ startLessonBtn.addEventListener("click", () => {
     if (startLessonBtn.dataset.state === "check") {
       if (!selected) {
         feedbackMessage.textContent =
-          "Please select an answer before checking.";
+          "Bitte wähle eine Antwort, bevor du prüfst.";
         footer.classList.remove("correct", "wrong");
         startLessonBtn.style.background = "";
         startLessonBtn.style.color = "";
@@ -367,7 +367,7 @@ startLessonBtn.addEventListener("click", () => {
       if (isCorrect) {
         selected.classList.add("correct");
         footer.classList.add("correct");
-        feedbackMessage.textContent = "✅ Excellent!";
+        feedbackMessage.textContent = "✅ Sehr gut!";
         styleFooterButton("#4CAF50");
         playSound(correctSound);
       } else {
@@ -376,7 +376,7 @@ startLessonBtn.addEventListener("click", () => {
           correctAnswer.classList.add("correct");
         }
         footer.classList.add("wrong");
-        feedbackMessage.innerHTML = `❌ Incorrect!<br>Correct Answer: <strong>${
+        feedbackMessage.innerHTML = `❌ Nicht richtig!<br>Korrekte Antwort: <strong>${
           correctAnswer?.textContent || ""
         }</strong>`;
         styleFooterButton("#F44336");
@@ -392,7 +392,7 @@ startLessonBtn.addEventListener("click", () => {
 
       currentSlide.dataset.locked = "true";
       startLessonBtn.dataset.state = "next";
-      updateButtonText("Next");
+      updateButtonText("Weiter");
       return;
     }
 
@@ -401,7 +401,7 @@ startLessonBtn.addEventListener("click", () => {
         currentIndex++;
         updateSlider();
       } else {
-        console.log("Lesson finished ✅");
+        console.log("Lektion beendet ✅");
       }
     }
 
@@ -435,11 +435,11 @@ startLessonBtn.addEventListener("click", () => {
       ) {
         // ✅ Correct
         footer.classList.add("correct");
-        feedbackMessage.textContent = "✅ Well done!";
+        feedbackMessage.textContent = "✅ Gut gemacht!";
         styleFooterButton("#4CAF50");
         playSound(correctSound);
         startLessonBtn.dataset.state = "next";
-        updateButtonText("Next");
+        updateButtonText("Weiter");
       } else {
         // ❌ Wrong
         footer.classList.add("wrong");
@@ -455,9 +455,9 @@ startLessonBtn.addEventListener("click", () => {
           answerZone.appendChild(w);
         });
 
-        feedbackMessage.innerHTML = `❌ Incorrect!<br>Correct Answer: <strong>${correctSentence}</strong>`;
+        feedbackMessage.innerHTML = `❌ Nicht richtig!<br>Korrekte Antwort: <strong>${correctSentence}</strong>`;
         startLessonBtn.dataset.state = "next";
-        updateButtonText("Next");
+        updateButtonText("Weiter");
       }
       return;
     }
@@ -478,6 +478,7 @@ startLessonBtn.addEventListener("click", () => {
     currentIndex++;
     updateSlider();
   } else {
+
     console.log("Lesson finished 2 ✅");
     onLessonComplete();
     notifyLessonCompleted();

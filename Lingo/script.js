@@ -10,10 +10,31 @@ const feedbackMessage = document.querySelector(".feedback-message");
 // const correctSound = new Audio('sounds/correct.mp3');
 // const wrongSound = new Audio('sounds/error.mp3');
 
-const correctSound = new Audio(
+const AudioContextClass =
+  typeof window !== "undefined"
+    ? window.AudioContext || window.webkitAudioContext
+    : null;
+let audioContext = null;
+
+function createFeedbackSound(url) {
+  const element = new Audio(url);
+  element.preload = "auto";
+  element.crossOrigin = "anonymous";
+  element.setAttribute("playsinline", "");
+  element.setAttribute("webkit-playsinline", "");
+
+  return {
+    url,
+    element,
+    buffer: null,
+    loading: false,
+  };
+}
+
+const correctSound = createFeedbackSound(
   "https://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FCorrect.mp3?alt=media&token=e11ef4ef-c020-431f-a87c-9e57bddc343c"
 );
-const wrongSound = new Audio(
+const wrongSound = createFeedbackSound(
   "https://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FError.mp3?alt=media&token=5d61b9e3-8db2-483f-9526-86f8f797e3a9"
 );
 
@@ -327,10 +348,64 @@ function styleFooterButton(color) {
   startLessonBtn.style.color = "#fff";
 }
 
-function playSound(audio) {
+function ensureSoundBuffer(sound) {
+  if (!audioContext || sound.buffer || sound.loading) return;
+
+  sound.loading = true;
+  fetch(sound.url)
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("failed to load audio");
+      }
+      return response.arrayBuffer();
+    })
+    .then((arrayBuffer) => {
+      if (!audioContext) {
+        throw new Error("no audio context");
+      }
+
+      if (audioContext.decodeAudioData.length === 1) {
+        return audioContext.decodeAudioData(arrayBuffer);
+      }
+
+      return new Promise((resolve, reject) => {
+        audioContext.decodeAudioData(arrayBuffer, resolve, reject);
+      });
+    })
+    .then((buffer) => {
+      sound.buffer = buffer;
+    })
+    .catch(() => {})
+    .finally(() => {
+      sound.loading = false;
+    });
+}
+
+function playSound(sound) {
   if (!audioUnlocked) return;
-  audio.currentTime = 0;
-  audio.play().catch(() => {});
+
+  if (audioContext) {
+    if (audioContext.state === "suspended") {
+      audioContext.resume().catch(() => {});
+    }
+
+    if (!sound.buffer) {
+      ensureSoundBuffer(sound);
+    }
+
+    if (sound.buffer) {
+      const source = audioContext.createBufferSource();
+      source.buffer = sound.buffer;
+      source.connect(audioContext.destination);
+      source.start(0);
+      return;
+    }
+  }
+
+  const audioEl = sound.element;
+  if (!audioEl) return;
+  audioEl.currentTime = 0;
+  audioEl.play().catch(() => {});
 }
 
 /* -----------------------------
@@ -488,19 +563,37 @@ startLessonBtn.addEventListener("click", () => {
 let audioUnlocked = false;
 function unlockAudio() {
   if (audioUnlocked) return;
-
-  correctSound.play().catch(() => {});
-  wrongSound.play().catch(() => {});
-  correctSound.pause();
-  correctSound.currentTime = 0;
-  wrongSound.pause();
-  wrongSound.currentTime = 0;
-
   audioUnlocked = true;
+
+  if (AudioContextClass && !audioContext) {
+    try {
+      audioContext = new AudioContextClass();
+    } catch (e) {
+      audioContext = null;
+    }
+  }
+
+  if (audioContext && audioContext.state === "suspended") {
+    audioContext.resume().catch(() => {});
+  }
+
+  [correctSound, wrongSound].forEach((sound) => {
+    try {
+      sound.element.load();
+    } catch (e) {
+      // ignore load errors – we'll retry when playing the sound
+    }
+
+    if (audioContext) {
+      ensureSoundBuffer(sound);
+    }
+  });
 }
 
-// Listen for first tap anywhere
-document.body.addEventListener("click", unlockAudio, { once: true });
+// Listen for the first interaction to unlock audio usage without autoplay
+document.addEventListener("touchstart", unlockAudio, { once: true, passive: true });
+document.addEventListener("mousedown", unlockAudio, { once: true });
+document.addEventListener("keydown", unlockAudio, { once: true });
 
 /* -----------------------------
    INIT

@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Formulare ausfüllen</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Formulare ausfüllen</h2>
+                <h3>Schnell und korrekt Angaben eintragen.</h3>
+                <p class="slide-description">
+                    Du übst, persönliche Daten, Kontaktinformationen und zusätzliche Hinweise präzise in Formularfelder einzutragen.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-intermediate.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Grundlegende Kenntnisse · A2</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">12 Minuten</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Lernziele -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Lernziele</h2>
+                <h3>Worauf du dich konzentrierst</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Pflichtfelder verstehen</span><span class="right grey">Name · Adresse · Kontakt</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Abkürzungen erkennen</span><span class="right grey">PLZ · Tel. · Geb.-Datum</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Zusatzinfos ergänzen</span><span class="right grey">Hinweise · Wünsche · Kommentare</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Aufbau -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Typische Felder</h2>
+                <h3>So ordnest du Angaben zu</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Persönliches</span><span class="right grey">Vorname · Nachname · Geburtsdatum</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Kontakt</span><span class="right grey">Straße · Hausnummer · PLZ · Ort</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Kommunikation</span><span class="right grey">Telefon · E-Mail · Erreichbarkeit</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Strategien -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Schreibstrategien</h2>
+                <h3>Fehler vermeiden</h3>
+                <ul class="slide-content">
+                    <li><span class="left grey">Großschreibung</span><span class="right">Namen und Straßen immer groß</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Abkürzungen ausschreiben</span><span class="right grey">Geburtsdatum → 14.03.1994</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Nachfragen notieren</span><span class="right">Feld „Bemerkungen“ nutzen</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Im Feld „Vorname“ schreibst du ____.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">deinen ersten Vornamen</div>
+                        <div class="answer wrong" data-correct="false">deine vollständige Adresse</div>
+                        <div class="answer wrong" data-correct="false">den Namen deiner Schule</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wähle die korrekte Angabe für „Straße und Hausnummer“.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Musterstadt 54321</div>
+                        <div class="answer correct" data-correct="true">Bahnhofstraße 12</div>
+                        <div class="answer wrong" data-correct="false">030 556677</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Practice 3 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Nachname: Schneider">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ziehe die Wörter in die richtige Reihenfolge für das Feld.</p>
+
+                    <div class="answer-zone" id="answer-zone-3"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Schneider</div>
+                        <div class="word" draggable="true">Nachname:</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Im Feld „Geburtsdatum“ passt am besten ____.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">14.03.1994</div>
+                        <div class="answer wrong" data-correct="false">14. März</div>
+                        <div class="answer wrong" data-correct="false">1994 März vierzehn</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 8 -->
+
+            <!-- Slide 9: Practice 5 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">5</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Information gehört in das Feld „PLZ“?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Berlin</div>
+                        <div class="answer wrong" data-correct="false">030 556677</div>
+                        <div class="answer correct" data-correct="true">10997</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 9 -->
+
+            <!-- Slide 10: Practice 6 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Telefon: 0157 889944">
+                <div class="practice-number">6</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Zeichen für das Telefonfeld.</p>
+
+                    <div class="answer-zone" id="answer-zone-6"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Telefon:</div>
+                        <div class="word" draggable="true">0157</div>
+                        <div class="word" draggable="true">889944</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 10 -->
+
+            <!-- Slide 11: Practice 7 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">7</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Im Feld „E-Mail“ wählst du ____.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">www.meinefirma.de</div>
+                        <div class="answer correct" data-correct="true">info@meinefirma.de</div>
+                        <div class="answer wrong" data-correct="false">Tel. 030 556677</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 11 -->
+
+            <!-- Slide 12: Practice 8 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">8</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Was passt in das Feld „Familienstand“?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Zwei Kinder</div>
+                        <div class="answer correct" data-correct="true">verheiratet</div>
+                        <div class="answer wrong" data-correct="false">Teilzeit</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 12 -->
+
+            <!-- Slide 13: Practice 9 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Beschäftigung: Vollzeit angestellt">
+                <div class="practice-number">9</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Erstelle den Eintrag für das Beschäftigungsfeld.</p>
+
+                    <div class="answer-zone" id="answer-zone-9"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Beschäftigung:</div>
+                        <div class="word" draggable="true">Vollzeit</div>
+                        <div class="word" draggable="true">angestellt</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 13 -->
+
+            <!-- Slide 14: Practice 10 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">10</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Im Feld „Bemerkungen“ schreibst du ____.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Bitte um Rückruf nach 17 Uhr.</div>
+                        <div class="answer wrong" data-correct="false">Musterstraße 5</div>
+                        <div class="answer wrong" data-correct="false">Geburtsort München</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 14 -->
+
+            <!-- Slide 15: Practice 11 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">11</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wähle die passende Antwort für „Anrede“.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Frau</div>
+                        <div class="answer wrong" data-correct="false">Frau Müller</div>
+                        <div class="answer wrong" data-correct="false">Sehr geehrte</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 15 -->
+
+            <!-- Slide 16: Practice 12 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Vor- und Nachname: Jana Bauer">
+                <div class="practice-number">12</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Fülle das kombinierte Feld korrekt aus.</p>
+
+                    <div class="answer-zone" id="answer-zone-12"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Vor-</div>
+                        <div class="word" draggable="true">und</div>
+                        <div class="word" draggable="true">Nachname:</div>
+                        <div class="word" draggable="true">Jana</div>
+                        <div class="word" draggable="true">Bauer</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 16 -->
+
+            <!-- Slide 17: Practice 13 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">13</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Für das Feld „Erreichbarkeit“ passt ____.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">morgens Kaffee</div>
+                        <div class="answer correct" data-correct="true">werktags 8–16 Uhr</div>
+                        <div class="answer wrong" data-correct="false">linke Haustür</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 17 -->
+
+            <!-- Slide 18: Practice 14 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">14</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Option ist für „Nationalität“ korrekt?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Muttersprache Deutsch</div>
+                        <div class="answer correct" data-correct="true">deutsch</div>
+                        <div class="answer wrong" data-correct="false">wohne in Köln</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 18 -->
+
+            <!-- Slide 19: Practice 15 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Notfallkontakt: Petra Schulz, 0176 334455">
+                <div class="practice-number">15</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Setze Name und Nummer in ein Feld.</p>
+
+                    <div class="answer-zone" id="answer-zone-15"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Notfallkontakt:</div>
+                        <div class="word" draggable="true">Petra</div>
+                        <div class="word" draggable="true">Schulz,</div>
+                        <div class="word" draggable="true">0176</div>
+                        <div class="word" draggable="true">334455</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 19 -->
+
+            <!-- Slide 20: Practice 16 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">16</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Was trägst du bei „Unterschrift“ ein?</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">deinen vollen Namen mit Hand</div>
+                        <div class="answer wrong" data-correct="false">nur Initialen</div>
+                        <div class="answer wrong" data-correct="false">Datum 14.03.2024</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 20 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Lektion starten
+            <img src="icons/next-arrow.svg" alt="Weiter" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

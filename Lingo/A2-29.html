@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Richtungsangaben in der Stadt</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Richtungsangaben in der Stadt</h2>
+                <h3>Wegbeschreibungen geben und verstehen</h3>
+                <p class="slide-description">
+                    Du lernst, präzise Weganweisungen zu formulieren, Hinweise zu Orientierungspunkten zu verstehen und sicher nachzufragen.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Grundlegende Kenntnisse · A2</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">12 Minuten</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Lernziele -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Lernziele</h2>
+                <h3>Darauf achtest du heute</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Richtungen anwenden</span><span class="right grey">geradeaus · links · rechts</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Orientierungspunkte nutzen</span><span class="right grey">an der Kirche · am Platz · über die Brücke</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Nachfragen stellen</span><span class="right grey">Wo genau? · Ist es weit?</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Grundbegriffe -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Wichtige Richtungswörter</h2>
+                <h3>Kompakt auf einen Blick</h3>
+                <ul class="slide-content">
+                    <li><span class="left">geradeaus</span><span class="right grey">nicht abbiegen</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">links / rechts</span><span class="right grey">an der Ampel abbiegen</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">um die Ecke</span><span class="right grey">nach dem Gebäude abbiegen</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">gegenüber</span><span class="right grey">auf der anderen Straßenseite</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Redemittel -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Typische Redemittel</h2>
+                <h3>So klingst du natürlich</h3>
+                <ul class="slide-content">
+                    <li><span class="left grey">Sie gehen hier entlang...</span><span class="right">...bis zur zweiten Kreuzung.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Dann biegen Sie links ab</span><span class="right">und folgen der Straße.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Das Rathaus liegt gegenüber</span><span class="right">von der Post.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Ist es weit?</span><span class="right">Nein, nur fünf Minuten zu Fuß.</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Mini-Dialoge -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Mini-Dialoge</h2>
+                <h3>Höre auf Schlüsselwörter</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Frage</span><span class="right grey">Entschuldigung, wo ist die Bank?</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Antwort</span><span class="right grey">Gehen Sie geradeaus und dann rechts in die Marktstraße.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Nachfrage</span><span class="right grey">Liegt sie neben der Apotheke?</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Bestätigung</span><span class="right grey">Ja, direkt neben der Apotheke.</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Vokabel-Check -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wie sagst du, dass jemand nicht abbiegen soll?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Wenden Sie um.</div>
+                        <div class="answer correct" data-correct="true">Gehen Sie geradeaus.</div>
+                        <div class="answer wrong" data-correct="false">Biegen Sie zweimal ab.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Orientierung -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Du willst sagen, dass das Museum auf der anderen Straßenseite liegt. Welches Wort passt?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">neben</div>
+                        <div class="answer wrong" data-correct="false">hinter</div>
+                        <div class="answer correct" data-correct="true">gegenüber</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Kreuzung -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">An der ersten Ampel soll jemand links abbiegen. Welche Formulierung ist passend?</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">An der ersten Ampel biegen Sie links ab.</div>
+                        <div class="answer wrong" data-correct="false">An der ersten Ampel bleiben Sie stehen.</div>
+                        <div class="answer wrong" data-correct="false">An der ersten Ampel laufen Sie zurück.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 8 -->
+
+            <!-- Slide 9: Orientierungspunkt -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Ergänzung passt? "Gehen Sie an der Kirche ___ und dann rechts."</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">zurück</div>
+                        <div class="answer correct" data-correct="true">vorbei</div>
+                        <div class="answer wrong" data-correct="false">drinnen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 9 -->
+
+            <!-- Slide 10: Wegbeschreibung -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">5</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Reihenfolge klingt richtig? "Zuerst ___ du geradeaus, dann rechts, danach über die Brücke."</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">gehst</div>
+                        <div class="answer wrong" data-correct="false">stehst</div>
+                        <div class="answer wrong" data-correct="false">wartest</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 10 -->
+
+            <!-- Slide 11: Drag & Drop 1 -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Gehen Sie geradeaus und biegen Sie rechts ab.">
+                <div class="practice-number">6</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Baue eine klassische Weganweisung.</p>
+
+                    <div class="answer-zone" id="answer-zone-6"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Gehen</div>
+                        <div class="word" draggable="true">Sie</div>
+                        <div class="word" draggable="true">geradeaus</div>
+                        <div class="word" draggable="true">und</div>
+                        <div class="word" draggable="true">biegen</div>
+                        <div class="word" draggable="true">Sie</div>
+                        <div class="word" draggable="true">rechts</div>
+                        <div class="word" draggable="true">ab.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 11 -->
+
+            <!-- Slide 12: Verständnisfrage -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">7</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Jemand sagt: "Die Bäckerei ist gleich nach der Brücke links." Wo suchst du?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">vor der Brücke rechts</div>
+                        <div class="answer wrong" data-correct="false">unter der Brücke</div>
+                        <div class="answer correct" data-correct="true">hinter der Brücke links</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 12 -->
+
+            <!-- Slide 13: Präpositionen -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">8</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Präposition passt? "Die Haltestelle ist ___ dem Supermarkt."</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">durch</div>
+                        <div class="answer wrong" data-correct="false">zwischen</div>
+                        <div class="answer correct" data-correct="true">vor</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 13 -->
+
+            <!-- Slide 14: Frageform -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">9</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wie fragst du höflich nach dem Weg?</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Entschuldigung, können Sie mir bitte helfen?</div>
+                        <div class="answer wrong" data-correct="false">Geh da lang!</div>
+                        <div class="answer wrong" data-correct="false">Wo du gehst?</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 14 -->
+
+            <!-- Slide 15: Dialogergänzung -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">10</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">"Ist das Einkaufszentrum weit?" – Wie antwortest du, wenn es nur drei Minuten sind?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Ja, es dauert eine Stunde.</div>
+                        <div class="answer correct" data-correct="true">Nein, es ist ganz nah, nur drei Minuten zu Fuß.</div>
+                        <div class="answer wrong" data-correct="false">Ich weiß gar nichts.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 15 -->
+
+            <!-- Slide 16: Drag & Drop 2 -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Die Apotheke liegt links neben dem Kino.">
+                <div class="practice-number">11</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Beschreibe die Lage eines Geschäfts.</p>
+
+                    <div class="answer-zone" id="answer-zone-11"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">neben</div>
+                        <div class="word" draggable="true">links</div>
+                        <div class="word" draggable="true">liegt</div>
+                        <div class="word" draggable="true">Apotheke</div>
+                        <div class="word" draggable="true">Die</div>
+                        <div class="word" draggable="true">dem</div>
+                        <div class="word" draggable="true">Kino.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 16 -->
+
+            <!-- Slide 17: Hörverstehen simuliert -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">12</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Du hörst: "Gehen Sie bis zum Platz, dann sehen Sie das Theater rechts." Wo ist das Theater?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">auf dem Platz links</div>
+                        <div class="answer correct" data-correct="true">nach dem Platz rechts</div>
+                        <div class="answer wrong" data-correct="false">vor dem Platz hinter dir</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 17 -->
+
+            <!-- Slide 18: Drag & Drop 3 -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Biegen Sie an der Kirche nach rechts ab.">
+                <div class="practice-number">13</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Formuliere eine präzise Abbiegung.</p>
+
+                    <div class="answer-zone" id="answer-zone-13"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">rechts</div>
+                        <div class="word" draggable="true">Biegen</div>
+                        <div class="word" draggable="true">Sie</div>
+                        <div class="word" draggable="true">ab.</div>
+                        <div class="word" draggable="true">der</div>
+                        <div class="word" draggable="true">Kirche</div>
+                        <div class="word" draggable="true">an</div>
+                        <div class="word" draggable="true">nach</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 18 -->
+
+            <!-- Slide 19: Zusammenfassung -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Zusammenfassung</h2>
+                <h3>Das nimmst du mit</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Klare Richtungen</span><span class="right grey">geradeaus · links · rechts · gegenüber</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Orientierungspunkte</span><span class="right grey">an der Kirche · über die Brücke · am Platz</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Höflich bleiben</span><span class="right grey">Entschuldigung + Bitte + Danke</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 19 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Start Lesson
+            <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

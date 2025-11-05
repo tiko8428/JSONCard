@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Satzbau mit Zeitangaben</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Satzbau mit Zeitangaben</h2>
+                <h3>Bringe Zeitinformationen sicher an die richtige Stelle.</h3>
+                <p class="slide-description">
+                    Diese Einheit stärkt dein Gefühl für Verbzweitstellung, Position 1 und die Mittelfeld-Platzierung von
+                    Zeitangaben in Aussagesätzen.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-intermediate.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Grundlegende Kenntnisse · A2</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">10 Minuten</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Lernziele -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Lernziele</h2>
+                <h3>Darauf fokussierst du dich heute</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Position 1 flexibel nutzen</span><span class="right grey">Heute · Morgen · Gestern</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Verb an Position 2 halten</span><span class="right grey">Subjekt kann rutschen</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Mehrere Zeitangaben ordnen</span><span class="right grey">Wann → Wie lange → Seit wann</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Strukturhilfe -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Grundstruktur</h2>
+                <h3>So bleibt das Verb auf Platz 2</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Zeitangabe in Position 1</span><span class="right grey">Morgen <strong>gehe</strong> ich arbeiten.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Subjekt folgt danach</span><span class="right grey">Heute <strong>treffen</strong> wir Freunde.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Mehrere Zeitinfos im Mittelfeld</span><span class="right grey">Wir <strong>fahren</strong> am Montag um acht los.</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Tipp -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Strategien</h2>
+                <h3>Merke dir diese Reihenfolge</h3>
+                <ul class="slide-content">
+                    <li><span class="left grey">Wann?</span><span class="right">am Abend · jeden Mittwoch · letztes Jahr</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Wie lange?</span><span class="right grey">zwei Stunden · den ganzen Tag</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Seit wann?</span><span class="right">seit 2019 · seit kurzem</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">____ fahre ich um sieben zur Arbeit.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Morgens</div>
+                        <div class="answer wrong" data-correct="false">Ich</div>
+                        <div class="answer wrong" data-correct="false">Zur Arbeit</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Am Wochenende ____ wir Freunde.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Freunde besuchen</div>
+                        <div class="answer correct" data-correct="true">treffen</div>
+                        <div class="answer wrong" data-correct="false">wir</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Practice 3 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Gestern habe ich bis Mitternacht gelernt.">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Wörter: Wann + Verb + Subjekt + Rest.</p>
+
+                    <div class="answer-zone" id="answer-zone-3"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">bis</div>
+                        <div class="word" draggable="true">Mitternacht</div>
+                        <div class="word" draggable="true">habe</div>
+                        <div class="word" draggable="true">ich</div>
+                        <div class="word" draggable="true">Gestern</div>
+                        <div class="word" draggable="true">gelernt.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">____ arbeitet Lisa seit drei Monaten in Berlin.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Seit Berlin</div>
+                        <div class="answer wrong" data-correct="false">Lisa</div>
+                        <div class="answer correct" data-correct="true">Schon</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 8 -->
+
+            <!-- Slide 9: Practice 5 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">5</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wähle die korrekte Satzstellung.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Wir machen jeden Abend nach dem Essen Sport.</div>
+                        <div class="answer correct" data-correct="true">Jeden Abend machen wir nach dem Essen Sport.</div>
+                        <div class="answer wrong" data-correct="false">Nach dem Essen jeden Abend wir machen Sport.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 9 -->
+
+            <!-- Slide 10: Practice 6 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Morgens trinkt mein Vater in Ruhe einen Kaffee.">
+                <div class="practice-number">6</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Stelle die Teile in die Verbzweit-Struktur.</p>
+
+                    <div class="answer-zone" id="answer-zone-6"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">mein</div>
+                        <div class="word" draggable="true">in</div>
+                        <div class="word" draggable="true">Kaffee.</div>
+                        <div class="word" draggable="true">Ruhe</div>
+                        <div class="word" draggable="true">Morgens</div>
+                        <div class="word" draggable="true">trinkt</div>
+                        <div class="word" draggable="true">Vater</div>
+                        <div class="word" draggable="true">einen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 10 -->
+
+            <!-- Slide 11: Practice 7 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">7</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Setze die passende Ergänzung für die Position 1.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Sie</div>
+                        <div class="answer correct" data-correct="true">Nachmittags</div>
+                        <div class="answer wrong" data-correct="false">ins Fitnessstudio</div>
+                    </div>
+                    <p class="german-sentence">____ trainiert sie im Fitnessstudio.</p>
+                </div>
+            </div>
+            <!-- End Slide 11 -->
+
+            <!-- Slide 12: Practice 8 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">8</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Zeitangaben logisch.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Ich arbeite seit Januar jeden Montag zwei Stunden.</div>
+                        <div class="answer wrong" data-correct="false">Ich arbeite jeden Montag zwei Stunden seit Januar.</div>
+                        <div class="answer wrong" data-correct="false">Seit Januar ich arbeite jeden Montag zwei Stunden.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 12 -->
+
+            <!-- Slide 13: Practice 9 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Seit Februar lernt meine Schwester jeden Abend Deutsch.">
+                <div class="practice-number">9</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Setze die Zeitdauer nach vorn.</p>
+
+                    <div class="answer-zone" id="answer-zone-9"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Deutsch.</div>
+                        <div class="word" draggable="true">meine</div>
+                        <div class="word" draggable="true">Seit</div>
+                        <div class="word" draggable="true">lernt</div>
+                        <div class="word" draggable="true">Februar</div>
+                        <div class="word" draggable="true">Schwester</div>
+                        <div class="word" draggable="true">jeden</div>
+                        <div class="word" draggable="true">Abend</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 13 -->
+
+            <!-- Slide 14: Practice 10 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">10</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Variante erfüllt die Verbzweitregel?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Seit zwei Wochen ich wohne hier.</div>
+                        <div class="answer correct" data-correct="true">Seit zwei Wochen wohne ich hier.</div>
+                        <div class="answer wrong" data-correct="false">Ich hier wohne seit zwei Wochen.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 14 -->
+
+            <!-- Slide 15: Practice 11 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">11</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Fülle die Lücke mit einer passenden Zeitangabe.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Jeden Morgen</div>
+                        <div class="answer wrong" data-correct="false">Wir</div>
+                        <div class="answer wrong" data-correct="false">Im Büro</div>
+                    </div>
+                    <p class="german-sentence">____ bereiten wir den Tagesplan vor.</p>
+                </div>
+            </div>
+            <!-- End Slide 15 -->
+
+            <!-- Slide 16: Practice 12 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Heute Abend bleiben wir bis zehn Uhr im Büro.">
+                <div class="practice-number">12</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Bringe alle Angaben in die richtige Reihenfolge.</p>
+
+                    <div class="answer-zone" id="answer-zone-12"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">wir</div>
+                        <div class="word" draggable="true">im</div>
+                        <div class="word" draggable="true">Heute</div>
+                        <div class="word" draggable="true">Büro.</div>
+                        <div class="word" draggable="true">bleiben</div>
+                        <div class="word" draggable="true">Abend</div>
+                        <div class="word" draggable="true">bis</div>
+                        <div class="word" draggable="true">zehn</div>
+                        <div class="word" draggable="true">Uhr</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 16 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Start Lesson
+            <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

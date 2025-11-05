@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Fehlercheck Kasus bei Präpositionen</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LEKTION</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Folie 1: Intro -->
+            <div class="slide slide-first" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Fehlercheck Kasus bei Präpositionen</h2>
+                <h3>Präpositionen fordern Fälle – du lieferst korrekt</h3>
+                <p class="slide-description">
+                    Wiederhole gezielt, welcher Kasus nach typischen Präpositionen steht. Die Lektion bietet viele
+                    Übungen mit Alltagsbeispielen, damit Dativ und Akkusativ sicher sitzen.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Grundlegende Kenntnisse · A2</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">15 Minuten</span>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 1 -->
+
+            <!-- Folie 2: Überblick Fälle -->
+            <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Kasus nach Präpositionen</h2>
+                <h3>Merksätze für schnelle Zuordnung</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Dativ fest</span><span class="right grey">aus, bei, mit, nach, seit, von, zu, gegenüber</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Akkusativ fest</span><span class="right grey">für, ohne, durch, gegen, um, bis, entlang</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Wechselpräposition</span><span class="right grey">an, auf, hinter, in, neben, über, unter, vor, zwischen</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Fragen helfen</span><span class="right grey">Wo? → Dativ · Wohin? → Akkusativ</span></li>
+                </ul>
+            </div>
+            <!-- Ende Folie 2 -->
+
+            <!-- Folie 3: Fehlerquellen -->
+            <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Typische Fehlerquellen</h2>
+                <p class="slide-description">
+                    Achte auf Signalwörter: Bewegung, Zustand, feste Kombinationen und Zeitangaben entscheiden den Kasus.
+                </p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Bewegung</span><span class="right">Ich gehe in <strong>die</strong> Stadt.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Position</span><span class="right">Ich bin in <strong>der</strong> Stadt.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Feste Phrasen</span><span class="right">mit dem Auto · für den Urlaub</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Zeit</span><span class="right">seit einem Jahr · um Mitternacht</span></li>
+                </ul>
+            </div>
+            <!-- Ende Folie 3 -->
+
+            <!-- Folie 4: Übung 1 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wir treffen uns ___ dem Bahnhof.</p>
+                    <p class="english-translation">Wähle die richtige Form.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">am</div>
+                        <div class="answer wrong" data-correct="false">an den</div>
+                        <div class="answer wrong" data-correct="false">auf den</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 4 -->
+
+            <!-- Folie 5: Übung 2 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Leg das Buch bitte ___ Tisch.</p>
+                    <p class="english-translation">Achte auf Bewegung.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">auf dem</div>
+                        <div class="answer correct" data-correct="true">auf den</div>
+                        <div class="answer wrong" data-correct="false">auf der</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 5 -->
+
+            <!-- Folie 6: Übung 3 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Ich wohne seit einem Jahr in der Stadt">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Wörter zu einem korrekten Satz.</p>
+                    <p class="english-translation">Beachte den Dativ nach „seit“.</p>
+                    <div class="answer-zone" id="answer-zone-3"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">in</div>
+                        <div class="word" draggable="true">Ich</div>
+                        <div class="word" draggable="true">der</div>
+                        <div class="word" draggable="true">wohne</div>
+                        <div class="word" draggable="true">seit</div>
+                        <div class="word" draggable="true">einem</div>
+                        <div class="word" draggable="true">Jahr</div>
+                        <div class="word" draggable="true">Stadt</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 6 -->
+
+            <!-- Folie 7: Übung 4 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Sie geht morgen ___ Arzt.</p>
+                    <p class="english-translation">Welche Richtung hörst du?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">beim</div>
+                        <div class="answer correct" data-correct="true">zum</div>
+                        <div class="answer wrong" data-correct="false">vom</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 7 -->
+
+            <!-- Folie 8: Übung 5 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">5</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Der Schlüssel liegt ___ Tasche.</p>
+                    <p class="english-translation">Wo befindet er sich?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">in die</div>
+                        <div class="answer correct" data-correct="true">in der</div>
+                        <div class="answer wrong" data-correct="false">in den</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 8 -->
+
+            <!-- Folie 9: Übung 6 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Ohne seinen Pass kann er nicht reisen">
+                <div class="practice-number">6</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Baue den Satz richtig auf.</p>
+                    <p class="english-translation">„ohne“ verlangt den Akkusativ.</p>
+                    <div class="answer-zone" id="answer-zone-6"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">seinen</div>
+                        <div class="word" draggable="true">Pass</div>
+                        <div class="word" draggable="true">Ohne</div>
+                        <div class="word" draggable="true">nicht</div>
+                        <div class="word" draggable="true">er</div>
+                        <div class="word" draggable="true">kann</div>
+                        <div class="word" draggable="true">reisen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 9 -->
+
+            <!-- Folie 10: Übung 7 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">7</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Die Lampe hängt ___ der Decke.</p>
+                    <p class="english-translation">Zustand oder Bewegung?</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">an der</div>
+                        <div class="answer wrong" data-correct="false">an die</div>
+                        <div class="answer wrong" data-correct="false">auf die</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 10 -->
+
+            <!-- Folie 11: Übung 8 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">8</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wir laufen ___ den Park.</p>
+                    <p class="english-translation">Hör auf die Richtung.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">durch dem</div>
+                        <div class="answer correct" data-correct="true">durch den</div>
+                        <div class="answer wrong" data-correct="false">durch der</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 11 -->
+
+            <!-- Folie 12: Übung 9 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Nach dem Essen räumen wir den Tisch ab">
+                <div class="practice-number">9</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Setze die Wortgruppe korrekt zusammen.</p>
+                    <p class="english-translation">„nach“ benutzt den Dativ.</p>
+                    <div class="answer-zone" id="answer-zone-9"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">nach</div>
+                        <div class="word" draggable="true">dem</div>
+                        <div class="word" draggable="true">Essen</div>
+                        <div class="word" draggable="true">räumen</div>
+                        <div class="word" draggable="true">wir</div>
+                        <div class="word" draggable="true">den</div>
+                        <div class="word" draggable="true">Tisch</div>
+                        <div class="word" draggable="true">ab</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 12 -->
+
+            <!-- Folie 13: Übung 10 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">10</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Setz dich bitte ___ mich.</p>
+                    <p class="english-translation">Was verlangt „neben“ hier?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">neben mir</div>
+                        <div class="answer correct" data-correct="true">neben mich</div>
+                        <div class="answer wrong" data-correct="false">an mich</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 13 -->
+
+            <!-- Folie 14: Übung 11 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">11</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Meine Tasche steht ___ dem Stuhl.</p>
+                    <p class="english-translation">Bleibt sie oder bewegt sie sich?</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">unter den</div>
+                        <div class="answer wrong" data-correct="false">unter die</div>
+                        <div class="answer correct" data-correct="true">unter dem</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 14 -->
+
+            <!-- Folie 15: Übung 12 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Zwischen den Häusern parkt ein kleines Auto">
+                <div class="practice-number">12</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Forme den Satz mit der richtigen Pluralform.</p>
+                    <p class="english-translation">„zwischen“ kann Dativ verlangen.</p>
+                    <div class="answer-zone" id="answer-zone-12"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Zwischen</div>
+                        <div class="word" draggable="true">Häusern</div>
+                        <div class="word" draggable="true">den</div>
+                        <div class="word" draggable="true">Auto</div>
+                        <div class="word" draggable="true">parkt</div>
+                        <div class="word" draggable="true">kleines</div>
+                        <div class="word" draggable="true">ein</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 15 -->
+
+            <!-- Folie 16: Übung 13 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">13</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Seit wann wohnst du ___ dieser Straße?</p>
+                    <p class="english-translation">Denk an den Dativ.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">auf dieser</div>
+                        <div class="answer correct" data-correct="true">in dieser</div>
+                        <div class="answer wrong" data-correct="false">an dieser</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 16 -->
+
+            <!-- Folie 17: Übung 14 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">14</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wir fahren nächste Woche ___ die Berge.</p>
+                    <p class="english-translation">Hier geht es um das Ziel.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">in die</div>
+                        <div class="answer wrong" data-correct="false">in den Bergen</div>
+                        <div class="answer wrong" data-correct="false">auf die</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 17 -->
+
+            <!-- Folie 18: Übung 15 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Er stellt die Kiste vor die Tür">
+                <div class="practice-number">15</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne die Richtungshandlung richtig.</p>
+                    <p class="english-translation">„vor“ mit Bewegung nutzt den Akkusativ.</p>
+                    <div class="answer-zone" id="answer-zone-15"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Er</div>
+                        <div class="word" draggable="true">stellt</div>
+                        <div class="word" draggable="true">die</div>
+                        <div class="word" draggable="true">Kiste</div>
+                        <div class="word" draggable="true">vor</div>
+                        <div class="word" draggable="true">die</div>
+                        <div class="word" draggable="true">Tür</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 18 -->
+
+            <!-- Folie 19: Grammatik-Tipp -->
+            <div class="slide" data-label="grammatik" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title">Checkliste für den richtigen Kasus</h2>
+                <p class="slide-description">
+                    Stelle dir vor jeder Präposition eine Frage. Antwortet sie auf „Wohin?“, brauchst du den Akkusativ.
+                    Antwortet sie auf „Wo?“, verwendest du den Dativ. Manche Ausdrücke bleiben fest.
+                </p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Fragen</span><span class="right">Wohin stellt er es? Vor die Tür. Wo steht es? Vor der Tür.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Feste Ausdrücke</span><span class="right">mit der Bahn · für das Team · seit dem Sommer</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Kontraktionen</span><span class="right">zu + der → zur · in + dem → im · an + dem → am</span></li>
+                </ul>
+            </div>
+            <!-- Ende Folie 19 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Lektion starten
+            <img src="icons/next-arrow.svg" alt="Weiter" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

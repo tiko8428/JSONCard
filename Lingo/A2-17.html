@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Adjektivendungen mit unbestimmtem Artikel</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LEKTION</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Folie 1: Intro -->
+            <div class="slide slide-first" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Adjektivendungen mit unbestimmtem Artikel</h2>
+                <h3>ein guter Tag · eine frische Suppe · ein kleines Kind</h3>
+                <p class="slide-description">
+                    Diese Lektion trainiert die Deklination von Adjektiven nach unbestimmtem Artikel in allen Fällen.
+                    Du übst typische Alltagssätze, feste Signalwörter und flexible Satzbausteine – alles komplett auf
+                    Deutsch.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Grundlegende Kenntnisse · A2</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">15 Minuten</span>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 1 -->
+
+            <!-- Folie 2: Übersicht -->
+            <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Formen im Überblick</h2>
+                <h3>Nominativ · Akkusativ · Dativ</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Maskulin</span><span class="right grey">ein guter Mann · einen guten Mann · einem guten Mann</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Feminin</span><span class="right grey">eine schöne Stadt · eine schöne Stadt · einer schönen Stadt</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Neutrum</span><span class="right grey">ein leckeres Brot · ein leckeres Brot · einem leckeren Brot</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Plural (keine)</span><span class="right grey">keine neuen Schuhe · keine neuen Schuhe · keinen neuen Schuhen</span></li>
+                </ul>
+            </div>
+            <!-- Ende Folie 2 -->
+
+            <!-- Folie 3: Signalwörter -->
+            <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Signalwörter & Tipps</h2>
+                <p class="slide-description">Merke dir, wie Artikel, Kasus und Adjektivendungen zusammenarbeiten.</p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Maskulin Nominativ</span><span class="right">immer -er: ein netter Kollege</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Akkusativ Endung -en</span><span class="right">Ich suche einen günstigen Laptop.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Dativ -en</span><span class="right">mit einem frischen Salat</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Plural ohne Artikel</span><span class="right">keine langen Wartezeiten</span></li>
+                </ul>
+            </div>
+            <!-- Ende Folie 3 -->
+
+            <!-- Folie 4: Übung 1 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ich habe ___ (neu) Laptop gekauft.</p>
+                    <p class="english-translation">Setze die richtige Form.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">ein neuer</div>
+                        <div class="answer correct" data-correct="true">einen neuen</div>
+                        <div class="answer wrong" data-correct="false">einem neuen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 4 -->
+
+            <!-- Folie 5: Übung 2 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wir wohnen in ___ (klein) Wohnung.</p>
+                    <p class="english-translation">Wähle richtig.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">einer kleinen</div>
+                        <div class="answer wrong" data-correct="false">eine kleine</div>
+                        <div class="answer wrong" data-correct="false">einen kleinen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 5 -->
+
+            <!-- Folie 6: Übung 3 Drag&Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Das ist ein interessantes Buch">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Baue den Satz: interessantes – Buch – das – ein.</p>
+                    <p class="english-translation">Ziehe in die richtige Reihenfolge.</p>
+                    <div class="answer-zone" id="answer-zone-3"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Das</div>
+                        <div class="word" draggable="true">ist</div>
+                        <div class="word" draggable="true">ein</div>
+                        <div class="word" draggable="true">interessantes</div>
+                        <div class="word" draggable="true">Buch</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 6 -->
+
+            <!-- Folie 7: Übung 4 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Er schenkt seiner Mutter ___ (schön) Blumenstrauß.</p>
+                    <p class="english-translation">Fülle die Lücke.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">ein schöner</div>
+                        <div class="answer wrong" data-correct="false">einem schönen</div>
+                        <div class="answer correct" data-correct="true">einen schönen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 7 -->
+
+            <!-- Folie 8: Übung 5 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">5</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Sie spricht mit ___ (jung) Ärztin.</p>
+                    <p class="english-translation">Entscheide dich.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">eine junge</div>
+                        <div class="answer correct" data-correct="true">einer jungen</div>
+                        <div class="answer wrong" data-correct="false">einen jungen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 8 -->
+
+            <!-- Folie 9: Übung 6 Drag&Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Ich bringe einer netten Nachbarin Kuchen">
+                <div class="practice-number">6</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Forme den Dativsatz: ich – bringen – Kuchen – netten – Nachbarin – eine.</p>
+                    <p class="english-translation">Ordne die Wörter.</p>
+                    <div class="answer-zone" id="answer-zone-6"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Ich</div>
+                        <div class="word" draggable="true">bringe</div>
+                        <div class="word" draggable="true">einer</div>
+                        <div class="word" draggable="true">netten</div>
+                        <div class="word" draggable="true">Nachbarin</div>
+                        <div class="word" draggable="true">Kuchen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 9 -->
+
+            <!-- Folie 10: Übung 7 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">7</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Auf dem Markt finde ich ___ (frisch) Gemüse.</p>
+                    <p class="english-translation">Wähle die passende Form.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">ein frisches</div>
+                        <div class="answer correct" data-correct="true">frisches</div>
+                        <div class="answer wrong" data-correct="false">einem frischen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 10 -->
+
+            <!-- Folie 11: Übung 8 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">8</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wir planen ___ (neu) Reise.</p>
+                    <p class="english-translation">Triff die richtige Wahl.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">eine neue</div>
+                        <div class="answer wrong" data-correct="false">einer neuen</div>
+                        <div class="answer wrong" data-correct="false">einen neuen</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 11 -->
+
+            <!-- Folie 12: Übung 9 Drag&Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Wir haben keine langen Wartezeiten">
+                <div class="practice-number">9</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Setze den Plural: langen – Wartezeiten – keine – wir – haben.</p>
+                    <p class="english-translation">Ziehe zu einem korrekten Satz.</p>
+                    <div class="answer-zone" id="answer-zone-9"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Wir</div>
+                        <div class="word" draggable="true">haben</div>
+                        <div class="word" draggable="true">keine</div>
+                        <div class="word" draggable="true">langen</div>
+                        <div class="word" draggable="true">Wartezeiten</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 12 -->
+
+            <!-- Folie 13: Übung 10 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">10</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ihr Sohn liest ___ (spannend) Geschichte.</p>
+                    <p class="english-translation">Finde die passende Form.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">ein spannendes</div>
+                        <div class="answer wrong" data-correct="false">einer spannenden</div>
+                        <div class="answer correct" data-correct="true">eine spannende</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 13 -->
+
+            <!-- Folie 14: Übung 11 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">11</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ich helfe ___ (alt) Nachbarn beim Einkauf.</p>
+                    <p class="english-translation">Wähle die Dativform.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">einer alten</div>
+                        <div class="answer correct" data-correct="true">einem alten</div>
+                        <div class="answer wrong" data-correct="false">einen alten</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 14 -->
+
+            <!-- Folie 15: Übung 12 Drag&Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Sie sucht eine passende Lösung">
+                <div class="practice-number">12</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne: suchen – Lösung – sie – passende – eine.</p>
+                    <p class="english-translation">Bringe alles zusammen.</p>
+                    <div class="answer-zone" id="answer-zone-12"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Sie</div>
+                        <div class="word" draggable="true">sucht</div>
+                        <div class="word" draggable="true">eine</div>
+                        <div class="word" draggable="true">passende</div>
+                        <div class="word" draggable="true">Lösung</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 15 -->
+
+            <!-- Folie 16: Übung 13 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">13</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wir gratulieren ___ (lieb) Freundin zum Erfolg.</p>
+                    <p class="english-translation">Finde die Dativform.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">eine liebe</div>
+                        <div class="answer wrong" data-correct="false">einen lieben</div>
+                        <div class="answer correct" data-correct="true">einer lieben</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 16 -->
+
+            <!-- Folie 17: Übung 14 Drag&Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Er sieht einen alten Film">
+                <div class="practice-number">14</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Stelle den Akkusativ her: sehen – alten – Film – er – ein.</p>
+                    <p class="english-translation">Sortiere korrekt.</p>
+                    <div class="answer-zone" id="answer-zone-14"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Er</div>
+                        <div class="word" draggable="true">sieht</div>
+                        <div class="word" draggable="true">einen</div>
+                        <div class="word" draggable="true">alten</div>
+                        <div class="word" draggable="true">Film</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 17 -->
+
+            <!-- Folie 18: Grammatik-Tipp -->
+            <div class="slide" data-label="grammatik" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title">Fehlerfrei bleiben</h2>
+                <p class="slide-description">
+                    Nach unbestimmtem Artikel übernehmen Adjektive oft die Endung des fehlenden bestimmten Artikels.
+                    Prüfe zuerst den Kasus, dann Geschlecht und Numerus.
+                </p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Maskulin</span><span class="right">Nominativ -er · Akkusativ -en · Dativ -en</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Feminin</span><span class="right">immer -e außer Dativ -en</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Neutrum</span><span class="right">Nominativ/Akkusativ -es · Dativ -en</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Plural mit keine</span><span class="right">immer -en</span></li>
+                </ul>
+            </div>
+            <!-- Ende Folie 18 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Lektion starten
+            <img src="icons/next-arrow.svg" alt="Weiter" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

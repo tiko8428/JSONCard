@@ -230,7 +230,7 @@ function updateSlider() {
   } else if (currentIndex === 0) {
     updateButtonText("Lektion starten");
   } else if (currentIndex === slides.length - 1) {
-    updateButtonText("Finish");
+    updateButtonText("Fertig");
   } else {
     updateButtonText("Weiter");
   }

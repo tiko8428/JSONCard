@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Kohäsion Rückbezüge</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LESSON</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Kohäsion Rückbezüge</h2>
+                <h3>Halte deinen Text durchgängig verständlich.</h3>
+                <p class="slide-description">
+                    Du lernst, wie du Referenzen geschickt setzt: Pronomen, Synonyme und Ankerwörter binden deine Aussagen
+                    zusammen. So führst du Leser:innen sicher durch lange Absätze.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-advanced.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Fortgeschrittene Sprachverwendung · B2</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">16 Minuten</span>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Lernziele -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Lernziele</h2>
+                <h3>Darauf achtest du besonders</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Referenten erkennen</span><span class="right grey">Wer oder was wird erneut erwähnt?</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Passende Mittel wählen</span><span class="right grey">Pronomen · Synonyme · Ellipsen</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Bezüge variieren</span><span class="right grey">Roter Faden ohne Wiederholung</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 2 -->
+
+            <!-- Slide 3: Pronomen -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Pronomen gezielt einsetzen</h2>
+                <h3>Vermeide Mehrdeutigkeit</h3>
+                <ul class="slide-content">
+                    <li><span class="left">er/sie/es</span><span class="right grey">Nur verwenden, wenn der Bezug eindeutig bleibt</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">dieser/diese/dieses</span><span class="right grey">Verweist auf den letzten Satz oder ein Schlüsselwort</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">solcher/gleicher</span><span class="right grey">Kategorisiert und zeigt Vergleichbarkeit an</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 3 -->
+
+            <!-- Slide 4: Synonyme -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Synonyme und Hyperonyme</h2>
+                <h3>Bring Abwechslung in deine Texte</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Grundbegriff</span><span class="right grey">Projekt → Initiative → Vorhaben</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Spezifizierung</span><span class="right grey">Neue App → die Anwendung → dieses Tool</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Sammelbegriff</span><span class="right grey">Mitarbeitende → das Team → diese Gruppe</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 4 -->
+
+            <!-- Slide 5: Textanker -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Ankerwörter und Leitmotiven</h2>
+                <h3>Führe Leser:innen durch Absätze</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Anfangsthema</span><span class="right grey">Im ersten Satz klar benennen</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Rückbezug</span><span class="right grey">Dieses Ziel, jener Meilenstein, jener Punkt</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Schluss</span><span class="right grey">Zum Schluss erneut auf das Kernthema verweisen</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 5 -->
+
+            <!-- Slide 6: Fehlerquellen -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Typische Fehler</h2>
+                <h3>Diese Stolpersteine vermeidest du</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Unklare Pronomen</span><span class="right grey">Mehrere mögliche Referenten nebeneinander</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Zu viele Wiederholungen</span><span class="right grey">Der Begriff wirkt schwerfällig</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Falsche Kongruenz</span><span class="right grey">Numerus und Genus müssen passen</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 6 -->
+
+            <!-- Slide 7: Strategie -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Strategie für Rückbezüge</h2>
+                <h3>Plane jeden Absatz</h3>
+                <ul class="slide-content">
+                    <li><span class="left">Schlüsselwort markieren</span><span class="right grey">Markiere den Begriff, auf den du verweist</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Bezugsmittel festlegen</span><span class="right grey">Pronomen, Synonym, Metapher?</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left">Lesetest</span><span class="right grey">Frage: Ist immer klar, worauf der Satz zielt?</span></li>
+                </ul>
+            </div>
+            <!-- End Slide 7 -->
+
+            <!-- Slide 8: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wähle den Rückbezug, der den Bezug eindeutig hält: „Die Projektgruppe präsentierte einen Prototyp. ____ überzeugte den Vorstand."</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Er</div>
+                        <div class="answer correct" data-correct="true">Dieser Prototyp</div>
+                        <div class="answer wrong" data-correct="false">Das</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 8 -->
+
+            <!-- Slide 9: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welches Synonym sorgt für Varianz, ohne den Bezug zu verlieren? „Der Bericht analysiert die Zielgruppe. Im zweiten Abschnitt vertieft der Text ____.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">sie</div>
+                        <div class="answer correct" data-correct="true">dieses Publikum</div>
+                        <div class="answer wrong" data-correct="false">das Ganze</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 9 -->
+
+            <!-- Slide 10: Practice 3 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Variante löst das Pronomen auf? „Die Führungskräfte lobten das Konzept, doch einige fanden, es sei riskant. ____ verwies auf die Marktanalyse, um zu beruhigen.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Sie</div>
+                        <div class="answer correct" data-correct="true">Die Projektleiterin</div>
+                        <div class="answer wrong" data-correct="false">Diese</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 10 -->
+
+            <!-- Slide 11: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ergänze den passenden Rückbezug: „Im Fokus stand die Lieferkette. ___ bereitete besonders Sorgen.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Er</div>
+                        <div class="answer wrong" data-correct="false">Das</div>
+                        <div class="answer correct" data-correct="true">Dieser Aspekt</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 11 -->
+
+            <!-- Slide 12: Practice 5 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">5</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welches Wortpaar schafft eine elegante Wiederaufnahme? „Die Studie kritisiert den Ressourcenverbrauch. Im Fazit fordern die Autor:innen, ___ zu senken.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">ihn drastisch</div>
+                        <div class="answer correct" data-correct="true">diesen Verbrauch</div>
+                        <div class="answer wrong" data-correct="false">das Problem</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 12 -->
+
+            <!-- Slide 13: Practice 6 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">6</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Option vermeidet eine Wiederholung? „Das Team evaluierte mehrere Anbieter. Anschließend verglich ___ die Servicequalität.”</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">die Gruppe</div>
+                        <div class="answer wrong" data-correct="false">das Team</div>
+                        <div class="answer wrong" data-correct="false">diese</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 13 -->
+
+            <!-- Slide 14: Practice 7 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">7</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Variante sorgt für klaren Bezug? „Der Ausschuss legte Maßnahmen vor. Danach diskutierten ___ die Finanzierung.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">sie</div>
+                        <div class="answer correct" data-correct="true">die Mitglieder</div>
+                        <div class="answer wrong" data-correct="false">dies</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 14 -->
+
+            <!-- Slide 15: Practice 8 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">8</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Fülle die Lücke: „Die Bewerberin stellte ihre Idee vor. ___ überzeugte durch Struktur.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Sie</div>
+                        <div class="answer correct" data-correct="true">Diese Präsentation</div>
+                        <div class="answer wrong" data-correct="false">Das Konzept</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 15 -->
+
+            <!-- Slide 16: Practice 9 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">9</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Kombination bindet zwei Sätze? „Die Firma investiert in Solarenergie. ____ soll die Versorgung langfristig sichern.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Diese</div>
+                        <div class="answer correct" data-correct="true">Dieses Vorhaben</div>
+                        <div class="answer wrong" data-correct="false">Der Punkt</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 16 -->
+
+            <!-- Slide 17: Practice 10 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">10</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welcher Rückbezug ist falsch? „Die Konferenz bot zahlreiche Workshops. ____ waren interaktiv gestaltet.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Viele davon</div>
+                        <div class="answer correct" data-correct="true">Die Keynote</div>
+                        <div class="answer wrong" data-correct="false">Einige Workshops</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 17 -->
+
+            <!-- Slide 18: Practice 11 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Das Projektziel wurde erreicht, weil dieses Team konsequent zusammenarbeitete.">
+                <div class="practice-number">11</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Ordne den Rückbezug korrekt an.</p>
+
+                    <div class="answer-zone" id="answer-zone-11"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Das</div>
+                        <div class="word" draggable="true">Projektziel</div>
+                        <div class="word" draggable="true">wurde</div>
+                        <div class="word" draggable="true">erreicht,</div>
+                        <div class="word" draggable="true">weil</div>
+                        <div class="word" draggable="true">dieses</div>
+                        <div class="word" draggable="true">Team</div>
+                        <div class="word" draggable="true">konsequent</div>
+                        <div class="word" draggable="true">zusammenarbeitete.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 18 -->
+
+            <!-- Slide 19: Practice 12 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Im ersten Abschnitt beschreiben die Autorinnen die Methode, im zweiten erläutern sie diese Vorgehensweise im Detail.">
+                <div class="practice-number">12</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Baue den doppelten Rückbezug auf.</p>
+
+                    <div class="answer-zone" id="answer-zone-12"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Im</div>
+                        <div class="word" draggable="true">ersten</div>
+                        <div class="word" draggable="true">Abschnitt</div>
+                        <div class="word" draggable="true">beschreiben</div>
+                        <div class="word" draggable="true">die</div>
+                        <div class="word" draggable="true">Autorinnen</div>
+                        <div class="word" draggable="true">die</div>
+                        <div class="word" draggable="true">Methode,</div>
+                        <div class="word" draggable="true">im</div>
+                        <div class="word" draggable="true">zweiten</div>
+                        <div class="word" draggable="true">erläutern</div>
+                        <div class="word" draggable="true">sie</div>
+                        <div class="word" draggable="true">diese</div>
+                        <div class="word" draggable="true">Vorgehensweise</div>
+                        <div class="word" draggable="true">im</div>
+                        <div class="word" draggable="true">Detail.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 19 -->
+
+            <!-- Slide 20: Practice 13 Drag/Drop -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Die Analyse identifiziert drei Risiken; diese Punkte werden im Anschluss priorisiert.">
+                <div class="practice-number">13</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Verknüpfe die Sätze mit einem kohäsiven Rückbezug.</p>
+
+                    <div class="answer-zone" id="answer-zone-13"></div>
+
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Die</div>
+                        <div class="word" draggable="true">Analyse</div>
+                        <div class="word" draggable="true">identifiziert</div>
+                        <div class="word" draggable="true">drei</div>
+                        <div class="word" draggable="true">Risiken;</div>
+                        <div class="word" draggable="true">diese</div>
+                        <div class="word" draggable="true">Punkte</div>
+                        <div class="word" draggable="true">werden</div>
+                        <div class="word" draggable="true">im</div>
+                        <div class="word" draggable="true">Anschluss</div>
+                        <div class="word" draggable="true">priorisiert.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 20 -->
+
+            <!-- Slide 21: Practice 14 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">14</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Option ersetzt die Wiederholung elegant? „Nach dem Kick-off traf sich das Team erneut. Bei diesem Treffen konkretisierten ___ den Zeitplan.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">das Team</div>
+                        <div class="answer correct" data-correct="true">die Beteiligten</div>
+                        <div class="answer wrong" data-correct="false">diese</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 21 -->
+
+            <!-- Slide 22: Practice 15 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">15</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welcher Rückbezug passt? „Das Unternehmen veröffentlichte einen Nachhaltigkeitsbericht. ____ zeigt Fortschritte beim Energieverbrauch.”</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Dieses Dokument</div>
+                        <div class="answer wrong" data-correct="false">Er</div>
+                        <div class="answer wrong" data-correct="false">Der</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 22 -->
+
+            <!-- Slide 23: Practice 16 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">16</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Variante stimmt in Genus und Numerus überein? „Die Ergebnisse sind vielversprechend. ____ liefern klare Hinweise.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Diese Resultat</div>
+                        <div class="answer wrong" data-correct="false">Dieser Ergebnisse</div>
+                        <div class="answer correct" data-correct="true">Diese Resultate</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 23 -->
+
+            <!-- Slide 24: Practice 17 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">17</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Welche Option stellt einen Rückbezug mit Metapher her? „Der Veränderungsprozess gleicht einer Reise. Am Ende dieses Weges wartete ____.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">die Ergebnisse</div>
+                        <div class="answer correct" data-correct="true">das Ziel</div>
+                        <div class="answer wrong" data-correct="false">dieser Bericht</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 24 -->
+
+            <!-- Slide 25: Practice 18 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">18</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Wähle den kohäsiven Abschluss: „Im ersten Teil schildern wir die Ausgangslage. Abschließend zeigen wir, wie ____ überwunden wurde.”</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">sie</div>
+                        <div class="answer correct" data-correct="true">diese Herausforderung</div>
+                        <div class="answer wrong" data-correct="false">das Thema</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 25 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Start Lesson
+            <img src="icons/next-arrow.svg" alt="Next" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

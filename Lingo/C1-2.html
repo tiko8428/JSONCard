@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>Implikaturen entschlüsseln</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+    <header>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text">LEKTION</span>
+        </div>
+    </header>
+
+    <main class="slider-container">
+        <div id="slider" class="slider">
+
+            <!-- Folie 1: Intro -->
+            <div class="slide slide-first" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Implikaturen verstehen</h2>
+                <h3>Zwischen den Zeilen hören und lesen</h3>
+                <p class="slide-description">
+                    Du trainierst, indirekte Bedeutungen in Gesprächen und Texten sicher zu erfassen. Nach der Lektion
+                    erkennst du implizite Signale, deutest Sprecherabsichten und reagierst präzise.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text">Kompetente Sprachverwendung · C1</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text">30 Minuten</span>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 1 -->
+
+            <!-- Folie 2: Grundprinzip -->
+            <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Kooperationsprinzip und Andeutung</h2>
+                <p class="slide-description">
+                    Implikaturen entstehen, wenn Sprecher:innen scheinbar von Gesprächsmaximen abweichen. Hörer:innen
+                    suchen dann nach einer sinnvollen Ergänzung, die die Kooperation bewahrt.
+                </p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Quantität</span><span class="right">Ist die Information zu knapp oder zu üppig?</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Qualität</span><span class="right">Wirkt die Aussage wörtlich unglaubwürdig?</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Relevanz</span><span class="right">Passt der Beitrag überhaupt zum Thema?</span></li>
+                </ul>
+            </div>
+            <!-- Ende Folie 2 -->
+
+            <!-- Folie 3: Kontextsignale -->
+            <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Kontext entschlüsseln</h2>
+                <p class="slide-description">
+                    Achte auf Beziehung, Situation und Tonfall. Ein höfliches Lächeln, ein ironischer Blick oder eine
+                    Pause vor der Antwort verändern die gemeinte Botschaft erheblich.
+                </p>
+                <p class="slide-description">
+                    Notiere Schlüsselwörter, Modalpartikeln und Diskursmarker. Sie zeigen, ob Zustimmung, Skepsis oder
+                    Kritik nur indirekt formuliert wird.
+                </p>
+            </div>
+            <!-- Ende Folie 3 -->
+
+            <!-- Folie 4: Übung 1 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Chef: „Der Bericht ist interessant, wir sprechen morgen weiter." Was impliziert er?</p>
+                    <p class="english-translation">Wähle die treffendste Schlussfolgerung.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Er ist vollkommen zufrieden und beendet das Thema.</div>
+                        <div class="answer correct" data-correct="true">Er hat Kritikpunkte und erwartet Überarbeitung bis morgen.</div>
+                        <div class="answer wrong" data-correct="false">Er möchte den Bericht sofort veröffentlichen.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 4 -->
+
+            <!-- Folie 5: Übung 2 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Kollegin: „Wenn das Ihre Definition von pünktlich ist …" Welche Haltung transportiert sie?</p>
+                    <p class="english-translation">Tippe auf die beste Interpretation.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Sie bewundert die exakte Zeitplanung.</div>
+                        <div class="answer correct" data-correct="true">Sie kritisiert höflich die Verspätung der anderen Person.</div>
+                        <div class="answer wrong" data-correct="false">Sie wechselt das Thema ohne Bewertung.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 5 -->
+
+            <!-- Folie 6: Übung 3 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="So ganz überzeugt wirkt der Kunde wohl nicht.">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Beraterin: „Ihr Vorschlag ist… kreativ." Rekonstruiere die Implikatur.</p>
+                    <p class="english-translation">Setze den zusammenfassenden Satz richtig.</p>
+                    <div class="answer-zone" id="answer-zone-3"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">So</div>
+                        <div class="word" draggable="true">ganz</div>
+                        <div class="word" draggable="true">überzeugt</div>
+                        <div class="word" draggable="true">wirkt</div>
+                        <div class="word" draggable="true">der</div>
+                        <div class="word" draggable="true">Kunde</div>
+                        <div class="word" draggable="true">wohl</div>
+                        <div class="word" draggable="true">nicht.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 6 -->
+
+            <!-- Folie 7: Übung 4 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Professorin: „Ihre Hypothese ist mutig." Was ist die wahrscheinlichste implizite Botschaft?</p>
+                    <p class="english-translation">Wähle die passende Deutung.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Sie akzeptiert die Hypothese ohne Änderung.</div>
+                        <div class="answer wrong" data-correct="false">Sie hält die Hypothese für allgemein bekannt.</div>
+                        <div class="answer correct" data-correct="true">Sie äußert Zweifel und erwartet weitere Belege.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 7 -->
+
+            <!-- Folie 8: Übung 5 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Der Hinweis bedeutet versteckte Ablehnung.">
+                <div class="practice-number">5</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Bewohner: „Der Spielplatz ist nachts so lebendig." Was steckt dahinter?</p>
+                    <p class="english-translation">Ordne die Wörter und fasse die Implikatur.</p>
+                    <div class="answer-zone" id="answer-zone-5"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Der</div>
+                        <div class="word" draggable="true">Hinweis</div>
+                        <div class="word" draggable="true">bedeutet</div>
+                        <div class="word" draggable="true">versteckte</div>
+                        <div class="word" draggable="true">Ablehnung.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 8 -->
+
+            <!-- Folie 9: Übung 6 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">6</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Freund: „Spannend, dass du schon wieder Überstunden machst." Welche Antwort nimmt die Implikatur auf?</p>
+                    <p class="english-translation">Tippe auf die resonante Reaktion.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">„Ich weiß, du meinst, dass es zu viel wird. Ich plane morgen pünktlich zu gehen."</div>
+                        <div class="answer wrong" data-correct="false">„Danke, ich liebe meinen Job über alles."</div>
+                        <div class="answer wrong" data-correct="false">„Ja, das Wetter ist heute schön."</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 9 -->
+
+            <!-- Folie 10: Übung 7 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">7</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Richterin: „Das ist eine interessante Interpretation der Frist." Welche versteckte Botschaft ist plausibel?</p>
+                    <p class="english-translation">Wähle die beste Option.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">Sie signalisiert, dass die Frist verletzt wurde.</div>
+                        <div class="answer wrong" data-correct="false">Sie bittet um eine Verlängerung der Frist.</div>
+                        <div class="answer wrong" data-correct="false">Sie lobt den kreativen Umgang mit Terminen.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 10 -->
+
+            <!-- Folie 11: Übung 8 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Er möchte das Thema lieber vertagen.">
+                <div class="practice-number">8</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Teilnehmer: „Das könnten wir auch in der nächsten Sitzung ausführlich klären." Was meint er wirklich?</p>
+                    <p class="english-translation">Baue den Schluss richtig zusammen.</p>
+                    <div class="answer-zone" id="answer-zone-8"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Er</div>
+                        <div class="word" draggable="true">möchte</div>
+                        <div class="word" draggable="true">das</div>
+                        <div class="word" draggable="true">Thema</div>
+                        <div class="word" draggable="true">lieber</div>
+                        <div class="word" draggable="true">vertagen.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 11 -->
+
+            <!-- Folie 12: Übung 9 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">9</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Nachbarin: „Ihr Hund ist ja sehr gesellig." Welche Erwiderung zeigt Verständnis?</p>
+                    <p class="english-translation">Tippe auf die passende Reaktion.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">„Genau, er liebt laute Abende auf dem Balkon."</div>
+                        <div class="answer correct" data-correct="true">„Ich verstehe, die Lautstärke stört. Ich nehme ihn abends früher rein."</div>
+                        <div class="answer wrong" data-correct="false">„Wir können leider nichts ändern."</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 12 -->
+
+            <!-- Folie 13: Übung 10 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Die Einladung ist eher eine höfliche Absage.">
+                <div class="practice-number">10</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Mail: „Wir melden uns, sobald sich eine Gelegenheit ergibt." Was ist der Subtext?</p>
+                    <p class="english-translation">Setze die Bewertung korrekt zusammen.</p>
+                    <div class="answer-zone" id="answer-zone-10"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Die</div>
+                        <div class="word" draggable="true">Einladung</div>
+                        <div class="word" draggable="true">ist</div>
+                        <div class="word" draggable="true">eher</div>
+                        <div class="word" draggable="true">eine</div>
+                        <div class="word" draggable="true">höfliche</div>
+                        <div class="word" draggable="true">Absage.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 13 -->
+
+            <!-- Folie 14: Übung 11 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">11</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Dozent: „Für diese Idee brauchen Sie ein sehr belastbares Argument." Wie reagierst du angemessen?</p>
+                    <p class="english-translation">Wähle die stimmige Antwort.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true">„Ich verstehe, Sie bezweifeln die Tragfähigkeit. Ich ergänze Daten zur Begründung."</div>
+                        <div class="answer wrong" data-correct="false">„Danke, ich lasse die Idee einfach stehen."</div>
+                        <div class="answer wrong" data-correct="false">„Prima, dann brauche ich keine weiteren Quellen."</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 14 -->
+
+            <!-- Folie 15: Übung 12 -->
+            <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">12</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Moderatorin: „Das Publikum war jedenfalls aufmerksam." Welche Schlussfolgerung passt?</p>
+                    <p class="english-translation">Tippe auf die treffende Lesart.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false">Sie lobt ausdrücklich den Vortrag.</div>
+                        <div class="answer correct" data-correct="true">Sie deutet an, dass der Inhalt nicht überzeugte, trotz Aufmerksamkeit.</div>
+                        <div class="answer wrong" data-correct="false">Sie spricht über ein anderes Publikum.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 15 -->
+
+            <!-- Folie 16: Übung 13 Drag & Drop -->
+            <div class="slide" data-label="übung" data-type="dragdrop" data-icon="icons/practice-icon.svg" data-correct-sentence="Die Managerin signalisiert unausgesprochene Skepsis.">
+                <div class="practice-number">13</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence">Managerin: „Das ist ein sehr ambitionierter Plan." Rekonstruiere die implizite Haltung.</p>
+                    <p class="english-translation">Ordne die Wörter sinnvoll.</p>
+                    <div class="answer-zone" id="answer-zone-13"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true">Die</div>
+                        <div class="word" draggable="true">Managerin</div>
+                        <div class="word" draggable="true">signalisiert</div>
+                        <div class="word" draggable="true">unausgesprochene</div>
+                        <div class="word" draggable="true">Skepsis.</div>
+                    </div>
+                </div>
+            </div>
+            <!-- Ende Folie 16 -->
+
+            <!-- Folie 17: Abschluss -->
+            <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title">Indirekte Bedeutungen souverän lesen</h2>
+                <p class="slide-description">
+                    Halte Implikaturen fest, indem du Gesprächsmotive, Tonfall und Kontext kombinierst. So reagierst du
+                    nicht nur wörtlich, sondern strategisch und empathisch.
+                </p>
+                <ul class="slide-content">
+                    <li><span class="left grey">Überprüfen</span><span class="right">Frage nach, wenn Andeutungen unklar bleiben.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Spiegeln</span><span class="right">Gib die vermutete Bedeutung respektvoll zurück.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left grey">Dokumentieren</span><span class="right">Halte typische Formulierungen für spätere Analysen fest.</span></li>
+                </ul>
+            </div>
+            <!-- Ende Folie 17 -->
+
+        </div>
+    </main>
+
+    <footer>
+        <div class="feedback-message"></div>
+        <button class="start-lesson-btn">
+            Lektion starten
+            <img src="icons/next-arrow.svg" alt="Weiter" class="btn-icon" />
+        </button>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

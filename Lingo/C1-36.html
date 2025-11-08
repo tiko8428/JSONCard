@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>Prüfungsvorbereitung Zeitplan</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="progress-bar-container">
+        <div class="progress-bar-fill"></div>
+      </div>
+      <div class="fixed-slide-label">
+        <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+        <span class="slide-label-text">LESSON</span>
+      </div>
+    </header>
+
+    <main class="slider-container">
+      <div id="slider" class="slider">
+        <!-- Slide 1: Intro -->
+        <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+          <h2 class="slide-title">Prüfungsvorbereitung: Zeitplan</h2>
+          <h3>Strukturiere jede Prüfungsphase minutiös.</h3>
+          <p class="slide-description">
+            Du lernst, deine verfügbare Bearbeitungszeit zu gliedern, Kontrollfenster einzubauen und deine Ressourcen so zu verteilen, dass du jede Teilaufgabe souverän meisterst.
+          </p>
+          <div class="lesson-info-container">
+            <div class="lesson-level-container">
+              <img src="icons/lesson-level-advanced.svg" alt="Level" class="lesson-icon" />
+              <span class="lesson-level-text">Fortgeschrittene Kenntnisse · C1</span>
+            </div>
+            <div class="lesson-duration-container">
+              <img src="icons/lesson-duration.svg" alt="Dauer" class="lesson-icon" />
+              <span class="lesson-duration-text">24 Minuten</span>
+            </div>
+          </div>
+        </div>
+        <!-- End Slide 1 -->
+
+        <!-- Slide 2: Lernziele -->
+        <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+          <h2 class="slide-title">Lernziele</h2>
+          <h3>Darauf richtest du deinen Fokus</h3>
+          <ul class="slide-content">
+            <li><span class="left">Zeitbedarf analysieren</span><span class="right grey">Aufgaben realistisch einschätzen</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Puffer einplanen</span><span class="right grey">Korrektur und Transfer sichern</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Prioritäten setzen</span><span class="right grey">Leistungsschwerpunkte definieren</span></li>
+          </ul>
+        </div>
+        <!-- End Slide 2 -->
+
+        <!-- Slide 3: Phasen -->
+        <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+          <h2 class="slide-title">Phasenmodell</h2>
+          <h3>Jede Aufgabe in vier Schritte gliedern</h3>
+          <ul class="slide-content">
+            <li><span class="left grey">Überblick</span><span class="right">Aufgabenstellung und Material prüfen</span></li>
+            <div class="divider"></div>
+            <li><span class="left grey">Planung</span><span class="right">Struktur, Argumente, Reihenfolge festlegen</span></li>
+            <div class="divider"></div>
+            <li><span class="left grey">Ausführung</span><span class="right">Antworten fokussiert formulieren</span></li>
+            <div class="divider"></div>
+            <li><span class="left grey">Kontrolle</span><span class="right">Sprache, Aufgabenbezug, Zeitrest checken</span></li>
+          </ul>
+        </div>
+        <!-- End Slide 3 -->
+
+        <!-- Slide 4: Zeitverteilung -->
+        <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+          <h2 class="slide-title">Zeitverteilung je Phase</h2>
+          <h3>Richtwerte für 45-Minuten-Aufgaben</h3>
+          <ul class="slide-content">
+            <li><span class="left">Überblick</span><span class="right grey">5 Minuten</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Planung</span><span class="right grey">10 Minuten</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Ausführung</span><span class="right grey">25 Minuten</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Kontrolle</span><span class="right grey">5 Minuten</span></li>
+          </ul>
+        </div>
+        <!-- End Slide 4 -->
+
+        <!-- Slide 5: Strategien -->
+        <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+          <h2 class="slide-title">Strategische Leitlinien</h2>
+          <h3>So hältst du deinen Plan ein</h3>
+          <ul class="slide-content">
+            <li><span class="left">Zeitanker setzen</span><span class="right grey">Wecker oder Markierungen nutzen</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Teilaufgaben bündeln</span><span class="right grey">Ähnliche Schritte gemeinsam lösen</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Stopp-Signale definieren</span><span class="right grey">Bei Überschreitung sofort korrigieren</span></li>
+          </ul>
+        </div>
+        <!-- End Slide 5 -->
+
+        <!-- Slide 6: Ressourcen -->
+        <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+          <h2 class="slide-title">Ressourcenmanagement</h2>
+          <h3>Was du vorher klären musst</h3>
+          <ul class="slide-content">
+            <li><span class="left">Hilfsmittel prüfen</span><span class="right grey">Wörterbuch, Notizen, Timer</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Energie einteilen</span><span class="right grey">Snacks, Wasser, Pausenplanung</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Stress regulieren</span><span class="right grey">Atem- und Fokustechniken parat halten</span></li>
+          </ul>
+        </div>
+        <!-- End Slide 6 -->
+
+        <!-- Practice Slides -->
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">1</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Handlung gehört in die Überblicksphase?</p>
+            <div class="practice-answers">
+              <div class="answer correct" data-correct="true">Du liest die Aufgabenstellung vollständig und markierst Schlüsselbegriffe.</div>
+              <div class="answer wrong" data-correct="false">Du verfasst sofort deine Einleitung.</div>
+              <div class="answer wrong" data-correct="false">Du korrigierst letzte Rechtschreibfehler.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">2</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Maßnahme verhindert, dass du beim Planen in die Ausführung abrutschst?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">Du beginnst jeden Absatz bereits auszuformulieren.</div>
+              <div class="answer correct" data-correct="true">Du formulierst Stichpunkte zu Argumenten und Beispielen.</div>
+              <div class="answer wrong" data-correct="false">Du liest in der Pause eine Nachricht auf dem Handy.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">3</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Wann setzt du ein erstes Zeitanker-Signal?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">Erst wenn nur noch fünf Minuten verbleiben.</div>
+              <div class="answer correct" data-correct="true">Direkt nach dem Überblick, um den Wechsel zur Planung zu markieren.</div>
+              <div class="answer wrong" data-correct="false">Nachdem du alle Aufgaben vollständig gelöst hast.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">4</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Verteilung passt zu einer 60-minütigen Schreibaufgabe?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">5 Min Überblick · 5 Min Planung · 45 Min Ausführung · 5 Min Kontrolle</div>
+              <div class="answer correct" data-correct="true">6 Min Überblick · 12 Min Planung · 36 Min Ausführung · 6 Min Kontrolle</div>
+              <div class="answer wrong" data-correct="false">10 Min Überblick · 40 Min Pause · 10 Min Kontrolle</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">5</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Wie gehst du vor, wenn die Planung länger dauert als vorgesehen?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">Du streichst die Kontrollphase vollständig.</div>
+              <div class="answer correct" data-correct="true">Du kürzt einzelne Argumente, hältst aber die Kontrollphase aufrecht.</div>
+              <div class="answer wrong" data-correct="false">Du beginnst eine zusätzliche Aufgabe.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">6</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Aktivität stärkt deinen Zeitplan vor der Prüfung?</p>
+            <div class="practice-answers">
+              <div class="answer correct" data-correct="true">Du übst mit realistischen Zeitfenstern und stoppst jede Phase.</div>
+              <div class="answer wrong" data-correct="false">Du hoffst, dass die Zeit spontan ausreicht.</div>
+              <div class="answer wrong" data-correct="false">Du verzichtest auf Pausen und lernst nachts durch.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">7</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Wie nutzt du die Kontrollphase effektiv?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">Du liest nur die Einleitung noch einmal.</div>
+              <div class="answer correct" data-correct="true">Du prüfst Aufgabenbezug, Kohärenz und sprachliche Präzision systematisch.</div>
+              <div class="answer wrong" data-correct="false">Du fügst völlig neue Absätze ein.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">8</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Wie sicherst du, dass deine Ausführung nicht ausufert?</p>
+            <div class="practice-answers">
+              <div class="answer correct" data-correct="true">Du orientierst dich an der geplanten Gliederung und hältst dich an die Zeitmarken je Abschnitt.</div>
+              <div class="answer wrong" data-correct="false">Du schreibst solange, bis dir nichts mehr einfällt.</div>
+              <div class="answer wrong" data-correct="false">Du wiederholst in jedem Abschnitt denselben Inhalt.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">9</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Entscheidung hilft bei mehreren Prüfungsteilen nacheinander?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">Du nutzt das komplette Zeitbudget der ersten Aufgabe und improvisierst danach.</div>
+              <div class="answer correct" data-correct="true">Du reservierst feste Übergangsminuten, um mental umzuschalten.</div>
+              <div class="answer wrong" data-correct="false">Du erledigst die Aufgaben in beliebiger Reihenfolge ohne Plan.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">10</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Wie reagierst du, wenn du in der Ausführung merkst, dass eine Argumentationslinie nicht trägt?</p>
+            <div class="practice-answers">
+              <div class="answer correct" data-correct="true">Du markierst den Abschnitt, setzt ein knappes Ersatzargument und gehst weiter.</div>
+              <div class="answer wrong" data-correct="false">Du brichst die gesamte Aufgabe ab und beginnst neu.</div>
+              <div class="answer wrong" data-correct="false">Du ignorierst das Problem und hoffst auf Verständnis.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">11</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Option nutzt deine Pufferzeiten sinnvoll?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">Du öffnest währenddessen soziale Medien.</div>
+              <div class="answer correct" data-correct="true">Du prüfst Zahlen, Quellen und Sprachregister gezielt nach.</div>
+              <div class="answer wrong" data-correct="false">Du fängst ein neues Thema an, das nicht zur Aufgabe gehört.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">12</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Wie integrierst du Erholungsmomente in deinen Gesamtplan?</p>
+            <div class="practice-answers">
+              <div class="answer correct" data-correct="true">Du legst zwischen den Prüfungstagen kurze Atem- und Bewegungsfenster fest.</div>
+              <div class="answer wrong" data-correct="false">Du ignorierst Müdigkeit vollständig.</div>
+              <div class="answer wrong" data-correct="false">Du planst lange Serienepisoden mitten in der Bearbeitung.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">13</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Vorbereitung sorgt dafür, dass du dein Zeitgefühl behältst?</p>
+            <div class="practice-answers">
+              <div class="answer correct" data-correct="true">Du trainierst mit derselben Uhr oder App, die du auch in der Prüfung verwendest.</div>
+              <div class="answer wrong" data-correct="false">Du vertraust ausschließlich auf dein Bauchgefühl.</div>
+              <div class="answer wrong" data-correct="false">Du verwendest in jeder Übung ein anderes Hilfsmittel.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">14</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Wie gehst du vor, wenn du vor dem offiziellen Ende fertig bist?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">Du gibst sofort ab und gehst.</div>
+              <div class="answer correct" data-correct="true">Du nutzt die Restzeit für eine langsame, lautslose Kontrolle und finale Klarheit.</div>
+              <div class="answer wrong" data-correct="false">Du beginnst eine neue Aufgabe ohne Auftrag.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">15</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Maßnahme hilft dir, nach der Prüfung deine Strategie zu verfeinern?</p>
+            <div class="practice-answers">
+              <div class="answer correct" data-correct="true">Du hältst fest, welche Phasen funktionierten und welche Zeitfenster knapp waren.</div>
+              <div class="answer wrong" data-correct="false">Du vergisst die Prüfung sofort und analysierst nichts.</div>
+              <div class="answer wrong" data-correct="false">Du drehst dein Material weg, ohne darauf zu schauen.</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+          <div class="practice-number">16</div>
+          <div class="slide-content practice-content">
+            <p class="german-sentence">Welche Aussage beschreibt ein sinnvolles Stopp-Signal?</p>
+            <div class="practice-answers">
+              <div class="answer wrong" data-correct="false">"Ich schreibe weiter, auch wenn das nächste Fach wartet."</div>
+              <div class="answer correct" data-correct="true">"Wenn die geplante Zeit um zwei Minuten überschritten ist, wechsle ich zum nächsten Schritt."</div>
+              <div class="answer wrong" data-correct="false">"Ich ignoriere jede Uhrzeit, bis die Aufsicht mich stoppt."</div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Slide Summary -->
+        <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+          <h2 class="slide-title">Merke dir</h2>
+          <h3>Dein Zeitplan entscheidet über Präzision</h3>
+          <ul class="slide-content">
+            <li><span class="left">Phasen strikt trennen</span><span class="right grey">Überblick · Planung · Ausführung · Kontrolle</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Zeitanker konsequent nutzen</span><span class="right grey">Signale für Übergänge definieren</span></li>
+            <div class="divider"></div>
+            <li><span class="left">Puffer wachsam einsetzen</span><span class="right grey">Qualität sichern statt Neues starten</span></li>
+          </ul>
+          <button class="start-lesson-btn" onclick="onLessonComplete()">
+            Lektion abschließen
+            <span class="btn-icon">→</span>
+          </button>
+        </div>
+      </div>
+    </main>
+
+    <footer>
+      <button class="nav-button prev">Zurück</button>
+      <button class="nav-button next">Weiter</button>
+      <div class="feedback-message" role="status" aria-live="polite"></div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

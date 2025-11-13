@@ -80,7 +80,22 @@ function initPageTranslator() {
 
   translateButton.addEventListener("click", () => {
     const translationUrl = buildTranslationUrl(targetLanguage);
-    window.open(translationUrl, "_blank", "noopener,noreferrer");
+
+    let opened = null;
+    try {
+      opened = window.open(
+        translationUrl,
+        "_blank",
+        "noopener,noreferrer"
+      );
+    } catch (err) {
+      opened = null;
+      console.warn("[translate] window.open blocked", err);
+    }
+
+    if (!opened) {
+      window.location.href = translationUrl;
+    }
   });
 }
 

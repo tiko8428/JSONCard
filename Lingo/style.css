@@ -312,38 +312,6 @@ header {
   color: transparent;
 }
 
-.translate-button {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 6px 14px;
-  border-radius: 999px;
-  border: 1px solid rgba(119, 52, 217, 0.15);
-  background: rgba(255, 255, 255, 0.9);
-  color: #2b2d42;
-  font-weight: 600;
-  font-size: 14px;
-  text-transform: none;
-  cursor: pointer;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.translate-button-icon {
-  font-size: 16px;
-}
-
-.translate-button:disabled {
-  opacity: 0.5;
-  cursor: not-allowed;
-  box-shadow: none;
-}
-
-.translate-button:not(:disabled):hover {
-  transform: translateY(-1px);
-  box-shadow: 0 4px 10px rgba(91, 55, 220, 0.25);
-}
-
 /* ------------------ MAIN / SLIDER ------------------ */
 /* Main slider container sits between header and footer */
 main.slider-container {

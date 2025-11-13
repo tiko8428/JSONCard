@@ -42,6 +42,7 @@ const wrongSound = createFeedbackSound(
 /* -----------------------------
    TRANSLATION HANDLER
 ----------------------------- */
+const DEFAULT_TRANSLATION_LANGUAGE = "en";
 function getTargetLanguageFromUrl() {
   const params = new URLSearchParams(window.location.search);
   const langParam =
@@ -60,13 +61,17 @@ function buildTranslationUrl(targetLanguage) {
 function initPageTranslator() {
   if (!translateButton) return;
 
-  const targetLanguage = getTargetLanguageFromUrl();
+  let targetLanguage = getTargetLanguageFromUrl();
+
   if (!targetLanguage) {
-    translateButton.disabled = true;
-    translateButton.title = "Add ?lang=xx to the URL to enable translation.";
-    return;
+    targetLanguage = translateButton.dataset.defaultLanguage || DEFAULT_TRANSLATION_LANGUAGE;
+    translateButton.title =
+      "Defaulting to English. Add ?lang=xx to the URL to translate into a different language.";
+  } else {
+    translateButton.title = "";
   }
 
+  translateButton.disabled = false;
   translateButton.dataset.targetLanguage = targetLanguage;
   const label = translateButton.querySelector(".translate-button-text");
   if (label) {

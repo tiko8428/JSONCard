@@ -5,6 +5,7 @@ const fixedLabel = document.querySelector(".slide-label-text");
 const progressBarFill = document.querySelector(".progress-bar-fill");
 const footer = document.querySelector("footer");
 const feedbackMessage = document.querySelector(".feedback-message");
+const translateButton = document.getElementById("translate-button");
 
 // Audio feedback
 // const correctSound = new Audio('sounds/correct.mp3');
@@ -37,6 +38,46 @@ const correctSound = createFeedbackSound(
 const wrongSound = createFeedbackSound(
   "https://firebasestorage.googleapis.com/v0/b/cards-6f8a3.appspot.com/o/WebContent%2FError.mp3?alt=media&token=5d61b9e3-8db2-483f-9526-86f8f797e3a9"
 );
+
+/* -----------------------------
+   TRANSLATION HANDLER
+----------------------------- */
+function getTargetLanguageFromUrl() {
+  const params = new URLSearchParams(window.location.search);
+  const langParam =
+    params.get("lang") || params.get("translate") || params.get("tl");
+  if (!langParam) return "";
+  return langParam.trim().toLowerCase();
+}
+
+function buildTranslationUrl(targetLanguage) {
+  const currentUrl = new URL(window.location.href);
+  return `https://translate.google.com/translate?sl=auto&tl=${encodeURIComponent(
+    targetLanguage
+  )}&u=${encodeURIComponent(currentUrl.href)}`;
+}
+
+function initPageTranslator() {
+  if (!translateButton) return;
+
+  const targetLanguage = getTargetLanguageFromUrl();
+  if (!targetLanguage) {
+    translateButton.disabled = true;
+    translateButton.title = "Add ?lang=xx to the URL to enable translation.";
+    return;
+  }
+
+  translateButton.dataset.targetLanguage = targetLanguage;
+  const label = translateButton.querySelector(".translate-button-text");
+  if (label) {
+    label.textContent = `Translate (${targetLanguage.toUpperCase()})`;
+  }
+
+  translateButton.addEventListener("click", () => {
+    const translationUrl = buildTranslationUrl(targetLanguage);
+    window.open(translationUrl, "_blank", "noopener,noreferrer");
+  });
+}
 
 var appStoreUrl = "https://apps.apple.com/app/id1660563339";
 
@@ -147,6 +188,7 @@ function onLessonComplete() {
 // Initialize on page load
 document.addEventListener("DOMContentLoaded", function () {
   initAppDownloadPrompt();
+  initPageTranslator();
 });
 
 function notifyLessonCompleted() {

@@ -513,7 +513,14 @@ startLessonBtn.addEventListener("click", () => {
 
   if (currentSlide.dataset.type === "dragdrop") {
     const answerZone = currentSlide.querySelector(".answer-zone");
-    const correctSentence = currentSlide.dataset.correctSentence?.trim();
+    const sentenceKey = currentSlide.dataset.correctKey;
+    const fallbackSentence = currentSlide.dataset.correctSentence || "";
+    const correctSentence = (
+      sentenceKey
+        ? translate(sentenceKey, fallbackSentence)
+        : fallbackSentence
+    )
+      .trim();
 
     if (startLessonBtn.dataset.state === "check") {
       function normalizeAnswer(str) {

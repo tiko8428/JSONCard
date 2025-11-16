@@ -4,6 +4,22 @@
     languages: {
       de: { label: "Deutsch", dir: "ltr" },
       en: { label: "English", dir: "ltr" },
+      ru: { label: "Русский", dir: "ltr" },
+      uk: { label: "Українська", dir: "ltr" },
+      es: { label: "Español", dir: "ltr" },
+      fr: { label: "Français", dir: "ltr" },
+      ar: { label: "العربية", dir: "rtl" },
+      tr: { label: "Türkçe", dir: "ltr" },
+      it: { label: "Italiano", dir: "ltr" },
+      ro: { label: "Română", dir: "ltr" },
+      sv: { label: "Svenska", dir: "ltr" },
+      pt: { label: "Português", dir: "ltr" },
+      ko: { label: "한국어", dir: "ltr" },
+      ja: { label: "日本語", dir: "ltr" },
+      nl: { label: "Nederlands", dir: "ltr" },
+      zh: { label: "中文", dir: "ltr" },
+      hr: { label: "Hrvatski", dir: "ltr" },
+      hy: { label: "Հայերեն", dir: "ltr" },
     },
     translations: {
       de: {
@@ -196,6 +212,29 @@
       },
     },
   };
+
+  [
+    "ru",
+    "uk",
+    "es",
+    "fr",
+    "ar",
+    "tr",
+    "it",
+    "ro",
+    "sv",
+    "pt",
+    "ko",
+    "ja",
+    "nl",
+    "zh",
+    "hr",
+    "hy",
+  ].forEach((code) => {
+    if (!data.translations[code]) {
+      data.translations[code] = data.translations[data.fallbackLanguage];
+    }
+  });
 
   const params = new URLSearchParams(window.location.search);
   const requested = (params.get("ln") || params.get("lang") || data.fallbackLanguage || "de").toLowerCase();

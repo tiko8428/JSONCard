@@ -1,281 +1,276 @@
 <!DOCTYPE html>
 <html lang="de">
-  <head>
-    <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-    />
-    <title>Personalpronomen als Subjekt</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
 
-  <body>
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title data-i18n="page.title">Personalpronomen als Subjekt</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
     <header>
-      <div class="progress-bar-container">
-        <div class="progress-bar-fill"></div>
-      </div>
-      <div class="fixed-slide-label">
-        <img src="icons/lesson-icon.svg" alt="Symbol für Lektion" class="slide-label-icon" />
-        <span class="slide-label-text">LEKTION</span>
-      </div>
+        <div class="progress-bar-container">
+            <div class="progress-bar-fill"></div>
+        </div>
+        <div class="fixed-slide-label">
+            <img src="icons/lesson-icon.svg" alt="Icon" class="slide-label-icon" />
+            <span class="slide-label-text" data-i18n="label.lesson">LESSON</span>
+        </div>
     </header>
 
     <main class="slider-container">
-      <div id="slider" class="slider">
-        <!-- Slide 1: Intro -->
-        <div class="slide slide-first" data-label="lektion" data-icon="icons/lesson-icon.svg">
-          <h2 class="slide-title">Personalpronomen als Subjekt</h2>
-          <h3>Überblick und Übungen</h3>
-          <p class="slide-description">
-            Wiederhole die wichtigsten Personalpronomen und trainiere sie in vielfältigen Aufgaben.
-          </p>
-          <div class="lesson-info-container">
-            <div class="lesson-level-container">
-              <img src="icons/lesson-level-begginer.svg" alt="Niveau Icon" class="lesson-icon" />
-              <span class="lesson-level-text">Anfänger · A1</span>
+        <div id="slider" class="slider">
+
+            <!-- Slide 1: Intro -->
+            <div class="slide slide-first" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title" data-i18n="intro.title">Personalpronomen als Subjekt</h2>
+                <h3 data-i18n="intro.subtitle">Überblick und Übungen</h3>
+                <p class="slide-description" data-i18n="intro.description">
+                    Wiederhole die wichtigsten Personalpronomen und trainiere sie in vielfältigen Aufgaben.
+                </p>
+                <div class="lesson-info-container">
+                    <div class="lesson-level-container">
+                        <img src="icons/lesson-level-begginer.svg" alt="Level Icon" class="lesson-icon" />
+                        <span class="lesson-level-text" data-i18n="intro.level">Anfänger · A1</span>
+                    </div>
+                    <div class="lesson-duration-container">
+                        <img src="icons/lesson-duration.svg" alt="Duration Icon" class="lesson-icon" />
+                        <span class="lesson-duration-text" data-i18n="intro.duration">12 Minuten</span>
+                    </div>
+                </div>
             </div>
-            <div class="lesson-duration-container">
-              <img src="icons/lesson-duration.svg" alt="Dauer Icon" class="lesson-icon" />
-              <span class="lesson-duration-text">12 Minuten</span>
+            <!-- End Slide 1 -->
+
+            <!-- Slide 2: Übersicht -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title" data-i18n="rule.title">Die Formen im Überblick</h2>
+                <h3 data-i18n="rule.subtitle">Wer handelt?</h3>
+                <p class="slide-description" data-i18n="rule.description">Die Personalpronomen ersetzen die Person, die das Verb ausführt.</p>
+                <ul class="slide-content">
+                    <li><span class="left" data-i18n="rule.item1.left">ich · wir</span><span class="right" data-i18n="rule.item1.right">1. Person Singular · Plural</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left" data-i18n="rule.item2.left">du · ihr</span><span class="right" data-i18n="rule.item2.right">2. Person Singular · Plural</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left" data-i18n="rule.item3.left">er · sie · es · Sie</span><span class="right" data-i18n="rule.item3.right">3. Person & Höflichkeitsform</span></li>
+                </ul>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 1 -->
+            <!-- End Slide 2 -->
 
-        <!-- Slide 2: Pronoun Overview -->
-        <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
-          <h2 class="slide-title">Die Formen im Überblick</h2>
-          <h3>Wer handelt?</h3>
-          <p class="slide-description">
-            Die Personalpronomen ersetzen eine Person oder ein Ding, das das Verb ausführt.
-          </p>
-          <ul class="slide-content">
-            <li><span class="left">ich</span><span class="right grey">1. Person Singular</span></li>
-            <div class="divider"></div>
-            <li><span class="left">du</span><span class="right grey">2. Person Singular</span></li>
-            <div class="divider"></div>
-            <li><span class="left">er · sie · es</span><span class="right grey">3. Person Singular</span></li>
-            <div class="divider"></div>
-            <li><span class="left">wir</span><span class="right grey">1. Person Plural</span></li>
-            <div class="divider"></div>
-            <li><span class="left">ihr</span><span class="right grey">2. Person Plural</span></li>
-            <div class="divider"></div>
-            <li><span class="left">sie · Sie</span><span class="right grey">3. Person Plural · Höfliche Anrede</span></li>
-          </ul>
-        </div>
-        <!-- End Slide 2 -->
-
-        <!-- Slide 3: Beispielsaetze -->
-        <div class="slide" data-label="lektion" data-icon="icons/lesson-icon.svg">
-          <h2 class="slide-title">Beispielsätze</h2>
-          <h3>Pronomen im Satz</h3>
-          <p class="slide-description">Achte darauf, dass das Verb zur Person passt.</p>
-          <ul class="slide-content">
-            <li><span class="left">Ich lese am Abend.</span><span class="right grey">ich → lese</span></li>
-            <div class="divider"></div>
-            <li><span class="left">Du spielst Fußball.</span><span class="right grey">du → spielst</span></li>
-            <div class="divider"></div>
-            <li><span class="left">Wir kochen zusammen.</span><span class="right grey">wir → kochen</span></li>
-            <div class="divider"></div>
-            <li><span class="left">Sie kommen pünktlich.</span><span class="right grey">sie → kommen</span></li>
-          </ul>
-        </div>
-        <!-- End Slide 3 -->
-
-        <!-- Slide 4: Practice 1 -->
-        <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
-          <div class="practice-number">1</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">___ bin neu in der Stadt.</p>
-            <p class="english-translation">Setze das passende Pronomen ein.</p>
-            <div class="practice-answers">
-              <div class="answer correct" data-correct="true">Ich</div>
-              <div class="answer wrong" data-correct="false">Du</div>
-              <div class="answer wrong" data-correct="false">Sie</div>
+            <!-- Slide 3: Einsätze -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title" data-i18n="usage.title">Wann brauchst du sie?</h2>
+                <h3 data-i18n="usage.subtitle">Typische Situationen</h3>
+                <ul class="slide-content">
+                    <li><span class="left" data-i18n="usage.item1.left">Vorstellungen</span><span class="right" data-i18n="usage.item1.right">Ich bin Lara. Wer bist du?</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left" data-i18n="usage.item2.left">Gruppen beschreiben</span><span class="right" data-i18n="usage.item2.right">Wir wohnen in Köln.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left" data-i18n="usage.item3.left">Höflich sein</span><span class="right" data-i18n="usage.item3.right">Sie kommen bitte hier entlang.</span></li>
+                </ul>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 4 -->
+            <!-- End Slide 3 -->
 
-        <!-- Slide 5: Practice 2 -->
-        <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
-          <div class="practice-number">2</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">Maria ist krank. ___ bleibt heute im Bett.</p>
-            <p class="english-translation">Wähle das richtige Pronomen.</p>
-            <div class="practice-answers">
-              <div class="answer wrong" data-correct="false">Er</div>
-              <div class="answer correct" data-correct="true">Sie</div>
-              <div class="answer wrong" data-correct="false">Ihr</div>
+            <!-- Slide 4: Beispiele -->
+            <div class="slide" data-label="lesson" data-icon="icons/lesson-icon.svg">
+                <h2 class="slide-title" data-i18n="examples.title">Beispiele im Satz</h2>
+                <h3 data-i18n="examples.subtitle">Subjekt + Verb</h3>
+                <ul class="slide-content">
+                    <li><span class="left" data-i18n="examples.item1.left">Du lernst schnell.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left" data-i18n="examples.item2.left">Sie liest am Morgen.</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left" data-i18n="examples.item3.left">Ihr fahrt morgen los.</span></li>
+                </ul>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 5 -->
+            <!-- End Slide 4 -->
 
-        <!-- Slide 6: Practice 3 (Drag/Drop) -->
-        <div
-          class="slide"
-          data-label="übung"
-          data-type="dragdrop"
-          data-icon="icons/practice-icon.svg"
-          data-correct-sentence="Wir lernen am Abend"
-        >
-          <div class="practice-number">3</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">Ordne die Wörter zu einem korrekten Satz.</p>
-            <p class="english-translation">Ziel: "Wir lernen am Abend".</p>
-            <div class="answer-zone" id="answer-zone-3"></div>
-            <div class="word-bank">
-              <div class="word" draggable="true">lernen</div>
-              <div class="word" draggable="true">am</div>
-              <div class="word" draggable="true">Wir</div>
-              <div class="word" draggable="true">Abend</div>
+            <!-- Slide 5: Practice 1 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">1</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.q1.prompt">___ bin neu in der Stadt.</p>
+                    <p class="practice-hint" data-i18n="practice.q1.hint">Setze das passende Pronomen ein.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true" data-i18n="practice.q1.option1">Ich</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q1.option2">Du</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q1.option3">Sie</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 6 -->
+            <!-- End Slide 5 -->
 
-        <!-- Slide 7: Practice 4 -->
-        <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
-          <div class="practice-number">4</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">Kinder, ___ möchtet ein Eis?</p>
-            <p class="english-translation">Setze das richtige Anredepronomen ein.</p>
-            <div class="practice-answers">
-              <div class="answer wrong" data-correct="false">Wir</div>
-              <div class="answer correct" data-correct="true">Ihr</div>
-              <div class="answer wrong" data-correct="false">Sie</div>
+            <!-- Slide 6: Practice 2 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">2</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.q2.prompt">Maria ist krank. ___ bleibt heute im Bett.</p>
+                    <p class="practice-hint" data-i18n="practice.q2.hint">Wähle das richtige Pronomen.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q2.option1">Er</div>
+                        <div class="answer correct" data-correct="true" data-i18n="practice.q2.option2">Sie</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q2.option3">Ihr</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 7 -->
+            <!-- End Slide 6 -->
 
-        <!-- Slide 8: Practice 5 -->
-        <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
-          <div class="practice-number">5</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">Herr Meier, ___ kommen morgen früher.</p>
-            <p class="english-translation">Denke an die Höflichkeitsform.</p>
-            <div class="practice-answers">
-              <div class="answer wrong" data-correct="false">du</div>
-              <div class="answer wrong" data-correct="false">ihr</div>
-              <div class="answer correct" data-correct="true">Sie</div>
+            <!-- Slide 7: Practice 3 (Drag/Drop) -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Wir lernen am Abend">
+                <div class="practice-number">3</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.drag1.prompt">Ordne die Wörter zu einem Satz.</p>
+                    <p class="practice-hint" data-i18n="practice.drag1.hint">Ziel: „Wir lernen am Abend“.</p>
+                    <div class="answer-zone" id="answer-zone-3"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true" data-i18n="practice.drag1.word1">lernen</div>
+                        <div class="word" draggable="true" data-i18n="practice.drag1.word2">am</div>
+                        <div class="word" draggable="true" data-i18n="practice.drag1.word3">Wir</div>
+                        <div class="word" draggable="true" data-i18n="practice.drag1.word4">Abend</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 8 -->
+            <!-- End Slide 7 -->
 
-        <!-- Slide 9: Practice 6 -->
-        <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
-          <div class="practice-number">6</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">Paul und Lisa gehen einkaufen. ___ brauchen Brot.</p>
-            <p class="english-translation">Wähle den richtigen Plural.</p>
-            <div class="practice-answers">
-              <div class="answer wrong" data-correct="false">Er</div>
-              <div class="answer wrong" data-correct="false">Ihr</div>
-              <div class="answer correct" data-correct="true">Sie</div>
+            <!-- Slide 8: Practice 4 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">4</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.q3.prompt">Kinder, ___ möchtet ein Eis?</p>
+                    <p class="practice-hint" data-i18n="practice.q3.hint">Setze das richtige Anredepronomen ein.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q3.option1">Wir</div>
+                        <div class="answer correct" data-correct="true" data-i18n="practice.q3.option2">Ihr</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q3.option3">Sie</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 9 -->
+            <!-- End Slide 8 -->
 
-        <!-- Slide 10: Practice 7 (Drag/Drop) -->
-        <div
-          class="slide"
-          data-label="übung"
-          data-type="dragdrop"
-          data-icon="icons/practice-icon.svg"
-          data-correct-sentence="Ihr spielt heute Tennis"
-        >
-          <div class="practice-number">7</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">Bringe die Wörter in die richtige Reihenfolge.</p>
-            <p class="english-translation">Ziel: "Ihr spielt heute Tennis".</p>
-            <div class="answer-zone" id="answer-zone-7"></div>
-            <div class="word-bank">
-              <div class="word" draggable="true">spielt</div>
-              <div class="word" draggable="true">Ihr</div>
-              <div class="word" draggable="true">Tennis</div>
-              <div class="word" draggable="true">heute</div>
+            <!-- Slide 9: Practice 5 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">5</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.q4.prompt">Herr Meier, ___ kommen morgen früher.</p>
+                    <p class="practice-hint" data-i18n="practice.q4.hint">Denke an die Höflichkeitsform.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q4.option1">du</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q4.option2">ihr</div>
+                        <div class="answer correct" data-correct="true" data-i18n="practice.q4.option3">Sie</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 10 -->
+            <!-- End Slide 9 -->
 
-        <!-- Slide 11: Practice 8 -->
-        <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
-          <div class="practice-number">8</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">___ sind meine besten Freunde.</p>
-            <p class="english-translation">Entscheide zwischen Singular und Plural.</p>
-            <div class="practice-answers">
-              <div class="answer wrong" data-correct="false">Es</div>
-              <div class="answer correct" data-correct="true">Sie</div>
-              <div class="answer wrong" data-correct="false">Ich</div>
+            <!-- Slide 10: Practice 6 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">6</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.q5.prompt">Paul und Lisa gehen einkaufen. ___ brauchen Brot.</p>
+                    <p class="practice-hint" data-i18n="practice.q5.hint">Wähle den richtigen Plural.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q5.option1">Er</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q5.option2">Ihr</div>
+                        <div class="answer correct" data-correct="true" data-i18n="practice.q5.option3">Sie</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 11 -->
+            <!-- End Slide 10 -->
 
-        <!-- Slide 12: Practice 9 -->
-        <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
-          <div class="practice-number">9</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">Meine Schwester und ich gehen ins Kino. ___ kaufen Popcorn.</p>
-            <p class="english-translation">Suche das passende Pronomen.</p>
-            <div class="practice-answers">
-              <div class="answer correct" data-correct="true">Wir</div>
-              <div class="answer wrong" data-correct="false">Sie</div>
-              <div class="answer wrong" data-correct="false">Du</div>
+            <!-- Slide 11: Practice 7 (Drag/Drop) -->
+            <div class="slide" data-label="practice" data-type="dragdrop" data-icon="icons/practice-icon.svg"
+                data-correct-sentence="Ihr spielt heute Tennis">
+                <div class="practice-number">7</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.drag2.prompt">Bringe die Wörter in die richtige Reihenfolge.</p>
+                    <p class="practice-hint" data-i18n="practice.drag2.hint">Ziel: „Ihr spielt heute Tennis“.</p>
+                    <div class="answer-zone" id="answer-zone-7"></div>
+                    <div class="word-bank">
+                        <div class="word" draggable="true" data-i18n="practice.drag2.word1">spielt</div>
+                        <div class="word" draggable="true" data-i18n="practice.drag2.word2">Ihr</div>
+                        <div class="word" draggable="true" data-i18n="practice.drag2.word3">Tennis</div>
+                        <div class="word" draggable="true" data-i18n="practice.drag2.word4">heute</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 12 -->
+            <!-- End Slide 11 -->
 
-        <!-- Slide 13: Practice 10 -->
-        <div class="slide" data-label="übung" data-icon="icons/practice-icon.svg">
-          <div class="practice-number">10</div>
-          <div class="slide-content practice-content">
-            <p class="german-sentence">Mein Bruder hat Urlaub. ___ fährt morgen nach Berlin.</p>
-            <p class="english-translation">Ergänze das passende Pronomen.</p>
-            <div class="practice-answers">
-              <div class="answer correct" data-correct="true">Er</div>
-              <div class="answer wrong" data-correct="false">Wir</div>
-              <div class="answer wrong" data-correct="false">Sie</div>
+            <!-- Slide 12: Practice 8 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">8</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.q6.prompt">___ sind meine besten Freunde.</p>
+                    <p class="practice-hint" data-i18n="practice.q6.hint">Entscheide zwischen Singular und Plural.</p>
+                    <div class="practice-answers">
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q6.option1">Es</div>
+                        <div class="answer correct" data-correct="true" data-i18n="practice.q6.option2">Sie</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q6.option3">Ich</div>
+                    </div>
+                </div>
             </div>
-          </div>
-        </div>
-        <!-- End Slide 13 -->
+            <!-- End Slide 12 -->
 
-        <!-- Slide 14: Grammar Tip -->
-        <div class="slide" data-label="grammatik" data-icon="icons/grammar-icon.svg">
-          <h2 class="slide-title">Tipp: Groß oder klein?</h2>
-          <p class="slide-description">Merke dir folgende Hinweise:</p>
-          <ul class="slide-content">
-            <li><span class="left grey">ich · du · wir · ihr</span><span class="right">klein geschrieben</span></li>
-            <div class="divider"></div>
-            <li><span class="left">Sie</span><span class="right grey">groß für die Höflichkeitsform</span></li>
-            <div class="divider"></div>
-            <li><span class="left grey">sie</span><span class="right">klein für die 3. Person Plural</span></li>
-          </ul>
-          <p class="slide-description">
-            Verb und Pronomen gehören zusammen: <em>du bist</em>, <em>wir sind</em>, <em>sie haben</em>.
-          </p>
+            <!-- Slide 13: Practice 9 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">9</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.q7.prompt">Meine Schwester und ich gehen ins Kino. ___ kaufen Popcorn.</p>
+                    <p class="practice-hint" data-i18n="practice.q7.hint">Suche das passende Pronomen.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true" data-i18n="practice.q7.option1">Wir</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q7.option2">Sie</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q7.option3">Du</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 13 -->
+
+            <!-- Slide 14: Practice 10 -->
+            <div class="slide" data-label="practice" data-icon="icons/practice-icon.svg">
+                <div class="practice-number">10</div>
+                <div class="slide-content practice-content">
+                    <p class="german-sentence" data-i18n="practice.q8.prompt">Mein Bruder hat Urlaub. ___ fährt morgen nach Berlin.</p>
+                    <p class="practice-hint" data-i18n="practice.q8.hint">Ergänze das passende Pronomen.</p>
+                    <div class="practice-answers">
+                        <div class="answer correct" data-correct="true" data-i18n="practice.q8.option1">Er</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q8.option2">Wir</div>
+                        <div class="answer wrong" data-correct="false" data-i18n="practice.q8.option3">Sie</div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Slide 14 -->
+
+            <!-- Slide 15: Grammatik-Tipp -->
+            <div class="slide" data-label="grammar tip" data-icon="icons/grammar-icon.svg">
+                <h2 class="slide-title" data-i18n="tips.title">Tipp: Groß oder klein?</h2>
+                <p class="slide-description" data-i18n="tips.intro">Merke dir folgende Hinweise:</p>
+                <ul class="slide-content">
+                    <li><span class="left" data-i18n="tips.item1.left">ich · du · wir · ihr</span><span class="right" data-i18n="tips.item1.right">klein geschrieben</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left" data-i18n="tips.item2.left">Sie</span><span class="right" data-i18n="tips.item2.right">groß für die Höflichkeitsform</span></li>
+                    <div class="divider"></div>
+                    <li><span class="left" data-i18n="tips.item3.left">sie</span><span class="right" data-i18n="tips.item3.right">klein für die 3. Person Plural</span></li>
+                </ul>
+                <p class="slide-description" data-i18n="tips.outro">Verb und Pronomen gehören zusammen: du bist, wir sind, sie haben.</p>
+            </div>
+            <!-- End Slide 15 -->
+
         </div>
-        <!-- End Slide 14 -->
-      </div>
     </main>
 
     <footer>
-      <div class="feedback-message" aria-live="polite"></div>
-      <button class="start-lesson-btn" data-state="start">
-        Lektion starten
-        <img src="icons/next-arrow.svg" alt="Weiter" class="btn-icon" />
-      </button>
+        <div class="feedback-message" data-i18n="feedback.default"></div>
+        <button class="start-lesson-btn">
+            <span data-i18n="button.start">Start</span>
+            <img src="icons/next-arrow.svg" alt="Weiter" class="btn-icon" />
+        </button>
     </footer>
 
+    <script src="i18n/A1-5-translations.js"></script>
     <script src="script.js"></script>
-  </body>
+
+</body>
+
 </html>

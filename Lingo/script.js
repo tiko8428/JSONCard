@@ -6,6 +6,34 @@ const progressBarFill = document.querySelector(".progress-bar-fill");
 const footer = document.querySelector("footer");
 const feedbackMessage = document.querySelector(".feedback-message");
 
+const localization = window.lessonLocalization || {};
+const translate =
+  typeof localization.translate === "function"
+    ? (key, fallback = "") => localization.translate(key, fallback) || fallback
+    : (key, fallback = "") => fallback;
+
+const buttonCopy = {
+  start: () => translate("button.start", "Lektion starten"),
+  next: () => translate("button.next", "Weiter"),
+  check: () => translate("button.check", "Prüfen"),
+  finish: () => translate("button.finish", "Fertig"),
+};
+
+const feedbackCopy = {
+  selectAnswer: () =>
+    translate(
+      "feedback.selectAnswer",
+      "Bitte wähle eine Antwort, bevor du prüfst."
+    ),
+  correctMultipleChoice: () => translate("feedback.correctMultipleChoice", "✅ Sehr gut!"),
+  correctDragDrop: () => translate("feedback.correctDragDrop", "✅ Gut gemacht!"),
+  incorrect: () => translate("feedback.incorrect", "❌ Nicht richtig!"),
+  correctAnswerLabel: () => translate("feedback.correctAnswerLabel", "Korrekte Antwort:"),
+};
+
+const getLabelText = (label) =>
+  translate(`label.${(label || "lesson").toLowerCase()}`, label || "LESSON");
+
 // Audio feedback
 // const correctSound = new Audio('sounds/correct.mp3');
 // const wrongSound = new Audio('sounds/error.mp3');
@@ -215,24 +243,24 @@ function updateSlider() {
   });
 
   const currentSlide = slides[currentIndex];
-  const label = currentSlide.dataset.label || "LESSON";
-  fixedLabel.textContent = label.toUpperCase();
+  const label = currentSlide.dataset.label || "lesson";
+  fixedLabel.textContent = getLabelText(label).toUpperCase();
 
   if (
     currentSlide.dataset.type === "dragdrop" ||
     isMultipleChoiceSlide(currentSlide)
   ) {
     startLessonBtn.dataset.state = "check";
-    updateButtonText("Prüfen");
+    updateButtonText(buttonCopy.check());
     if (isMultipleChoiceSlide(currentSlide)) {
       resetMultipleChoiceSlide(currentSlide);
     }
   } else if (currentIndex === 0) {
-    updateButtonText("Lektion starten");
+    updateButtonText(buttonCopy.start());
   } else if (currentIndex === slides.length - 1) {
-    updateButtonText("Fertig");
+    updateButtonText(buttonCopy.finish());
   } else {
-    updateButtonText("Weiter");
+    updateButtonText(buttonCopy.next());
   }
 
   footer.classList.remove("correct", "wrong");
@@ -420,8 +448,7 @@ startLessonBtn.addEventListener("click", () => {
 
     if (startLessonBtn.dataset.state === "check") {
       if (!selected) {
-        feedbackMessage.textContent =
-          "Bitte wähle eine Antwort, bevor du prüfst.";
+        feedbackMessage.textContent = feedbackCopy.selectAnswer();
         footer.classList.remove("correct", "wrong");
         startLessonBtn.style.background = "";
         startLessonBtn.style.color = "";
@@ -441,7 +468,7 @@ startLessonBtn.addEventListener("click", () => {
       if (isCorrect) {
         selected.classList.add("correct");
         footer.classList.add("correct");
-        feedbackMessage.textContent = "✅ Sehr gut!";
+        feedbackMessage.textContent = feedbackCopy.correctMultipleChoice();
         styleFooterButton("#4CAF50");
         playSound(correctSound);
       } else {
@@ -450,7 +477,9 @@ startLessonBtn.addEventListener("click", () => {
           correctAnswer.classList.add("correct");
         }
         footer.classList.add("wrong");
-        feedbackMessage.innerHTML = `❌ Nicht richtig!<br>Korrekte Antwort: <strong>${
+        const incorrectText = feedbackCopy.incorrect();
+        const answerLabel = feedbackCopy.correctAnswerLabel();
+        feedbackMessage.innerHTML = `${incorrectText}<br>${answerLabel} <strong>${
           correctAnswer?.textContent || ""
         }</strong>`;
         styleFooterButton("#F44336");
@@ -466,7 +495,7 @@ startLessonBtn.addEventListener("click", () => {
 
       currentSlide.dataset.locked = "true";
       startLessonBtn.dataset.state = "next";
-      updateButtonText("Weiter");
+      updateButtonText(buttonCopy.next());
       return;
     }
 
@@ -509,11 +538,11 @@ startLessonBtn.addEventListener("click", () => {
       ) {
         // ✅ Correct
         footer.classList.add("correct");
-        feedbackMessage.textContent = "✅ Gut gemacht!";
+        feedbackMessage.textContent = feedbackCopy.correctDragDrop();
         styleFooterButton("#4CAF50");
         playSound(correctSound);
         startLessonBtn.dataset.state = "next";
-        updateButtonText("Weiter");
+        updateButtonText(buttonCopy.next());
       } else {
         // ❌ Wrong
         footer.classList.add("wrong");
@@ -529,9 +558,11 @@ startLessonBtn.addEventListener("click", () => {
           answerZone.appendChild(w);
         });
 
-        feedbackMessage.innerHTML = `❌ Nicht richtig!<br>Korrekte Antwort: <strong>${correctSentence}</strong>`;
+        const incorrectText = feedbackCopy.incorrect();
+        const answerLabel = feedbackCopy.correctAnswerLabel();
+        feedbackMessage.innerHTML = `${incorrectText}<br>${answerLabel} <strong>${correctSentence}</strong>`;
         startLessonBtn.dataset.state = "next";
-        updateButtonText("Weiter");
+        updateButtonText(buttonCopy.next());
       }
       return;
     }

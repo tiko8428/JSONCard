@@ -182,7 +182,7 @@ router.post('/join-with-bot', async (req, res) => {
     await botInstance.start();
     
     botState.isRunning = true;
-    botState.channel = channel;
+    botState.channel = userId;
     botState.startedAt = new Date().toISOString();
     botState.userId = userId;
     botState.userName = userName;

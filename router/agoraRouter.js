@@ -1,7 +1,9 @@
 const express = require('express');
 const router = express.Router();
+const AgoraBot = require('../agora/agoraGermanBotSimple'); // Using simple version
 
-// In-memory bot state tracker
+// Bot instance tracker
+let botInstance = null;
 let botState = {
   isRunning: false,
   channel: null,
@@ -9,20 +11,10 @@ let botState = {
   error: null,
 };
 
-/**
- * IMPORTANT: The Agora bot uses browser-only APIs (AudioContext, MediaRecorder)
- * and cannot run directly in Node.js. 
- * 
- * Options to make this work with your iOS app:
- * 1. Use Puppeteer to run the bot in a headless browser (recommended for server)
- * 2. Deploy the bot as a separate web service that your iOS app triggers
- * 3. Use a different Agora SDK that supports Node.js (not agora-rtc-sdk-ng)
- */
-
 // Start the bot for a specific channel
 router.post('/start', async (req, res) => {
   try {
-    const { channel, token, appId } = req.body;
+    const { channel, token, appId, openAiApiKey } = req.body;
 
     if (!channel) {
       return res.status(400).json({ 
@@ -39,24 +31,43 @@ router.post('/start', async (req, res) => {
       });
     }
 
-    // TODO: Launch bot using Puppeteer or similar
-    // For now, just update state
-    botState = {
-      isRunning: true,
+    // Create and start bot instance
+    botInstance = new AgoraBot({
+      appId: appId || process.env.AGORA_APP_ID || '8189340d7b2e4ddc809cb96ecd47e520',
       channel: channel,
-      startedAt: new Date().toISOString(),
-      error: null,
-    };
+      token: token || null,
+      openAiApiKey: openAiApiKey || process.env.OPENAI_API_KEY,
+    });
+
+    await botInstance.start();
+    
+    botState.isRunning = true;
+    botState.channel = channel;
+    botState.startedAt = new Date().toISOString();
+    botState.error = null;
+
+    console.log(`Bot started in channel: ${channel}`);
 
     res.json({
       success: true,
-      message: 'Bot start requested',
+      message: 'Bot started successfully',
       channel: channel,
-      note: 'Bot requires browser environment - use Puppeteer to launch',
+      startedAt: botState.startedAt,
     });
 
   } catch (error) {
     console.error('Error starting bot:', error);
+    
+    // Cleanup on error
+    if (botInstance) {
+      try {
+        await botInstance.stop();
+      } catch (e) {}
+      botInstance = null;
+    }
+    
+    botState.error = error.message;
+    
     res.status(500).json({
       success: false,
       error: error.message,
@@ -74,8 +85,13 @@ router.post('/stop', async (req, res) => {
       });
     }
 
-    // TODO: Stop the Puppeteer instance
     const previousChannel = botState.channel;
+    
+    // Stop the bot instance
+    if (botInstance) {
+      await botInstance.stop();
+      botInstance = null;
+    }
     
     botState = {
       isRunning: false,
@@ -83,6 +99,8 @@ router.post('/stop', async (req, res) => {
       startedAt: null,
       error: null,
     };
+
+    console.log(`Bot stopped. Was in channel: ${previousChannel}`);
 
     res.json({
       success: true,
@@ -103,7 +121,10 @@ router.post('/stop', async (req, res) => {
 router.get('/status', (req, res) => {
   res.json({
     success: true,
-    ...botState,
+    isRunning: botState.isRunning,
+    channel: botState.channel,
+    startedAt: botState.startedAt,
+    error: botState.error,
   });
 });
 
@@ -130,31 +151,129 @@ router.get('/config', (req, res) => {
 // iOS app endpoint: Get channel info and start bot
 router.post('/join-with-bot', async (req, res) => {
   try {
-    const { userId, userName } = req.body;
+    const { userId, userName, openAiApiKey } = req.body;
+
+    if (botState.isRunning) {
+      // Return existing channel if bot is already running
+      return res.json({
+        success: true,
+        appId: process.env.AGORA_APP_ID || '8189340d7b2e4ddc809cb96ecd47e520',
+        channel: botState.channel,
+        token: null,
+        message: 'Bot is already running. Join the existing channel.',
+      });
+    }
 
     // Generate a unique channel for this user session
     const channel = `tutor-${userId}-${Date.now()}`;
     
-    // Start bot in this channel
-    botState = {
-      isRunning: true,
+    // Create and start bot instance
+    botInstance = new AgoraBot({
+      appId: process.env.AGORA_APP_ID || '8189340d7b2e4ddc809cb96ecd47e520',
       channel: channel,
-      startedAt: new Date().toISOString(),
-      error: null,
-      userId: userId,
-      userName: userName,
-    };
+      token: null,
+      openAiApiKey: openAiApiKey || process.env.OPENAI_API_KEY,
+    });
+
+    await botInstance.start();
+    
+    botState.isRunning = true;
+    botState.channel = channel;
+    botState.startedAt = new Date().toISOString();
+    botState.userId = userId;
+    botState.userName = userName;
+
+    console.log(`Bot started for user ${userName} in channel: ${channel}`);
 
     res.json({
       success: true,
       appId: process.env.AGORA_APP_ID || '8189340d7b2e4ddc809cb96ecd47e520',
       channel: channel,
       token: null, // Generate token here if using token authentication
-      message: 'Bot is starting. Join this channel from your iOS app.',
+      message: 'Bot started. Join this channel from your iOS app.',
     });
 
   } catch (error) {
     console.error('Error in join-with-bot:', error);
+    
+    if (botInstance) {
+      try {
+        await botInstance.stop();
+      } catch (e) {}
+      botInstance = null;
+    }
+    
+    res.status(500).json({
+      success: false,
+      error: error.message,
+    });
+  }
+});
+
+// Process audio from iOS app
+router.post('/process-audio', async (req, res) => {
+  try {
+    if (!botState.isRunning || !botInstance) {
+      return res.status(400).json({
+        success: false,
+        error: 'Bot is not running. Start a session first.',
+      });
+    }
+
+    // Audio should be sent as base64 or multipart/form-data
+    let audioBuffer;
+    let mimeType = 'audio/webm';
+
+    if (req.files && req.files.audio) {
+      // File upload
+      audioBuffer = req.files.audio.data;
+      mimeType = req.files.audio.mimetype;
+    } else if (req.body.audio) {
+      // Base64 encoded
+      audioBuffer = Buffer.from(req.body.audio, 'base64');
+      mimeType = req.body.mimeType || 'audio/webm';
+    } else {
+      return res.status(400).json({
+        success: false,
+        error: 'No audio data provided',
+      });
+    }
+
+    const result = await botInstance.processAudioFromApp(audioBuffer, mimeType);
+    res.json(result);
+
+  } catch (error) {
+    console.error('Error processing audio:', error);
+    res.status(500).json({
+      success: false,
+      error: error.message,
+    });
+  }
+});
+
+// Process text input (alternative to audio)
+router.post('/process-text', async (req, res) => {
+  try {
+    if (!botState.isRunning || !botInstance) {
+      return res.status(400).json({
+        success: false,
+        error: 'Bot is not running. Start a session first.',
+      });
+    }
+
+    const { text } = req.body;
+    if (!text) {
+      return res.status(400).json({
+        success: false,
+        error: 'Text is required',
+      });
+    }
+
+    const result = await botInstance.processText(text);
+    res.json(result);
+
+  } catch (error) {
+    console.error('Error processing text:', error);
     res.status(500).json({
       success: false,
       error: error.message,

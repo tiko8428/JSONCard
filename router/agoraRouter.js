@@ -169,12 +169,13 @@ router.post('/join-with-bot', async (req, res) => {
     }
 
     // Generate a unique channel for this user session
-    const channel = `tutor-${userId}-${Date.now()}`;
-    
+    // const channel = `tutor-${userId}-${Date.now()}`;
+    const channel = userId
+
     // Create and start bot instance
     botInstance = new AgoraBot({
       appId: process.env.AGORA_APP_ID || '8189340d7b2e4ddc809cb96ecd47e520',
-      channel: userId,
+      channel: channel,
       token: null,
       openAiApiKey: OPENAI_API_KEY,
     });
@@ -182,7 +183,7 @@ router.post('/join-with-bot', async (req, res) => {
     await botInstance.start();
     
     botState.isRunning = true;
-    botState.channel = userId;
+    botState.channel = channel;
     botState.startedAt = new Date().toISOString();
     botState.userId = userId;
     botState.userName = userName;

@@ -2,6 +2,9 @@ const express = require('express');
 const router = express.Router();
 const AgoraBot = require('../agora/agoraGermanBotSimple'); // Using simple version
 
+
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+
 // Bot instance tracker
 let botInstance = null;
 let botState = {
@@ -14,8 +17,8 @@ let botState = {
 // Start the bot for a specific channel
 router.post('/start', async (req, res) => {
   try {
-    const { channel, token, appId, openAiApiKey } = req.body;
-
+    const { channel, token, openAiApiKey } = req.body;
+    const appId ="8189340d7b2e4ddc809cb96ecd47e520";
     if (!channel) {
       return res.status(400).json({ 
         success: false, 
@@ -36,7 +39,7 @@ router.post('/start', async (req, res) => {
       appId: appId || process.env.AGORA_APP_ID || '8189340d7b2e4ddc809cb96ecd47e520',
       channel: channel,
       token: token || null,
-      openAiApiKey: openAiApiKey || process.env.OPENAI_API_KEY,
+      openAiApiKey: openAiApiKey || OPENAI_API_KEY,
     });
 
     await botInstance.start();
@@ -172,7 +175,7 @@ router.post('/join-with-bot', async (req, res) => {
       appId: process.env.AGORA_APP_ID || '8189340d7b2e4ddc809cb96ecd47e520',
       channel: channel,
       token: null,
-      openAiApiKey: openAiApiKey || process.env.OPENAI_API_KEY,
+      openAiApiKey: openAiApiKey || OPENAI_API_KEY,
     });
 
     await botInstance.start();

@@ -7,7 +7,7 @@ const feedRouter = require("./feedRouter");
 const germanWikiRouter = require("./germanWiki");
 const horoscopeRouter = require("./horoscopeRouter");
 const lingoRouter = require("../Lingo/LingoApi");
-const agoraRouter = require("./agoraRouter");
+// const agoraRouter = require("./agoraRouter");
 const { readUsersJson, userError } = require("../helper");
 
 const apiRoutes = express.Router();
@@ -19,7 +19,7 @@ apiRoutes.use("/feed", feedRouter);
 apiRoutes.use('/german-wiki', germanWikiRouter);
 apiRoutes.use('/horoscope', horoscopeRouter);
 apiRoutes.use('/lingo', lingoRouter);
-apiRoutes.use("/agora", agoraRouter)
+// apiRoutes.use("/agora", agoraRouter)
 
 
 apiRoutes.get("/healthcheck", (req, res) => res.sendStatus(200));

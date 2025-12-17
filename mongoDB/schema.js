@@ -1,4 +1,4 @@
-const mongoose = require("mongoose");
+// const mongoose = require("mongoose");
 /**
  * @openapi
  * components:
@@ -42,28 +42,28 @@ const mongoose = require("mongoose");
  *          type: string
  */
 
-const userSchema = new mongoose.Schema(
-  {
-    email: {
-      type: String,
-    },
-    given_name: {
-      type: String,
-    },
-    family_name: {
-      type: String,
-    },
-    id_token: {
-      type: String,
-      required: true,
-      unique: true,
-    },
-  },
-  { timestamps: true }
-);
+// const userSchema = new mongoose.Schema(
+//   {
+//     email: {
+//       type: String,
+//     },
+//     given_name: {
+//       type: String,
+//     },
+//     family_name: {
+//       type: String,
+//     },
+//     id_token: {
+//       type: String,
+//       required: true,
+//       unique: true,
+//     },
+//   },
+//   { timestamps: true }
+// );
 
-const User = mongoose.model("user", userSchema);
+// const User = mongoose.model("user", userSchema);
 
-module.exports = {
-  User,
-};
+// module.exports = {
+//   User,
+// };

@@ -91,7 +91,14 @@ struct AgoraBotConfig: Codable {
     let message: String
 }
 
-struct AgoraBotError: Codable {
+struct BotResponse: Codable {
+    let success: Bool
+    let transcription: String?
+    let reply: String
+    let audio: String // Base64 encoded audio
+}
+
+struct BotError: Codable {
     let success: Bool
     let error: String
 }
@@ -127,7 +134,59 @@ class AgoraBotAPI {
         if httpResponse.statusCode == 200 {
             return try JSONDecoder().decode(AgoraBotConfig.self, from: data)
         } else {
-            let error = try JSONDecoder().decode(AgoraBotError.self, from: data)
+            let error = try JSONDecoder().decode(BotError.self, from: data)
+            throw NSError(domain: error.error, code: httpResponse.statusCode)
+        }
+    }
+    
+    // Process audio and get bot response
+    func processAudio(_ audioData: Data, mimeType: String = "audio/mp3") async throws -> BotResponse {
+        let url = URL(string: "\(baseURL)/process-audio")!
+        var request = URLRequest(url: url)
+        request.httpMethod = "POST"
+        request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+        
+        let body: [String: Any] = [
+            "audio": audioData.base64EncodedString(),
+            "mimeType": mimeType
+        ]
+        
+        request.httpBody = try JSONSerialization.data(withJSONObject: body)
+        
+        let (data, response) = try await URLSession.shared.data(for: request)
+        
+        guard let httpResponse = response as? HTTPURLResponse else {
+            throw NSError(domain: "Invalid response", code: -1)
+        }
+        
+        if httpResponse.statusCode == 200 {
+            return try JSONDecoder().decode(BotResponse.self, from: data)
+        } else {
+            let error = try JSONDecoder().decode(BotError.self, from: data)
+            throw NSError(domain: error.error, code: httpResponse.statusCode)
+        }
+    }
+    
+    // Process text (for testing or text-based interaction)
+    func processText(_ text: String) async throws -> BotResponse {
+        let url = URL(string: "\(baseURL)/process-text")!
+        var request = URLRequest(url: url)
+        request.httpMethod = "POST"
+        request.setValue("application/json", forHTTPHeaderField: "Content-Type")
+        
+        let body: [String: Any] = ["text": text]
+        request.httpBody = try JSONSerialization.data(withJSONObject: body)
+        
+        let (data, response) = try await URLSession.shared.data(for: request)
+        
+        guard let httpResponse = response as? HTTPURLResponse else {
+            throw NSError(domain: "Invalid response", code: -1)
+        }
+        
+        if httpResponse.statusCode == 200 {
+            return try JSONDecoder().decode(BotResponse.self, from: data)
+        } else {
+            let error = try JSONDecoder().decode(BotError.self, from: data)
             throw NSError(domain: error.error, code: httpResponse.statusCode)
         }
     }
@@ -153,18 +212,20 @@ class AgoraBotAPI {
 
 ---
 
-## Step 4: Create Agora Manager
+## Step 4: Create Agora Manager with Audio Recording
 
 Create `AgoraGermanTutorManager.swift`:
 
 ```swift
 import AgoraRtcKit
+import AVFoundation
 
 protocol GermanTutorDelegate: AnyObject {
     func tutorDidConnect()
     func tutorDidDisconnect()
     func tutorDidStartSpeaking()
     func tutorDidStopSpeaking()
+    func didReceiveTranscription(_ text: String)
     func didReceiveError(_ error: Error)
 }
 
@@ -173,10 +234,24 @@ class AgoraGermanTutorManager: NSObject {
     
     private var agoraKit: AgoraRtcEngineKit?
     private var currentChannel: String?
+    private var audioRecorder: AVAudioRecorder?
+    private var audioPlayer: AVAudioPlayer?
+    private var recordingTimer: Timer?
     weak var delegate: GermanTutorDelegate?
+    
+    // Audio recording settings
+    private let recordingInterval: TimeInterval = 8.0 // Record every 8 seconds
+    private var isRecording = false
     
     private override init() {
         super.init()
+        setupAudioSession()
+    }
+    
+    private func setupAudioSession() {
+        let session = AVAudioSession.sharedInstance()
+        try? session.setCategory(.playAndRecord, mode: .voiceChat, options: [.defaultToSpeaker, .allowBluetooth])
+        try? session.setActive(true)
     }
     
     // Start a tutoring session
@@ -197,8 +272,6 @@ class AgoraGermanTutorManager: NSObject {
         
         // Enable audio
         agoraKit?.enableAudio()
-        
-        // Set audio profile for voice
         agoraKit?.setAudioProfile(.speechStandard)
         
         // Join channel
@@ -217,18 +290,120 @@ class AgoraGermanTutorManager: NSObject {
         if result == 0 {
             currentChannel = config.channel
             print("✅ Joined channel: \(config.channel)")
+            startPeriodicRecording()
         } else {
             throw NSError(domain: "Failed to join channel", code: result ?? -1)
         }
     }
     
+    // Start recording user's speech every 8 seconds and send to server
+    private func startPeriodicRecording() {
+        recordingTimer = Timer.scheduledTimer(withTimeInterval: recordingInterval, repeats: true) { [weak self] _ in
+            Task {
+                await self?.recordAndProcessAudio()
+            }
+        }
+    }
+    
+    private func recordAndProcessAudio() async {
+        guard !isRecording else { return }
+        
+        isRecording = true
+        
+        do {
+            // Record audio for 8 seconds
+            let audioURL = try await recordAudioSegment(duration: recordingInterval)
+            
+            // Read audio data
+            let audioData = try Data(contentsOf: audioURL)
+            
+            // Send to server for processing
+            let response = try await AgoraBotAPI.shared.processAudio(audioData, mimeType: "audio/mp3")
+            
+            if response.success {
+                // Notify delegate about transcription
+                if let transcription = response.transcription {
+                    await MainActor.run {
+                        delegate?.didReceiveTranscription(transcription)
+                    }
+                }
+                
+                // Play bot's audio response
+                if let audioData = Data(base64Encoded: response.audio) {
+                    try await playAudioResponse(audioData)
+                }
+            }
+            
+            // Clean up temp file
+            try? FileManager.default.removeItem(at: audioURL)
+            
+        } catch {
+            print("❌ Error processing audio: \(error)")
+            await MainActor.run {
+                delegate?.didReceiveError(error)
+            }
+        }
+        
+        isRecording = false
+    }
+    
+    private func recordAudioSegment(duration: TimeInterval) async throws -> URL {
+        let fileName = "recording_\(Date().timeIntervalSince1970).m4a"
+        let audioURL = FileManager.default.temporaryDirectory.appendingPathComponent(fileName)
+        
+        let settings: [String: Any] = [
+            AVFormatIDKey: Int(kAudioFormatMPEG4AAC),
+            AVSampleRateKey: 16000,
+            AVNumberOfChannelsKey: 1,
+            AVEncoderAudioQualityKey: AVAudioQuality.high.rawValue
+        ]
+        
+        audioRecorder = try AVAudioRecorder(url: audioURL, settings: settings)
+        audioRecorder?.record(forDuration: duration)
+        
+        // Wait for recording to finish
+        try await Task.sleep(nanoseconds: UInt64(duration * 1_000_000_000))
+        
+        audioRecorder?.stop()
+        
+        return audioURL
+    }
+    
+    private func playAudioResponse(_ audioData: Data) async throws {
+        let tempURL = FileManager.default.temporaryDirectory.appendingPathComponent("response.mp3")
+        try audioData.write(to: tempURL)
+        
+        await MainActor.run {
+            delegate?.tutorDidStartSpeaking()
+        }
+        
+        audioPlayer = try AVAudioPlayer(contentsOf: tempURL)
+        audioPlayer?.play()
+        
+        // Wait for playback to finish
+        if let duration = audioPlayer?.duration {
+            try await Task.sleep(nanoseconds: UInt64(duration * 1_000_000_000))
+        }
+        
+        await MainActor.run {
+            delegate?.tutorDidStopSpeaking()
+        }
+        
+        try? FileManager.default.removeItem(at: tempURL)
+    }
+    
     // End the session
     func endSession() async {
+        recordingTimer?.invalidate()
+        recordingTimer = nil
+        
+        audioRecorder?.stop()
+        audioPlayer?.stop()
+        
         agoraKit?.leaveChannel(nil)
         agoraKit = nil
         currentChannel = nil
         
-        // Stop bot on server
         try? await AgoraBotAPI.shared.stopBot()
         
         delegate?.tutorDidDisconnect()
@@ -243,6 +418,19 @@ class AgoraGermanTutorManager: NSObject {
     func setVolume(_ volume: Int) {
         agoraKit?.adjustPlaybackSignalVolume(volume)
     }
+    
+    // Send text instead of audio (for testing)
+    func sendText(_ text: String) async throws {
+        let response = try await AgoraBotAPI.shared.processText(text)
+        
+        if response.success {
+            delegate?.didReceiveTranscription(text)
+            
+            if let audioData = Data(base64Encoded: response.audio) {
+                try await playAudioResponse(audioData)
+            }
+        }
+    }
 }
 
 // MARK: - AgoraRtcEngineDelegate
@@ -254,25 +442,16 @@ extension AgoraGermanTutorManager: AgoraRtcEngineDelegate {
     }
     
     func rtcEngine(_ engine: AgoraRtcEngineKit, didJoinedOfUser uid: UInt, elapsed: Int) {
-        print("🤖 Bot joined the channel (uid: \(uid))")
+        print("👤 User joined (uid: \(uid))")
     }
     
     func rtcEngine(_ engine: AgoraRtcEngineKit, didOfflineOfUser uid: UInt, reason: AgoraUserOfflineReason) {
-        print("🤖 Bot left the channel")
+        print("👤 User left")
     }
     
     func rtcEngine(_ engine: AgoraRtcEngineKit, didOccurError errorCode: AgoraErrorCode) {
         let error = NSError(domain: "Agora Error", code: Int(errorCode.rawValue))
         delegate?.didReceiveError(error)
-    }
-    
-    func rtcEngine(_ engine: AgoraRtcEngineKit, reportAudioVolumeIndicationOfSpeakers speakers: [AgoraRtcAudioVolumeInfo], totalVolume: Int) {
-        // Detect when bot is speaking
-        for speaker in speakers {
-            if speaker.uid != 0 && speaker.volume > 0 {
-                delegate?.tutorDidStartSpeaking()
-            }
-        }
     }
 }
 ```
@@ -380,6 +559,7 @@ class GermanTutorViewModel: ObservableObject {
     @Published var isMuted = false
     @Published var isBotSpeaking = false
     @Published var statusMessage = "Ready to practice German"
+    @Published var currentTranscription = ""
     @Published var showError = false
     @Published var errorMessage = ""
     
@@ -393,7 +573,6 @@ class GermanTutorViewModel: ObservableObject {
         do {
             statusMessage = "Connecting to tutor..."
             
-            // Get user ID (replace with your user management)
             let userId = UUID().uuidString
             let userName = "Student"
             
@@ -409,11 +588,21 @@ class GermanTutorViewModel: ObservableObject {
     func endSession() async {
         await tutorManager.endSession()
         statusMessage = "Session ended"
+        currentTranscription = ""
     }
     
     func toggleMute() {
         isMuted.toggle()
         tutorManager.muteMicrophone(isMuted)
+    }
+    
+    func sendTestMessage(_ text: String) async {
+        do {
+            try await tutorManager.sendText(text)
+        } catch {
+            errorMessage = error.localizedDescription
+            showError = true
+        }
     }
 }
 
@@ -435,6 +624,10 @@ extension GermanTutorViewModel: GermanTutorDelegate {
     
     func tutorDidStopSpeaking() {
         isBotSpeaking = false
+    }
+    
+    func didReceiveTranscription(_ text: String) {
+        currentTranscription = text
     }
     
     func didReceiveError(_ error: Error) {
@@ -602,7 +795,7 @@ extension GermanTutorViewController: GermanTutorDelegate {
 
 ## API Endpoints Reference
 
-### Start Tutoring Session
+### 1. Start Tutoring Session
 ```
 POST /api/agora/join-with-bot
 
@@ -623,7 +816,44 @@ Response:
 }
 ```
 
-### Stop Bot
+### 2. Process Audio
+**Primary endpoint for audio processing**
+```
+POST /api/agora/process-audio
+
+Request:
+{
+  "audio": "base64EncodedAudioData",
+  "mimeType": "audio/mp3" // or "audio/wav", "audio/webm"
+}
+
+Response:
+{
+  "success": true,
+  "transcription": "Hallo, wie geht es dir?",
+  "reply": "Mir geht es gut, danke! Und dir?",
+  "audio": "base64EncodedResponseAudio"
+}
+```
+
+### 3. Process Text (Testing)
+```
+POST /api/agora/process-text
+
+Request:
+{
+  "text": "Hallo, wie geht es dir?"
+}
+
+Response:
+{
+  "success": true,
+  "reply": "Mir geht es gut, danke! Und dir?",
+  "audio": "base64EncodedAudio"
+}
+```
+
+### 4. Stop Bot
 ```
 POST /api/agora/stop
 
@@ -635,7 +865,7 @@ Response:
 }
 ```
 
-### Get Status
+### 5. Get Status
 ```
 GET /api/agora/status
 
@@ -650,25 +880,93 @@ Response:
 
 ---
 
+## How It Works - Complete Flow
+
+```
+1. iOS App starts session
+   POST /api/agora/join-with-bot
+   ↓
+2. Server creates bot session, returns channel info
+   Response: { channel, appId }
+   ↓
+3. iOS App joins Agora channel
+   agoraKit.joinChannel(...)
+   ↓
+4. iOS App records user speech (every 8 seconds)
+   AVAudioRecorder
+   ↓
+5. iOS App sends audio to server
+   POST /api/agora/process-audio
+   ↓
+6. Server processes:
+   - Transcribes with Whisper
+   - Generates reply with GPT-4
+   - Creates TTS audio
+   ↓
+7. Server returns:
+   { transcription, reply, audio }
+   ↓
+8. iOS App plays bot's audio response
+   AVAudioPlayer
+   ↓
+9. Repeat steps 4-8 until session ends
+   ↓
+10. iOS App stops session
+    POST /api/agora/stop
+```
+
+**Key Points:**
+- Server does NOT join Agora channel (no Agora SDK on server)
+- iOS app handles ALL real-time audio via Agora
+- Server provides AI services (transcription, conversation, TTS) via REST API
+- Audio is processed in 8-second chunks automatically
+
+---
+
 ## Testing
 
 ### Test the API Connection
 ```swift
 func testBotAPI() async {
     do {
+        // Start session
         let config = try await AgoraBotAPI.shared.startTutoringSession(
             userId: "test123",
             userName: "Test User"
         )
         print("✅ Channel created: \(config.channel)")
         
-        // Wait a moment
-        try await Task.sleep(nanoseconds: 2_000_000_000)
+        // Test text processing
+        let response = try await AgoraBotAPI.shared.processText("Hallo!")
+        print("✅ Bot replied: \(response.reply)")
         
+        // Stop session
         try await AgoraBotAPI.shared.stopBot()
         print("✅ Bot stopped")
     } catch {
         print("❌ Error: \(error)")
+    }
+}
+```
+
+### Test Audio Processing
+```swift
+func testAudioProcessing() async {
+    // Record a short audio clip
+    let audioURL = // ... your recording
+    let audioData = try! Data(contentsOf: audioURL)
+    
+    do {
+        let response = try await AgoraBotAPI.shared.processAudio(audioData)
+        print("Transcription: \(response.transcription ?? "")")
+        print("Bot reply: \(response.reply)")
+        
+        // Decode and play response audio
+        if let audioData = Data(base64Encoded: response.audio) {
+            // Play audioData
+        }
+    } catch {
+        print("Error: \(error)")
     }
 }
 ```
@@ -679,18 +977,32 @@ func testBotAPI() async {
 
 ### Bot doesn't respond
 - Check server logs for errors
-- Verify OpenAI API key is set on server
-- Ensure microphone permissions granted
+- Verify OpenAI API key is set on server (`OPENAI_API_KEY` env variable)
+- Check audio data is being sent correctly (base64 encoded)
+- Verify server endpoint URL is correct
 
 ### Connection fails
-- Verify server URL is correct
+- Verify server URL is correct (check baseURL in `AgoraBotAPI`)
 - Check App ID matches server configuration
 - Ensure network connectivity
 
 ### No audio from bot
 - Check device volume
-- Verify audio is enabled in Agora settings
-- Check server logs for TTS errors
+- Verify audio session is configured correctly
+- Check base64 decoding of response audio
+- Review server logs for TTS errors
+
+### Audio quality issues
+- Increase recording sample rate (currently 16kHz)
+- Use better audio format (e.g., WAV instead of M4A)
+- Check microphone permissions
+- Reduce background noise
+
+### Recording not working
+- Verify microphone permissions granted
+- Check AVAudioSession is properly configured
+- Ensure no other app is using microphone
+- Check audio file is being created in temp directory
 
 ---
 
@@ -701,16 +1013,80 @@ func testBotAPI() async {
 3. **Permissions**: Request microphone permission before starting
 4. **Background**: Handle app going to background gracefully
 5. **Network**: Show loading states during API calls
+6. **Audio Files**: Clean up temporary audio files after use
+7. **Memory**: Release audio players/recorders when done
+8. **Feedback**: Show visual feedback when bot is processing/speaking
 
 ---
 
 ## Production Considerations
 
 1. **Token Authentication**: Implement Agora token generation for security
-2. **User Management**: Link sessions to your user system
-3. **Analytics**: Track session duration and quality
-4. **Error Reporting**: Send errors to crash reporting service
+2. **User Management**: Link sessions to your user system  
+3. **Analytics**: Track session duration, transcription accuracy
+4. **Error Reporting**: Send errors to crash reporting service (e.g., Sentry)
 5. **Rate Limiting**: Implement session limits per user
+6. **Audio Optimization**: Compress audio before sending to server
+7. **Caching**: Cache bot responses for common phrases
+8. **Background Mode**: Support audio in background mode if needed
+9. **Battery**: Monitor battery usage during long sessions
+10. **Network**: Handle poor network conditions gracefully
+
+---
+
+## Advanced Features
+
+### Manual Audio Recording
+If you want more control over when audio is sent:
+
+```swift
+// Disable automatic recording
+// Instead, add manual record button
+
+func manualRecord() async {
+    let audioURL = try await recordAudioSegment(duration: 5.0)
+    let audioData = try Data(contentsOf: audioURL)
+    
+    let response = try await AgoraBotAPI.shared.processAudio(audioData)
+    // Handle response...
+}
+```
+
+### Custom Recording Interval
+Change the recording frequency:
+
+```swift
+// In AgoraGermanTutorManager
+private let recordingInterval: TimeInterval = 5.0 // Record every 5 seconds instead of 8
+```
+
+### Conversation History
+Display conversation history in UI:
+
+```swift
+struct Message {
+    let isUser: Bool
+    let text: String
+    let timestamp: Date
+}
+
+@Published var messages: [Message] = []
+
+func didReceiveTranscription(_ text: String) {
+    messages.append(Message(isUser: true, text: text, timestamp: Date()))
+}
+```
+
+---
+
+## Architecture Benefits
+
+✅ **No Heavy SDKs on Server**: Server only needs OpenAI SDK  
+✅ **Scalable**: Server can handle many sessions without Agora overhead  
+✅ **Flexible**: Easy to switch AI providers or add features  
+✅ **iOS Native**: Full control over audio quality and UX  
+✅ **Cost Effective**: Only pay for OpenAI API usage  
+✅ **Simple Deployment**: Standard Node.js server, no special requirements
 
 ---
 
@@ -720,3 +1096,4 @@ For issues or questions:
 - Check server logs at `/api/agora/status`
 - Review Agora documentation: https://docs.agora.io/en/
 - OpenAI API docs: https://platform.openai.com/docs
+- Server source: `/router/agoraRouter.js` and `/agora/agoraGermanBotSimple.js`

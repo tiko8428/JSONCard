@@ -18,6 +18,7 @@ let botState = {
 router.post('/start', async (req, res) => {
   try {
     const { channel, token, openAiApiKey } = req.body;
+
     const appId ="8189340d7b2e4ddc809cb96ecd47e520";
     if (!channel) {
       return res.status(400).json({ 
@@ -154,7 +155,7 @@ router.get('/config', (req, res) => {
 // iOS app endpoint: Get channel info and start bot
 router.post('/join-with-bot', async (req, res) => {
   try {
-    const { userId, userName, openAiApiKey } = req.body;
+    const { userId, userName } = req.body;
 
     if (botState.isRunning) {
       // Return existing channel if bot is already running
@@ -173,9 +174,9 @@ router.post('/join-with-bot', async (req, res) => {
     // Create and start bot instance
     botInstance = new AgoraBot({
       appId: process.env.AGORA_APP_ID || '8189340d7b2e4ddc809cb96ecd47e520',
-      channel: channel,
+      channel: userId,
       token: null,
-      openAiApiKey: openAiApiKey || OPENAI_API_KEY,
+      openAiApiKey: OPENAI_API_KEY,
     });
 
     await botInstance.start();

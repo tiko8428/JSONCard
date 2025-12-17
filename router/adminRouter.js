@@ -9,7 +9,7 @@ const {
   saveUserJson,
 } = require("../helper");
 const { adminUser } = require("../constants");
-const vision = require("@google-cloud/vision");
+// const vision = require("@google-cloud/vision");
 
 const CREDANTIOLS = JSON.parse(
   JSON.stringify({
@@ -34,14 +34,14 @@ const CONFIG = {
   },
 };
 
-const client = new vision.ImageAnnotatorClient(CONFIG);
+// const client = new vision.ImageAnnotatorClient(CONFIG);
 
 const adminRoutes = express.Router();
 
 adminRoutes.post("/get-data-array", async (req, res) => {
   const filePath = req.files.file.tempFilePath;
   try {
-    const all = await client.textDetection(filePath);
+    // const all = await client.textDetection(filePath);
     const foolText = all[0].fullTextAnnotation.text.split("\n");
     const lang =
       all[0].fullTextAnnotation.pages[0].property.detectedLanguages[0]

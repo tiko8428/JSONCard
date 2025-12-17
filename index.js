@@ -9,7 +9,7 @@ const bodyParser = require("body-parser");
 const fileUpload = require("express-fileupload");
 const apiRouter = require("./router/apiRouter.js");
 // const connectMongo = require("./mongoDB/connect");
-
+// Note: Agora bot cannot run in Node.js - use agora/bot-runner.html in a browser instead
 
 const app = express();
 const PORT = process.env.NODE_ENV === "production"

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Avalon | Austrian Real Estate</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-XQoYMqMTK8LvdlDXvXO0kYv+xN6Q0x3Lr3dORbdr7uM=" crossorigin="" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">A</div>
+      <div>
+        <p class="eyebrow">Avalon</p>
+        <p class="subtitle">Austrian Homes • Zillow-style</p>
+      </div>
+    </div>
+    <nav class="top-nav">
+      <a href="#search" class="nav-link">Search</a>
+      <a href="#map" class="nav-link">Map</a>
+      <a href="#sources" class="nav-link">Sources</a>
+      <a href="../chatgpt-app/README.md" class="pill">ChatGPT App</a>
+    </nav>
+  </header>
+
+  <section class="hero" id="search">
+    <div class="hero-copy">
+      <p class="eyebrow">Live Austrian inventory</p>
+      <h1>Find homes with the power of Zillow-like search, tuned for Austria.</h1>
+      <p class="subtitle">Filter by price, beds, energy class, and instantly map every option across Vienna, Salzburg, Graz, Innsbruck, and beyond.</p>
+      <div class="search-bar">
+        <input id="query" type="text" placeholder="City, district, neighbourhood, or provider" aria-label="Search" />
+        <select id="offerFilter" aria-label="Listing type">
+          <option value="any">Buy + Rent</option>
+          <option value="Sale">Buy</option>
+          <option value="Rent">Rent</option>
+        </select>
+        <select id="typeFilter" aria-label="Property type">
+          <option value="any">Any type</option>
+          <option value="Apartment">Apartment</option>
+          <option value="House">House</option>
+          <option value="Penthouse">Penthouse</option>
+          <option value="Loft">Loft</option>
+          <option value="Duplex">Duplex</option>
+          <option value="Townhouse">Townhouse</option>
+          <option value="Chalet">Chalet</option>
+          <option value="Studio">Studio</option>
+          <option value="Office">Office</option>
+          <option value="Student Housing">Student Housing</option>
+          <option value="Farmhouse">Farmhouse</option>
+          <option value="Lodge">Lodge</option>
+          <option value="Maisonette">Maisonette</option>
+        </select>
+        <button id="searchButton">Search</button>
+      </div>
+      <div class="chips" id="quickTags">
+        <button data-tag="Lakefront">Lakefront</button>
+        <button data-tag="Smart home">Smart home</button>
+        <button data-tag="Student ready">Student ready</button>
+        <button data-tag="Passive house">Passive house</button>
+        <button data-tag="Altbau">Altbau</button>
+      </div>
+      <div class="hero-stats" id="heroStats"></div>
+    </div>
+    <div class="hero-card">
+      <p class="eyebrow">Live preview</p>
+      <h3>Mapped and filterable</h3>
+      <p>Listings load directly from JSON and can be sliced by price, energy rating, and tags while the map updates in real-time.</p>
+      <ul class="checklist">
+        <li>Favorites synced to your browser</li>
+        <li>Map + list stay in lockstep</li>
+        <li>Built-in provider provenance</li>
+      </ul>
+      <p class="muted">Open this page at /Avalon on the server to explore the working UI.</p>
+    </div>
+  </section>
+
+  <section class="layout">
+    <aside class="filters" aria-label="Filters">
+      <div class="card">
+        <div class="card-header">
+          <h3>Filters</h3>
+          <button id="resetFilters" class="link">Reset</button>
+        </div>
+        <label>Min price (€)<input type="number" id="priceMin" placeholder="0" /></label>
+        <label>Max price (€)<input type="number" id="priceMax" placeholder="Any" /></label>
+        <label>Bedrooms
+          <select id="bedsFilter">
+            <option value="any">Any</option>
+            <option value="1">1+</option>
+            <option value="2">2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+            <option value="5">5+</option>
+          </select>
+        </label>
+        <label>Energy class
+          <select id="energyFilter">
+            <option value="any">Any</option>
+            <option value="A+">A+</option>
+            <option value="A">A</option>
+            <option value="B">B</option>
+            <option value="C">C</option>
+          </select>
+        </label>
+        <label>Sort
+          <select id="sortSelect">
+            <option value="newest">Newest first</option>
+            <option value="priceAsc">Price: low to high</option>
+            <option value="priceDesc">Price: high to low</option>
+            <option value="sizeDesc">Size: large to small</option>
+          </select>
+        </label>
+        <div class="toggle-row">
+          <label><input type="checkbox" id="favoritesOnly" /> Favorites only</label>
+          <label><input type="checkbox" id="lakefrontOnly" /> Lakefront</label>
+        </div>
+      </div>
+      <div class="card" id="topSourcesCard">
+        <div class="card-header">
+          <h3>Trusted sources</h3>
+          <span class="pill pill-muted" id="sourceCount">0</span>
+        </div>
+        <div class="source-list" id="sources"></div>
+      </div>
+    </aside>
+
+    <section class="results">
+      <div class="results-header">
+        <div>
+          <p class="eyebrow">Results</p>
+          <h2 id="resultsTitle">Loading listings…</h2>
+          <p class="muted" id="resultsMeta"></p>
+        </div>
+        <div class="inline-actions">
+          <button id="downloadJson" class="ghost">Download JSON</button>
+          <button id="showFavorites" class="ghost">Favorites (<span id="favoriteCount">0</span>)</button>
+        </div>
+      </div>
+      <div id="cards" class="cards"></div>
+    </section>
+
+    <aside class="map-panel">
+      <div class="card full-height">
+        <div class="card-header">
+          <h3>Live map</h3>
+          <span class="pill" id="mapCount">0 pins</span>
+        </div>
+        <div id="map" aria-label="Map"></div>
+        <div class="legend">
+          <span class="pill">Blue = Buy</span>
+          <span class="pill pill-muted">Green = Rent</span>
+        </div>
+      </div>
+      <div class="card favorites" id="favoritesPanel">
+        <div class="card-header">
+          <h3>Saved homes</h3>
+          <button id="clearFavorites" class="link">Clear</button>
+        </div>
+        <div id="favoriteList" class="favorite-list"></div>
+      </div>
+    </aside>
+  </section>
+
+  <section class="providers" id="sources">
+    <div>
+      <p class="eyebrow">Coverage</p>
+      <h2>20 Austrian-first providers baked in</h2>
+      <p class="subtitle">Every listing card shows where it comes from. Use this roster to open the source site or feed new scrapers.</p>
+    </div>
+    <div id="providerGrid" class="provider-grid"></div>
+  </section>
+
+  <footer class="footer">
+    <div>
+      <p class="eyebrow">About</p>
+      <p>Avalon replicates Zillow-style exploration for Austria with live filters, provenance tracking, and map sync.</p>
+    </div>
+    <div>
+      <p class="eyebrow">ChatGPT App</p>
+      <p>OpenAI Apps manifest lives at <code>/Avalon/chatgpt-app</code>. Connect it to voice, actions, and your API.</p>
+    </div>
+    <div>
+      <p class="eyebrow">Contact</p>
+      <p>Deploy to https://thegeneralapps.com/Avalon — the UI is production-ready HTML/JS/CSS.</p>
+    </div>
+  </footer>
+
+  <div class="modal" id="detailModal" aria-hidden="true">
+    <div class="modal-content">
+      <button class="close" id="closeModal">×</button>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-o9N1j7kP6H0ClddnfQO/jc6GHPvxbYv1p1rQA8C6+3g=" crossorigin=""></script>
+  <script src="main.js"></script>
+</body>
+</html>

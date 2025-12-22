@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>The General Apps</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1>The General Apps</h1>
+      <p class="tagline">Discover the full lineup of apps by Karen Karapetyan.</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="intro">
+      <h2>Explore the collection</h2>
+      <p>Browse every iOS app published by the developer. LingVo is featured first, and the rest follow automatically from the App Store feed.</p>
+    </section>
+
+    <section class="grid" id="app-grid" aria-live="polite">
+      <div class="loading" id="loading">Loading apps…</div>
+      <div class="error" id="error" hidden>We couldn't load the apps right now. Please refresh and try again.</div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Data is loaded directly from the Apple App Store.</p>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

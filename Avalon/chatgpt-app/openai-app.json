@@ -1,0 +1,66 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Avalon Austrian Real Estate",
+  "name_for_model": "AvalonAustrianRealEstate",
+  "description_for_human": "Search Austrian homes and rentals, summarize matches, and hand off to agents.",
+  "description_for_model": "Use these actions to search Austrian real estate listings, list available providers, and summarize results for the user.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://thegeneralapps.com/Avalon/openai-app.json",
+    "is_user_authenticated": false
+  },
+  "actions": [
+    {
+      "name": "listProviders",
+      "method": "GET",
+      "path": "/Avalon/api/providers",
+      "description": "Enumerate supported Austrian listing sources and their ingestion strategy.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "region": {
+            "type": "string",
+            "description": "ISO 3166-2 state code or 'AT' for whole-country coverage."
+          },
+          "strategy": {
+            "type": "string",
+            "enum": ["api", "html"],
+            "description": "Limit to providers with a specific ingestion strategy."
+          }
+        }
+      }
+    },
+    {
+      "name": "searchListings",
+      "method": "POST",
+      "path": "/Avalon/api/search",
+      "description": "Search for Austrian property listings with lightweight filters. Returns stubbed data until ingestion is connected.",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "location": { "type": "string", "description": "City, district, or landmark in Austria." },
+          "listingTypes": {
+            "type": "array",
+            "items": { "type": "string" },
+            "description": "Desired listing intent such as buy, rent, or new-build."
+          },
+          "propertyType": { "type": "string", "description": "Apartment, house, office, or similar." },
+          "maxPrice": { "type": "number", "description": "Upper budget in EUR." },
+          "limit": { "type": "integer", "description": "Maximum listings to return (defaults to 5)." }
+        }
+      }
+    },
+    {
+      "name": "health",
+      "method": "GET",
+      "path": "/Avalon/api/health",
+      "description": "Service liveness probe used by the Apps SDK.",
+      "parameters": { "type": "object", "properties": {} }
+    }
+  ],
+  "contact_email": "support@thegeneralapps.com",
+  "legal_info_url": "https://thegeneralapps.com/legal"
+}

@@ -3,32 +3,59 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>The General Apps</title>
+  <title>General Apps | Modern App Showcase</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
-<body>
+<body class="page-shell">
   <header class="site-header">
-    <div class="container">
-      <h1>The General Apps</h1>
-      <p class="tagline">Discover the full lineup of apps by Karen Karapetyan.</p>
+    <div class="container header-grid">
+      <div>
+        <p class="eyebrow">General Apps</p>
+        <h1>Discover a universe of polished iOS experiences</h1>
+        <p class="tagline">Curated highlights from the entire General Apps portfolio—always live from the App Store.</p>
+        <div class="cta-row">
+          <a class="primary-button" href="#app-grid">Browse all apps</a>
+          <a class="ghost-button" href="#featured">View today's spotlight</a>
+        </div>
+      </div>
+      <div class="hero-card" id="hero-card">
+        <div class="hero-meta">
+          <p class="subtext" id="hero-genre">Loading category…</p>
+          <h2 id="hero-title">Featured app</h2>
+          <p class="muted" id="hero-description">Pulling the latest description from the App Store.</p>
+          <div class="hero-actions">
+            <a class="primary-button" id="hero-download" target="_blank" rel="noopener noreferrer">Open in App Store</a>
+            <a class="ghost-button" id="hero-detail">View details</a>
+          </div>
+        </div>
+        <div class="hero-media">
+          <img id="hero-icon" class="hero-icon" alt="Featured app icon" />
+          <div class="hero-preview" id="hero-preview"></div>
+        </div>
+      </div>
     </div>
   </header>
 
-  <main class="container">
-    <section class="intro">
-      <h2>Explore the collection</h2>
-      <p>Browse every iOS app published by the developer. LingVo is featured first, and the rest follow automatically from the App Store feed.</p>
+  <main>
+    <section class="container highlight" id="featured">
+      <div class="pill">Live from the App Store</div>
+      <h2>Built for Apple platforms</h2>
+      <p class="muted">Every card below is rendered from fresh App Store data so you always see the latest screenshots, genres, and release notes.</p>
     </section>
 
-    <section class="grid" id="app-grid" aria-live="polite">
+    <section class="container grid" id="app-grid" aria-live="polite">
       <div class="loading" id="loading">Loading apps…</div>
       <div class="error" id="error" hidden>We couldn't load the apps right now. Please refresh and try again.</div>
     </section>
   </main>
 
   <footer class="site-footer">
-    <div class="container">
-      <p>Data is loaded directly from the Apple App Store.</p>
+    <div class="container footer-grid">
+      <div>
+        <p class="eyebrow">General Apps</p>
+        <p class="muted">Data is streamed directly from the Apple App Store, so descriptions, screenshots, and release notes appear exactly as published.</p>
+      </div>
+      <a class="ghost-button" href="#app-grid">Back to top</a>
     </div>
   </footer>
 

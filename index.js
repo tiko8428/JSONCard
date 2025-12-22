@@ -42,12 +42,14 @@ app.use("/api", apiRouter);
 
 // app.use(express.static(path.join(__dirname, "./client/build")));
 
-app.use(express.static(path.join(__dirname, 'static')));
+const generalAppsDir = path.join(__dirname, "static", "general-apps");
+app.use(express.static(generalAppsDir));
+app.use(express.static(path.join(__dirname, "static")));
 
 app.use('/admin', express.static(path.join(__dirname, './client/build')));
 
 app.get("/", (req, res) => {
-  res.sendFile(path.join(__dirname, "static", "index.html"));
+  res.sendFile(path.join(generalAppsDir, "index.html"));
 })
 
 const lingoDirectory = path.join(__dirname, "Lingo");

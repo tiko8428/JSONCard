@@ -3,17 +3,18 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>App Details | The General Apps</title>
+  <title>App Details | General Apps</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
-<body>
-  <header class="site-header">
+<body class="page-shell">
+  <header class="site-header detail-header" id="detail-header">
     <div class="container header-row">
       <div>
-        <h1 id="app-name">App details</h1>
+        <p class="eyebrow">General Apps</p>
+        <h1 id="app-name">Loading app…</h1>
         <p class="tagline">Learn more and download from the App Store.</p>
       </div>
-      <a class="back-link" href="/general-apps/">← Back to all apps</a>
+      <a class="ghost-button" href="/general-apps/">← Back to all apps</a>
     </div>
   </header>
 
@@ -23,8 +24,12 @@
   </main>
 
   <footer class="site-footer">
-    <div class="container">
-      <p>Data is loaded directly from the Apple App Store.</p>
+    <div class="container footer-grid">
+      <div>
+        <p class="eyebrow">General Apps</p>
+        <p class="muted">Data is loaded directly from the Apple App Store.</p>
+      </div>
+      <a class="ghost-button" href="#app-details">Back to top</a>
     </div>
   </footer>
 

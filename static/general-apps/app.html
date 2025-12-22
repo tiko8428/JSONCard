@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>App Details | The General Apps</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-row">
+      <div>
+        <h1 id="app-name">App details</h1>
+        <p class="tagline">Learn more and download from the App Store.</p>
+      </div>
+      <a class="back-link" href="/general-apps/">← Back to all apps</a>
+    </div>
+  </header>
+
+  <main class="container" id="app-details" aria-live="polite">
+    <div class="loading" id="loading">Loading app details…</div>
+    <div class="error" id="error" hidden>We couldn't load this app right now. Please try again later.</div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Data is loaded directly from the Apple App Store.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>

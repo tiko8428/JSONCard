@@ -52,9 +52,10 @@ function computeStats(list) {
 }
 
 async function loadData() {
+  const basePath = new URL('./', window.location.href).pathname;
   const [listingsResp, providerResp] = await Promise.all([
-    fetch('data/listings.json'),
-    fetch('data/providers.json'),
+    fetch(`${basePath}data/listings.json`),
+    fetch(`${basePath}data/providers.json`),
   ]);
   state.listings = await listingsResp.json();
   state.providers = await providerResp.json();

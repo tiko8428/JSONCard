@@ -152,7 +152,12 @@ adminRoutes.get("/getAll", (req, res) => {
   try {
     const DeData = readJsonFile(level, "de");
     const DeDataKeys = Object.keys(DeData);
-    const targetData = readJsonFile(level, targetLanguage);
+    let targetData;
+    try {
+      targetData = readJsonFile(level, targetLanguage);
+    } catch (error) {
+      targetData = readJsonFile(level, "en");
+    }
     
     if (DeDataKeys.length > 0 ) {
       const newArry = []

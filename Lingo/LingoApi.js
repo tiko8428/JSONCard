@@ -28,20 +28,24 @@ const SUPPORTED_LANGUAGES = new Set([
   "hy",
 ]);
 
+const DEFAULT_LANGUAGE = "en";
+
 const pickLanguage = (ln) => {
   if (!ln || typeof ln !== "string") {
-    return { error: "Query parameter 'ln' is required." };
+    return { language: DEFAULT_LANGUAGE, fallbackToEnglish: true };
   }
 
   const normalized = ln.toLowerCase();
   if (!SUPPORTED_LANGUAGES.has(normalized)) {
     return {
-      error: `Unsupported language code '${ln}'.`,
+      language: DEFAULT_LANGUAGE,
+      fallbackToEnglish: true,
+      unsupportedLanguage: ln,
       supported: Array.from(SUPPORTED_LANGUAGES).sort(),
     };
   }
 
-  return { language: normalized };
+  return { language: normalized, fallbackToEnglish: false };
 };
 
 const readStructure = () => {
@@ -76,14 +80,25 @@ const withChapterUrls = (structure, language) => ({
 
 lingoRouter.get("/structure", (req, res) => {
   const { ln } = req.query;
-  const { error, supported, language } = pickLanguage(ln);
-  if (error) {
-    return res.status(400).json({ message: error, supportedLanguages: supported });
-  }
+  const { language, fallbackToEnglish, unsupportedLanguage, supported } = pickLanguage(ln);
 
   try {
     const structure = withChapterUrls(readStructure(), language);
-    res.json({ ...structure, language });
+    res.json({
+      ...structure,
+      language,
+      ...(fallbackToEnglish
+        ? {
+            fallbackToEnglish: true,
+            ...(unsupportedLanguage
+              ? {
+                  message: `Unsupported language code '${unsupportedLanguage}'. Returned English structure by default.`,
+                  supportedLanguages: supported,
+                }
+              : {}),
+          }
+        : {}),
+    });
   } catch (error) {
     res.status(500).json({ message: error.message || "Unable to load structure" });
   }
@@ -91,10 +106,7 @@ lingoRouter.get("/structure", (req, res) => {
 
 lingoRouter.get("/chapters/:chapterId", (req, res) => {
   const { ln } = req.query;
-  const { error, supported, language } = pickLanguage(ln);
-  if (error) {
-    return res.status(400).json({ message: error, supportedLanguages: supported });
-  }
+  const { language, fallbackToEnglish, unsupportedLanguage, supported } = pickLanguage(ln);
 
   try {
     const { chapterId } = req.params;
@@ -106,6 +118,17 @@ lingoRouter.get("/chapters/:chapterId", (req, res) => {
           language,
           level: { id: level.id, title: level.title },
           chapter,
+          ...(fallbackToEnglish
+            ? {
+                fallbackToEnglish: true,
+                ...(unsupportedLanguage
+                  ? {
+                      message: `Unsupported language code '${unsupportedLanguage}'. Returned English chapter by default.`,
+                      supportedLanguages: supported,
+                    }
+                  : {}),
+              }
+            : {}),
         });
       }
     }

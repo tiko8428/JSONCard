@@ -28,24 +28,25 @@ const SUPPORTED_LANGUAGES = new Set([
   "hy",
 ]);
 
-const DEFAULT_LANGUAGE = "en";
+const DEFAULT_LANGUAGE = "de";
 
 const pickLanguage = (ln) => {
   if (!ln || typeof ln !== "string") {
-    return { language: DEFAULT_LANGUAGE, fallbackToEnglish: true };
+    return { language: DEFAULT_LANGUAGE, fallbackToGerman: true };
   }
 
-  const normalized = ln.toLowerCase();
+  const normalizedRaw = ln.toLowerCase();
+  const normalized = normalizedRaw === "ua" ? "uk" : normalizedRaw;
   if (!SUPPORTED_LANGUAGES.has(normalized)) {
     return {
       language: DEFAULT_LANGUAGE,
-      fallbackToEnglish: true,
+      fallbackToGerman: true,
       unsupportedLanguage: ln,
       supported: Array.from(SUPPORTED_LANGUAGES).sort(),
     };
   }
 
-  return { language: normalized, fallbackToEnglish: false };
+  return { language: normalized, fallbackToGerman: false };
 };
 
 const readStructure = () => {
@@ -80,19 +81,19 @@ const withChapterUrls = (structure, language) => ({
 
 lingoRouter.get("/structure", (req, res) => {
   const { ln } = req.query;
-  const { language, fallbackToEnglish, unsupportedLanguage, supported } = pickLanguage(ln);
+  const { language, fallbackToGerman, unsupportedLanguage, supported } = pickLanguage(ln);
 
   try {
     const structure = withChapterUrls(readStructure(), language);
     res.json({
       ...structure,
       language,
-      ...(fallbackToEnglish
+      ...(fallbackToGerman
         ? {
-            fallbackToEnglish: true,
+            fallbackToGerman: true,
             ...(unsupportedLanguage
               ? {
-                  message: `Unsupported language code '${unsupportedLanguage}'. Returned English structure by default.`,
+                  message: `Unsupported language code '${unsupportedLanguage}'. Returned German structure by default.`,
                   supportedLanguages: supported,
                 }
               : {}),
@@ -106,7 +107,7 @@ lingoRouter.get("/structure", (req, res) => {
 
 lingoRouter.get("/chapters/:chapterId", (req, res) => {
   const { ln } = req.query;
-  const { language, fallbackToEnglish, unsupportedLanguage, supported } = pickLanguage(ln);
+  const { language, fallbackToGerman, unsupportedLanguage, supported } = pickLanguage(ln);
 
   try {
     const { chapterId } = req.params;
@@ -118,12 +119,12 @@ lingoRouter.get("/chapters/:chapterId", (req, res) => {
           language,
           level: { id: level.id, title: level.title },
           chapter,
-          ...(fallbackToEnglish
+          ...(fallbackToGerman
             ? {
-                fallbackToEnglish: true,
+                fallbackToGerman: true,
                 ...(unsupportedLanguage
                   ? {
-                      message: `Unsupported language code '${unsupportedLanguage}'. Returned English chapter by default.`,
+                      message: `Unsupported language code '${unsupportedLanguage}'. Returned German chapter by default.`,
                       supportedLanguages: supported,
                     }
                   : {}),

@@ -2390,7 +2390,7 @@
     "hy",
   ].forEach((code) => {
     if (!data.translations[code]) {
-      data.translations[code] = data.translations.en;
+      data.translations[code] = data.translations[data.fallbackLanguage];
     }
   });
 

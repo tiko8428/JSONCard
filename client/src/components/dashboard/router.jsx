@@ -49,6 +49,7 @@ export const getRouter = (user) => {
         { label: "sv", key: "A1/sv", style },
         { label: "zh", key: "A1/zh", style },
         { label: "fa", key: "A1/fa", style },
+        { label: "vi", key: "A1/vi", style },
       ],
     },
     {
@@ -74,6 +75,7 @@ export const getRouter = (user) => {
         { label: "ro", key: "A2/ro", style },
         { label: "sv", key: "A2/sv", style },
         { label: "zh", key: "A2/zh", style },
+        { label: "vi", key: "A2/vi", style },
       ],
     },
     {
@@ -99,6 +101,7 @@ export const getRouter = (user) => {
         { label: "ro", key: "B1/ro", style },
         { label: "sv", key: "B1/sv", style },
         { label: "zh", key: "B1/zh", style },
+        { label: "vi", key: "B1/vi", style },
       ],
     },
     {
@@ -124,6 +127,7 @@ export const getRouter = (user) => {
         { label: "ro", key: "B2/ro", style },
         { label: "sv", key: "B2/sv", style },
         { label: "zh", key: "B2/zh", style },
+        { label: "vi", key: "B2/vi", style },
       ],
     },
 
@@ -150,6 +154,7 @@ export const getRouter = (user) => {
         { label: "ro", key: "C1/ro", style },
         { label: "sv", key: "C1/sv", style },
         { label: "zh", key: "C1/zh", style },
+        { label: "vi", key: "C1/vi", style },
       ],
     },
   ];

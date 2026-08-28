@@ -21,6 +21,7 @@ const language = [
   { label: 'en', value: 'en' },
   { label: 'sq', value: 'sq' },
   { label: 'fa', value: 'fa' },
+  { label: 'vi', value: 'vi' },
 ];
 
   export const UserController = () => {

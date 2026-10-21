@@ -77,6 +77,7 @@ export const getRouter = (user) => {
         { label: "sv", key: "A2/sv", style },
         { label: "zh", key: "A2/zh", style },
         { label: "vi", key: "A2/vi", style },
+        { label: "uz", key: "A2/uz", style },
       ],
     },
     {

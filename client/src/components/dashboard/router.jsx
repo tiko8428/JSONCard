@@ -50,6 +50,7 @@ export const getRouter = (user) => {
         { label: "zh", key: "A1/zh", style },
         { label: "fa", key: "A1/fa", style },
         { label: "vi", key: "A1/vi", style },
+        { label: "uz", key: "A1/uz", style },
       ],
     },
     {

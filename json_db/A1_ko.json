@@ -9,22 +9,22 @@
         "field6": "",
         "field7": "남자는 맥주를 마신다",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "2": {
         "cardNumber": "2",
         "field1": "빵",
         "field2": "빵",
-        "field3": "검은 빵",
+        "field3": "흑빵",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "빵집에서 빵을 사요",
+        "field7": "저는 빵집에서 빵을 사요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "3": {
-        "cardNumber": "삼",
+        "cardNumber": "3",
         "field1": "롤빵",
         "field2": "롤빵",
         "field3": "",
@@ -33,19 +33,19 @@
         "field6": "",
         "field7": "우리는 아침 식사로 롤빵을 먹습니다",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "4": {
         "cardNumber": "4",
         "field1": "계란",
         "field2": "계란",
-        "field3": "계란 후라이",
+        "field3": "달걀 프라이",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "아침 식사 때 그녀는 계란을 팬에 깨뜨립니다.",
+        "field7": "아침 식사 때 그녀는 프라이팬에 달걀을 깨 넣어요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "5": {
         "cardNumber": "5",
@@ -57,7 +57,7 @@
         "field6": "",
         "field7": "얼음이 들어간 음료",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "6": {
         "cardNumber": "6",
@@ -67,9 +67,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "오늘 점심은 감자와 고기",
+        "field7": "오늘 점심에는 감자와 고기가 나와요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "7": {
         "cardNumber": "7",
@@ -81,7 +81,7 @@
         "field6": "",
         "field7": "나는 야채를 많이 먹는다.",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "8": {
         "cardNumber": "8",
@@ -93,7 +93,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "9": {
         "cardNumber": "9",
@@ -105,7 +105,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "10": {
         "cardNumber": "10",
@@ -117,7 +117,7 @@
         "field6": "",
         "field7": "이 사과는 달콤해요",
         "field8": "테이블 위에 빨간 사과가 있어요",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "11": {
         "cardNumber": "11",
@@ -127,9 +127,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "많이 드세요!",
-        "field8": "긴 산책을 마치고 나면 식욕이 왕성해집니다",
-        "category": "영양물 섭취"
+        "field7": "맛있게 드세요!",
+        "field8": "긴 산책 후에 그녀는 식욕이 왕성해졌어요",
+        "category": "식생활"
     },
     "12": {
         "cardNumber": "12",
@@ -141,7 +141,7 @@
         "field6": "",
         "field7": "목이 말라요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "13": {
         "cardNumber": "13",
@@ -153,7 +153,7 @@
         "field6": "",
         "field7": "배고파요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "14": {
         "cardNumber": "14",
@@ -165,19 +165,19 @@
         "field6": "",
         "field7": "커피 한 잔 부탁드려요!",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "15": {
         "cardNumber": "15",
         "field1": "치즈",
         "field2": "",
-        "field3": "치즈브레드",
+        "field3": "치즈를 얹은 빵",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "그 사람은 샌드위치에 치즈가 들어가는 걸 좋아하지 않아",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "16": {
         "cardNumber": "16",
@@ -189,12 +189,12 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "영양물 섭취",
+        "category": "식생활",
         "imageName": ""
     },
     "17": {
         "cardNumber": "17",
-        "field1": "쌀",
+        "field1": "쌀 / 밥",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -202,7 +202,7 @@
         "field6": "",
         "field7": "야채를 넣은 밥",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "18": {
         "cardNumber": "18",
@@ -214,7 +214,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "영양물 섭취",
+        "category": "식생활",
         "imageName": ""
     },
     "19": {
@@ -227,7 +227,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "영양물 섭취",
+        "category": "식생활",
         "imageName": ""
     },
     "20": {
@@ -240,7 +240,7 @@
         "field6": "",
         "field7": "추울 땐 따뜻한 차를 마시는 걸 좋아해요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "21": {
         "cardNumber": "21",
@@ -252,7 +252,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "영양물 섭취",
+        "category": "식생활",
         "imageName": ""
     },
     "22": {
@@ -265,7 +265,7 @@
         "field6": "",
         "field7": "설탕은 달콤해요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "23": {
         "cardNumber": "23",
@@ -277,7 +277,7 @@
         "field6": "",
         "field7": "바나나를 좋아하시나요?",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "24": {
         "cardNumber": "24",
@@ -287,21 +287,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "버터가 들어간 빵",
+        "field7": "버터를 바른 빵",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "25": {
         "cardNumber": "25",
         "field1": "감자",
         "field2": "감자",
-        "field3": "튀긴 감자",
+        "field3": "팬에 볶은 감자",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "영양물 섭취",
+        "category": "식생활",
         "imageName": ""
     },
     "26": {
@@ -314,7 +314,7 @@
         "field6": "",
         "field7": "우유가 차가워요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "27": {
         "cardNumber": "27",
@@ -324,9 +324,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "나는 오렌지 1kg을 먹습니다.",
+        "field7": "오렌지 1킬로그램 주세요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "28": {
         "cardNumber": "28",
@@ -338,19 +338,19 @@
         "field6": "",
         "field7": "우리는 저녁으로 감자튀김을 만든다",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "29": {
         "cardNumber": "29",
-        "field1": "초콜렛",
+        "field1": "초콜릿",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "초콜릿 바",
+        "field7": "판 초콜릿 한 개",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "30": {
         "cardNumber": "30",
@@ -362,7 +362,7 @@
         "field6": "",
         "field7": "수프가 뜨겁다",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "31": {
         "cardNumber": "31",
@@ -374,32 +374,32 @@
         "field6": "",
         "field7": "토마토 주스 좋아하시나요?",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "32": {
         "cardNumber": "32",
-        "field1": "파이",
-        "field2": "파이",
+        "field1": "케이크",
+        "field2": "케이크",
         "field3": "초콜릿 케이크",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "영양물 섭취",
+        "category": "식생활",
         "imageName": ""
     },
     "33": {
         "cardNumber": "33",
-        "field1": "소세지",
+        "field1": "소시지",
         "field2": "소시지",
         "field3": "작은 소시지",
-        "field4": "소시지",
+        "field4": "작은 소시지",
         "field5": "",
         "field6": "",
-        "field7": "소시지 맛있어요",
+        "field7": "소시지가 맛있어요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "34": {
         "cardNumber": "34",
@@ -411,31 +411,31 @@
         "field6": "",
         "field7": "레몬은 시큼해요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "35": {
         "cardNumber": "35",
         "field1": "먹다",
-        "field2": "(먹다-먹다-먹다)",
+        "field2": "(먹는다-먹었다-먹은)",
         "field3": "음식",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "당신이 먹고 싶은 뭘?",
+        "field7": "무엇을 즐겨 먹나요?",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "36": {
         "cardNumber": "36",
         "field1": "아침을 먹다",
         "field2": "",
-        "field3": "아침",
+        "field3": "아침 식사",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "나는 오전 7시에 아침을 먹는다.",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "37": {
         "cardNumber": "37",
@@ -447,19 +447,19 @@
         "field6": "",
         "field7": "나는 요리를 잘 할 수 있다",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "38": {
         "cardNumber": "38",
         "field1": "마시다",
-        "field2": "(마신다-마셨다-취했다)",
+        "field2": "(마신다-마셨다-마신)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "뭐 마시고 싶어?",
+        "field7": "무엇을 즐겨 마시나요?",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "39": {
         "cardNumber": "39",
@@ -471,26 +471,26 @@
         "field6": "",
         "field7": "우리는 8시에 저녁을 먹습니다",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "40": {
         "cardNumber": "40",
-        "field1": "점심을 먹으러",
+        "field1": "점심을 먹다",
         "field2": "",
-        "field3": "점심",
+        "field3": "점심 식사",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Lisa는 2시에 점심을 먹습니다",
+        "field7": "리사는 두 시에 점심을 먹어요",
         "field8": "",
-        "category": "영양물 섭취"
+        "category": "식생활"
     },
     "41": {
         "cardNumber": "41",
-        "field1": "화장실",
+        "field1": "욕실",
         "field2": "욕실",
-        "field3": "화장실",
-        "field4": "목욕탕",
+        "field3": "욕실",
+        "field4": "욕실",
         "field5": "",
         "field6": "",
         "field7": "욕실은 깨끗해요",
@@ -547,7 +547,7 @@
     },
     "46": {
         "cardNumber": "46",
-        "field1": "그 소파",
+        "field1": "소파",
         "field2": "소파",
         "field3": "",
         "field4": "",
@@ -578,7 +578,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "발코니에 누가 있나요?",
+        "field7": "발코니에 누가 서 있나요?",
         "field8": "",
         "category": "집"
     },
@@ -596,19 +596,19 @@
     },
     "50": {
         "cardNumber": "50",
-        "field1": "찬장",
-        "field2": "옷장",
+        "field1": "수납장 / 옷장",
+        "field2": "수납장 / 옷장",
         "field3": "부엌 찬장",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "옷장이 꽉 찼어요",
+        "field7": "장이 가득 차 있어요",
         "field8": "",
         "category": "집"
     },
     "51": {
         "cardNumber": "51",
-        "field1": "팔걸이 의자",
+        "field1": "안락의자",
         "field2": "안락의자",
         "field3": "",
         "field4": "",
@@ -626,7 +626,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "거울은 화장실에 있어요",
+        "field7": "거울은 욕실에 있어요",
         "field8": "",
         "category": "집"
     },
@@ -638,7 +638,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "할머니는 의자에 앉아",
+        "field7": "할머니는 의자에 앉아 계세요",
         "field8": "",
         "category": "집"
     },
@@ -669,13 +669,13 @@
     },
     "56": {
         "cardNumber": "56",
-        "field1": "바닥",
-        "field2": "바닥",
+        "field1": "층",
+        "field2": "층",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "나는 1층에 살아요",
+        "field7": "저는 2층(독일식 1층)에 살아요",
         "field8": "",
         "category": "집"
     },
@@ -756,8 +756,8 @@
         "cardNumber": "63",
         "field1": "살다",
         "field2": "",
-        "field3": "아파트",
-        "field4": "아파트",
+        "field3": "주거 공간 / 아파트",
+        "field4": "주거 공간 / 아파트",
         "field5": "",
         "field6": "",
         "field7": "어디 살아요?",
@@ -766,51 +766,51 @@
     },
     "64": {
         "cardNumber": "64",
-        "field1": "청소하다",
+        "field1": "정리하다",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "나는 매일 방을 청소한다",
+        "field7": "저는 매일 방을 정리해요",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "65": {
         "cardNumber": "65",
-        "field1": "일어서다",
-        "field2": "(일어나다-일어났어요-일어났어요)",
+        "field1": "일어나다",
+        "field2": "(일어난다-일어났다-일어난)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "몇 시에 일어나요?",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "66": {
         "cardNumber": "66",
-        "field1": "요리",
+        "field1": "식기",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "오늘은 누가 설거지를 하고 있나요?",
+        "field7": "오늘은 누가 설거지를 하나요?",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "67": {
         "cardNumber": "67",
-        "field1": "유리",
-        "field2": "안경",
+        "field1": "유리잔",
+        "field2": "유리잔",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "와인 한 잔",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "68": {
         "cardNumber": "68",
@@ -820,9 +820,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "새 수건",
+        "field7": "깨끗한 수건",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "69": {
         "cardNumber": "69",
@@ -834,7 +834,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "매일",
+        "category": "일상생활",
         "imageName": ""
     },
     "70": {
@@ -847,7 +847,7 @@
         "field6": "",
         "field7": "사워크림은 냉장고에 있어요",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "71": {
         "cardNumber": "71",
@@ -859,20 +859,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "매일",
+        "category": "일상생활",
         "imageName": ""
     },
     "72": {
         "cardNumber": "72",
         "field1": "접시",
-        "field2": "판",
+        "field2": "접시",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "깊거나 얕은 접시",
+        "field7": "깊은 접시 / 납작한 접시",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "73": {
         "cardNumber": "73",
@@ -884,83 +884,83 @@
         "field6": "",
         "field7": "포크로 감자를 먹어요",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "74": {
         "cardNumber": "74",
         "field1": "컵",
-        "field2": "머그컵",
+        "field2": "컵",
         "field3": "커피잔",
-        "field4": "커피 컵",
+        "field4": "커피잔",
         "field5": "",
         "field6": "",
         "field7": "나는 커피 한 잔을 마시고 있어요.",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "75": {
         "cardNumber": "75",
-        "field1": "청소",
+        "field1": "닦다 / 청소하다",
         "field2": "",
-        "field3": "청소부 아줌마",
-        "field4": "청소부 아줌마들",
+        "field3": "여성 청소원",
+        "field4": "여성 청소원",
         "field5": "",
         "field6": "",
-        "field7": "양치질하다",
+        "field7": "저는 이를 닦아요",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "76": {
         "cardNumber": "76",
-        "field1": "잠",
-        "field2": "(자다-자다-잤다)",
+        "field1": "자다",
+        "field2": "(잔다-잤다-잔)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "동생이 늦게 자서",
+        "field7": "제 남자 형제는 오래 자요",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "77": {
         "cardNumber": "77",
-        "field1": "샤워를하다",
+        "field1": "샤워하다",
         "field2": "",
         "field3": "샤워",
-        "field4": "소나기",
+        "field4": "샤워",
         "field5": "",
         "field6": "",
         "field7": "매일 샤워해요",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "78": {
         "cardNumber": "78",
         "field1": "씻다",
-        "field2": "(세탁-세탁-세탁)",
-        "field3": "스스로 씻으러",
+        "field2": "(씻는다-씻었다-씻은)",
+        "field3": "몸을 씻다",
         "field4": "",
         "field5": "세탁기",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "매일"
+        "category": "일상생활"
     },
     "79": {
         "cardNumber": "79",
-        "field1": "필요",
+        "field1": "필요하다",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "난 아직 쿼크와 버터와 크림이 필요해",
+        "field7": "저는 크바르크 치즈, 버터, 크림이 더 필요해요",
         "field8": "",
-        "category": "구매 및 서비스"
+        "category": "쇼핑과 서비스"
     },
     "80": {
         "cardNumber": "80",
-        "field1": "그 카페",
+        "field1": "카페",
         "field2": "카페",
         "field3": "",
         "field4": "",
@@ -968,32 +968,32 @@
         "field6": "",
         "field7": "우리 카페에 갈까?",
         "field8": "",
-        "category": "구매 및 서비스"
+        "category": "쇼핑과 서비스"
     },
     "81": {
         "cardNumber": "81",
-        "field1": "사업",
-        "field2": "가게들",
+        "field1": "가게",
+        "field2": "가게",
         "field3": "가게",
-        "field4": "가게들",
+        "field4": "가게",
         "field5": "꽃집",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "구매 및 서비스",
+        "category": "쇼핑과 서비스",
         "imageName": ""
     },
     "82": {
         "cardNumber": "82",
-        "field1": "음식",
-        "field2": "음식",
-        "field3": "식료품 점",
+        "field1": "식료품",
+        "field2": "식료품",
+        "field3": "식료품점",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "구매 및 서비스",
+        "category": "쇼핑과 서비스",
         "imageName": ""
     },
     "83": {
@@ -1006,7 +1006,7 @@
         "field6": "",
         "field7": "주말에는 이탈리안 레스토랑을 방문합니다.",
         "field8": "",
-        "category": "구매 및 서비스"
+        "category": "쇼핑과 서비스"
     },
     "84": {
         "cardNumber": "84",
@@ -1018,23 +1018,23 @@
         "field6": "",
         "field7": "슈퍼마켓에서",
         "field8": "",
-        "category": "구매 및 서비스"
+        "category": "쇼핑과 서비스"
     },
     "85": {
         "cardNumber": "85",
         "field1": "구입하다",
         "field2": "",
-        "field3": "쇼핑",
+        "field3": "장을 보다 / 쇼핑하다",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "퇴근하고 쇼핑하러 가는데",
+        "field7": "저는 퇴근 후에 장을 보러 가요",
         "field8": "",
-        "category": "구매 및 서비스"
+        "category": "쇼핑과 서비스"
     },
     "86": {
         "cardNumber": "86",
-        "field1": "열려 있는",
+        "field1": "열다",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1042,31 +1042,31 @@
         "field6": "",
         "field7": "은행이 열려있습니다",
         "field8": "창문을 열어주세요!",
-        "category": "구매 및 서비스"
+        "category": "쇼핑과 서비스"
     },
     "87": {
         "cardNumber": "87",
         "field1": "닫다",
-        "field2": "(닫기-잠금-닫기)",
-        "field3": "닫은",
+        "field2": "(닫는다-닫았다-닫은)",
+        "field3": "닫힌",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "가게가 문을 닫았어요",
         "field8": "",
-        "category": "구매 및 서비스"
+        "category": "쇼핑과 서비스"
     },
     "88": {
         "cardNumber": "88",
         "field1": "팔다",
         "field2": "",
-        "field3": "판매자",
-        "field4": "판매자",
+        "field3": "판매원",
+        "field4": "판매원",
         "field5": "",
         "field6": "",
-        "field7": "Bächer는 빵을 판매합니다",
+        "field7": "제빵사는 빵을 팔아요",
         "field8": "",
-        "category": "구매 및 서비스"
+        "category": "쇼핑과 서비스"
     },
     "89": {
         "cardNumber": "89",
@@ -1088,13 +1088,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "저 여자야, 예쁘네",
+        "field7": "이 아이는 여자아이예요. 예뻐요",
         "field8": "",
         "category": "가족"
     },
     "91": {
         "cardNumber": "91",
-        "field1": "당신의",
+        "field1": "너의",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1106,14 +1106,14 @@
     },
     "92": {
         "cardNumber": "92",
-        "field1": "남자 형제",
-        "field2": "형제",
+        "field1": "형 / 오빠 / 남동생",
+        "field2": "남자 형제들",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "나에게는 형제가 두 명 있다.",
-        "field8": "네 형제 이름이 뭐니?",
+        "field7": "저에게는 남자 형제가 두 명 있어요",
+        "field8": "네 남자 형제의 이름은 뭐니?",
         "category": "가족"
     },
     "93": {
@@ -1136,7 +1136,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "친절하다",
+        "field7": "손님으로 방문하다",
         "field8": "나는 여기 손님이다",
         "category": "가족"
     },
@@ -1144,7 +1144,7 @@
         "cardNumber": "95",
         "field1": "생일",
         "field2": "생일",
-        "field3": "생일 소녀",
+        "field3": "생일을 맞은 사람",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1167,8 +1167,8 @@
     },
     "97": {
         "cardNumber": "97",
-        "field1": "젊은이",
-        "field2": "젊은이",
+        "field1": "남자아이",
+        "field2": "남자아이들",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1179,7 +1179,7 @@
     },
     "98": {
         "cardNumber": "98",
-        "field1": "그 남자",
+        "field1": "남자 / 남편",
         "field2": "남자들",
         "field3": "",
         "field4": "",
@@ -1245,14 +1245,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "우리 가족은 크다",
+        "field7": "우리 가족은 식구가 많아요",
         "field8": "",
         "category": "가족"
     },
     "104": {
         "cardNumber": "104",
-        "field1": "여자",
-        "field2": "여성",
+        "field1": "여자 / 아내",
+        "field2": "여자들 / 아내들",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1299,20 +1299,20 @@
     },
     "108": {
         "cardNumber": "108",
-        "field1": "엄마",
+        "field1": "어머니",
         "field2": "어머니들",
         "field3": "엄마",
         "field4": "엄마들",
         "field5": "",
         "field6": "",
-        "field7": "나의 엄마는 주부 다",
+        "field7": "제 어머니는 주부예요",
         "field8": "",
         "category": "가족"
     },
     "109": {
         "cardNumber": "109",
-        "field1": "자매",
-        "field2": "시스터즈",
+        "field1": "언니 / 누나 / 여동생",
+        "field2": "여자 형제들",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1323,8 +1323,8 @@
     },
     "110": {
         "cardNumber": "110",
-        "field1": "이모",
-        "field2": "이모들",
+        "field1": "이모 / 고모 / 숙모",
+        "field2": "이모 / 고모 / 숙모",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1353,8 +1353,8 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "당신은 독일 분이신가요?",
-        "field8": "당신은 독일 분이신가요?",
+        "field7": "너는 독일 여자니?",
+        "field8": "너는 독일 남자니?",
         "category": "가족"
     },
     "113": {
@@ -1371,26 +1371,26 @@
     },
     "114": {
         "cardNumber": "114",
-        "field1": "그것",
+        "field1": "그것 / 그 아이 (중성 대명사)",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "이건 아이에요, 작아요",
+        "field7": "이 아이는 어려요",
         "field8": "",
         "category": "가족"
     },
     "115": {
         "cardNumber": "115",
-        "field1": "당신의",
+        "field1": "너희의",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "너의 집",
-        "field8": "당신의 아파트",
+        "field7": "너희 집",
+        "field8": "너희 아파트",
         "category": "가족"
     },
     "116": {
@@ -1407,37 +1407,37 @@
     },
     "117": {
         "cardNumber": "117",
-        "field1": "그녀의",
+        "field1": "당신의 / 여러분의 (존칭)",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "그녀의 아들",
-        "field8": "그녀의 딸",
+        "field7": "당신의 아들",
+        "field8": "당신의 딸",
         "category": "가족"
     },
     "118": {
         "cardNumber": "118",
-        "field1": "그녀의",
+        "field1": "그녀의 / 그들의",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "그녀의 오빠",
-        "field8": "그들의 아이들",
+        "field7": "그녀의 남자 형제 / 그들의 남자 형제",
+        "field8": "그녀의 아이들 / 그들의 아이들",
         "category": "가족"
     },
     "119": {
         "cardNumber": "119",
-        "field1": "그녀의",
+        "field1": "너희 / 여러분",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "당신은 독일 분이신가요?",
+        "field7": "너희는 독일 사람들이니?",
         "field8": "",
         "category": "가족"
     },
@@ -1455,7 +1455,7 @@
     },
     "121": {
         "cardNumber": "121",
-        "field1": "BE",
+        "field1": "그의",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1467,31 +1467,31 @@
     },
     "122": {
         "cardNumber": "122",
-        "field1": "BE",
-        "field2": "(is-was)",
+        "field1": "~이다 / ~에 있다",
+        "field2": "(이다-이었다-이었던)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "행복",
+        "field7": "행복하다",
         "field8": "나는 행복하다",
         "category": "가족"
     },
     "123": {
         "cardNumber": "123",
-        "field1": "그녀",
-        "field2": "그녀",
+        "field1": "당신 / 여러분 (존칭)",
+        "field2": "그들",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "너 피곤하니?",
+        "field7": "피곤하세요?",
         "field8": "",
         "category": "가족"
     },
     "124": {
         "cardNumber": "124",
-        "field1": "그녀",
+        "field1": "그들",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1527,13 +1527,13 @@
     },
     "127": {
         "cardNumber": "127",
-        "field1": "WHO",
+        "field1": "누구",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "누구세요?",
+        "field7": "저 사람은 누구인가요?",
         "field8": "",
         "category": "가족"
     },
@@ -1563,7 +1563,7 @@
     },
     "130": {
         "cardNumber": "130",
-        "field1": "오래된",
+        "field1": "나이가 많은 / 오래된",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1571,7 +1571,7 @@
         "field6": "",
         "field7": "몇 살이에요?",
         "field8": "나는 25 살입니다",
-        "category": "바라보다"
+        "category": "외모"
     },
     "131": {
         "cardNumber": "131",
@@ -1583,19 +1583,19 @@
         "field6": "",
         "field7": "아론은 셔츠를 입지 않는다",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "132": {
         "cardNumber": "132",
         "field1": "드레스",
-        "field2": "옷",
+        "field2": "드레스",
         "field3": "이브닝 드레스",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "이 드레스가 너한테 잘 어울리는 것 같아",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "133": {
         "cardNumber": "133",
@@ -1607,7 +1607,7 @@
         "field6": "",
         "field7": "이 티셔츠는 나에게 너무 꽉 끼어요",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "134": {
         "cardNumber": "134",
@@ -1619,7 +1619,7 @@
         "field6": "",
         "field7": "코트를 입으세요! 밖은 춥다",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "135": {
         "cardNumber": "135",
@@ -1631,7 +1631,7 @@
         "field6": "",
         "field7": "스웨터가 참 따뜻해요",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "136": {
         "cardNumber": "136",
@@ -1643,7 +1643,7 @@
         "field6": "",
         "field7": "리사는 스커트와 블라우스를 입고 있습니다.",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "137": {
         "cardNumber": "137",
@@ -1655,19 +1655,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "138": {
         "cardNumber": "138",
-        "field1": "두꺼운",
+        "field1": "뚱뚱한 / 두꺼운",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "삼촌이 엄청 뚱뚱하시다",
+        "field7": "그녀의 삼촌은 아주 뚱뚱해요",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "139": {
         "cardNumber": "139",
@@ -1677,9 +1677,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "이 흰색 블라우스도 있나요?",
+        "field7": "이 블라우스는 흰색도 있나요?",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "140": {
         "cardNumber": "140",
@@ -1691,7 +1691,7 @@
         "field6": "",
         "field7": "안경을 써야 해요",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "141": {
         "cardNumber": "141",
@@ -1703,19 +1703,19 @@
         "field6": "",
         "field7": "그 사람 바지는 검은색이야",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "142": {
         "cardNumber": "142",
-        "field1": "자켓",
+        "field1": "재킷",
         "field2": "재킷",
-        "field3": "윈드 브레이커",
+        "field3": "바람막이",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "그는 가벼운 재킷을 입고 있어요.",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "143": {
         "cardNumber": "143",
@@ -1727,11 +1727,11 @@
         "field6": "",
         "field7": "우아한 옷",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "144": {
         "cardNumber": "144",
-        "field1": "주머니",
+        "field1": "가방 / 주머니",
         "field2": "가방",
         "field3": "핸드백",
         "field4": "",
@@ -1739,11 +1739,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "145": {
         "cardNumber": "145",
-        "field1": "크기가 큰",
+        "field1": "큰 / 키가 큰",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1751,11 +1751,11 @@
         "field6": "",
         "field7": "이 코트는 너무 크다",
         "field8": "키가 몇이에요?",
-        "category": "바라보다"
+        "category": "외모"
     },
     "146": {
         "cardNumber": "146",
-        "field1": "어린",
+        "field1": "젊은 / 어린",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1763,7 +1763,7 @@
         "field6": "",
         "field7": "청년",
         "field8": "그녀는 아주 어리다",
-        "category": "바라보다"
+        "category": "외모"
     },
     "147": {
         "cardNumber": "147",
@@ -1775,11 +1775,11 @@
         "field6": "",
         "field7": "넌 아직 작잖아",
         "field8": "이 바지는 너무 작아요",
-        "category": "바라보다"
+        "category": "외모"
     },
     "148": {
         "cardNumber": "148",
-        "field1": "멋진",
+        "field1": "아름다운 / 예쁜",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1787,38 +1787,38 @@
         "field6": "",
         "field7": "이 블라우스는 정말 아름답습니다",
         "field8": "매우 감사합니다!",
-        "category": "바라보다"
+        "category": "외모"
     },
     "149": {
         "cardNumber": "149",
-        "field1": "엄청난",
+        "field1": "멋진 / 훌륭한",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "엄청난!",
+        "field7": "멋져요!",
         "field8": "훌륭해요!",
-        "category": "바라보다"
+        "category": "외모"
     },
     "150": {
         "cardNumber": "150",
-        "field1": "나르다",
-        "field2": "(착용-착용)",
+        "field1": "입다 / 착용하다 / 나르다",
+        "field2": "(입는다-입었다-입은)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "그녀는 아름다운 옷을 입는다",
         "field8": "",
-        "category": "바라보다"
+        "category": "외모"
     },
     "151": {
         "cardNumber": "151",
-        "field1": "남자 친구",
-        "field2": "친구들",
-        "field3": "여자 친구",
-        "field4": "친구들",
+        "field1": "친구 (남성) / 남자 친구",
+        "field2": "친구들 (남성) / 남자 친구들",
+        "field3": "친구 (여성) / 여자 친구",
+        "field4": "친구들 (여성) / 여자 친구들",
         "field5": "우정",
         "field6": "",
         "field7": "",
@@ -1828,9 +1828,9 @@
     },
     "152": {
         "cardNumber": "152",
-        "field1": "친숙한",
+        "field1": "친절한",
         "field2": "",
-        "field3": "해로운",
+        "field3": "불친절한",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1840,13 +1840,13 @@
     },
     "153": {
         "cardNumber": "153",
-        "field1": "행복하다",
+        "field1": "행복한",
         "field2": "",
         "field3": "불행한",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "정말 기뻐요!",
+        "field7": "저는 정말 행복해요!",
         "field8": "",
         "category": "감정"
     },
@@ -1864,7 +1864,7 @@
     },
     "155": {
         "cardNumber": "155",
-        "field1": "사랑",
+        "field1": "사랑하다",
         "field2": "",
         "field3": "사랑",
         "field4": "",
@@ -1876,19 +1876,19 @@
     },
     "156": {
         "cardNumber": "156",
-        "field1": "재미있는",
+        "field1": "재미있는 / 유쾌한",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "재미있는 사람",
-        "field8": "여기 항상 너무 웃겨요",
+        "field8": "여기는 항상 아주 즐거워요",
         "category": "감정"
     },
     "157": {
         "cardNumber": "157",
-        "field1": "좋다",
+        "field1": "좋아하다",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1912,7 +1912,7 @@
     },
     "159": {
         "cardNumber": "159",
-        "field1": "슬퍼",
+        "field1": "슬픈",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1931,7 +1931,7 @@
         "field5": "",
         "field6": "",
         "field7": "파란 눈",
-        "field8": "눈을 감 으세요!",
+        "field8": "눈을 감으세요!",
         "category": "건강"
     },
     "161": {
@@ -1978,7 +1978,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "그녀는 병원에 있어요",
+        "field7": "그녀는 병원에 입원해 있어요",
         "field8": "",
         "category": "건강"
     },
@@ -1997,21 +1997,21 @@
     "166": {
         "cardNumber": "166",
         "field1": "팔",
-        "field2": "가난한",
+        "field2": "팔",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "어머니는 아이를 품에 안고",
+        "field7": "어머니는 아이를 안아요",
         "field8": "",
         "category": "건강"
     },
     "167": {
         "cardNumber": "167",
-        "field1": "의사",
-        "field2": "의사들",
-        "field3": "의사",
-        "field4": "의사들",
+        "field1": "의사 (남성)",
+        "field2": "의사들 (남성)",
+        "field3": "의사 (여성)",
+        "field4": "의사들 (여성)",
         "field5": "치과 의사",
         "field6": "",
         "field7": "",
@@ -2075,14 +2075,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "양치질하다",
-        "field8": "이빨이 하얗네요",
+        "field7": "저는 이를 닦아요",
+        "field8": "제 치아는 하얘요",
         "category": "건강"
     },
     "173": {
         "cardNumber": "173",
-        "field1": "그 손",
-        "field2": "소유",
+        "field1": "손",
+        "field2": "손",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2106,12 +2106,12 @@
     "175": {
         "cardNumber": "175",
         "field1": "돕다",
-        "field2": "(도움-도움-도움)",
+        "field2": "(돕는다-도왔다-도운)",
         "field3": "도움",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "돕다!",
+        "field7": "도와주세요!",
         "field8": "",
         "category": "건강"
     },
@@ -2129,9 +2129,9 @@
     },
     "177": {
         "cardNumber": "177",
-        "field1": "삶",
+        "field1": "살다",
         "field2": "",
-        "field3": "생활",
+        "field3": "삶 / 생명",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2142,7 +2142,7 @@
     "178": {
         "cardNumber": "178",
         "field1": "보다",
-        "field2": "(보고 본)",
+        "field2": "(본다-보았다-본)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2160,7 +2160,7 @@
         "field5": "",
         "field6": "",
         "field7": "날씨가 좋다",
-        "field8": "방법 날씨가 오늘?",
+        "field8": "오늘 날씨는 어때요?",
         "category": "날씨"
     },
     "180": {
@@ -2179,7 +2179,7 @@
         "cardNumber": "181",
         "field1": "바람",
         "field2": "바람",
-        "field3": "깜짝 놀란",
+        "field3": "바람이 부는",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2203,7 +2203,7 @@
         "cardNumber": "183",
         "field1": "구름",
         "field2": "구름들",
-        "field3": "흐림",
+        "field3": "구름이 낀",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2213,13 +2213,13 @@
     },
     "184": {
         "cardNumber": "184",
-        "field1": "더운",
+        "field1": "더운 / 뜨거운",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "뜨겁다",
+        "field7": "날씨가 더워요",
         "field8": "날이 더워요",
         "category": "날씨"
     },
@@ -2237,7 +2237,7 @@
     },
     "186": {
         "cardNumber": "186",
-        "field1": "비",
+        "field1": "비가 오다",
         "field2": "",
         "field3": "비",
         "field4": "",
@@ -2286,8 +2286,8 @@
     },
     "190": {
         "cardNumber": "190",
-        "field1": "물고기",
-        "field2": "물고기",
+        "field1": "물고기 / 생선",
+        "field2": "물고기 / 생선",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2304,14 +2304,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "강을 따라",
+        "field7": "강가에서",
         "field8": "",
         "category": "자연"
     },
     "192": {
         "cardNumber": "192",
         "field1": "개",
-        "field2": "그 개들",
+        "field2": "개들",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2328,7 +2328,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "바다로",
+        "field7": "바닷가에서",
         "field8": "7월에 바다에 갈 거예요",
         "category": "자연"
     },
@@ -2364,8 +2364,8 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "호수에서",
-        "field8": "사빈이 호수에 가다",
+        "field7": "호숫가에서",
+        "field8": "자비네는 호수로 가요",
         "category": "자연"
     },
     "197": {
@@ -2412,7 +2412,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "내 남자친구는 고양이를 좋아하지 않아",
+        "field7": "제 친구는 고양이를 좋아하지 않아요",
         "field8": "",
         "category": "자연"
     },
@@ -2430,10 +2430,10 @@
     },
     "202": {
         "cardNumber": "202",
-        "field1": "답변",
+        "field1": "대답하다",
         "field2": "",
         "field3": "대답",
-        "field4": "답변",
+        "field4": "대답",
         "field5": "",
         "field6": "",
         "field7": "나는 대답을 모른다",
@@ -2442,11 +2442,11 @@
     },
     "203": {
         "cardNumber": "203",
-        "field1": "그 책",
+        "field1": "책",
         "field2": "책들",
         "field3": "교과서",
         "field4": "",
-        "field5": "통합 문서",
+        "field5": "연습 문제집",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2454,9 +2454,9 @@
     },
     "204": {
         "cardNumber": "204",
-        "field1": "잡지",
-        "field2": "폴더",
-        "field3": "학교 책",
+        "field1": "공책",
+        "field2": "공책",
+        "field3": "학습용 공책",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2490,7 +2490,7 @@
     },
     "207": {
         "cardNumber": "207",
-        "field1": "교훈",
+        "field1": "수업",
         "field2": "",
         "field3": "독일어 수업",
         "field4": "",
@@ -2502,7 +2502,7 @@
     },
     "208": {
         "cardNumber": "208",
-        "field1": "작업",
+        "field1": "과제 / 문제",
         "field2": "과제들",
         "field3": "숙제",
         "field4": "",
@@ -2526,8 +2526,8 @@
     },
     "210": {
         "cardNumber": "210",
-        "field1": "클래스",
-        "field2": "수업",
+        "field1": "학급 / 반",
+        "field2": "학급 / 반",
         "field3": "교실",
         "field4": "",
         "field5": "",
@@ -2539,8 +2539,8 @@
     },
     "211": {
         "cardNumber": "211",
-        "field1": "학년",
-        "field2": "노트",
+        "field1": "성적 / 점수",
+        "field2": "성적 / 점수",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2551,8 +2551,8 @@
     },
     "212": {
         "cardNumber": "212",
-        "field1": "수",
-        "field2": "숫자들",
+        "field1": "번호",
+        "field2": "번호",
         "field3": "집 번호",
         "field4": "",
         "field5": "계좌번호",
@@ -2565,9 +2565,9 @@
         "cardNumber": "213",
         "field1": "쉬는 시간",
         "field2": "휴식 시간",
-        "field3": "점심",
+        "field3": "쉬는 시간에 먹는 간식",
         "field4": "",
-        "field5": "커피 브레이크",
+        "field5": "커피 휴식 시간",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2587,7 +2587,7 @@
     },
     "215": {
         "cardNumber": "215",
-        "field1": "그 페이지",
+        "field1": "페이지 / 쪽",
         "field2": "페이지",
         "field3": "",
         "field4": "",
@@ -2611,11 +2611,11 @@
     },
     "217": {
         "cardNumber": "217",
-        "field1": "삼",
+        "field1": "셋 / 삼",
         "field2": "",
-        "field3": "열셋",
+        "field3": "열셋 / 십삼",
         "field4": "",
-        "field5": "서른",
+        "field5": "서른 / 삼십",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2647,7 +2647,7 @@
     },
     "220": {
         "cardNumber": "220",
-        "field1": "질문",
+        "field1": "질문하다",
         "field2": "",
         "field3": "질문",
         "field4": "질문",
@@ -2661,7 +2661,7 @@
         "cardNumber": "221",
         "field1": "다섯",
         "field2": "",
-        "field3": "열 다섯",
+        "field3": "열다섯 / 십오",
         "field4": "",
         "field5": "오십",
         "field6": "",
@@ -2684,7 +2684,7 @@
     "223": {
         "cardNumber": "223",
         "field1": "읽다",
-        "field2": "(읽기-읽기-읽기)",
+        "field2": "(읽는다-읽었다-읽은)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2709,18 +2709,18 @@
         "cardNumber": "225",
         "field1": "영",
         "field2": "",
-        "field3": "제로",
+        "field3": "숫자 0",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "이 사람은 제로야",
+        "field7": "이 사람은 무능해요",
         "field8": "",
         "category": "과학과 교육"
     },
     "226": {
         "cardNumber": "226",
         "field1": "쓰다",
-        "field2": "(쓰기-쓰기-쓰기)",
+        "field2": "(쓴다-썼다-쓴)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2731,7 +2731,7 @@
     },
     "227": {
         "cardNumber": "227",
-        "field1": "육",
+        "field1": "여섯 / 육",
         "field2": "",
         "field3": "열여섯",
         "field4": "",
@@ -2755,20 +2755,20 @@
     },
     "229": {
         "cardNumber": "229",
-        "field1": "공부하다",
+        "field1": "대학에서 공부하다",
         "field2": "",
-        "field3": "학생",
-        "field4": "학생들",
+        "field3": "대학생",
+        "field4": "대학생",
         "field5": "",
         "field6": "",
-        "field7": "당신은 무엇을 공부합니까?",
+        "field7": "무엇을 전공하나요?",
         "field8": "",
         "category": "과학과 교육"
     },
     "230": {
         "cardNumber": "230",
         "field1": "잊다",
-        "field2": "(잊다-잊다-잊다)",
+        "field2": "(잊는다-잊었다-잊은)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2779,9 +2779,9 @@
     },
     "231": {
         "cardNumber": "231",
-        "field1": "네",
+        "field1": "넷 / 사",
         "field2": "",
-        "field3": "십사",
+        "field3": "열넷 / 십사",
         "field4": "",
         "field5": "마흔",
         "field6": "",
@@ -2803,8 +2803,8 @@
     },
     "233": {
         "cardNumber": "233",
-        "field1": "지식",
-        "field2": "(알고알고알고)",
+        "field1": "알다",
+        "field2": "(안다-알았다-안)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2815,7 +2815,7 @@
     },
     "234": {
         "cardNumber": "234",
-        "field1": "계산하기",
+        "field1": "세다",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -2833,7 +2833,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "방 10",
+        "field7": "10번 방",
         "field8": "",
         "category": "과학과 교육"
     },
@@ -2864,8 +2864,8 @@
     },
     "238": {
         "cardNumber": "238",
-        "field1": "사진",
-        "field2": "사진",
+        "field1": "그림 / 사진",
+        "field2": "그림 / 사진",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2882,7 +2882,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ralf는 아름다운 사진을 찍습니다.",
+        "field7": "랄프는 아름다운 사진을 찍어요",
         "field8": "",
         "category": "문화와 예술"
     },
@@ -2894,7 +2894,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "극장에서",
+        "field7": "영화관에서",
         "field8": "오늘 영화관에 갈 거예요?",
         "category": "문화와 예술"
     },
@@ -2906,7 +2906,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "피아노 칠수있어?",
+        "field7": "피아노를 치나요?",
         "field8": "",
         "category": "문화와 예술"
     },
@@ -2925,7 +2925,7 @@
     "243": {
         "cardNumber": "243",
         "field1": "노래",
-        "field2": "그 노래들",
+        "field2": "노래들",
         "field3": "크리스마스 캐럴",
         "field4": "",
         "field5": "",
@@ -3010,7 +3010,7 @@
     },
     "250": {
         "cardNumber": "250",
-        "field1": "미술",
+        "field1": "예술",
         "field2": "예술",
         "field3": "",
         "field4": "",
@@ -3047,20 +3047,20 @@
     "253": {
         "cardNumber": "253",
         "field1": "노래하다",
-        "field2": "(노래-상-성)",
+        "field2": "(노래한다-노래했다-노래한)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "아이들은 크리스마스 캐롤을 즐겁게 부르고 있다",
+        "field7": "아이들은 크리스마스 노래 부르기를 좋아해요",
         "field8": "",
         "category": "문화와 예술"
     },
     "254": {
         "cardNumber": "254",
-        "field1": "춤",
+        "field1": "춤추다",
         "field2": "",
-        "field3": "그 춤",
+        "field3": "춤",
         "field4": "춤",
         "field5": "",
         "field6": "",
@@ -3070,9 +3070,9 @@
     },
     "255": {
         "cardNumber": "255",
-        "field1": "그 파티",
-        "field2": "축제",
-        "field3": "가족 축하",
+        "field1": "축제 / 잔치",
+        "field2": "축제 / 잔치",
+        "field3": "가족 잔치",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3107,9 +3107,9 @@
     },
     "258": {
         "cardNumber": "258",
-        "field1": "출현",
+        "field1": "대림절 (성탄절 전의 준비 기간)",
         "field2": "",
-        "field3": "재림절 달력",
+        "field3": "대림절 달력",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3173,7 +3173,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "거룩한 밤",
+        "field7": "크리스마스이브",
         "field8": "크리스마스 이브에",
         "category": "종교"
     },
@@ -3185,14 +3185,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "아침에 만나요!",
+        "field7": "내일 만나요!",
         "field8": "곧 봐요!",
         "category": "시간"
     },
     "265": {
         "cardNumber": "265",
-        "field1": "그 해",
-        "field2": "년",
+        "field1": "해 / 년",
+        "field2": "해 / 년",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3203,14 +3203,14 @@
     },
     "266": {
         "cardNumber": "266",
-        "field1": "분기",
-        "field2": "숙소",
+        "field1": "4분의 1 / 15분",
+        "field2": "4분의 1 / 15분",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "8시 15분이야",
-        "field8": "2시 15분이에요",
+        "field7": "여덟 시 십오 분 전이에요 (7시 45분)",
+        "field8": "두 시 십오 분이에요",
         "category": "시간"
     },
     "267": {
@@ -3245,7 +3245,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "4월",
+        "field7": "4월에",
         "field8": "",
         "category": "시간"
     },
@@ -3257,7 +3257,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "8 월",
+        "field7": "8월에",
         "field8": "",
         "category": "시간"
     },
@@ -3269,7 +3269,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "십이월에",
+        "field7": "12월에",
         "field8": "",
         "category": "시간"
     },
@@ -3282,7 +3282,7 @@
         "field5": "",
         "field6": "",
         "field7": "화요일에",
-        "field8": "화요일",
+        "field8": "화요일마다",
         "category": "시간"
     },
     "273": {
@@ -3294,7 +3294,7 @@
         "field5": "",
         "field6": "",
         "field7": "목요일에",
-        "field8": "목요일",
+        "field8": "목요일마다",
         "category": "시간"
     },
     "274": {
@@ -3305,7 +3305,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "2월",
+        "field7": "2월에",
         "field8": "",
         "category": "시간"
     },
@@ -3318,13 +3318,13 @@
         "field5": "",
         "field6": "",
         "field7": "금요일에",
-        "field8": "금요일",
+        "field8": "금요일마다",
         "category": "시간"
     },
     "276": {
         "cardNumber": "276",
         "field1": "봄",
-        "field2": "스프링",
+        "field2": "봄",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3353,19 +3353,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "1월",
+        "field7": "1월에",
         "field8": "",
         "category": "시간"
     },
     "279": {
         "cardNumber": "279",
-        "field1": "칠월",
+        "field1": "7월",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "7월",
+        "field7": "7월에",
         "field8": "",
         "category": "시간"
     },
@@ -3377,7 +3377,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "6월",
+        "field7": "6월에",
         "field8": "",
         "category": "시간"
     },
@@ -3389,7 +3389,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "5월",
+        "field7": "5월에",
         "field8": "",
         "category": "시간"
     },
@@ -3401,7 +3401,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "3월",
+        "field7": "3월에",
         "field8": "",
         "category": "시간"
     },
@@ -3409,7 +3409,7 @@
         "cardNumber": "283",
         "field1": "정오",
         "field2": "",
-        "field3": "아침",
+        "field3": "오전",
         "field4": "",
         "field5": "오후",
         "field6": "",
@@ -3426,7 +3426,7 @@
         "field5": "",
         "field6": "",
         "field7": "수요일에",
-        "field8": "수요일",
+        "field8": "수요일마다",
         "category": "시간"
     },
     "285": {
@@ -3444,13 +3444,13 @@
     "286": {
         "cardNumber": "286",
         "field1": "월요일",
-        "field2": "어셈블리",
+        "field2": "월요일",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "월요일에",
-        "field8": "월요일에",
+        "field8": "월요일마다",
         "category": "시간"
     },
     "287": {
@@ -3462,7 +3462,7 @@
         "field5": "",
         "field6": "",
         "field7": "아침에",
-        "field8": "아침에",
+        "field8": "아침마다",
         "category": "시간"
     },
     "288": {
@@ -3473,19 +3473,19 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "11 월",
+        "field7": "11월에",
         "field8": "",
         "category": "시간"
     },
     "289": {
         "cardNumber": "289",
-        "field1": "십월",
+        "field1": "10월",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "10 월",
+        "field7": "10월에",
         "field8": "",
         "category": "시간"
     },
@@ -3498,7 +3498,7 @@
         "field5": "",
         "field6": "",
         "field7": "토요일에",
-        "field8": "토요일",
+        "field8": "토요일마다",
         "category": "시간"
     },
     "291": {
@@ -3509,7 +3509,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "9월",
+        "field7": "9월에",
         "field8": "",
         "category": "시간"
     },
@@ -3534,13 +3534,13 @@
         "field5": "",
         "field6": "",
         "field7": "일요일에",
-        "field8": "일요일",
+        "field8": "일요일마다",
         "category": "시간"
     },
     "294": {
         "cardNumber": "294",
-        "field1": "그 날",
-        "field2": "일들",
+        "field1": "날 / 하루",
+        "field2": "날",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3570,7 +3570,7 @@
         "field5": "",
         "field6": "",
         "field7": "밤에",
-        "field8": "밤에",
+        "field8": "밤마다",
         "category": "시간"
     },
     "297": {
@@ -3587,7 +3587,7 @@
     },
     "298": {
         "cardNumber": "298",
-        "field1": "시계",
+        "field1": "시 / 시각",
         "field2": "",
         "field3": "시계",
         "field4": "시계",
@@ -3599,7 +3599,7 @@
     },
     "299": {
         "cardNumber": "299",
-        "field1": "그 주",
+        "field1": "주 / 일주일",
         "field2": "주",
         "field3": "",
         "field4": "",
@@ -3618,7 +3618,7 @@
         "field5": "",
         "field6": "",
         "field7": "시간이 없어",
-        "field8": "당신이 시간이있을 때?",
+        "field8": "언제 시간 있어요?",
         "category": "시간"
     },
     "301": {
@@ -3653,8 +3653,8 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "오늘 일찍",
-        "field8": "오늘 밤",
+        "field7": "오늘 아침",
+        "field8": "오늘 저녁",
         "category": "시간"
     },
     "304": {
@@ -3677,15 +3677,15 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "뭐하세요?",
+        "field7": "지금 무엇을 하고 있나요?",
         "field8": "",
         "category": "시간"
     },
     "306": {
         "cardNumber": "306",
-        "field1": "아침",
+        "field1": "내일",
         "field2": "",
-        "field3": "내일 모레",
+        "field3": "모레",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3701,13 +3701,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "늦었 어",
+        "field7": "시간이 늦었어요",
         "field8": "지금 몇 시지?",
         "category": "시간"
     },
     "308": {
         "cardNumber": "308",
-        "field1": "약",
+        "field1": "~시에 (시각)",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3739,19 +3739,19 @@
         "field6": "",
         "field7": "사과 2킬로그램",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "311": {
         "cardNumber": "311",
-        "field1": "작품",
-        "field2": "조각들",
+        "field1": "조각 / 개",
+        "field2": "조각 / 개",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "케이크 한 조각",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "312": {
         "cardNumber": "312",
@@ -3763,7 +3763,7 @@
         "field6": "",
         "field7": "우유 2리터",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "313": {
         "cardNumber": "313",
@@ -3775,19 +3775,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "314": {
         "cardNumber": "314",
-        "field1": "주석",
-        "field2": "캔",
+        "field1": "캔 / 통",
+        "field2": "캔 / 통",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "맥주 한 캔",
         "field8": "맥주 캔",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "315": {
         "cardNumber": "315",
@@ -3799,31 +3799,31 @@
         "field6": "",
         "field7": "우유 한 병",
         "field8": "우유병",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "316": {
         "cardNumber": "316",
-        "field1": "패키지",
-        "field2": "팩",
+        "field1": "포장 / 팩",
+        "field2": "포장 / 팩",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "쿠키 한 팩",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "317": {
         "cardNumber": "317",
-        "field1": "가방",
-        "field2": "가방",
+        "field1": "봉지",
+        "field2": "봉지",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "가방이 필요해요?",
+        "field7": "봉지 필요하세요?",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "318": {
         "cardNumber": "318",
@@ -3835,7 +3835,7 @@
         "field6": "",
         "field7": "영화가 너무 짧았어요",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "319": {
         "cardNumber": "319",
@@ -3847,11 +3847,11 @@
         "field6": "",
         "field7": "스커트가 너무 길어요",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "320": {
         "cardNumber": "320",
-        "field1": "빛",
+        "field1": "가벼운",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3859,11 +3859,11 @@
         "field6": "",
         "field7": "배낭이 가벼워요",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "321": {
         "cardNumber": "321",
-        "field1": "어려운",
+        "field1": "무거운 / 어려운",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3871,7 +3871,7 @@
         "field6": "",
         "field7": "이 여행가방은 무겁나요?",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "322": {
         "cardNumber": "322",
@@ -3883,11 +3883,11 @@
         "field6": "",
         "field7": "할 일이 많아요 / 할 일이 많아요",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "323": {
         "cardNumber": "323",
-        "field1": "약간의",
+        "field1": "적은 / 조금",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3895,35 +3895,35 @@
         "field6": "",
         "field7": "시간이 거의 없어요",
         "field8": "",
-        "category": "치수"
+        "category": "측정과 단위"
     },
     "324": {
         "cardNumber": "324",
-        "field1": "잎",
-        "field2": "나뭇잎들",
+        "field1": "종이 한 장 / 잎",
+        "field2": "종이 여러 장 / 잎들",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "종이 한 장",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "325": {
         "cardNumber": "325",
-        "field1": "통치자",
-        "field2": "통치자",
+        "field1": "자",
+        "field2": "자",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "통치자를 찾을 수 없습니다",
+        "field7": "제 자를 찾을 수 없어요",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "326": {
         "cardNumber": "326",
-        "field1": "그 장난감",
+        "field1": "장난감",
         "field2": "장난감",
         "field3": "가장 좋아하는 장난감",
         "field4": "",
@@ -3931,7 +3931,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "품목",
+        "category": "물건",
         "imageName": ""
     },
     "327": {
@@ -3944,23 +3944,23 @@
         "field6": "",
         "field7": "내 펜은 어디에 있나요?",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "328": {
         "cardNumber": "328",
         "field1": "지우개",
-        "field2": "고무",
+        "field2": "지우개",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "지우개 있어요?",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "329": {
         "cardNumber": "329",
-        "field1": "그 연필",
+        "field1": "연필",
         "field2": "연필들",
         "field3": "색연필",
         "field4": "",
@@ -3968,7 +3968,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "품목",
+        "category": "물건",
         "imageName": ""
     },
     "330": {
@@ -3981,43 +3981,43 @@
         "field6": "",
         "field7": "안드레아는 인형을 가지고 놀아요",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "331": {
         "cardNumber": "331",
-        "field1": "일",
-        "field2": "것들",
+        "field1": "물건 / 일",
+        "field2": "물건들 / 일들",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "이건 내 물건이야",
         "field8": "물건을 싸세요!",
-        "category": "품목"
+        "category": "물건"
     },
     "332": {
         "cardNumber": "332",
         "field1": "가위",
-        "field2": "전단",
+        "field2": "가위",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "날카로운 가위",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "333": {
         "cardNumber": "333",
         "field1": "찾다",
-        "field2": "(발견-발견-발견)",
+        "field2": "(찾는다-찾았다-찾은)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "안경을 찾을 수가 없어요",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "334": {
         "cardNumber": "334",
@@ -4029,11 +4029,11 @@
         "field6": "",
         "field7": "이 건물은 새 건물이에요",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "335": {
         "cardNumber": "335",
-        "field1": "구하다",
+        "field1": "찾다 / 찾고 있다",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4041,19 +4041,19 @@
         "field6": "",
         "field7": "무엇을 찾고 계신가요?",
         "field8": "당신은 누구를 찾고 있나요?",
-        "category": "품목"
+        "category": "물건"
     },
     "336": {
         "cardNumber": "336",
         "field1": "잃다",
-        "field2": "(분실-분실-분실)",
+        "field2": "(잃는다-잃었다-잃은)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "나는 열쇠를 자주 잃어버리곤 한다",
         "field8": "",
-        "category": "품목"
+        "category": "물건"
     },
     "337": {
         "cardNumber": "337",
@@ -4065,7 +4065,7 @@
         "field6": "",
         "field7": "진한 파란색",
         "field8": "나는 푸른 눈을 가졌습니다",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "338": {
         "cardNumber": "338",
@@ -4077,11 +4077,11 @@
         "field6": "",
         "field7": "우리 아버지는 갈색 눈을 가지고 있어요",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "339": {
         "cardNumber": "339",
-        "field1": "화려한",
+        "field1": "알록달록한",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4089,7 +4089,7 @@
         "field6": "",
         "field7": "그림이 다채롭고 재밌네요",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "340": {
         "cardNumber": "340",
@@ -4101,7 +4101,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "341": {
         "cardNumber": "341",
@@ -4113,7 +4113,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "직물 및 소재",
+        "category": "물질과 재료",
         "imageName": ""
     },
     "342": {
@@ -4126,7 +4126,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "343": {
         "cardNumber": "343",
@@ -4138,11 +4138,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "344": {
         "cardNumber": "344",
-        "field1": "그 색깔",
+        "field1": "색깔",
         "field2": "색깔",
         "field3": "",
         "field4": "",
@@ -4150,7 +4150,7 @@
         "field6": "",
         "field7": "어떤 색이 가장 마음에 드시나요?",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "345": {
         "cardNumber": "345",
@@ -4162,7 +4162,7 @@
         "field6": "",
         "field7": "어둡다",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "346": {
         "cardNumber": "346",
@@ -4174,7 +4174,7 @@
         "field6": "",
         "field7": "노란불(신호등)",
         "field8": "테이블 위에 노란 꽃이 있어요",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "347": {
         "cardNumber": "347",
@@ -4186,7 +4186,7 @@
         "field6": "",
         "field7": "Inge는 녹색 눈을 가지고 있습니다",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "348": {
         "cardNumber": "348",
@@ -4196,9 +4196,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "라이트 블루",
+        "field7": "연한 파란색",
         "field8": "밝은 방",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "349": {
         "cardNumber": "349",
@@ -4210,7 +4210,7 @@
         "field6": "",
         "field7": "그는 빨간 머리를 가지고 있어요",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "350": {
         "cardNumber": "350",
@@ -4222,7 +4222,7 @@
         "field6": "",
         "field7": "검정색과 흰색",
         "field8": "흑백 사진",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "351": {
         "cardNumber": "351",
@@ -4234,19 +4234,19 @@
         "field6": "",
         "field7": "눈처럼 하얗다",
         "field8": "",
-        "category": "직물 및 소재"
+        "category": "물질과 재료"
     },
     "352": {
         "cardNumber": "352",
         "field1": "자전거",
         "field2": "자전거",
-        "field3": "바퀴",
-        "field4": "바퀴",
+        "field3": "자전거 / 바퀴",
+        "field4": "자전거 / 바퀴",
         "field5": "",
         "field6": "",
         "field7": "나는 자전거 타는 것을 좋아한다.",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "353": {
         "cardNumber": "353",
@@ -4258,7 +4258,7 @@
         "field6": "",
         "field7": "당신은 어떤 취미를 가지고 있나요?",
         "field8": "나에게는 두 가지 취미가 있다: 여행과 요리",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "354": {
         "cardNumber": "354",
@@ -4270,7 +4270,7 @@
         "field6": "",
         "field7": "경기장에서",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "355": {
         "cardNumber": "355",
@@ -4282,7 +4282,7 @@
         "field6": "",
         "field7": "내일 우리는 테니스를 칠 것이다",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "356": {
         "cardNumber": "356",
@@ -4294,7 +4294,7 @@
         "field6": "",
         "field7": "아이들은 마당에서 공을 가지고 놀고 있다",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "357": {
         "cardNumber": "357",
@@ -4306,7 +4306,7 @@
         "field6": "",
         "field7": "맥스는 농구를 한다",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "358": {
         "cardNumber": "358",
@@ -4318,7 +4318,7 @@
         "field6": "",
         "field7": "나는 축구를 한다",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "359": {
         "cardNumber": "359",
@@ -4330,7 +4330,7 @@
         "field6": "",
         "field7": "나는 스키를 좋아한다",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "360": {
         "cardNumber": "360",
@@ -4342,19 +4342,19 @@
         "field6": "",
         "field7": "난 그게 재밌어",
         "field8": "재미있게 보내세요!",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "361": {
         "cardNumber": "361",
         "field1": "스포츠",
         "field2": "",
-        "field3": "스포츠맨",
-        "field4": "운동선수들",
-        "field5": "운동가 다운",
+        "field3": "운동선수",
+        "field4": "운동선수",
+        "field5": "운동을 좋아하는 / 운동을 잘하는",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "362": {
         "cardNumber": "362",
@@ -4366,7 +4366,7 @@
         "field6": "",
         "field7": "운동장에서",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "363": {
         "cardNumber": "363",
@@ -4378,23 +4378,23 @@
         "field6": "",
         "field7": "배구를 하시나요?",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "364": {
         "cardNumber": "364",
-        "field1": "자유 시간",
+        "field1": "여가 시간",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "쉬는 시간에는 운동을 해요",
+        "field7": "저는 여가 시간에 운동해요",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "365": {
         "cardNumber": "365",
-        "field1": "기꺼이",
+        "field1": "즐겨 / 기꺼이",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4402,7 +4402,7 @@
         "field6": "",
         "field7": "나는 여행을 좋아한다",
         "field8": "나는 TV 보는 것을 좋아한다",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "366": {
         "cardNumber": "366",
@@ -4412,9 +4412,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "도와주세요?",
+        "field7": "저를 도와줄 수 있나요?",
         "field8": "나는 수영을 못합니다",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "367": {
         "cardNumber": "367",
@@ -4426,7 +4426,7 @@
         "field6": "",
         "field7": "누가 가장 빨리 달리나요?",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "368": {
         "cardNumber": "368",
@@ -4438,19 +4438,19 @@
         "field6": "",
         "field7": "나는 우표를 수집한다",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "369": {
         "cardNumber": "369",
         "field1": "수영하다",
-        "field2": "(수영-스펀지-수영)",
+        "field2": "(수영한다-수영했다-수영한)",
         "field3": "수영장",
         "field4": "수영장",
         "field5": "",
         "field6": "",
-        "field7": "화요일에는 수영장에 가요",
+        "field7": "저는 화요일마다 수영장에 가요",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "370": {
         "cardNumber": "370",
@@ -4462,19 +4462,19 @@
         "field6": "",
         "field7": "우리는 숲속을 산책하러 갑니다",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "371": {
         "cardNumber": "371",
-        "field1": "놀다",
+        "field1": "놀다 / 경기하다 / 연주하다",
         "field2": "",
-        "field3": "게임",
-        "field4": "게임",
-        "field5": "플레이어",
-        "field6": "선수들",
+        "field3": "놀이 / 경기",
+        "field4": "놀이 / 경기",
+        "field5": "선수 / 참가자",
+        "field6": "선수 / 참가자",
         "field7": "",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "372": {
         "cardNumber": "372",
@@ -4486,31 +4486,31 @@
         "field6": "",
         "field7": "강한 남자",
         "field8": "강한 선수",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "373": {
         "cardNumber": "373",
-        "field1": "관행",
+        "field1": "연습하다",
         "field2": "",
-        "field3": "운동",
-        "field4": "연습",
+        "field3": "연습 / 연습 문제",
+        "field4": "연습 / 연습 문제",
         "field5": "",
         "field6": "",
         "field7": "매일 연습해요",
         "field8": "",
-        "category": "스포츠와 자유시간"
+        "category": "스포츠와 여가"
     },
     "374": {
         "cardNumber": "374",
         "field1": "미국",
         "field2": "",
-        "field3": "미국인, 미국 여자",
-        "field4": "미국인, 미국 여성",
-        "field5": "미국 사람",
+        "field3": "미국인 남성, 미국인 여성",
+        "field4": "미국인들",
+        "field5": "미국의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "375": {
         "cardNumber": "375",
@@ -4522,11 +4522,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "376": {
         "cardNumber": "376",
-        "field1": "수화물",
+        "field1": "수하물",
         "field2": "",
         "field3": "기내 수하물",
         "field4": "",
@@ -4534,7 +4534,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "377": {
         "cardNumber": "377",
@@ -4546,32 +4546,32 @@
         "field6": "",
         "field7": "호텔에서",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "378": {
         "cardNumber": "378",
-        "field1": "이 나라",
+        "field1": "나라 / 국가",
         "field2": "국가들",
-        "field3": "랜드카르테",
+        "field3": "지도",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다",
+        "category": "여행",
         "imageName": ""
     },
     "379": {
         "cardNumber": "379",
         "field1": "여행가방",
-        "field2": "수화물",
+        "field2": "여행 가방",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "여행가방이 충분히 큰가요?",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "380": {
         "cardNumber": "380",
@@ -4581,121 +4581,121 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "여권과 가이드북을 챙겨가는데요",
+        "field7": "저는 여권과 여행 안내서를 가져가요",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "381": {
         "cardNumber": "381",
-        "field1": "공휴일",
-        "field2": "공휴일",
+        "field1": "휴가",
+        "field2": "휴가",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "나는 휴가 중이다",
         "field8": "우리는 휴가 때 바다에 갈 거예요",
-        "category": "여행하다"
+        "category": "여행"
     },
     "382": {
         "cardNumber": "382",
         "field1": "독일",
         "field2": "",
-        "field3": "그, 독일인",
+        "field3": "독일인 남성, 독일인 여성",
         "field4": "독일인들",
-        "field5": "독일 사람",
+        "field5": "독일의 / 독일어의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "383": {
         "cardNumber": "383",
-        "field1": "공휴일",
+        "field1": "방학 / 휴가",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "우리는 휴가 중입니다",
-        "field8": "휴일에 어디로 가시나요?",
-        "category": "여행하다"
+        "field8": "방학에 어디로 가나요?",
+        "category": "여행"
     },
     "384": {
         "cardNumber": "384",
         "field1": "스위스",
         "field2": "",
-        "field3": "스위스 사람, 스위스 여자",
-        "field4": "스위스 사람, 스위스 사람",
-        "field5": "스위스",
+        "field3": "스위스인 남성, 스위스인 여성",
+        "field4": "스위스인들",
+        "field5": "스위스의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "385": {
         "cardNumber": "385",
-        "field1": "영국",
+        "field1": "잉글랜드",
         "field2": "",
-        "field3": "영국남자, 영국여자",
-        "field4": "영국인, 영국 여성",
-        "field5": "영어",
+        "field3": "잉글랜드인 남성, 잉글랜드인 여성",
+        "field4": "잉글랜드인들",
+        "field5": "영어의 / 잉글랜드의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "386": {
         "cardNumber": "386",
         "field1": "프랑스",
         "field2": "",
-        "field3": "프랑스인, 프랑스여자",
-        "field4": "프랑스인, 프랑스 여성",
-        "field5": "프랑스 국민",
+        "field3": "프랑스인 남성, 프랑스인 여성",
+        "field4": "프랑스인들",
+        "field5": "프랑스의 / 프랑스어의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "387": {
         "cardNumber": "387",
         "field1": "이탈리아",
         "field2": "",
-        "field3": "이탈리아 사람, 이탈리아 여자",
-        "field4": "이탈리아인, 이탈리아 여성",
-        "field5": "이탈리아 사람",
+        "field3": "이탈리아인 남성, 이탈리아인 여성",
+        "field4": "이탈리아인들",
+        "field5": "이탈리아의 / 이탈리아어의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "388": {
         "cardNumber": "388",
-        "field1": "가져가다",
-        "field2": "(취-취-취)",
+        "field1": "받다 / 가져가다",
+        "field2": "(가져간다-가져갔다-가져간)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "무엇을 가지고 가나요?",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "389": {
         "cardNumber": "389",
         "field1": "오스트리아",
         "field2": "",
-        "field3": "오스트리아 사람, 오스트리아 여자",
-        "field4": "오스트리아인, 오스트리아 여성",
-        "field5": "오스트리아 사람",
+        "field3": "오스트리아인 남성, 오스트리아인 여성",
+        "field4": "오스트리아인들",
+        "field5": "오스트리아의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "390": {
         "cardNumber": "390",
-        "field1": "팩",
+        "field1": "짐을 싸다",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4703,7 +4703,7 @@
         "field6": "",
         "field7": "우리는 아직 가방을 싸야 해",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "391": {
         "cardNumber": "391",
@@ -4715,19 +4715,19 @@
         "field6": "",
         "field7": "다음 여행을 계획하고 있어요",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "392": {
         "cardNumber": "392",
         "field1": "폴란드",
         "field2": "",
-        "field3": "폴란드 여자, 폴란드",
-        "field4": "폴란드인, 폴란드 여성",
-        "field5": "광택",
+        "field3": "폴란드인 남성, 폴란드인 여성",
+        "field4": "폴란드인들",
+        "field5": "폴란드의 / 폴란드어의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "393": {
         "cardNumber": "393",
@@ -4737,13 +4737,13 @@
         "field4": "여행",
         "field5": "",
         "field6": "",
-        "field7": "본보야지!",
+        "field7": "여행 잘 다녀오세요!",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "394": {
         "cardNumber": "394",
-        "field1": "전세",
+        "field1": "예약하다",
         "field2": "",
         "field3": "예약",
         "field4": "예약",
@@ -4751,72 +4751,72 @@
         "field6": "",
         "field7": "방을 예약하고 싶습니다",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "395": {
         "cardNumber": "395",
         "field1": "러시아",
         "field2": "",
-        "field3": "러시아인, 러시아 여자",
-        "field4": "러시아인, 러시아 여자",
-        "field5": "러시아인",
+        "field3": "러시아인 남성, 러시아인 여성",
+        "field4": "러시아인들",
+        "field5": "러시아의 / 러시아어의",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "396": {
         "cardNumber": "396",
         "field1": "스페인",
         "field2": "",
-        "field3": "스페인 사람, 스페인 사람",
-        "field4": "스페인 사람, 스페인 여자",
+        "field3": "스페인인 남성, 스페인인 여성",
+        "field4": "스페인인들",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "397": {
         "cardNumber": "397",
         "field1": "말하다",
-        "field2": "(말하다-말하다-말하다)",
+        "field2": "(말한다-말했다-말한)",
         "field3": "언어",
         "field4": "언어들",
         "field5": "모국어",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "여행하다",
+        "category": "여행",
         "imageName": ""
     },
     "398": {
         "cardNumber": "398",
-        "field1": "경비",
-        "field2": "(지출-지출-지출)",
+        "field1": "보내다 (시간을)",
+        "field2": "(보낸다-보냈다-보낸)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "나는 휴가를 바다에서 보내고 있어요",
         "field8": "",
-        "category": "여행하다"
+        "category": "여행"
     },
     "399": {
         "cardNumber": "399",
-        "field1": "~에",
+        "field1": "~에 / ~에 붙어",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "그는 벽에 그림을 걸었다",
+        "field7": "그는 그림을 벽에 걸어요",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "400": {
         "cardNumber": "400",
-        "field1": "~에",
+        "field1": "~위에",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4824,11 +4824,11 @@
         "field6": "",
         "field7": "책은 탁자 위에있다",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "401": {
         "cardNumber": "401",
-        "field1": "밖으로",
+        "field1": "~에서 / ~로부터",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4836,95 +4836,95 @@
         "field6": "",
         "field7": "나는 베를린에서 왔어요",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "402": {
         "cardNumber": "402",
-        "field1": "~에",
+        "field1": "~근처에 / ~의 집에",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "우체국은 기차역에 있어요",
+        "field7": "우체국은 기차역 근처에 있어요",
         "field8": "나 오늘 이모 집에 있을 거야",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "403": {
         "cardNumber": "403",
-        "field1": "거기",
+        "field1": "거기에",
         "field2": "",
-        "field3": "거기",
+        "field3": "거기로",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "나는 거기로 갈 것이다",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "404": {
         "cardNumber": "404",
         "field1": "가다",
-        "field2": "(가다-가다-사라졌다)",
+        "field2": "(간다-갔다-간)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "난 학교에 간다",
         "field8": "나는 일하러 간다",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "405": {
         "cardNumber": "405",
-        "field1": "여기",
+        "field1": "여기에",
         "field2": "",
-        "field3": "여기",
+        "field3": "여기로",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "나는 여기 있다",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "406": {
         "cardNumber": "406",
-        "field1": "~에",
+        "field1": "~안에 / ~로",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "나는 (그) 집에 있어요",
+        "field7": "저는 집 안에 있어요",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "407": {
         "cardNumber": "407",
         "field1": "오다",
-        "field2": "(왔다-왔다-왔다)",
+        "field2": "(온다-왔다-온)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "기차가 늦었어요",
+        "field7": "기차가 늦게 도착해요",
         "field8": "어디서 왔니?",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "408": {
         "cardNumber": "408",
-        "field1": "놓다",
-        "field2": "(거짓말-거짓말-거짓말)",
+        "field1": "누워 있다 / 놓여 있다",
+        "field2": "(놓여 있다-놓여 있었다-놓여 있던)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "이게 왜 여기 있지?",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "409": {
         "cardNumber": "409",
-        "field1": "~ 후에",
+        "field1": "~로 (방향)",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4932,11 +4932,11 @@
         "field6": "",
         "field7": "그는 독일로 날아간다",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "410": {
         "cardNumber": "410",
-        "field1": "옆에",
+        "field1": "~옆에",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4944,23 +4944,23 @@
         "field6": "",
         "field7": "주차장은 집 옆에 있어요",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "411": {
         "cardNumber": "411",
-        "field1": "앉다",
-        "field2": "(앉아-토-토)",
+        "field1": "앉아 있다",
+        "field2": "(앉아 있다-앉아 있었다-앉아 있던)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "나는 의자에 앉아있다.",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "412": {
         "cardNumber": "412",
-        "field1": "어디",
+        "field1": "어디에",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4968,11 +4968,11 @@
         "field6": "",
         "field7": "어디세요?",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "413": {
         "cardNumber": "413",
-        "field1": "어디",
+        "field1": "어디로",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4980,11 +4980,11 @@
         "field6": "",
         "field7": "어디 가세요?",
         "field8": "",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "414": {
         "cardNumber": "414",
-        "field1": "에게",
+        "field1": "~에게 / ~로 (향하여)",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4992,7 +4992,7 @@
         "field6": "",
         "field7": "나는 의사에게 간다",
         "field8": "내일 방문하러 갈 예정이에요",
-        "category": "이동 및 위치 결정"
+        "category": "이동과 위치"
     },
     "415": {
         "cardNumber": "415",
@@ -5004,7 +5004,7 @@
         "field6": "",
         "field7": "나는 차를 운전한다",
         "field8": "나는 자동차로 갈 거예요",
-        "category": "수송"
+        "category": "교통"
     },
     "416": {
         "cardNumber": "416",
@@ -5016,7 +5016,7 @@
         "field6": "",
         "field7": "비행기를 타고 가시나요, 아니면 차를 운전하시나요?",
         "field8": "",
-        "category": "수송"
+        "category": "교통"
     },
     "417": {
         "cardNumber": "417",
@@ -5028,11 +5028,11 @@
         "field6": "",
         "field7": "나는 배를 타고 여행하는 것을 좋아하지 않는다",
         "field8": "배들이 항구에 있어요",
-        "category": "수송"
+        "category": "교통"
     },
     "418": {
         "cardNumber": "418",
-        "field1": "역",
+        "field1": "기차역",
         "field2": "기차역",
         "field3": "",
         "field4": "",
@@ -5040,7 +5040,7 @@
         "field6": "",
         "field7": "아버지는 기차역에 가신다",
         "field8": "",
-        "category": "수송"
+        "category": "교통"
     },
     "419": {
         "cardNumber": "419",
@@ -5052,19 +5052,19 @@
         "field6": "",
         "field7": "나는 공항에 있어요",
         "field8": "공항에 가시나요?",
-        "category": "수송"
+        "category": "교통"
     },
     "420": {
         "cardNumber": "420",
-        "field1": "방법",
-        "field2": "방법들",
+        "field1": "길",
+        "field2": "길",
         "field3": "보도",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "수송",
+        "category": "교통",
         "imageName": ""
     },
     "421": {
@@ -5077,43 +5077,43 @@
         "field6": "",
         "field7": "우리는 기차로 여행한다",
         "field8": "",
-        "category": "수송"
+        "category": "교통"
     },
     "422": {
         "cardNumber": "422",
-        "field1": "지도",
-        "field2": "카드",
-        "field3": "그 티켓",
+        "field1": "카드 / 표 / 지도",
+        "field2": "카드 / 표 / 지도",
+        "field3": "승차권",
         "field4": "",
-        "field5": "영화관 티켓",
+        "field5": "영화 관람권",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "수송"
+        "category": "교통"
     },
     "423": {
         "cardNumber": "423",
-        "field1": "운전하다",
-        "field2": "(드라이브-드라이브-드라이브)",
+        "field1": "차를 타고 가다 / 운전하다",
+        "field2": "(차를 타고 간다-차를 타고 갔다-차를 타고 간)",
         "field3": "운전사",
         "field4": "운전사",
         "field5": "",
         "field6": "",
-        "field7": "운전해서 어디로 가시나요?",
+        "field7": "어디로 가나요?",
         "field8": "",
-        "category": "수송"
+        "category": "교통"
     },
     "424": {
         "cardNumber": "424",
-        "field1": "파리",
-        "field2": "(파리-날다-날다)",
+        "field1": "날다 / 비행기로 가다",
+        "field2": "(난다-날았다-난)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "내일 본으로 비행기를 타고 갈 거예요",
         "field8": "",
-        "category": "수송"
+        "category": "교통"
     },
     "425": {
         "cardNumber": "425",
@@ -5125,7 +5125,7 @@
         "field6": "",
         "field7": "천천히 조심스럽게 운전하세요!",
         "field8": "",
-        "category": "수송"
+        "category": "교통"
     },
     "426": {
         "cardNumber": "426",
@@ -5137,7 +5137,7 @@
         "field6": "",
         "field7": "당신은 너무 빨리 운전하고 있어요",
         "field8": "",
-        "category": "수송"
+        "category": "교통"
     },
     "427": {
         "cardNumber": "427",
@@ -5165,13 +5165,13 @@
     },
     "429": {
         "cardNumber": "429",
-        "field1": "센터",
-        "field2": "센터",
-        "field3": "본부",
+        "field1": "중심 / 도심",
+        "field2": "중심 / 도심",
+        "field3": "중심의 / 중심부에 있는",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "도심",
+        "field7": "도심에서",
         "field8": "",
         "category": "도시"
     },
@@ -5244,7 +5244,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "나는 Schillerstrasse에 살아요",
+        "field7": "저는 실러 거리에 살아요",
         "field8": "",
         "category": "도시"
     },
@@ -5262,7 +5262,7 @@
     },
     "437": {
         "cardNumber": "437",
-        "field1": "이 나라",
+        "field1": "시골",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5306,14 +5306,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "나는 아내에게 꽃을 선물하고 싶다",
+        "field7": "저는 아내에게 꽃을 선물하는 것을 좋아해요",
         "field8": "",
         "category": "마을"
     },
     "441": {
         "cardNumber": "441",
         "field1": "자라다",
-        "field2": "(성장-성장-성장)",
+        "field2": "(자란다-자랐다-자란)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -5332,7 +5332,7 @@
         "field6": "",
         "field7": "나는 모르지만 피터는 확실히 알고 있다.",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "443": {
         "cardNumber": "443",
@@ -5344,7 +5344,7 @@
         "field6": "",
         "field7": "너도 독일어 배우고 있니?",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "444": {
         "cardNumber": "444",
@@ -5356,31 +5356,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "445": {
         "cardNumber": "445",
-        "field1": "묻다",
-        "field2": "(질문-질문-질문)",
-        "field3": "제발!",
+        "field1": "부탁하다 / 요청하다",
+        "field2": "(부탁한다-부탁했다-부탁한)",
+        "field3": "부탁합니다! / 주세요!",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "제발!",
+        "field7": "여기 있습니다! / 천만에요!",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "446": {
         "cardNumber": "446",
-        "field1": "고마움을 전하기 위해",
+        "field1": "감사하다",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "매우 감사합니다!",
-        "field8": "감사할 것이 없습니다!",
-        "category": "음성통신"
+        "field7": "정말 감사합니다!",
+        "field8": "천만에요!",
+        "category": "언어와 의사소통"
     },
     "447": {
         "cardNumber": "447",
@@ -5392,19 +5392,19 @@
         "field6": "",
         "field7": "실례합니다!",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "448": {
         "cardNumber": "448",
-        "field1": "말하다",
+        "field1": "이야기하다",
         "field2": "",
         "field3": "이야기",
         "field4": "이야기",
         "field5": "",
         "field6": "",
-        "field7": "말하다!",
+        "field7": "이야기해 주세요!",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "449": {
         "cardNumber": "449",
@@ -5416,7 +5416,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신",
+        "category": "언어와 의사소통",
         "imageName": ""
     },
     "450": {
@@ -5429,43 +5429,43 @@
         "field6": "",
         "field7": "좋은 밤 보내",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "451": {
         "cardNumber": "451",
         "field1": "좋은 저녁이에요!",
         "field2": "",
-        "field3": "저녁!",
+        "field3": "좋은 저녁이에요! (줄인 인사)",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "452": {
         "cardNumber": "452",
         "field1": "좋은 아침이에요!",
         "field2": "",
-        "field3": "아침!",
+        "field3": "좋은 아침이에요! (줄인 인사)",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "453": {
         "cardNumber": "453",
         "field1": "안녕하세요!",
         "field2": "",
-        "field3": "낮!",
+        "field3": "안녕하세요! (줄인 인사)",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "454": {
         "cardNumber": "454",
@@ -5477,32 +5477,32 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신",
+        "category": "언어와 의사소통",
         "imageName": ""
     },
     "455": {
         "cardNumber": "455",
         "field1": "불리다",
-        "field2": "(불려졌다)",
+        "field2": "(불린다-불렸다-불린)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "이름이 뭐에요?",
+        "field7": "이름이 뭐예요?",
         "field8": "내 이름은 마리아 야",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "456": {
         "cardNumber": "456",
         "field1": "신사",
-        "field2": "여러분",
+        "field2": "신사들",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "슈미트 씨",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "457": {
         "cardNumber": "457",
@@ -5514,7 +5514,7 @@
         "field6": "",
         "field7": "그래 네가 맞아",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "458": {
         "cardNumber": "458",
@@ -5526,7 +5526,7 @@
         "field6": "",
         "field7": "이해했다?",
         "field8": "이해했다!",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "459": {
         "cardNumber": "459",
@@ -5538,7 +5538,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신",
+        "category": "언어와 의사소통",
         "imageName": ""
     },
     "460": {
@@ -5549,9 +5549,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "고맙지 만 사양 할게",
+        "field7": "아니요, 괜찮습니다",
         "field8": "안 돼!",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "461": {
         "cardNumber": "461",
@@ -5563,7 +5563,7 @@
         "field6": "",
         "field7": "아직 아님",
         "field8": "모르겠습니다",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "462": {
         "cardNumber": "462",
@@ -5575,7 +5575,7 @@
         "field6": "",
         "field7": "영화관이나 콘서트에 가요",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "463": {
         "cardNumber": "463",
@@ -5587,19 +5587,19 @@
         "field6": "",
         "field7": "정말 안타깝습니다!",
         "field8": "아쉽네요 이제 가야겠어요",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "464": {
         "cardNumber": "464",
         "field1": "말하다",
-        "field2": "(말하다-말하다-말하다)",
+        "field2": "(말한다-말했다-말한)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "독일어를 할 수 있나요?",
         "field8": "어떤 언어를 사용하시나요?",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "465": {
         "cardNumber": "465",
@@ -5611,7 +5611,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신",
+        "category": "언어와 의사소통",
         "imageName": ""
     },
     "466": {
@@ -5624,7 +5624,7 @@
         "field6": "",
         "field7": "그녀와 그",
         "field8": "나는 괜찮아요, 당신은 잘 지내요?",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "467": {
         "cardNumber": "467",
@@ -5636,7 +5636,7 @@
         "field6": "",
         "field7": "왜 피곤해요?",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "468": {
         "cardNumber": "468",
@@ -5648,19 +5648,19 @@
         "field6": "",
         "field7": "뭐하세요?",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "469": {
         "cardNumber": "469",
-        "field1": "어떻게 지내세요?",
+        "field1": "잘 지내니?",
         "field2": "",
-        "field3": "어떻게 지내세요?",
+        "field3": "잘 지내세요?",
         "field4": "",
-        "field5": "고맙습니다 전 괜찮아요",
+        "field5": "고마워, 잘 지내",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "음성통신"
+        "category": "언어와 의사소통"
     },
     "470": {
         "cardNumber": "470",
@@ -5688,7 +5688,7 @@
     },
     "472": {
         "cardNumber": "472",
-        "field1": "그 편지",
+        "field1": "편지",
         "field2": "편지들",
         "field3": "우편 배달부",
         "field4": "",
@@ -5707,7 +5707,7 @@
         "field5": "",
         "field6": "",
         "field7": "당신의 주소는 무엇입니까?",
-        "field8": "당신의 주소가 없습니다",
+        "field8": "저는 당신의 주소를 몰라요",
         "category": "미디어"
     },
     "474": {
@@ -5725,8 +5725,8 @@
     },
     "475": {
         "cardNumber": "475",
-        "field1": "메시지",
-        "field2": "뉴스",
+        "field1": "소식 / 메시지",
+        "field2": "소식 / 메시지",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -5774,12 +5774,12 @@
     },
     "479": {
         "cardNumber": "479",
-        "field1": "전화를 걸",
+        "field1": "전화하다",
         "field2": "",
         "field3": "전화기",
         "field4": "전화기",
-        "field5": "전화기",
-        "field6": "휴대폰",
+        "field5": "휴대전화",
+        "field6": "휴대전화",
         "field7": "",
         "field8": "",
         "category": "미디어"
@@ -5788,13 +5788,13 @@
         "cardNumber": "480",
         "field1": "일하다",
         "field2": "",
-        "field3": "작품",
+        "field3": "일 / 직장",
         "field4": "",
         "field5": "노동자",
         "field6": "노동자",
         "field7": "",
         "field8": "",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "481": {
         "cardNumber": "481",
@@ -5804,38 +5804,38 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Lars는 오늘 사무실에 가지 않습니다.",
+        "field7": "라르스는 오늘 사무실에 가지 않아요",
         "field8": "",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "482": {
         "cardNumber": "482",
         "field1": "날짜",
-        "field2": "자료",
-        "field3": "생일",
+        "field2": "날짜",
+        "field3": "생년월일",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "일하다",
+        "category": "직업과 일",
         "imageName": ""
     },
     "483": {
         "cardNumber": "483",
         "field1": "문서",
-        "field2": "그 문서들",
+        "field2": "문서",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "중요한 문서",
         "field8": "",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "484": {
         "cardNumber": "484",
-        "field1": "작업",
+        "field1": "직업",
         "field2": "직업",
         "field3": "",
         "field4": "",
@@ -5843,7 +5843,7 @@
         "field6": "",
         "field7": "직업이 뭐에요?",
         "field8": "",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "485": {
         "cardNumber": "485",
@@ -5855,7 +5855,7 @@
         "field6": "성",
         "field7": "",
         "field8": "",
-        "category": "일하다",
+        "category": "직업과 일",
         "imageName": ""
     },
     "486": {
@@ -5868,11 +5868,11 @@
         "field6": "",
         "field7": "날짜가 잘못되었습니다.",
         "field8": "",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "487": {
         "cardNumber": "487",
-        "field1": "만들다",
+        "field1": "하다 / 만들다",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5880,7 +5880,7 @@
         "field6": "",
         "field7": "주말에 뭐하세요?",
         "field8": "",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "488": {
         "cardNumber": "488",
@@ -5892,7 +5892,7 @@
         "field6": "",
         "field7": "퇴근하고 피곤해요",
         "field8": "",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "489": {
         "cardNumber": "489",
@@ -5904,19 +5904,19 @@
         "field6": "",
         "field7": "그렇죠?",
         "field8": "이 양식이 맞습니다.",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "490": {
         "cardNumber": "490",
         "field1": "벌다",
         "field2": "",
-        "field3": "장점",
+        "field3": "수입 / 소득",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "그 사람은 돈을 많이 벌고 있어요.",
         "field8": "",
-        "category": "일하다"
+        "category": "직업과 일"
     },
     "491": {
         "cardNumber": "491",
@@ -5928,7 +5928,7 @@
         "field6": "",
         "field7": "과일과 야채는 이제 싸다",
         "field8": "",
-        "category": "사업"
+        "category": "경제"
     },
     "492": {
         "cardNumber": "492",
@@ -5940,7 +5940,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "사업"
+        "category": "경제"
     },
     "493": {
         "cardNumber": "493",
@@ -5952,7 +5952,7 @@
         "field6": "",
         "field7": "가격이 저렴해요",
         "field8": "가격이 비싸다",
-        "category": "사업"
+        "category": "경제"
     },
     "494": {
         "cardNumber": "494",
@@ -5964,23 +5964,23 @@
         "field6": "",
         "field7": "나는 은행에 있어요",
         "field8": "은행에 가야 해요",
-        "category": "사업"
+        "category": "경제"
     },
     "495": {
         "cardNumber": "495",
         "field1": "공장",
         "field2": "공장",
-        "field3": "작품",
-        "field4": "작품",
+        "field3": "공장",
+        "field4": "공장",
         "field5": "",
         "field6": "",
         "field7": "우리 삼촌은 공장에서 일해요",
         "field8": "",
-        "category": "사업"
+        "category": "경제"
     },
     "496": {
         "cardNumber": "496",
-        "field1": "그 회사",
+        "field1": "회사",
         "field2": "회사들",
         "field3": "건설 회사",
         "field4": "",
@@ -5988,32 +5988,32 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "사업",
+        "category": "경제",
         "imageName": ""
     },
     "497": {
         "cardNumber": "497",
         "field1": "가지다",
-        "field2": "(있었던 적이 있었죠)",
+        "field2": "(가진다-가졌다-가진)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "난 돈이 없다",
-        "field8": "당신은 돈이 많아요",
-        "category": "사업"
+        "field8": "그들은 돈이 많아요",
+        "category": "경제"
     },
     "498": {
         "cardNumber": "498",
-        "field1": "비용",
+        "field1": "값이 ~이다 / 비용이 들다",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "비용은 얼마입니까?",
-        "field8": "맥주 가격은 2유로",
-        "category": "사업"
+        "field7": "이것은 얼마인가요?",
+        "field8": "맥주는 2유로예요",
+        "category": "경제"
     },
     "499": {
         "cardNumber": "499",
@@ -6025,7 +6025,7 @@
         "field6": "",
         "field7": "비쌉니다",
         "field8": "아파트 가격이 너무 비싸요",
-        "category": "사업"
+        "category": "경제"
     },
     "500": {
         "cardNumber": "500",
@@ -6037,6 +6037,6 @@
         "field6": "",
         "field7": "그는 청구서를 지불한다",
         "field8": "",
-        "category": "사업"
+        "category": "경제"
     }
 }

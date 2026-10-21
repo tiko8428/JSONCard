@@ -1,7 +1,7 @@
 {
     "1": {
         "cardNumber": "1",
-        "field1": "药草",
+        "field1": "香草 / 草本植物",
         "field2": "草药",
         "field3": "花草茶",
         "field4": "你需要香草来做这个酱汁",
@@ -9,19 +9,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "2": {
         "cardNumber": "2",
-        "field1": "爱吃甜食",
-        "field2": "爱吃甜食",
+        "field1": "爱吃甜食的人",
+        "field2": "爱吃甜食的人",
         "field3": "她真是个爱吃甜食的人",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "3": {
         "cardNumber": "3",
@@ -33,7 +33,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "4": {
         "cardNumber": "4",
@@ -45,7 +45,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "5": {
         "cardNumber": "5",
@@ -57,7 +57,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "6": {
         "cardNumber": "6",
@@ -69,7 +69,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "7": {
         "cardNumber": "7",
@@ -81,7 +81,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "8": {
         "cardNumber": "8",
@@ -93,7 +93,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "9": {
         "cardNumber": "9",
@@ -105,7 +105,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "10": {
         "cardNumber": "10",
@@ -117,7 +117,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "11": {
         "cardNumber": "11",
@@ -129,23 +129,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "12": {
         "cardNumber": "12",
         "field1": "葡萄",
         "field2": "葡萄",
-        "field3": "蓝色葡萄",
+        "field3": "紫葡萄",
         "field4": "葡萄汁",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "13": {
         "cardNumber": "13",
-        "field1": "蒸汽",
+        "field1": "焖 / 炖",
         "field2": "今天晚餐我们吃的是炖肉",
         "field3": "",
         "field4": "",
@@ -153,11 +153,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "14": {
         "cardNumber": "14",
-        "field1": "犯规",
+        "field1": "腐烂的",
         "field2": "牛奶有腐臭味",
         "field3": "水果看起来腐烂了",
         "field4": "",
@@ -165,35 +165,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "15": {
         "cardNumber": "15",
         "field1": "酥脆的",
         "field2": "脆薯条",
-        "field3": "包子这么脆",
+        "field3": "这些小面包真酥脆。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "16": {
         "cardNumber": "16",
         "field1": "可口的",
-        "field2": "酒很好吃！",
+        "field2": "这酒真好喝！",
         "field3": "食物味道鲜美",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "17": {
-        "cardNumber": "17 号",
-        "field1": "小吃",
+        "cardNumber": "17",
+        "field1": "吃零食 / 偷吃甜食",
         "field2": "孩子们喜欢吃巧克力",
         "field3": "",
         "field4": "",
@@ -201,11 +201,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "18": {
         "cardNumber": "18",
-        "field1": "郁郁葱葱",
+        "field1": "丰盛的 / 茂盛的",
         "field2": "我今天吃了一顿丰盛的早餐",
         "field3": "",
         "field4": "",
@@ -213,7 +213,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "营养"
+        "category": "饮食"
     },
     "19": {
         "cardNumber": "19",
@@ -225,23 +225,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "20": {
         "cardNumber": "20",
         "field1": "大门",
-        "field2": "目标",
+        "field2": "大门 / 球门",
         "field3": "大门24小时开放",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "21": {
         "cardNumber": "21",
-        "field1": "烟囱",
+        "field1": "壁炉 / 烟囱",
         "field2": "壁炉",
         "field3": "在冬天，我们喜欢晚上坐在壁炉前",
         "field4": "",
@@ -249,19 +249,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "22": {
         "cardNumber": "22",
-        "field1": "钓鱼竿",
-        "field2": "钓鱼",
+        "field1": "铰链 / 钓鱼竿",
+        "field2": "铰链 / 钓鱼竿",
         "field3": "门的铰链吱吱作响",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "23": {
         "cardNumber": "23",
@@ -273,7 +273,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "24": {
         "cardNumber": "24",
@@ -285,7 +285,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "25": {
         "cardNumber": "25",
@@ -297,7 +297,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "26": {
         "cardNumber": "26",
@@ -309,7 +309,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "27": {
         "cardNumber": "27",
@@ -321,55 +321,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "28": {
         "cardNumber": "28",
-        "field1": "舞台",
-        "field2": "步骤",
+        "field1": "台阶 / 阶段",
+        "field2": "台阶 / 阶段",
         "field3": "他站在最上面的台阶上",
-        "field4": "我总是一次走两步",
+        "field4": "我总是一次跨两级台阶。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "29": {
         "cardNumber": "29",
         "field1": "壁纸",
         "field2": "壁纸",
-        "field3": "墙纸",
+        "field3": "贴壁纸",
         "field4": "我自己给这个房间贴了壁纸",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "30": {
         "cardNumber": "30",
-        "field1": "装设",
-        "field2": "设施",
+        "field1": "布置 / 配备",
+        "field2": "家具陈设 / 设施",
         "field3": "我想重新装修我的公寓",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "房子"
+        "category": "居家"
     },
     "31": {
         "cardNumber": "31",
         "field1": "睡懒觉",
-        "field2": "（睡过头了——睡过头了——睡过头了）",
+        "field2": "（现在时：schläft aus；过去时：schlief aus；过去分词：ausgeschlafen）",
         "field3": "我今天没睡好",
         "field4": "当你在度假时，你想睡个好觉",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "32": {
         "cardNumber": "32",
@@ -381,19 +381,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "33": {
         "cardNumber": "33",
-        "field1": "移动电话提供商",
-        "field2": "移动电话提供商",
-        "field3": "您有哪家手机提供商？",
+        "field1": "移动通信运营商",
+        "field2": "移动通信运营商",
+        "field3": "你用哪家移动通信运营商？",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "34": {
         "cardNumber": "34",
@@ -405,19 +405,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "35": {
         "cardNumber": "35",
         "field1": "泡沫",
         "field2": "剃须膏",
-        "field3": "别相信他，他只是在制造泡沫！",
+        "field3": "别信他，他只是在吹牛！",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "36": {
         "cardNumber": "36",
@@ -429,19 +429,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "37": {
         "cardNumber": "37",
         "field1": "习惯",
         "field2": "习惯",
         "field3": "通常",
-        "field4": "异常",
+        "field4": "非同寻常的",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "38": {
         "cardNumber": "38",
@@ -453,7 +453,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "39": {
         "cardNumber": "39",
@@ -465,7 +465,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "40": {
         "cardNumber": "40",
@@ -477,7 +477,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "41": {
         "cardNumber": "41",
@@ -489,7 +489,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "42": {
         "cardNumber": "42",
@@ -501,19 +501,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "43": {
         "cardNumber": "43",
-        "field1": "自发性",
-        "field2": "自发的",
-        "field3": "我喜欢他的自发性",
+        "field1": "随性 / 自发性",
+        "field2": "随性的 / 自发的",
+        "field3": "我喜欢他的随性。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "44": {
         "cardNumber": "44",
@@ -525,7 +525,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "45": {
         "cardNumber": "45",
@@ -537,7 +537,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "46": {
         "cardNumber": "46",
@@ -549,31 +549,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "47": {
         "cardNumber": "47",
-        "field1": "定居",
-        "field2": "她已经完全定居在科隆",
+        "field1": "适应新环境",
+        "field2": "她已经完全适应了科隆的生活。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "48": {
         "cardNumber": "48",
         "field1": "聚会",
-        "field2": "（一起来了 一起来了 一起来了）",
+        "field2": "（现在时：kommt zusammen；过去时：kam zusammen；过去分词：zusammengekommen）",
         "field3": "我们已经很久没有见面了",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "每天"
+        "category": "日常生活"
     },
     "49": {
         "cardNumber": "49",
@@ -585,7 +585,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "50": {
         "cardNumber": "50",
@@ -597,7 +597,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "51": {
         "cardNumber": "51",
@@ -609,11 +609,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "52": {
         "cardNumber": "52",
-        "field1": "讨价还价",
+        "field1": "便宜货",
         "field2": "便宜货",
         "field3": "这顶帽子真是便宜货",
         "field4": "",
@@ -621,7 +621,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "53": {
         "cardNumber": "53",
@@ -633,7 +633,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "54": {
         "cardNumber": "54",
@@ -645,19 +645,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "55": {
         "cardNumber": "55",
-        "field1": "销售",
-        "field2": "打折",
+        "field1": "清仓大甩卖",
+        "field2": "清仓大甩卖",
         "field3": "你可以在促销中以更便宜的价格购买",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "56": {
         "cardNumber": "56",
@@ -669,7 +669,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "57": {
         "cardNumber": "57",
@@ -681,7 +681,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "58": {
         "cardNumber": "58",
@@ -693,7 +693,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "59": {
         "cardNumber": "59",
@@ -705,48 +705,48 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "60": {
         "cardNumber": "60",
         "field1": "受欢迎",
-        "field2": "要求",
+        "field2": "需求",
         "field3": "该产品的需求量很大",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "61": {
         "cardNumber": "61",
         "field1": "让",
-        "field2": "让修理",
-        "field3": "我把车修好了",
+        "field2": "请人修理",
+        "field3": "我请人把车修好了。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "62": {
         "cardNumber": "62",
         "field1": "称赞",
-        "field2": "（表扬-表扬-表扬）",
+        "field2": "（现在时：preist；过去时：pries；过去分词：gepriesen）",
         "field3": "商店为他们的产品做广告",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "采购和服务"
+        "category": "购物与服务"
     },
     "63": {
         "cardNumber": "63",
         "field1": "相处",
-        "field2": "（来自-来自-来自）",
+        "field2": "（现在时：kommt aus；过去时：kam aus；过去分词：ausgekommen）",
         "field3": "生计",
         "field4": "我们相处得很好",
         "field5": "",
@@ -757,8 +757,8 @@
     },
     "64": {
         "cardNumber": "64",
-        "field1": "唯一的孩子",
-        "field2": "唯一的孩子",
+        "field1": "独生子女",
+        "field2": "独生子女",
         "field3": "他是独生子",
         "field4": "",
         "field5": "",
@@ -769,7 +769,7 @@
     },
     "65": {
         "cardNumber": "65",
-        "field1": "宠物名",
+        "field1": "昵称 / 爱称",
         "field2": "昵称",
         "field3": "大家都只叫她的小名",
         "field4": "",
@@ -793,9 +793,9 @@
     },
     "67": {
         "cardNumber": "67",
-        "field1": "母鸡聚会",
-        "field2": "单身派对",
-        "field3": "所有的朋友都来参加单身派对",
+        "field1": "婚前砸瓷器聚会（德国习俗）",
+        "field2": "婚前砸瓷器聚会",
+        "field3": "所有朋友都来参加婚前砸瓷器聚会。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -817,7 +817,7 @@
     },
     "69": {
         "cardNumber": "69",
-        "field1": "单身的",
+        "field1": "单身人士",
         "field2": "单身人士",
         "field3": "她与男友分手，单身生活",
         "field4": "",
@@ -829,9 +829,9 @@
     },
     "70": {
         "cardNumber": "70",
-        "field1": "处理",
-        "field2": "逃避",
-        "field3": "（绕了一圈 - 绕了一圈 - 绕了一圈）",
+        "field1": "交往 / 对待",
+        "field2": "对待 / 与……相处",
+        "field3": "（现在时：geht um；过去时：ging um；过去分词：umgegangen）",
         "field4": "他们以友好的方式对待彼此",
         "field5": "",
         "field6": "",
@@ -841,7 +841,7 @@
     },
     "71": {
         "cardNumber": "71",
-        "field1": "维护",
+        "field1": "抚养费 / 赡养费",
         "field2": "支付赡养费",
         "field3": "",
         "field4": "",
@@ -913,7 +913,7 @@
     },
     "77": {
         "cardNumber": "77",
-        "field1": "很多孩子",
+        "field1": "子女多的",
         "field2": "无子女的",
         "field3": "她来自一个大家庭",
         "field4": "",
@@ -926,7 +926,7 @@
     "78": {
         "cardNumber": "78",
         "field1": "宠爱",
-        "field2": "你的孩子被宠坏了",
+        "field2": "她的孩子们被宠得太过分了。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -945,7 +945,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "80": {
         "cardNumber": "80",
@@ -957,31 +957,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "81": {
         "cardNumber": "81",
         "field1": "梳子",
         "field2": "梳子",
-        "field3": "把所有东西放在一起",
+        "field3": "一概而论 / 不加区别地对待",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "82": {
         "cardNumber": "82",
-        "field1": "下巴",
-        "field2": "下巴",
+        "field1": "颌骨 / 下颌",
+        "field2": "颌骨 / 下颌",
         "field3": "他咬紧了牙关",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "83": {
         "cardNumber": "83",
@@ -993,7 +993,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "84": {
         "cardNumber": "84",
@@ -1005,19 +1005,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "85": {
         "cardNumber": "85",
         "field1": "光头",
-        "field2": "秃头的",
+        "field2": "秃头",
         "field3": "我们的爷爷快秃顶了",
-        "field4": "光头与前院",
+        "field4": "头顶秃而额前仍有头发（戏称）",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "86": {
         "cardNumber": "86",
@@ -1029,7 +1029,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "87": {
         "cardNumber": "87",
@@ -1041,19 +1041,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "88": {
         "cardNumber": "88",
         "field1": "嘴唇",
         "field2": "嘴唇",
-        "field3": "她画了嘴唇",
+        "field3": "她给嘴唇涂了口红。",
         "field4": "他咬着嘴唇",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "89": {
         "cardNumber": "89",
@@ -1065,7 +1065,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "90": {
         "cardNumber": "90",
@@ -1077,19 +1077,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "91": {
         "cardNumber": "91",
         "field1": "睫毛",
         "field2": "睫毛",
-        "field3": "一根睫毛引起了我的注意",
+        "field3": "一根睫毛掉进了我的眼睛。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "92": {
         "cardNumber": "92",
@@ -1101,11 +1101,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "93": {
         "cardNumber": "93",
-        "field1": "摇摇欲坠",
+        "field1": "稀疏的",
         "field2": "他的头发变得稀疏了",
         "field3": "",
         "field4": "",
@@ -1113,19 +1113,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "94": {
         "cardNumber": "94",
-        "field1": "精致地",
-        "field2": "她做了一个微妙的动作",
+        "field1": "娇小的 / 纤细的",
+        "field2": "她做了一个轻巧的动作。",
         "field3": "她身材娇小",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "看"
+        "category": "外貌"
     },
     "95": {
         "cardNumber": "95",
@@ -1137,7 +1137,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "96": {
         "cardNumber": "96",
@@ -1149,11 +1149,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "97": {
         "cardNumber": "97",
-        "field1": "遗憾",
+        "field1": "同情 / 怜悯",
         "field2": "富有同情心的",
         "field3": "我替他感到难过",
         "field4": "",
@@ -1161,7 +1161,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "98": {
         "cardNumber": "98",
@@ -1173,11 +1173,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "99": {
         "cardNumber": "99",
-        "field1": "舒适度",
+        "field1": "安慰",
         "field2": "安慰",
         "field3": "他的话让我充满安慰",
         "field4": "",
@@ -1185,7 +1185,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "100": {
         "cardNumber": "100",
@@ -1197,7 +1197,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "101": {
         "cardNumber": "101",
@@ -1209,7 +1209,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "102": {
         "cardNumber": "102",
@@ -1221,31 +1221,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "103": {
         "cardNumber": "103",
         "field1": "妒忌",
         "field2": "嫉妒的",
-        "field3": "他嫉妒他的女朋友",
+        "field3": "他为女朋友吃醋。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "104": {
         "cardNumber": "104",
-        "field1": "灵敏度",
-        "field2": "敏感的",
+        "field1": "善解人意 / 同理心",
+        "field2": "善解人意的",
         "field3": "他不是一个特别善解人意的人",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "105": {
         "cardNumber": "105",
@@ -1257,19 +1257,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "106": {
         "cardNumber": "106",
         "field1": "安全感",
-        "field2": "恢复了",
+        "field2": "有安全感的 / 受到庇护的",
         "field3": "和他在一起她感到安全",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "107": {
         "cardNumber": "107",
@@ -1281,19 +1281,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "108": {
         "cardNumber": "108",
-        "field1": "同情心",
-        "field2": "同情心",
-        "field3": "友好的",
+        "field1": "好感",
+        "field2": "好感",
+        "field3": "讨人喜欢的",
         "field4": "她有一副好听的声音",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "109": {
         "cardNumber": "109",
@@ -1305,19 +1305,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "110": {
         "cardNumber": "110",
-        "field1": "压痛",
+        "field1": "温柔 / 柔情",
         "field2": "爱抚",
-        "field3": "投标",
+        "field3": "温柔的",
         "field4": "他的母亲温柔地看着他",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "111": {
         "cardNumber": "111",
@@ -1329,19 +1329,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "112": {
         "cardNumber": "112",
         "field1": "克制",
-        "field2": "预订的",
+        "field2": "矜持的 / 克制的",
         "field3": "他总是有点矜持",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "113": {
         "cardNumber": "113",
@@ -1353,19 +1353,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "114": {
         "cardNumber": "114",
         "field1": "感觉",
-        "field2": "（感觉-感觉-感觉）",
+        "field2": "（现在时：empfindet；过去时：empfand；过去分词：empfunden）",
         "field3": "敏感的",
         "field4": "他对她没有任何感觉",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "115": {
         "cardNumber": "115",
@@ -1377,7 +1377,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "116": {
         "cardNumber": "116",
@@ -1389,7 +1389,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "情怀"
+        "category": "情感"
     },
     "117": {
         "cardNumber": "117",
@@ -1477,7 +1477,7 @@
     },
     "124": {
         "cardNumber": "124",
-        "field1": "寒意",
+        "field1": "寒战",
         "field2": "孩子躺在床上浑身发冷",
         "field3": "",
         "field4": "",
@@ -1489,8 +1489,8 @@
     },
     "125": {
         "cardNumber": "125",
-        "field1": "鸽子",
-        "field2": "鸽子",
+        "field1": "失聪者",
+        "field2": "失聪者",
         "field3": "聋",
         "field4": "卡尔从出生起就聋了",
         "field5": "",
@@ -1585,8 +1585,8 @@
     },
     "133": {
         "cardNumber": "133",
-        "field1": "疾病",
-        "field2": "坏的",
+        "field1": "恶心 / 反胃",
+        "field2": "令人恶心的 / 坏的",
         "field3": "这气味让我恶心",
         "field4": "",
         "field5": "",
@@ -1610,7 +1610,7 @@
     "135": {
         "cardNumber": "135",
         "field1": "克服",
-        "field2": "（克服-克服-克服）",
+        "field2": "（现在时：überwindet；过去时：überwand；过去分词：überwunden）",
         "field3": "她战胜了重病",
         "field4": "",
         "field5": "",
@@ -1635,7 +1635,7 @@
         "cardNumber": "137",
         "field1": "闪电",
         "field2": "闪电",
-        "field3": "它减轻了",
+        "field3": "闪电闪烁",
         "field4": "闪电击中了树",
         "field5": "",
         "field6": "",
@@ -1646,7 +1646,7 @@
     "138": {
         "cardNumber": "138",
         "field1": "冰雹",
-        "field2": "正在冰雹",
+        "field2": "下冰雹",
         "field3": "冰雹敲打着窗户",
         "field4": "",
         "field5": "",
@@ -1707,7 +1707,7 @@
         "cardNumber": "143",
         "field1": "洪水",
         "field2": "洪水",
-        "field3": "天气洪水在该地区很常见",
+        "field3": "这个地区经常发生洪水。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1729,7 +1729,7 @@
     },
     "145": {
         "cardNumber": "145",
-        "field1": "明亮的",
+        "field1": "晴朗的 / 愉快的",
         "field2": "天空变得晴朗",
         "field3": "这就像晴天霹雳",
         "field4": "",
@@ -1753,7 +1753,7 @@
     },
     "147": {
         "cardNumber": "147",
-        "field1": "澄清自己",
+        "field1": "放晴",
         "field2": "天空再次放晴",
         "field3": "",
         "field4": "",
@@ -1777,7 +1777,7 @@
     },
     "149": {
         "cardNumber": "149",
-        "field1": "调整自己",
+        "field1": "到来 / 出现 / 适应",
         "field2": "今年的冬天来得早",
         "field3": "",
         "field4": "",
@@ -1814,7 +1814,7 @@
     "152": {
         "cardNumber": "152",
         "field1": "消亡",
-        "field2": "（死了死了灭绝了）",
+        "field2": "（现在时：stirbt aus；过去时：starb aus；过去分词：ausgestorben）",
         "field3": "猛犸象已经灭绝",
         "field4": "许多植物物种正在灭绝",
         "field5": "",
@@ -1862,7 +1862,7 @@
     "156": {
         "cardNumber": "156",
         "field1": "赤道",
-        "field2": "赤道",
+        "field2": "赤道的",
         "field3": "船已越过赤道",
         "field4": "",
         "field5": "",
@@ -1924,7 +1924,7 @@
         "field1": "虫子",
         "field2": "蠕虫",
         "field3": "蚯蚓",
-        "field4": "灯泡里有虫子",
+        "field4": "梨里有一条虫。",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1957,7 +1957,7 @@
     },
     "164": {
         "cardNumber": "164",
-        "field1": "下巴",
+        "field1": "松树",
         "field2": "松树",
         "field3": "松树林",
         "field4": "松果",
@@ -2005,8 +2005,8 @@
     },
     "168": {
         "cardNumber": "168",
-        "field1": "峰会",
-        "field2": "提示",
+        "field1": "尖端 / 顶峰",
+        "field2": "尖端 / 顶峰",
         "field3": "尖",
         "field4": "山顶",
         "field5": "",
@@ -2042,8 +2042,8 @@
     "171": {
         "cardNumber": "171",
         "field1": "复制",
-        "field2": "（注销-注销-注销）",
-        "field3": "长钉",
+        "field2": "（现在时：schreibt ab；过去时：schrieb ab；过去分词：abgeschrieben）",
+        "field3": "作弊 / 偷看答案",
         "field4": "我可以抄你的作业吗？",
         "field5": "",
         "field6": "",
@@ -2089,9 +2089,9 @@
     },
     "175": {
         "cardNumber": "175",
-        "field1": "推理",
+        "field1": "理由 / 论证",
         "field2": "理由",
-        "field3": "证明合法",
+        "field3": "说明理由 / 论证",
         "field4": "你能论证你的观点吗？",
         "field5": "",
         "field6": "",
@@ -2102,8 +2102,8 @@
     "176": {
         "cardNumber": "176",
         "field1": "大纲",
-        "field2": "轮廓",
-        "field3": "结构",
+        "field2": "大纲 / 结构",
+        "field3": "划分 / 组织结构",
         "field4": "首先你得写一个大纲",
         "field5": "",
         "field6": "",
@@ -2137,10 +2137,10 @@
     },
     "179": {
         "cardNumber": "179",
-        "field1": "成绩单",
-        "field2": "成绩单",
-        "field3": "写下",
-        "field4": "（写下来，写下来，写下来）",
+        "field1": "课堂笔记 / 记录",
+        "field2": "课堂笔记 / 记录",
+        "field3": "记笔记",
+        "field4": "（现在时：schreibt mit；过去时：schrieb mit；过去分词：mitgeschrieben）",
         "field5": "你有上次讲座的文字记录吗？",
         "field6": "",
         "field7": "",
@@ -2149,11 +2149,11 @@
     },
     "180": {
         "cardNumber": "180",
-        "field1": "科学",
+        "field1": "自然科学",
         "field2": "自然科学",
-        "field3": "灵性科学",
+        "field3": "人文学科",
         "field4": "人文学科",
-        "field5": "人文学科",
+        "field5": "人文学科的",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2198,7 +2198,7 @@
     "184": {
         "cardNumber": "184",
         "field1": "证明",
-        "field2": "（证明-证明-证明）",
+        "field2": "（现在时：weist nach；过去时：wies nach；过去分词：nachgewiesen）",
         "field3": "这根本无法证明",
         "field4": "",
         "field5": "",
@@ -2221,7 +2221,7 @@
     },
     "186": {
         "cardNumber": "186",
-        "field1": "区分",
+        "field1": "表彰 / 授奖 / 使出众",
         "field2": "奖项",
         "field3": "奖项",
         "field4": "他被授予诺贝尔奖",
@@ -2229,7 +2229,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "187": {
         "cardNumber": "187",
@@ -2241,7 +2241,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "188": {
         "cardNumber": "188",
@@ -2253,7 +2253,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "189": {
         "cardNumber": "189",
@@ -2265,7 +2265,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "190": {
         "cardNumber": "190",
@@ -2277,7 +2277,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "191": {
         "cardNumber": "191",
@@ -2289,7 +2289,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "192": {
         "cardNumber": "192",
@@ -2301,7 +2301,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "193": {
         "cardNumber": "193",
@@ -2313,31 +2313,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "194": {
         "cardNumber": "194",
-        "field1": "录音",
-        "field2": "录音",
-        "field3": "录音很模糊",
-        "field4": "你带我进去了吗？",
+        "field1": "拍摄 / 照片 / 录音",
+        "field2": "照片 / 录音",
+        "field3": "这张照片不清晰。",
+        "field4": "你给我拍下来了吗？",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "195": {
         "cardNumber": "195",
         "field1": "剧情",
-        "field2": "行动",
+        "field2": "剧情 / 行动",
         "field3": "该剧剧情很少",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "196": {
         "cardNumber": "196",
@@ -2349,7 +2349,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "197": {
         "cardNumber": "197",
@@ -2361,31 +2361,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "198": {
         "cardNumber": "198",
         "field1": "组织",
-        "field2": "事件",
-        "field3": "事件",
+        "field2": "活动",
+        "field3": "活动",
         "field4": "活动在户外举行",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "199": {
         "cardNumber": "199",
         "field1": "奉献",
-        "field2": "奉献精神",
-        "field3": "奉献精神",
+        "field2": "献词 / 题献",
+        "field3": "献词 / 题献",
         "field4": "他将此书献给他的妻子",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "文化艺术"
+        "category": "文化与艺术"
     },
     "200": {
         "cardNumber": "200",
@@ -2401,9 +2401,9 @@
     },
     "201": {
         "cardNumber": "201",
-        "field1": "承认",
+        "field1": "忏悔",
         "field2": "忏悔",
-        "field3": "供词",
+        "field3": "忏悔",
         "field4": "他去忏悔",
         "field5": "",
         "field6": "",
@@ -2412,8 +2412,8 @@
         "category": "宗教"
     },
     "202": {
-        "cardNumber": "第202章",
-        "field1": "出价",
+        "cardNumber": "202",
+        "field1": "诫命",
         "field2": "诫命",
         "field3": "十诫",
         "field4": "遵守诫命",
@@ -2425,8 +2425,8 @@
     },
     "203": {
         "cardNumber": "203",
-        "field1": "方丈",
-        "field2": "方丈们",
+        "field1": "修道院院长",
+        "field2": "修道院院长",
         "field3": "修道院",
         "field4": "修道院",
         "field5": "欧洲最大的修道院",
@@ -2475,7 +2475,7 @@
         "cardNumber": "207",
         "field1": "心灵",
         "field2": "灵魂",
-        "field3": "你是一颗心和一个灵魂",
+        "field3": "他们心心相印，亲密无间。",
         "field4": "他是公司的灵魂",
         "field5": "",
         "field6": "",
@@ -2497,9 +2497,9 @@
     },
     "209": {
         "cardNumber": "209",
-        "field1": "快速地",
+        "field1": "禁食 / 斋戒",
         "field2": "禁食",
-        "field3": "空腹食物",
+        "field3": "斋戒食品",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2509,8 +2509,8 @@
     },
     "210": {
         "cardNumber": "210",
-        "field1": "相信",
-        "field2": "难以置信的",
+        "field1": "虔诚信教的",
+        "field2": "不信教的 / 不相信的",
         "field3": "他是一位非常虔诚的基督徒",
         "field4": "",
         "field5": "",
@@ -2523,7 +2523,7 @@
         "cardNumber": "211",
         "field1": "保佑",
         "field2": "祝福",
-        "field3": "的祝福",
+        "field3": "祝福",
         "field4": "牧师为新娘和新郎祝福",
         "field5": "",
         "field6": "",
@@ -2533,8 +2533,8 @@
     },
     "212": {
         "cardNumber": "212",
-        "field1": "万物的",
-        "field2": "今天是我迟到的日子",
+        "field1": "偏偏 / 恰恰",
+        "field2": "偏偏今天我迟到了。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2557,8 +2557,8 @@
     },
     "214": {
         "cardNumber": "214",
-        "field1": "评价",
-        "field2": "回顾展",
+        "field1": "回顾",
+        "field2": "回顾",
         "field3": "回望过去，很多事情都显得不一样了",
         "field4": "",
         "field5": "",
@@ -2581,7 +2581,7 @@
     },
     "216": {
         "cardNumber": "216",
-        "field1": "存在",
+        "field1": "现在 / 当代",
         "field2": "现在",
         "field3": "你喜欢当代艺术吗？",
         "field4": "",
@@ -2653,8 +2653,8 @@
     },
     "222": {
         "cardNumber": "222",
-        "field1": "同时",
-        "field2": "现在已经是晚上了",
+        "field1": "在此期间 / 到那时",
+        "field2": "这时天已经晚了。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2725,19 +2725,19 @@
     },
     "228": {
         "cardNumber": "228",
-        "field1": "减肥",
-        "field2": "（减少-减少-减少）",
+        "field1": "减少 / 减轻体重",
+        "field2": "（现在时：nimmt ab；过去时：nahm ab；过去分词：abgenommen）",
         "field3": "减少",
         "field4": "秋天白天的时间减少了",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "229": {
         "cardNumber": "229",
-        "field1": "也",
+        "field1": "太 / 过于",
         "field2": "不算太晚",
         "field3": "",
         "field4": "",
@@ -2745,34 +2745,34 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "230": {
         "cardNumber": "230",
-        "field1": "网络",
-        "field2": "网络",
-        "field3": "一张橘子网",
+        "field1": "网 / 网络",
+        "field2": "网 / 网络",
+        "field3": "一网袋橙子",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "231": {
-        "cardNumber": "第231章",
+        "cardNumber": "231",
         "field1": "矩形",
         "field2": "矩形",
         "field3": "矩形的",
-        "field4": "你能画一个帝国广场吗？",
+        "field4": "你能画一个矩形吗？",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "232": {
-        "cardNumber": "第232章",
+        "cardNumber": "232",
         "field1": "直径",
         "field2": "直径",
         "field3": "这个圆的直径为两米",
@@ -2781,19 +2781,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "233": {
         "cardNumber": "233",
         "field1": "平均数",
-        "field2": "一般",
+        "field2": "平均而言",
         "field3": "他的表现远高于平均水平",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "234": {
         "cardNumber": "234",
@@ -2805,7 +2805,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "235": {
         "cardNumber": "235",
@@ -2817,7 +2817,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "236": {
         "cardNumber": "236",
@@ -2829,10 +2829,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "237": {
-        "cardNumber": "第237章",
+        "cardNumber": "237",
         "field1": "角度",
         "field2": "角度",
         "field3": "一个直角",
@@ -2841,7 +2841,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "238": {
         "cardNumber": "238",
@@ -2853,7 +2853,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "239": {
         "cardNumber": "239",
@@ -2865,22 +2865,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "240": {
         "cardNumber": "240",
         "field1": "夸张",
         "field2": "夸张的说法",
         "field3": "夸大",
-        "field4": "（夸大-夸大-夸大）",
+        "field4": "（现在时：übertreibt；过去时：übertrieb；过去分词：übertrieben）",
         "field5": "他慢跑过度",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "241": {
-        "cardNumber": "第241章",
+        "cardNumber": "241",
         "field1": "激烈的",
         "field2": "价格急剧上涨",
         "field3": "严厉措施",
@@ -2889,11 +2889,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "242": {
-        "cardNumber": "第242章",
-        "field1": "极大地",
+        "cardNumber": "242",
+        "field1": "巨大的 / 极其",
         "field2": "这是一个巨大的成功",
         "field3": "这让我非常感兴趣",
         "field4": "",
@@ -2901,11 +2901,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "243": {
         "cardNumber": "243",
-        "field1": "正方形-",
+        "field1": "平方……",
         "field2": "平方厘米",
         "field3": "我们的公寓有50平方米",
         "field4": "",
@@ -2913,7 +2913,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "244": {
         "cardNumber": "244",
@@ -2925,7 +2925,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "245": {
         "cardNumber": "245",
@@ -2937,22 +2937,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "246": {
         "cardNumber": "246",
-        "field1": "体重增加",
-        "field2": "（增加-增加-增加）",
+        "field1": "增加 / 体重增加",
+        "field2": "（现在时：nimmt zu；过去时：nahm zu；过去分词：zugenommen）",
         "field3": "增加",
         "field4": "人口仍在增加",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "方面"
+        "category": "度量与单位"
     },
     "247": {
-        "cardNumber": "第247章",
+        "cardNumber": "247",
         "field1": "杯子",
         "field2": "杯子",
         "field3": "她给杯子里倒满了酒",
@@ -2961,19 +2961,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "248": {
         "cardNumber": "248",
         "field1": "扫帚",
         "field2": "扫帚",
         "field3": "他用扫帚扫院子",
-        "field4": "新扫帚扫地干净",
+        "field4": "新官上任三把火。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "249": {
         "cardNumber": "249",
@@ -2985,7 +2985,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "250": {
         "cardNumber": "250",
@@ -2997,22 +2997,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "251": {
-        "cardNumber": "第251章",
+        "cardNumber": "251",
         "field1": "锤子",
         "field2": "锤子",
-        "field3": "扔锤子",
+        "field3": "掷链球",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "252": {
-        "cardNumber": "第252章",
+        "cardNumber": "252",
         "field1": "笼",
         "field2": "笼子",
         "field3": "金色的笼子",
@@ -3021,10 +3021,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "253": {
-        "cardNumber": "第253章",
+        "cardNumber": "253",
         "field1": "软木塞",
         "field2": "软木塞",
         "field3": "开瓶器",
@@ -3033,10 +3033,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "254": {
-        "cardNumber": "第254章",
+        "cardNumber": "254",
         "field1": "轮椅",
         "field2": "轮椅",
         "field3": "事故发生后她不得不坐在轮椅上",
@@ -3045,11 +3045,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "255": {
         "cardNumber": "255",
-        "field1": "鸵鸟",
+        "field1": "花束",
         "field2": "花束",
         "field3": "她把花束插进花瓶里",
         "field4": "",
@@ -3057,31 +3057,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "256": {
         "cardNumber": "256",
-        "field1": "版本",
-        "field2": "版本",
+        "field1": "框架 / 版本",
+        "field2": "框架 / 版本",
         "field3": "这些眼镜需要新镜框",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "257": {
-        "cardNumber": "第257章",
-        "field1": "皮带",
-        "field2": "线条",
+        "cardNumber": "257",
+        "field1": "绳 / 牵引绳",
+        "field2": "绳 / 牵引绳",
         "field3": "晾衣绳",
         "field4": "狗绳",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "258": {
         "cardNumber": "258",
@@ -3093,19 +3093,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "259": {
-        "cardNumber": "第259章",
-        "field1": "哨子",
-        "field2": "管道",
-        "field3": "赛季前吸烟现在很流行",
+        "cardNumber": "259",
+        "field1": "烟斗 / 哨子",
+        "field2": "烟斗 / 哨子",
+        "field3": "现在流行用烟斗抽烟。",
         "field4": "他点燃一根烟斗",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "260": {
         "cardNumber": "260",
@@ -3117,11 +3117,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "261": {
         "cardNumber": "261",
-        "field1": "特征",
+        "field1": "支配 / 拥有 / 下令",
         "field2": "处置",
         "field3": "她可以使用这辆车",
         "field4": "",
@@ -3129,23 +3129,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "262": {
         "cardNumber": "262",
         "field1": "可用的",
-        "field2": "这个东西只存在一次",
+        "field2": "这件东西只有一件。",
         "field3": "物资已所剩无几",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "项目"
+        "category": "物品"
     },
     "263": {
         "cardNumber": "263",
-        "field1": "（充足的）。",
+        "field1": "足够 / 够用",
         "field2": "充足的",
         "field3": "材质不够做裙子",
         "field4": "",
@@ -3153,7 +3153,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "264": {
         "cardNumber": "264",
@@ -3165,11 +3165,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "265": {
         "cardNumber": "265",
-        "field1": "带领",
+        "field1": "铅",
         "field2": "下班后我的脚像灌了铅一样沉重",
         "field3": "",
         "field4": "",
@@ -3177,7 +3177,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "266": {
         "cardNumber": "266",
@@ -3189,10 +3189,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "267": {
-        "cardNumber": "第267章",
+        "cardNumber": "267",
         "field1": "铜",
         "field2": "一枚铜币",
         "field3": "",
@@ -3201,7 +3201,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "268": {
         "cardNumber": "268",
@@ -3213,7 +3213,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "269": {
         "cardNumber": "269",
@@ -3225,7 +3225,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "270": {
         "cardNumber": "270",
@@ -3237,10 +3237,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "271": {
-        "cardNumber": "第271章",
+        "cardNumber": "271",
         "field1": "钢铁",
         "field2": "钢材",
         "field3": "材质坚硬如钢",
@@ -3249,10 +3249,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "272": {
-        "cardNumber": "第272章",
+        "cardNumber": "272",
         "field1": "燃料",
         "field2": "燃料",
         "field3": "该机器需要柴油作为燃料",
@@ -3261,7 +3261,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "273": {
         "cardNumber": "273",
@@ -3273,7 +3273,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "274": {
         "cardNumber": "274",
@@ -3285,7 +3285,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "275": {
         "cardNumber": "275",
@@ -3297,22 +3297,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "276": {
         "cardNumber": "276",
-        "field1": "进入",
-        "field2": "（输入-输入-输入）",
+        "field1": "缩水 / 进入",
+        "field2": "（现在时：geht ein；过去时：ging ein；过去分词：eingegangen）",
         "field3": "这件衣服洗了缩水了",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "面料和材料"
+        "category": "物质与材料"
     },
     "277": {
-        "cardNumber": "第277章",
+        "cardNumber": "277",
         "field1": "热身",
         "field2": "热身",
         "field3": "运动前你需要热身",
@@ -3321,7 +3321,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "278": {
         "cardNumber": "278",
@@ -3333,10 +3333,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "279": {
-        "cardNumber": "第279章",
+        "cardNumber": "279",
         "field1": "对手",
         "field2": "对手",
         "field3": "他不应该被认真地视为对手",
@@ -3345,7 +3345,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "280": {
         "cardNumber": "280",
@@ -3357,10 +3357,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "281": {
-        "cardNumber": "第281章",
+        "cardNumber": "281",
         "field1": "俯卧撑",
         "field2": "俯卧撑",
         "field3": "你必须做20个俯卧撑",
@@ -3369,10 +3369,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "282": {
-        "cardNumber": "第282章",
+        "cardNumber": "282",
         "field1": "刺激",
         "field2": "我喜欢跳伞的刺激",
         "field3": "",
@@ -3381,58 +3381,58 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "283": {
-        "cardNumber": "第283章",
-        "field1": "派对动物",
-        "field2": "我是一个非常糟糕的派对动物",
+        "cardNumber": "283",
+        "field1": "派对迷",
+        "field2": "我以前是个十足的派对迷。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "284": {
-        "cardNumber": "第284章",
+        "cardNumber": "284",
         "field1": "命中",
-        "field2": "热门歌曲",
+        "field2": "命中 / 进球",
         "field3": "我们队进球了",
-        "field4": "每一次射击都是一次打击",
+        "field4": "每一枪都命中了。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "285": {
-        "cardNumber": "第285章",
+        "cardNumber": "285",
         "field1": "消遣",
-        "field2": "这只是让他们打发时间",
+        "field2": "她做这件事只是为了消遣。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "286": {
-        "cardNumber": "第286章",
-        "field1": "分心",
+        "cardNumber": "286",
+        "field1": "消遣 / 转移注意力",
         "field2": "干扰",
         "field3": "转移",
-        "field4": "我需要一点分散注意力",
+        "field4": "我需要稍微放松一下，转移注意力。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "287": {
-        "cardNumber": "第287章",
+        "cardNumber": "287",
         "field1": "耐力",
         "field2": "马拉松运动员需要很强的耐力",
         "field3": "",
@@ -3441,7 +3441,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "288": {
         "cardNumber": "288",
@@ -3453,10 +3453,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "289": {
-        "cardNumber": "第289章",
+        "cardNumber": "289",
         "field1": "游戏规则",
         "field2": "游戏规则",
         "field3": "这是违反游戏规则的",
@@ -3465,7 +3465,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "290": {
         "cardNumber": "290",
@@ -3477,22 +3477,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "291": {
-        "cardNumber": "第291章",
-        "field1": "世界杯",
+        "cardNumber": "291",
+        "field1": "世界锦标赛",
         "field2": "世界锦标赛",
-        "field3": "世界杯",
+        "field3": "世界锦标赛（缩写）",
         "field4": "他们赢得了足球世界杯",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "292": {
-        "cardNumber": "第292章",
+        "cardNumber": "292",
         "field1": "打猎",
         "field2": "打猎",
         "field3": "猎人",
@@ -3501,7 +3501,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "293": {
         "cardNumber": "293",
@@ -3513,26 +3513,26 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "294": {
         "cardNumber": "294",
         "field1": "扔",
-        "field2": "（扔-扔-扔）",
+        "field2": "（现在时：wirft；过去时：warf；过去分词：geworfen）",
         "field3": "投掷",
-        "field4": "垃圾",
+        "field4": "投掷",
         "field5": "树投下了影子",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运动和空闲时间"
+        "category": "运动与休闲"
     },
     "295": {
         "cardNumber": "295",
         "field1": "比利时",
         "field2": "比利时人，比利时女人",
         "field3": "比利时人",
-        "field4": "比利时人",
+        "field4": "比利时的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3552,11 +3552,11 @@
         "category": "旅行"
     },
     "297": {
-        "cardNumber": "第297章",
+        "cardNumber": "297",
         "field1": "中国",
         "field2": "中国人，中国女人",
         "field3": "中国人，中国女人",
-        "field4": "中国人",
+        "field4": "中国的 / 中文的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3568,7 +3568,7 @@
         "field1": "丹麦",
         "field2": "丹麦人，丹麦女人",
         "field3": "丹麦人，丹麦人",
-        "field4": "丹麦语",
+        "field4": "丹麦的 / 丹麦语的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3601,7 +3601,7 @@
     },
     "301": {
         "cardNumber": "301",
-        "field1": "招股说明书",
+        "field1": "宣传册",
         "field2": "宣传册",
         "field3": "旅游手册",
         "field4": "",
@@ -3612,10 +3612,10 @@
         "category": "旅行"
     },
     "302": {
-        "cardNumber": "第302章",
-        "field1": "大篷车",
-        "field2": "大篷车",
-        "field3": "他们开着大篷车去度假",
+        "cardNumber": "302",
+        "field1": "拖挂式房车",
+        "field2": "拖挂式房车",
+        "field3": "他们拖着房车去度假了。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3649,8 +3649,8 @@
     },
     "305": {
         "cardNumber": "305",
-        "field1": "探险队",
-        "field2": "探险队",
+        "field1": "探险 / 考察",
+        "field2": "探险 / 考察",
         "field3": "他们出发去探险",
         "field4": "",
         "field5": "",
@@ -3661,10 +3661,10 @@
     },
     "306": {
         "cardNumber": "306",
-        "field1": "荷兰人",
+        "field1": "荷兰",
         "field2": "荷兰人",
         "field3": "荷兰人",
-        "field4": "荷兰语",
+        "field4": "荷兰的 / 荷兰语的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3685,10 +3685,10 @@
     },
     "308": {
         "cardNumber": "308",
-        "field1": "火鸡",
+        "field1": "土耳其",
         "field2": "土耳其人，土耳其女人",
         "field3": "土耳其人、土耳其妇女",
-        "field4": "土耳其",
+        "field4": "土耳其的 / 土耳其语的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3724,7 +3724,7 @@
         "field1": "希腊",
         "field2": "希腊人，希腊女人",
         "field3": "希腊人、希腊妇女",
-        "field4": "希腊语",
+        "field4": "希腊的 / 希腊语的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3732,11 +3732,11 @@
         "category": "旅行"
     },
     "312": {
-        "cardNumber": "第312章",
+        "cardNumber": "312",
         "field1": "日本",
         "field2": "日本人，日本女人",
-        "field3": "日本",
-        "field4": "日本人",
+        "field3": "日本人",
+        "field4": "日本的 / 日语的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3748,7 +3748,7 @@
         "field1": "瑞典",
         "field2": "瑞典人，瑞典人",
         "field3": "瑞典人，瑞典人",
-        "field4": "瑞典",
+        "field4": "瑞典的 / 瑞典语的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3760,7 +3760,7 @@
         "field1": "匈牙利",
         "field2": "匈牙利人",
         "field3": "匈牙利人",
-        "field4": "匈牙利",
+        "field4": "匈牙利的 / 匈牙利语的",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3770,7 +3770,7 @@
     "315": {
         "cardNumber": "315",
         "field1": "回来",
-        "field2": "回报",
+        "field2": "返回 / 归来",
         "field3": "你什么时候回来的？",
         "field4": "",
         "field5": "",
@@ -3781,7 +3781,7 @@
     },
     "316": {
         "cardNumber": "316",
-        "field1": "（增加",
+        "field1": "提高 / 增加",
         "field2": "价格不断上涨",
         "field3": "",
         "field4": "",
@@ -3789,43 +3789,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "317": {
-        "cardNumber": "第317章",
+        "cardNumber": "317",
         "field1": "不同",
-        "field2": "（偏差-偏差-偏差）",
+        "field2": "（现在时：weicht ab；过去时：wich ab；过去分词：abgewichen）",
         "field3": "我们已经偏离了道路",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "318": {
         "cardNumber": "318",
         "field1": "特点",
         "field2": "特点",
-        "field3": "没有特殊功能",
+        "field3": "没有特别的特征",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "319": {
-        "cardNumber": "第319章",
+        "cardNumber": "319",
         "field1": "距离",
         "field2": "距离",
-        "field3": "已删除",
+        "field3": "遥远的 / 距离……的",
         "field4": "她站在百米外",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "320": {
         "cardNumber": "320",
@@ -3837,7 +3837,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "321": {
         "cardNumber": "321",
@@ -3849,10 +3849,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "322": {
-        "cardNumber": "第322章",
+        "cardNumber": "322",
         "field1": "蹲",
         "field2": "她蹲在地板上",
         "field3": "",
@@ -3861,22 +3861,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "323": {
         "cardNumber": "323",
         "field1": "爬行",
-        "field2": "（爬行-爬行-爬行）",
+        "field2": "（现在时：kriecht；过去时：kroch；过去分词：gekrochen）",
         "field3": "四肢爬行",
         "field4": "晚上我只想爬上床",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "324": {
-        "cardNumber": "第324章",
+        "cardNumber": "324",
         "field1": "通勤",
         "field2": "钟摆",
         "field3": "钟摆",
@@ -3885,7 +3885,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "325": {
         "cardNumber": "325",
@@ -3897,47 +3897,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "326": {
-        "cardNumber": "第326章",
+        "cardNumber": "326",
         "field1": "下沉",
-        "field2": "（滴滴滴滴）",
-        "field3": "减少",
+        "field2": "（现在时：sinkt；过去时：sank；过去分词：gesunken）",
+        "field3": "降低",
         "field4": "飞机逐渐下降",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "327": {
-        "cardNumber": "第327章",
-        "field1": "步",
-        "field2": "（踢踢踢）",
+        "cardNumber": "327",
+        "field1": "迈步 / 踢",
+        "field2": "（现在时：tritt；过去时：trat；过去分词：getreten）",
         "field3": "进入",
-        "field4": "（输入-输入-输入）",
+        "field4": "（现在时：tritt ein；过去时：trat ein；过去分词：eingetreten）",
         "field5": "请靠近一点！",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "328": {
         "cardNumber": "328",
         "field1": "逃离",
-        "field2": "（离开-离开-离开）",
+        "field2": "（现在时：kommt weg；过去时：kam weg；过去分词：weggekommen）",
         "field3": "他无法离开窗户",
-        "field4": "嘘！",
+        "field4": "快走开！",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "329": {
-        "cardNumber": "第329章",
-        "field1": "无障碍",
+        "cardNumber": "329",
+        "field1": "可到达的 / 可进入的",
         "field2": "岛上交通便利",
         "field3": "山上很难进",
         "field4": "",
@@ -3945,22 +3945,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移动和位置确定"
+        "category": "移动与方位"
     },
     "330": {
         "cardNumber": "330",
-        "field1": "脱颖而出",
-        "field2": "（失败-失败-失败）",
+        "field1": "取消 / 发生故障",
+        "field2": "（现在时：fällt aus；过去时：fiel aus；过去分词：ausgefallen）",
         "field3": "火车取消了",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "331": {
-        "cardNumber": "第331章",
+        "cardNumber": "331",
         "field1": "隔间",
         "field2": "隔间",
         "field3": "车厢卧铺车",
@@ -3969,10 +3969,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "332": {
-        "cardNumber": "第332章",
+        "cardNumber": "332",
         "field1": "小舟",
         "field2": "船",
         "field3": "帆船",
@@ -3981,11 +3981,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "333": {
-        "cardNumber": "第333章",
-        "field1": "护盾",
+        "cardNumber": "333",
+        "field1": "标牌 / 标志",
         "field2": "标志",
         "field3": "停车标志",
         "field4": "",
@@ -3993,22 +3993,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "334": {
-        "cardNumber": "第334章",
-        "field1": "该平台",
-        "field2": "平台",
-        "field3": "平台边缘",
+        "cardNumber": "334",
+        "field1": "站台",
+        "field2": "站台",
+        "field3": "站台边缘",
         "field4": "请从站台边缘退后！",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "335": {
-        "cardNumber": "第335章",
+        "cardNumber": "335",
         "field1": "租车",
         "field2": "租车",
         "field3": "我们租车",
@@ -4017,23 +4017,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "336": {
-        "cardNumber": "第336章",
-        "field1": "指挥",
-        "field2": "导体",
+        "cardNumber": "336",
+        "field1": "列车员 / 售票员",
+        "field2": "列车员 / 售票员",
         "field3": "售票员已经查票了",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "337": {
-        "cardNumber": "第337章",
-        "field1": "渡船;海运;水运",
+        "cardNumber": "337",
+        "field1": "渡船 / 渡轮",
         "field2": "渡轮",
         "field3": "我们坐渡轮",
         "field4": "渡轮什么时候出发？",
@@ -4041,10 +4041,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "338": {
-        "cardNumber": "第338章",
+        "cardNumber": "338",
         "field1": "紧急制动",
         "field2": "拉紧急刹车",
         "field3": "",
@@ -4053,11 +4053,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "339": {
-        "cardNumber": "第339章",
-        "field1": "沉溺于",
+        "cardNumber": "339",
+        "field1": "让自己享受 / 犒劳自己",
         "field2": "我无法享受前往新西兰的游轮之旅",
         "field3": "",
         "field4": "",
@@ -4065,7 +4065,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "340": {
         "cardNumber": "340",
@@ -4077,23 +4077,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "341": {
-        "cardNumber": "第341章",
+        "cardNumber": "341",
         "field1": "连接",
-        "field2": "（连接-关联-连接）",
+        "field2": "（现在时：verbindet；过去时：verband；过去分词：verbunden）",
         "field3": "连接",
         "field4": "连接",
-        "field5": "总线连接",
+        "field5": "公交线路 / 公交连接",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "342": {
-        "cardNumber": "第342章",
-        "field1": "废料",
+        "cardNumber": "342",
+        "field1": "报废",
         "field2": "废料",
         "field3": "报废一辆旧车",
         "field4": "",
@@ -4101,10 +4101,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "运输"
+        "category": "交通"
     },
     "343": {
-        "cardNumber": "第343章",
+        "cardNumber": "343",
         "field1": "限制",
         "field2": "限制",
         "field3": "局限性",
@@ -4116,7 +4116,7 @@
         "category": "城市"
     },
     "344": {
-        "cardNumber": "第344章",
+        "cardNumber": "344",
         "field1": "烟花",
         "field2": "烟花",
         "field3": "晚会在一场盛大的烟花表演中结束",
@@ -4128,9 +4128,9 @@
         "category": "城市"
     },
     "345": {
-        "cardNumber": "第345章",
-        "field1": "该地区",
-        "field2": "的地区",
+        "cardNumber": "345",
+        "field1": "地区",
+        "field2": "地区",
         "field3": "自然保护区",
         "field4": "工业区",
         "field5": "",
@@ -4140,9 +4140,9 @@
         "category": "城市"
     },
     "346": {
-        "cardNumber": "第346章",
+        "cardNumber": "346",
         "field1": "禁止超车",
-        "field2": "超过",
+        "field2": "超车",
         "field3": "斑马线禁止超车",
         "field4": "",
         "field5": "",
@@ -4152,7 +4152,7 @@
         "category": "城市"
     },
     "347": {
-        "cardNumber": "第347章",
+        "cardNumber": "347",
         "field1": "地标",
         "field2": "地标",
         "field3": "巴黎的象征是埃菲尔铁塔",
@@ -4164,7 +4164,7 @@
         "category": "城市"
     },
     "348": {
-        "cardNumber": "第348章",
+        "cardNumber": "348",
         "field1": "区",
         "field2": "各地区",
         "field3": "她不再居住在这个地区",
@@ -4176,9 +4176,9 @@
         "category": "城市"
     },
     "349": {
-        "cardNumber": "第349章",
+        "cardNumber": "349",
         "field1": "本地人",
-        "field2": "本地的",
+        "field2": "本地人",
         "field3": "我们向当地人询问路线",
         "field4": "",
         "field5": "",
@@ -4189,7 +4189,7 @@
     },
     "350": {
         "cardNumber": "350",
-        "field1": "这个地方",
+        "field1": "地点",
         "field2": "地点",
         "field3": "本地",
         "field4": "现场",
@@ -4200,7 +4200,7 @@
         "category": "城市"
     },
     "351": {
-        "cardNumber": "第351章",
+        "cardNumber": "351",
         "field1": "喷泉",
         "field2": "喷泉",
         "field3": "集市广场上有一个新的喷泉",
@@ -4212,7 +4212,7 @@
         "category": "城市"
     },
     "352": {
-        "cardNumber": "第352章",
+        "cardNumber": "352",
         "field1": "单行道",
         "field2": "单行道",
         "field3": "双向街",
@@ -4224,7 +4224,7 @@
         "category": "城市"
     },
     "353": {
-        "cardNumber": "第353章",
+        "cardNumber": "353",
         "field1": "死胡同",
         "field2": "死胡同",
         "field3": "这条街是死胡同",
@@ -4236,7 +4236,7 @@
         "category": "城市"
     },
     "354": {
-        "cardNumber": "第354章",
+        "cardNumber": "354",
         "field1": "市图书馆",
         "field2": "城市图书馆",
         "field3": "你经常从市图书馆借书吗？",
@@ -4248,9 +4248,9 @@
         "category": "城市"
     },
     "355": {
-        "cardNumber": "第355章",
+        "cardNumber": "355",
         "field1": "出现",
-        "field2": "（出现-出现-出现）",
+        "field2": "（现在时：entsteht；过去时：entstand；过去分词：entstanden）",
         "field3": "这里正在建一所学校",
         "field4": "",
         "field5": "",
@@ -4260,7 +4260,7 @@
         "category": "城市"
     },
     "356": {
-        "cardNumber": "第356章",
+        "cardNumber": "356",
         "field1": "建造",
         "field2": "那里正在建造一座高层建筑",
         "field3": "",
@@ -4272,7 +4272,7 @@
         "category": "城市"
     },
     "357": {
-        "cardNumber": "第357章",
+        "cardNumber": "357",
         "field1": "谷物",
         "field2": "你知道哪些类型的谷物？",
         "field3": "",
@@ -4281,22 +4281,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "358": {
-        "cardNumber": "第358章",
+        "cardNumber": "358",
         "field1": "稻草",
         "field2": "草帽",
-        "field3": "他脑子里有稻草",
+        "field3": "他脑袋空空，没什么头脑。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "359": {
-        "cardNumber": "第359章",
+        "cardNumber": "359",
         "field1": "肥料",
         "field2": "肥料",
         "field3": "施肥",
@@ -4305,7 +4305,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "360": {
         "cardNumber": "360",
@@ -4317,10 +4317,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "361": {
-        "cardNumber": "第361章",
+        "cardNumber": "361",
         "field1": "路径",
         "field2": "路径",
         "field3": "走荫路",
@@ -4329,10 +4329,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "362": {
-        "cardNumber": "第362章",
+        "cardNumber": "362",
         "field1": "黑麦",
         "field2": "黑麦面包",
         "field3": "这里种植黑麦",
@@ -4341,22 +4341,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "363": {
-        "cardNumber": "第363章",
+        "cardNumber": "363",
         "field1": "围栏",
         "field2": "栅栏",
-        "field3": "活的栅栏",
+        "field3": "绿篱",
         "field4": "我们把栅栏漆成黄色",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "364": {
-        "cardNumber": "第364章",
+        "cardNumber": "364",
         "field1": "橡树",
         "field2": "橡树",
         "field3": "一张橡木床",
@@ -4365,7 +4365,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "365": {
         "cardNumber": "365",
@@ -4377,59 +4377,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "366": {
-        "cardNumber": "第366章",
-        "field1": "林德",
+        "cardNumber": "366",
+        "field1": "椴树",
         "field2": "椴树",
-        "field3": "林登大道",
+        "field3": "椴树大道",
         "field4": "椴树花",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "367": {
-        "cardNumber": "第367章",
+        "cardNumber": "367",
         "field1": "收获",
-        "field2": "丰收",
+        "field2": "收获 / 收成",
         "field3": "收获",
         "field4": "今年收成不好",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "368": {
-        "cardNumber": "第368章",
-        "field1": "母猪",
+        "cardNumber": "368",
+        "field1": "播种",
         "field2": "种子",
         "field3": "种子",
-        "field4": "种子散去，收获也散去",
+        "field4": "种瓜得瓜，种豆得豆。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村庄"
+        "category": "乡村"
     },
     "369": {
-        "cardNumber": "第369章",
-        "field1": "对齐",
-        "field2": "您能告诉施瓦茨女士一些事情吗？",
+        "cardNumber": "369",
+        "field1": "转告 / 传话",
+        "field2": "您能给施瓦茨女士捎个话吗？",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "370": {
         "cardNumber": "370",
-        "field1": "命令",
+        "field1": "掌握 / 控制",
         "field2": "他的法语很流利",
         "field3": "",
         "field4": "",
@@ -4437,22 +4437,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "371": {
-        "cardNumber": "第371章",
+        "cardNumber": "371",
         "field1": "赞美",
-        "field2": "的赞美",
+        "field2": "赞美",
         "field3": "他总是称赞每个人",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "372": {
-        "cardNumber": "第372章",
+        "cardNumber": "372",
         "field1": "谚语",
         "field2": "谚语",
         "field3": "这是德国的一句老话",
@@ -4461,34 +4461,34 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "373": {
-        "cardNumber": "第373章",
+        "cardNumber": "373",
         "field1": "声音",
         "field2": "声音",
-        "field3": "声音",
-        "field4": "（声音-声音-声音）",
+        "field3": "听起来 / 发出声音",
+        "field4": "（现在时：klingt；过去时：klang；过去分词：geklungen）",
         "field5": "这个故事听起来难以置信",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "374": {
-        "cardNumber": "第374章",
-        "field1": "联系方式",
-        "field2": "联系人",
+        "cardNumber": "374",
+        "field1": "联系 / 接触",
+        "field2": "联系 / 联系人",
         "field3": "保持联系",
         "field4": "我和她失去了联系",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "375": {
-        "cardNumber": "第375章",
+        "cardNumber": "375",
         "field1": "嘲笑",
         "field2": "嘲笑",
         "field3": "他总是嘲笑她",
@@ -4497,10 +4497,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "376": {
-        "cardNumber": "第376章",
+        "cardNumber": "376",
         "field1": "观点",
         "field2": "观点",
         "field3": "这取决于你的观点！",
@@ -4509,22 +4509,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "377": {
-        "cardNumber": "第377章",
-        "field1": "重点",
-        "field2": "口音",
+        "cardNumber": "377",
+        "field1": "重音 / 强调",
+        "field2": "重音 / 强调",
         "field3": "强调",
-        "field4": "强调第一个音节",
+        "field4": "重音落在第一个音节上",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "378": {
-        "cardNumber": "第378章",
+        "cardNumber": "378",
         "field1": "手语",
         "field2": "你懂手语吗？",
         "field3": "",
@@ -4533,11 +4533,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "379": {
-        "cardNumber": "第379章",
-        "field1": "剪辑",
+        "cardNumber": "379",
+        "field1": "括号 / 夹子",
         "field2": "括号",
         "field3": "放在括号里",
         "field4": "方括号",
@@ -4545,7 +4545,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "380": {
         "cardNumber": "380",
@@ -4557,10 +4557,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "381": {
-        "cardNumber": "第381章",
+        "cardNumber": "381",
         "field1": "善意的谎言",
         "field2": "善意的谎言",
         "field3": "他诉诸善意的谎言",
@@ -4569,10 +4569,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "382": {
-        "cardNumber": "第382章",
+        "cardNumber": "382",
         "field1": "音节",
         "field2": "音节",
         "field3": "重读音节",
@@ -4581,10 +4581,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "383": {
-        "cardNumber": "第383章",
+        "cardNumber": "383",
         "field1": "原因",
         "field2": "原因",
         "field3": "没问题！",
@@ -4593,11 +4593,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "384": {
-        "cardNumber": "第384章",
-        "field1": "也...",
+        "cardNumber": "384",
+        "field1": "既……又……",
         "field2": "她既美丽又聪明",
         "field3": "",
         "field4": "",
@@ -4605,11 +4605,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "385": {
-        "cardNumber": "第385章",
-        "field1": "优越的",
+        "cardNumber": "385",
+        "field1": "考虑 / 思量",
         "field2": "我得想想",
         "field3": "",
         "field4": "",
@@ -4617,10 +4617,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "386": {
-        "cardNumber": "第386章",
+        "cardNumber": "386",
         "field1": "顺便一提",
         "field2": "顺便说一句，你听说过吗……？",
         "field3": "",
@@ -4629,10 +4629,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "387": {
-        "cardNumber": "第387章",
+        "cardNumber": "387",
         "field1": "概括",
         "field2": "你不能总是一概而论",
         "field3": "",
@@ -4641,10 +4641,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "388": {
-        "cardNumber": "第388章",
+        "cardNumber": "388",
         "field1": "怎么会",
         "field2": "为什么不？",
         "field3": "",
@@ -4653,11 +4653,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "389": {
-        "cardNumber": "第389章",
-        "field1": "那是",
+        "cardNumber": "389",
+        "field1": "虽然 / 的确（常与aber连用）",
         "field2": "他很努力，但也很固执",
         "field3": "",
         "field4": "",
@@ -4665,7 +4665,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "语音通讯"
+        "category": "语言与交流"
     },
     "390": {
         "cardNumber": "390",
@@ -4680,7 +4680,7 @@
         "category": "媒体"
     },
     "391": {
-        "cardNumber": "第391章",
+        "cardNumber": "391",
         "field1": "剧本",
         "field2": "脚本",
         "field3": "编剧",
@@ -4692,7 +4692,7 @@
         "category": "媒体"
     },
     "392": {
-        "cardNumber": "第392章",
+        "cardNumber": "392",
         "field1": "论坛",
         "field2": "论坛",
         "field3": "您可以讨论论坛中的所有主题",
@@ -4704,7 +4704,7 @@
         "category": "媒体"
     },
     "393": {
-        "cardNumber": "第393章",
+        "cardNumber": "393",
         "field1": "现实的感觉",
         "field2": "他已经失去了现实感",
         "field3": "",
@@ -4716,7 +4716,7 @@
         "category": "媒体"
     },
     "394": {
-        "cardNumber": "第394章",
+        "cardNumber": "394",
         "field1": "博客",
         "field2": "博客",
         "field3": "写博客",
@@ -4728,7 +4728,7 @@
         "category": "媒体"
     },
     "395": {
-        "cardNumber": "第395章",
+        "cardNumber": "395",
         "field1": "给编辑的信",
         "field2": "给编辑的信",
         "field3": "本报发表致编辑的信",
@@ -4740,10 +4740,10 @@
         "category": "媒体"
     },
     "396": {
-        "cardNumber": "第396章",
+        "cardNumber": "396",
         "field1": "主持人",
         "field2": "主持人",
-        "field3": "缓和",
+        "field3": "主持",
         "field4": "新节目主持人很紧张",
         "field5": "",
         "field6": "",
@@ -4752,7 +4752,7 @@
         "category": "媒体"
     },
     "397": {
-        "cardNumber": "第397章",
+        "cardNumber": "397",
         "field1": "所需时间",
         "field2": "这不值得投入时间",
         "field3": "",
@@ -4764,7 +4764,7 @@
         "category": "媒体"
     },
     "398": {
-        "cardNumber": "第398章",
+        "cardNumber": "398",
         "field1": "匿名性",
         "field2": "匿名的",
         "field3": "该书的作者希望保持匿名",
@@ -4776,11 +4776,11 @@
         "category": "媒体"
     },
     "399": {
-        "cardNumber": "第399章",
-        "field1": "转让",
-        "field2": "传输",
-        "field3": "传送的",
-        "field4": "（转移-转移-转移）",
+        "cardNumber": "399",
+        "field1": "转播 / 传输",
+        "field2": "转播 / 传输",
+        "field3": "转播 / 传送",
+        "field4": "（现在时：überträgt；过去时：übertrug；过去分词：übertragen）",
         "field5": "演唱会转播已经开始了吗？",
         "field6": "",
         "field7": "",
@@ -4789,7 +4789,7 @@
     },
     "400": {
         "cardNumber": "400",
-        "field1": "该调查",
+        "field1": "调查 / 民意调查",
         "field2": "民意调查",
         "field3": "进行一项调查",
         "field4": "",
@@ -4812,10 +4812,10 @@
         "category": "媒体"
     },
     "402": {
-        "cardNumber": "第402章",
+        "cardNumber": "402",
         "field1": "提到",
         "field2": "提及",
-        "field3": "提到的",
+        "field3": "提及",
         "field4": "我没有提到吗？",
         "field5": "",
         "field6": "",
@@ -4825,8 +4825,8 @@
     },
     "403": {
         "cardNumber": "403",
-        "field1": "面试",
-        "field2": "面试",
+        "field1": "采访",
+        "field2": "采访",
         "field3": "采访",
         "field4": "采访一位电影明星",
         "field5": "",
@@ -4884,9 +4884,9 @@
         "category": "工作"
     },
     "408": {
-        "cardNumber": "第408章",
-        "field1": "办公室",
-        "field2": "办公室",
+        "cardNumber": "408",
+        "field1": "政府机关 / 职务",
+        "field2": "政府机关 / 职务",
         "field3": "官方的",
         "field4": "外交部",
         "field5": "",
@@ -4898,7 +4898,7 @@
     "409": {
         "cardNumber": "409",
         "field1": "技能",
-        "field2": "发送",
+        "field2": "灵巧的 / 熟练的",
         "field3": "你有与客户打交道的技巧",
         "field4": "",
         "field5": "",
@@ -4920,7 +4920,7 @@
         "category": "工作"
     },
     "411": {
-        "cardNumber": "第411章",
+        "cardNumber": "411",
         "field1": "压力",
         "field2": "处于压力之下",
         "field3": "我再也无法承受压力",
@@ -4932,7 +4932,7 @@
         "category": "工作"
     },
     "412": {
-        "cardNumber": "第412章",
+        "cardNumber": "412",
         "field1": "专家",
         "field2": "专家们",
         "field3": "熟练地",
@@ -4944,7 +4944,7 @@
         "category": "工作"
     },
     "413": {
-        "cardNumber": "第413章",
+        "cardNumber": "413",
         "field1": "自由职业者",
         "field2": "自由职业者",
         "field3": "您是一名自由职业者",
@@ -4956,7 +4956,7 @@
         "category": "工作"
     },
     "414": {
-        "cardNumber": "第414章",
+        "cardNumber": "414",
         "field1": "按摩师",
         "field2": "按摩师",
         "field3": "按摩",
@@ -4968,7 +4968,7 @@
         "category": "工作"
     },
     "415": {
-        "cardNumber": "第415章",
+        "cardNumber": "415",
         "field1": "木匠",
         "field2": "木匠们",
         "field3": "柜子是木匠做的",
@@ -4980,8 +4980,8 @@
         "category": "工作"
     },
     "416": {
-        "cardNumber": "第416章",
-        "field1": "取消",
+        "cardNumber": "416",
+        "field1": "拒绝 / 取消",
         "field2": "拒绝",
         "field3": "取消",
         "field4": "她的申请被拒绝",
@@ -4992,8 +4992,8 @@
         "category": "工作"
     },
     "417": {
-        "cardNumber": "第417章",
-        "field1": "工作环境",
+        "cardNumber": "417",
+        "field1": "工作条件",
         "field2": "在这里他有更好的工作条件",
         "field3": "",
         "field4": "",
@@ -5004,7 +5004,7 @@
         "category": "工作"
     },
     "418": {
-        "cardNumber": "第418章",
+        "cardNumber": "418",
         "field1": "工作许可证",
         "field2": "工作许可",
         "field3": "你有工作许可证吗？",
@@ -5016,7 +5016,7 @@
         "category": "工作"
     },
     "419": {
-        "cardNumber": "第419章",
+        "cardNumber": "419",
         "field1": "国外经验",
         "field2": "国外的经验",
         "field3": "获得国外经验",
@@ -5028,10 +5028,10 @@
         "category": "工作"
     },
     "420": {
-        "cardNumber": "第420章",
+        "cardNumber": "420",
         "field1": "愿意",
         "field2": "准备好",
-        "field3": "他已做好一切准备",
+        "field3": "他什么都愿意做。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5040,7 +5040,7 @@
         "category": "工作"
     },
     "421": {
-        "cardNumber": "第421章",
+        "cardNumber": "421",
         "field1": "会议",
         "field2": "会议",
         "field3": "她目前正在与她的老板开会",
@@ -5052,7 +5052,7 @@
         "category": "工作"
     },
     "422": {
-        "cardNumber": "第422章",
+        "cardNumber": "422",
         "field1": "平等机会",
         "field2": "我们要求平等机会",
         "field3": "",
@@ -5064,7 +5064,7 @@
         "category": "工作"
     },
     "423": {
-        "cardNumber": "第423章",
+        "cardNumber": "423",
         "field1": "业务关系",
         "field2": "业务关系",
         "field3": "维持业务关系对我们来说很重要",
@@ -5076,7 +5076,7 @@
         "category": "工作"
     },
     "424": {
-        "cardNumber": "第424章",
+        "cardNumber": "424",
         "field1": "挑战",
         "field2": "挑战",
         "field3": "新工作对我来说是一个挑战",
@@ -5088,8 +5088,8 @@
         "category": "工作"
     },
     "425": {
-        "cardNumber": "第425章",
-        "field1": "化妆师",
+        "cardNumber": "425",
+        "field1": "美容师",
         "field2": "美容师",
         "field3": "明天我要去美容师那里",
         "field4": "",
@@ -5100,7 +5100,7 @@
         "category": "工作"
     },
     "426": {
-        "cardNumber": "第426章",
+        "cardNumber": "426",
         "field1": "义务",
         "field2": "职责",
         "field3": "员工的权利和义务",
@@ -5112,9 +5112,9 @@
         "category": "工作"
     },
     "427": {
-        "cardNumber": "第427章",
+        "cardNumber": "427",
         "field1": "承诺",
-        "field2": "的承诺",
+        "field2": "承诺 / 应允",
         "field3": "接受",
         "field4": "我们得到了老板的认可",
         "field5": "",
@@ -5124,8 +5124,8 @@
         "category": "工作"
     },
     "428": {
-        "cardNumber": "第428章",
-        "field1": "工作",
+        "cardNumber": "428",
+        "field1": "打零工 / 做兼职",
         "field2": "工作",
         "field3": "工作岗位",
         "field4": "假期工作",
@@ -5136,7 +5136,7 @@
         "category": "工作"
     },
     "429": {
-        "cardNumber": "第429章",
+        "cardNumber": "429",
         "field1": "实施",
         "field2": "我终于将计划付诸行动",
         "field3": "",
@@ -5148,8 +5148,8 @@
         "category": "工作"
     },
     "430": {
-        "cardNumber": "第430章",
-        "field1": "认为",
+        "cardNumber": "430",
+        "field1": "以……为前提 / 假定",
         "field2": "条件",
         "field3": "条件",
         "field4": "他符合该职位的所有要求",
@@ -5160,19 +5160,19 @@
         "category": "工作"
     },
     "431": {
-        "cardNumber": "第431章",
+        "cardNumber": "431",
         "field1": "保持",
-        "field2": "（保留-保留-保留）",
+        "field2": "（现在时：behält；过去时：behielt；过去分词：behalten）",
         "field3": "剩下的请保留！",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "432": {
-        "cardNumber": "第432章",
+        "cardNumber": "432",
         "field1": "核电站",
         "field2": "核电站",
         "field3": "许多核电站仍在运行",
@@ -5181,11 +5181,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "433": {
-        "cardNumber": "第433章",
-        "field1": "生存水平",
+        "cardNumber": "433",
+        "field1": "最低生活保障水平",
         "field2": "收入低于温饱水平",
         "field3": "",
         "field4": "",
@@ -5193,10 +5193,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "434": {
-        "cardNumber": "第434章",
+        "cardNumber": "434",
         "field1": "密码",
         "field2": "密码",
         "field3": "我忘记了我的密码",
@@ -5205,11 +5205,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "435": {
-        "cardNumber": "第435章",
-        "field1": "小变化",
+        "cardNumber": "435",
+        "field1": "零钱",
         "field2": "你有零钱吗？",
         "field3": "",
         "field4": "",
@@ -5217,10 +5217,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "436": {
-        "cardNumber": "第436章",
+        "cardNumber": "436",
         "field1": "外贸",
         "field2": "国内贸易",
         "field3": "世界贸易",
@@ -5229,34 +5229,34 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "437": {
-        "cardNumber": "第437章",
-        "field1": "外部市场",
-        "field2": "内部市场",
+        "cardNumber": "437",
+        "field1": "国外市场",
+        "field2": "国内市场",
         "field3": "世界市场",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "438": {
-        "cardNumber": "第438章",
-        "field1": "家庭",
-        "field2": "住户",
+        "cardNumber": "438",
+        "field1": "预算 / 家庭",
+        "field2": "预算 / 家庭",
         "field3": "这是由预算提供资金的",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "439": {
-        "cardNumber": "第439章",
+        "cardNumber": "439",
         "field1": "运输",
         "field2": "免运费",
         "field3": "货物已包装好待运输",
@@ -5265,22 +5265,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "440": {
-        "cardNumber": "第440章",
-        "field1": "邮箱公司",
-        "field2": "信箱公司",
+        "cardNumber": "440",
+        "field1": "空壳公司",
+        "field2": "空壳公司",
         "field3": "他们成立了两家空壳公司",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "441": {
-        "cardNumber": "第441章",
+        "cardNumber": "441",
         "field1": "贸易关系",
         "field2": "贸易关系",
         "field3": "德国和美国之间的贸易关系",
@@ -5289,10 +5289,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "442": {
-        "cardNumber": "第442章",
+        "cardNumber": "442",
         "field1": "投资",
         "field2": "投资",
         "field3": "投资",
@@ -5301,10 +5301,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "443": {
-        "cardNumber": "第443章",
+        "cardNumber": "443",
         "field1": "花费",
         "field2": "免费",
         "field3": "费用由谁承担？",
@@ -5313,10 +5313,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "444": {
-        "cardNumber": "第444章",
+        "cardNumber": "444",
         "field1": "创新",
         "field2": "创新",
         "field3": "更新",
@@ -5325,10 +5325,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "445": {
-        "cardNumber": "第445章",
+        "cardNumber": "445",
         "field1": "趋势",
         "field2": "倾向",
         "field3": "有倾向",
@@ -5337,35 +5337,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "446": {
-        "cardNumber": "第446章",
+        "cardNumber": "446",
         "field1": "效果",
         "field2": "效果",
-        "field3": "作品",
+        "field3": "起作用 / 产生效果",
         "field4": "持久的效果",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "447": {
-        "cardNumber": "第447章",
+        "cardNumber": "447",
         "field1": "输入",
-        "field2": "（输入-给出输入-输入）",
+        "field2": "（现在时：gibt ein；过去时：gab ein；过去分词：eingegeben）",
         "field3": "请输入您的 PIN 码！",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "448": {
-        "cardNumber": "第448章",
-        "field1": "行为",
+        "cardNumber": "448",
+        "field1": "做买卖 / 行动",
         "field2": "经销商",
         "field3": "经销商",
         "field4": "他的公司经营药品",
@@ -5373,10 +5373,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "449": {
-        "cardNumber": "第449章",
+        "cardNumber": "449",
         "field1": "生产",
         "field2": "生产",
         "field3": "产品均在国外制造",
@@ -5385,11 +5385,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "450": {
         "cardNumber": "450",
-        "field1": "竞争的",
+        "field1": "有竞争力的",
         "field2": "竞争力",
         "field3": "公司不再具有竞争力",
         "field4": "",
@@ -5397,23 +5397,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "451": {
-        "cardNumber": "第451章",
+        "cardNumber": "451",
         "field1": "收缩",
-        "field2": "爬",
-        "field3": "（上升-上升-上升）",
+        "field2": "上升 / 增加",
+        "field3": "（现在时：steigt；过去时：stieg；过去分词：gestiegen）",
         "field4": "销售额增加",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "452": {
-        "cardNumber": "第452章",
-        "field1": "债务",
+        "cardNumber": "452",
+        "field1": "欠（债）",
         "field2": "债务",
         "field3": "我欠你5欧元",
         "field4": "",
@@ -5421,58 +5421,58 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "商业"
+        "category": "经济"
     },
     "453": {
-        "cardNumber": "第453章",
+        "cardNumber": "453",
         "field1": "加入",
-        "field2": "（已加入-已加入-已加入）",
+        "field2": "（现在时：tritt bei；过去时：trat bei；过去分词：beigetreten）",
         "field3": "我想加入这个组织",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "454": {
-        "cardNumber": "第454章",
+        "cardNumber": "454",
         "field1": "公国",
         "field2": "公国",
-        "field3": "王子",
-        "field4": "王子们",
+        "field3": "诸侯 / 亲王",
+        "field4": "诸侯 / 亲王",
         "field5": "他像王子一样生活",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "455": {
-        "cardNumber": "第455章",
+        "cardNumber": "455",
         "field1": "王国",
         "field2": "王国",
         "field3": "国王",
-        "field4": "国王队",
+        "field4": "国王",
         "field5": "国王统治他的国家",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "456": {
-        "cardNumber": "第456章",
+        "cardNumber": "456",
         "field1": "资本主义",
-        "field2": "资本家",
+        "field2": "资本主义的",
         "field3": "资本主义国家",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "457": {
-        "cardNumber": "第457章",
+        "cardNumber": "457",
         "field1": "移民背景",
         "field2": "有移民背景的家庭",
         "field3": "",
@@ -5481,34 +5481,34 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "458": {
-        "cardNumber": "第458章",
+        "cardNumber": "458",
         "field1": "社会主义",
-        "field2": "社会主义者",
+        "field2": "社会主义的",
         "field3": "社会主义革命",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "459": {
-        "cardNumber": "第459章",
-        "field1": "该协会",
-        "field2": "绷带",
+        "cardNumber": "459",
+        "field1": "协会 / 联合会",
+        "field2": "协会 / 联合会",
         "field3": "他成立了一个新协会",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "460": {
-        "cardNumber": "第460章",
+        "cardNumber": "460",
         "field1": "移民",
         "field2": "移民",
         "field3": "移民",
@@ -5517,34 +5517,34 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "461": {
-        "cardNumber": "第461章",
+        "cardNumber": "461",
         "field1": "民主",
-        "field2": "民主地",
+        "field2": "民主的",
         "field3": "不民主的",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "462": {
-        "cardNumber": "第462章",
-        "field1": "领导力",
-        "field2": "旅行团",
+        "cardNumber": "462",
+        "field1": "领导 / 领导层",
+        "field2": "领导 / 导览",
         "field3": "带领",
         "field4": "国家的政治领导",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "463": {
-        "cardNumber": "第463章",
+        "cardNumber": "463",
         "field1": "费用",
         "field2": "费用",
         "field3": "收费",
@@ -5553,22 +5553,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "464": {
-        "cardNumber": "第464章",
+        "cardNumber": "464",
         "field1": "联盟",
         "field2": "联盟",
         "field3": "大联盟",
-        "field4": "各方组成联盟",
+        "field4": "各政党组成联盟。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "465": {
-        "cardNumber": "第465章",
+        "cardNumber": "465",
         "field1": "腐败",
         "field2": "这位政客涉嫌腐败",
         "field3": "",
@@ -5577,10 +5577,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "466": {
-        "cardNumber": "第466章",
+        "cardNumber": "466",
         "field1": "社会福利",
         "field2": "外国人也享受社会福利吗？",
         "field3": "",
@@ -5589,34 +5589,34 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "467": {
-        "cardNumber": "第467章",
-        "field1": "工会",
-        "field2": "工会",
+        "cardNumber": "467",
+        "field1": "联盟 / 联合体",
+        "field2": "联盟 / 联合体",
         "field3": "欧盟",
         "field4": "欧盟",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "468": {
-        "cardNumber": "第468章",
+        "cardNumber": "468",
         "field1": "行政部门",
         "field2": "行政部门",
-        "field3": "这个问题在国家行政部门",
+        "field3": "这个问题由国家行政部门负责。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "469": {
-        "cardNumber": "第469章",
+        "cardNumber": "469",
         "field1": "竞选公职",
         "field2": "候选资格",
         "field3": "候选人资格",
@@ -5625,10 +5625,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "470": {
-        "cardNumber": "第470章",
+        "cardNumber": "470",
         "field1": "改革",
         "field2": "改革",
         "field3": "改革",
@@ -5637,23 +5637,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "471": {
-        "cardNumber": "第471章",
-        "field1": "声音",
-        "field2": "声音",
-        "field3": "声音",
+        "cardNumber": "471",
+        "field1": "投票 / 正确",
+        "field2": "选票 / 票数",
+        "field3": "选票 / 票数",
         "field4": "你投票给了谁？",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "472": {
-        "cardNumber": "第472章",
-        "field1": "多种语言",
+        "cardNumber": "472",
+        "field1": "使用多种语言的",
         "field2": "多语制",
         "field3": "多语言社会",
         "field4": "",
@@ -5661,10 +5661,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国家"
+        "category": "国家与政治"
     },
     "473": {
-        "cardNumber": "第473章",
+        "cardNumber": "473",
         "field1": "人权",
         "field2": "人权",
         "field3": "人权活动家",
@@ -5673,10 +5673,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "474": {
-        "cardNumber": "第474章",
+        "cardNumber": "474",
         "field1": "无罪释放",
         "field2": "无罪释放",
         "field3": "因缺乏证据而被无罪释放",
@@ -5685,10 +5685,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "475": {
-        "cardNumber": "第475章",
+        "cardNumber": "475",
         "field1": "囚禁",
         "field2": "囚犯",
         "field3": "囚犯们",
@@ -5697,22 +5697,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "476": {
-        "cardNumber": "第476章",
-        "field1": "平等",
-        "field2": "平等权利",
+        "cardNumber": "476",
+        "field1": "权利平等",
+        "field2": "享有平等权利的",
         "field3": "争取平等",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "477": {
-        "cardNumber": "第477章",
+        "cardNumber": "477",
         "field1": "犯罪",
         "field2": "罪行",
         "field3": "他涉嫌犯罪",
@@ -5721,10 +5721,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "478": {
-        "cardNumber": "第478章",
+        "cardNumber": "478",
         "field1": "抓牢",
         "field2": "警方抓获肇事者",
         "field3": "",
@@ -5733,23 +5733,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "479": {
-        "cardNumber": "第479章",
-        "field1": "假定的",
-        "field2": "这就是被指控的肇事者",
+        "cardNumber": "479",
+        "field1": "涉嫌的 / 推测的",
+        "field2": "这就是涉嫌作案的人。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "480": {
-        "cardNumber": "第480章",
-        "field1": "不当",
+        "cardNumber": "480",
+        "field1": "违反行政规章的",
         "field2": "违章停车将受到处罚",
         "field3": "",
         "field4": "",
@@ -5757,10 +5757,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "481": {
-        "cardNumber": "第481章",
+        "cardNumber": "481",
         "field1": "抢",
         "field2": "抢劫",
         "field3": "强盗",
@@ -5769,10 +5769,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "482": {
-        "cardNumber": "第482章",
+        "cardNumber": "482",
         "field1": "必不可少",
         "field2": "放弃",
         "field3": "这些权利缺一不可",
@@ -5781,22 +5781,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "483": {
-        "cardNumber": "第483章",
+        "cardNumber": "483",
         "field1": "怀疑",
-        "field2": "该，嫌疑人",
+        "field2": "嫌疑人",
         "field3": "嫌疑人",
         "field4": "可疑的",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "484": {
-        "cardNumber": "第484章",
+        "cardNumber": "484",
         "field1": "审问",
         "field2": "审讯",
         "field3": "审讯",
@@ -5805,35 +5805,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "485": {
-        "cardNumber": "第485章",
-        "field1": "侵犯了",
-        "field2": "（违反-违反-违反）",
-        "field3": "侵权行为",
+        "cardNumber": "485",
+        "field1": "违反",
+        "field2": "（现在时：verstößt；过去时：verstieß；过去分词：verstoßen）",
+        "field3": "违规行为",
         "field4": "违规行为",
         "field5": "违反法律",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "正确的"
+        "category": "法律"
     },
     "486": {
-        "cardNumber": "第486章",
-        "field1": "认出",
-        "field2": "（认可-认可-认可）",
-        "field3": "的认可",
-        "field4": "我想向你表达我的谢意",
+        "cardNumber": "486",
+        "field1": "认可 / 承认",
+        "field2": "（现在时：anerkennt；过去时：anerkannte；过去分词：anerkannt）",
+        "field3": "认可",
+        "field4": "我想向您表达我的赞赏。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "487": {
-        "cardNumber": "第487章",
-        "field1": "扳机",
+        "cardNumber": "487",
+        "field1": "引发 / 触发",
         "field2": "这可能会引发战争",
         "field3": "",
         "field4": "",
@@ -5841,10 +5841,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "488": {
-        "cardNumber": "第488章",
+        "cardNumber": "488",
         "field1": "财富",
         "field2": "你继承了一大笔财产",
         "field3": "",
@@ -5853,10 +5853,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "489": {
-        "cardNumber": "第489章",
+        "cardNumber": "489",
         "field1": "偏见",
         "field2": "偏见",
         "field3": "他对外国人有偏见",
@@ -5865,10 +5865,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "490": {
-        "cardNumber": "第490章",
+        "cardNumber": "490",
         "field1": "住在一起",
         "field2": "和平共处",
         "field3": "",
@@ -5877,34 +5877,34 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "491": {
-        "cardNumber": "第491章",
-        "field1": "前景",
-        "field2": "的背景",
+        "cardNumber": "491",
+        "field1": "前台 / 显著位置",
+        "field2": "背景",
         "field3": "这个问题是最重要的",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "492": {
-        "cardNumber": "第492章",
+        "cardNumber": "492",
         "field1": "逃亡",
         "field2": "逃脱",
         "field3": "逃跑",
-        "field4": "（逃-逃-逃）",
+        "field4": "（现在时：flieht；过去时：floh；过去分词：geflohen）",
         "field5": "他们在逃亡",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "493": {
-        "cardNumber": "第493章",
+        "cardNumber": "493",
         "field1": "挑衅",
         "field2": "挑衅",
         "field3": "挑衅",
@@ -5913,10 +5913,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "494": {
-        "cardNumber": "第494章",
+        "cardNumber": "494",
         "field1": "容忍度",
         "field2": "宽容",
         "field3": "这个国家对其他宗教是宽容的",
@@ -5925,10 +5925,10 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "495": {
-        "cardNumber": "第495章",
+        "cardNumber": "495",
         "field1": "限制",
         "field2": "限制",
         "field3": "这项禁令限制了人们的选择",
@@ -5937,22 +5937,22 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "496": {
-        "cardNumber": "第496章",
+        "cardNumber": "496",
         "field1": "过来",
-        "field2": "（来到这里-来到这里-来到这里）",
+        "field2": "（现在时：kommt her；过去时：kam her；过去分词：hergekommen）",
         "field3": "起源",
         "field4": "他出身高贵",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "497": {
-        "cardNumber": "第497章",
+        "cardNumber": "497",
         "field1": "面对",
         "field2": "对抗",
         "field3": "随后发生了冲突",
@@ -5961,23 +5961,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "498": {
-        "cardNumber": "第498章",
+        "cardNumber": "498",
         "field1": "误解",
-        "field2": "（误会-误会-误会）",
-        "field3": "误导性的",
+        "field2": "（现在时：missversteht；过去时：missverstand；过去分词：missverstanden）",
+        "field3": "容易引起误解的",
         "field4": "误会",
-        "field5": "的误会",
+        "field5": "误会",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "499": {
-        "cardNumber": "第499章",
-        "field1": "宝藏",
+        "cardNumber": "499",
+        "field1": "珍视 / 估计",
         "field2": "漠视",
         "field3": "他无视所有规则",
         "field4": "",
@@ -5985,18 +5985,18 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     },
     "500": {
         "cardNumber": "500",
-        "field1": "追踪",
-        "field2": "追踪",
+        "field1": "追踪 / 迫害",
+        "field2": "追踪 / 迫害",
         "field3": "迫害",
         "field4": "她受到政治迫害",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "社会矛盾"
+        "category": "社会冲突"
     }
 }

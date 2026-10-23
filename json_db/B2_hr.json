@@ -1,8 +1,8 @@
 {
     "1": {
         "cardNumber": "1",
-        "field1": "biljka",
-        "field2": "bilje",
+        "field1": "začinska biljka",
+        "field2": "začinsko bilje",
         "field3": "biljni čaj",
         "field4": "Za ovaj umak potrebno vam je začinsko bilje",
         "field5": "",
@@ -14,7 +14,7 @@
     "2": {
         "cardNumber": "2",
         "field1": "sladokusac",
-        "field2": "ljubitelji slatkog",
+        "field2": "sladokusci",
         "field3": "Ona je pravi sladokusac",
         "field4": "",
         "field5": "",
@@ -26,7 +26,7 @@
     "3": {
         "cardNumber": "3",
         "field1": "lovorov list",
-        "field2": "lovorovo lišće",
+        "field2": "lovorovi listovi",
         "field3": "U juhi sam našao lovorov list",
         "field4": "",
         "field5": "",
@@ -38,7 +38,7 @@
     "4": {
         "cardNumber": "4",
         "field1": "mliječni proizvod",
-        "field2": "mliječnih proizvoda",
+        "field2": "mliječni proizvodi",
         "field3": "Alergična sam na mliječne proizvode",
         "field4": "",
         "field5": "",
@@ -51,7 +51,7 @@
         "cardNumber": "5",
         "field1": "vitamin",
         "field2": "vitamini",
-        "field3": "bogata vitaminima",
+        "field3": "bogat vitaminima",
         "field4": "siromašan vitaminima",
         "field5": "",
         "field6": "",
@@ -61,7 +61,7 @@
     },
     "6": {
         "cardNumber": "6",
-        "field1": "mrvice",
+        "field1": "mrvica",
         "field2": "mrvice",
         "field3": "U kući nema ni mrvice kruha",
         "field4": "Ostale su samo mrvice na tanjuru",
@@ -86,7 +86,7 @@
     "8": {
         "cardNumber": "8",
         "field1": "metabolizam",
-        "field2": "metabolizam",
+        "field2": "metabolizmi",
         "field3": "Ima aktivan metabolizam",
         "field4": "",
         "field5": "",
@@ -133,9 +133,9 @@
     },
     "12": {
         "cardNumber": "12",
-        "field1": "Grožđe",
-        "field2": "grožđe",
-        "field3": "plavo grožđe",
+        "field1": "grozd / grožđe",
+        "field2": "grozdovi / grožđe",
+        "field3": "tamno grožđe",
         "field4": "sok od grožđa",
         "field5": "",
         "field6": "",
@@ -145,7 +145,7 @@
     },
     "13": {
         "cardNumber": "13",
-        "field1": "pare",
+        "field1": "pirjati",
         "field2": "Danas imamo pirjano meso za večeru",
         "field3": "",
         "field4": "",
@@ -157,8 +157,8 @@
     },
     "14": {
         "cardNumber": "14",
-        "field1": "prekršaj",
-        "field2": "Mlijeko miriše truležno",
+        "field1": "truo",
+        "field2": "Mlijeko zaudara na trulež.",
         "field3": "Voće izgleda trulo",
         "field4": "",
         "field5": "",
@@ -169,9 +169,9 @@
     },
     "15": {
         "cardNumber": "15",
-        "field1": "hrskavo",
+        "field1": "hrskav",
         "field2": "hrskavi krumpirići",
-        "field3": "Peciva su tako prhka",
+        "field3": "Peciva su tako hrskava.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -181,7 +181,7 @@
     },
     "16": {
         "cardNumber": "16",
-        "field1": "ukusno",
+        "field1": "ukusan / izvrstan",
         "field2": "Vino je ukusno!",
         "field3": "Hrana je bila izvrsnog okusa",
         "field4": "",
@@ -193,7 +193,7 @@
     },
     "17": {
         "cardNumber": "17",
-        "field1": "snack",
+        "field1": "jesti slatkiše / grickati",
         "field2": "Djeca rado grickaju čokoladu",
         "field3": "",
         "field4": "",
@@ -205,7 +205,7 @@
     },
     "18": {
         "cardNumber": "18",
-        "field1": "bujna",
+        "field1": "obilan",
         "field2": "Danas sam imao obilan doručak",
         "field3": "",
         "field4": "",
@@ -225,23 +225,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "20": {
         "cardNumber": "20",
-        "field1": "vrata",
-        "field2": "Ciljevi",
+        "field1": "velika vrata / kapija",
+        "field2": "velika vrata / kapije",
         "field3": "Kapija je otvorena 24 sata dnevno",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "21": {
         "cardNumber": "21",
-        "field1": "dimnjak",
+        "field1": "kamin",
         "field2": "kamini",
         "field3": "Zimi volimo navečer sjediti ispred kamina",
         "field4": "",
@@ -249,31 +249,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "22": {
         "cardNumber": "22",
-        "field1": "štap za pecanje",
-        "field2": "ribolov",
+        "field1": "šarka / udica",
+        "field2": "šarke / udice",
         "field3": "Vrata škripe na šarkama",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "23": {
         "cardNumber": "23",
-        "field1": "Pogled",
-        "field2": "izgledi",
+        "field1": "pogled / izgled",
+        "field2": "pogledi / izgledi",
         "field3": "Ova soba ima prekrasan pogled na planine",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "24": {
         "cardNumber": "24",
@@ -285,35 +285,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "25": {
         "cardNumber": "25",
-        "field1": "Pločica",
+        "field1": "pločica",
         "field2": "pločice",
-        "field3": "Jeste li već odabrali pločice za kuhinju?",
+        "field3": "Jesi li već odabrao pločice za kuhinju?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "26": {
         "cardNumber": "26",
         "field1": "žohar",
         "field2": "žohari",
-        "field3": "Kako se riješiti žohara?",
+        "field3": "Kako se boriš protiv žohara?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "27": {
         "cardNumber": "27",
-        "field1": "otirač",
+        "field1": "prostirka",
         "field2": "prostirke",
         "field3": "otirač",
         "field4": "prostirka za kupanje",
@@ -321,55 +321,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "28": {
         "cardNumber": "28",
-        "field1": "pozornica",
-        "field2": "koraci",
+        "field1": "stepenica / stupanj",
+        "field2": "stepenice / stupnjevi",
         "field3": "Stajao je na najvišoj stepenici",
-        "field4": "Uvijek idem dva koraka odjednom",
+        "field4": "Uvijek prelazim po dvije stepenice odjednom.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "29": {
         "cardNumber": "29",
-        "field1": "pozadinu",
-        "field2": "pozadine",
-        "field3": "tapeta",
-        "field4": "Sam sam polijepio ovu sobu",
+        "field1": "tapeta",
+        "field2": "tapete",
+        "field3": "lijepiti tapete",
+        "field4": "Sam sam postavio tapete u ovoj sobi.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "30": {
         "cardNumber": "30",
         "field1": "namjestiti",
-        "field2": "objektu",
+        "field2": "uređenje / namještaj",
         "field3": "Htio bih preurediti svoj stan",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kuća"
+        "category": "Stanovanje"
     },
     "31": {
         "cardNumber": "31",
-        "field1": "Prespavati",
-        "field2": "(spava u - spavao u - spavao u)",
+        "field1": "naspavati se",
+        "field2": "(prezent: schläft aus; preterit: schlief aus; particip II: ausgeschlafen)",
         "field3": "Danas nisam dobro spavao",
         "field4": "Kada ste na odmoru, želite se dobro naspavati",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "32": {
         "cardNumber": "32",
@@ -381,91 +381,91 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "33": {
         "cardNumber": "33",
-        "field1": "davatelja usluga mobilne telefonije",
-        "field2": "pružatelji usluga mobilne telefonije",
-        "field3": "Kojeg mobilnog operatera imate?",
+        "field1": "mobilni operater",
+        "field2": "mobilni operateri",
+        "field3": "Kojeg mobilnog operatera imaš?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "34": {
         "cardNumber": "34",
-        "field1": "jutarnja osoba",
-        "field2": "jutarnji ljudi",
+        "field1": "jutarnji tip",
+        "field2": "jutarnji tipovi",
         "field3": "Nisam jutarnji tip",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "35": {
         "cardNumber": "35",
         "field1": "pjena",
-        "field2": "krema za brijanje",
-        "field3": "Ne vjerujte mu, samo se pjeni!",
+        "field2": "pjena za brijanje",
+        "field3": "Ne vjeruj mu, samo priča prazne priče!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "36": {
         "cardNumber": "36",
         "field1": "žurba",
-        "field2": "žuri",
+        "field2": "hitan / užurban",
         "field3": "U žurbi sam!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "37": {
         "cardNumber": "37",
         "field1": "navika",
         "field2": "navike",
-        "field3": "obično",
+        "field3": "uobičajen / obično",
         "field4": "neobičan",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "38": {
         "cardNumber": "38",
         "field1": "užurbanost",
-        "field2": "užurbano",
+        "field2": "užurban",
         "field3": "Totalno sam zaboravio na to u žurbi!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "39": {
         "cardNumber": "39",
         "field1": "dosada",
-        "field2": "Kako se riješiti dosade?",
+        "field2": "Kako kratiš dosadu?",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "40": {
         "cardNumber": "40",
@@ -477,43 +477,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "41": {
         "cardNumber": "41",
         "field1": "šav",
-        "field2": "šavova",
+        "field2": "šavovi",
         "field3": "sašiti",
         "field4": "Hlače treba sašiti",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "42": {
         "cardNumber": "42",
-        "field1": "vijesti",
-        "field2": "vijesti",
+        "field1": "novost",
+        "field2": "novosti",
         "field3": "Odakle ti ova vijest?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "43": {
         "cardNumber": "43",
         "field1": "spontanost",
-        "field2": "spontano",
+        "field2": "spontan",
         "field3": "Sviđa mi se njegova spontanost",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "44": {
         "cardNumber": "44",
@@ -525,7 +525,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "45": {
         "cardNumber": "45",
@@ -537,11 +537,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "46": {
         "cardNumber": "46",
-        "field1": "grize",
+        "field1": "gunđati / prigovarati",
         "field2": "Uvijek ima nešto za prigovoriti",
         "field3": "",
         "field4": "",
@@ -549,7 +549,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "47": {
         "cardNumber": "47",
@@ -561,23 +561,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "48": {
         "cardNumber": "48",
-        "field1": "okupljanje",
-        "field2": "(slaže se-slaže se-slaže se)",
+        "field1": "okupiti se",
+        "field2": "(prezent: kommt zusammen; preterit: kam zusammen; particip II: zusammengekommen)",
         "field3": "Dugo se nismo sreli",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Svaki dan"
+        "category": "Svakodnevica"
     },
     "49": {
         "cardNumber": "49",
-        "field1": "prodano",
+        "field1": "rasprodan",
         "field2": "Roba je rasprodana",
         "field3": "",
         "field4": "",
@@ -590,7 +590,7 @@
     "50": {
         "cardNumber": "50",
         "field1": "korisnički račun",
-        "field2": "korisničkih računa",
+        "field2": "korisnički računi",
         "field3": "Izbrisao sam svoj korisnički račun",
         "field4": "",
         "field5": "",
@@ -602,7 +602,7 @@
     "51": {
         "cardNumber": "51",
         "field1": "izlog",
-        "field2": "izlozima",
+        "field2": "izlozi",
         "field3": "Vidjela sam sjajnu suknju u izlogu",
         "field4": "",
         "field5": "",
@@ -613,9 +613,9 @@
     },
     "52": {
         "cardNumber": "52",
-        "field1": "nagodba",
-        "field2": "povoljne ponude",
-        "field3": "Šešir je bio prava kupovina",
+        "field1": "povoljna kupnja",
+        "field2": "povoljne kupnje",
+        "field3": "Šešir je bio vrlo povoljna kupnja.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -625,9 +625,9 @@
     },
     "53": {
         "cardNumber": "53",
-        "field1": "Košarica za kupnju",
+        "field1": "kolica za kupnju",
         "field2": "kolica za kupnju",
-        "field3": "Moja je košarica već puna",
+        "field3": "Moja su kolica za kupnju već puna.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -639,7 +639,7 @@
         "cardNumber": "54",
         "field1": "impulzivna kupnja",
         "field2": "impulzivne kupnje",
-        "field3": "Kupujete li često impulzivno?",
+        "field3": "Kupuješ li često impulzivno?",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -649,8 +649,8 @@
     },
     "55": {
         "cardNumber": "55",
-        "field1": "prodaja",
-        "field2": "Prodaja",
+        "field1": "rasprodaja",
+        "field2": "rasprodaje",
         "field3": "Možete ga kupiti puno jeftinije na sniženjima",
         "field4": "",
         "field5": "",
@@ -661,8 +661,8 @@
     },
     "56": {
         "cardNumber": "56",
-        "field1": "pečena roba",
-        "field2": "Miris svježeg pečenja",
+        "field1": "pekarski proizvodi",
+        "field2": "miris svježih pekarskih proizvoda",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -673,9 +673,9 @@
     },
     "57": {
         "cardNumber": "57",
-        "field1": "procjena",
-        "field2": "recenzije",
-        "field3": "procijeniti",
+        "field1": "ocjena / procjena",
+        "field2": "ocjene / procjene",
+        "field3": "ocijeniti / procijeniti",
         "field4": "ocijeniti kvalitetu",
         "field5": "",
         "field6": "",
@@ -685,9 +685,9 @@
     },
     "58": {
         "cardNumber": "58",
-        "field1": "nastup",
-        "field2": "usluge",
-        "field3": "omjer cijene i učinka",
+        "field1": "učinak / usluga",
+        "field2": "učinci / usluge",
+        "field3": "omjer cijene i kvalitete",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -710,7 +710,7 @@
     "60": {
         "cardNumber": "60",
         "field1": "biti tražen",
-        "field2": "zahtijevajte",
+        "field2": "potražnja",
         "field3": "Postoji velika potražnja za ovim proizvodom",
         "field4": "",
         "field5": "",
@@ -721,8 +721,8 @@
     },
     "61": {
         "cardNumber": "61",
-        "field1": "neka",
-        "field2": "neka popravi",
+        "field1": "pustiti / dati da se nešto učini",
+        "field2": "dati popraviti",
         "field3": "Dao sam auto na popravak",
         "field4": "",
         "field5": "",
@@ -734,7 +734,7 @@
     "62": {
         "cardNumber": "62",
         "field1": "hvaliti",
-        "field2": "(hvala-hvala-hvala)",
+        "field2": "(prezent: preist; preterit: pries; particip II: gepriesen)",
         "field3": "Trgovine reklamiraju svoje proizvode",
         "field4": "",
         "field5": "",
@@ -746,7 +746,7 @@
     "63": {
         "cardNumber": "63",
         "field1": "slagati se",
-        "field2": "(dolazi od-dolazi od-dolazi od)",
+        "field2": "(prezent: kommt aus; preterit: kam aus; particip II: ausgekommen)",
         "field3": "sredstva za život",
         "field4": "Dobro se slažemo",
         "field5": "",
@@ -757,8 +757,8 @@
     },
     "64": {
         "cardNumber": "64",
-        "field1": "jedino dijete",
-        "field2": "jedina djeca",
+        "field1": "jedinac / jedinica",
+        "field2": "jedinci / jedinice",
         "field3": "Odrastao je kao jedinac",
         "field4": "",
         "field5": "",
@@ -769,9 +769,9 @@
     },
     "65": {
         "cardNumber": "65",
-        "field1": "ime ljubimca",
-        "field2": "nadimci",
-        "field3": "Svi je zovu samo njezinim ljupkim imenom",
+        "field1": "ime od milja",
+        "field2": "imena od milja",
+        "field3": "Svi je zovu samo njezinim imenom od milja.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -782,7 +782,7 @@
     "66": {
         "cardNumber": "66",
         "field1": "potomak",
-        "field2": "potomstvo",
+        "field2": "potomci",
         "field3": "Umro je bez potomaka",
         "field4": "",
         "field5": "",
@@ -793,9 +793,9 @@
     },
     "67": {
         "cardNumber": "67",
-        "field1": "djevojačka zabava",
-        "field2": "momačke večeri",
-        "field3": "Na djevojačku večer došle su sve prijateljice",
+        "field1": "predsvadbena proslava",
+        "field2": "predsvadbene proslave",
+        "field3": "Na predsvadbenu proslavu došli su svi prijatelji.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -805,9 +805,9 @@
     },
     "68": {
         "cardNumber": "68",
-        "field1": "dječji",
+        "field1": "dojenče",
         "field2": "dojenčad",
-        "field3": "formula za dojenčad",
+        "field3": "hrana za dojenčad",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -817,7 +817,7 @@
     },
     "69": {
         "cardNumber": "69",
-        "field1": "singl",
+        "field1": "samac / samkinja",
         "field2": "samci",
         "field3": "Prekinula je s dečkom i živi sama",
         "field4": "",
@@ -829,9 +829,9 @@
     },
     "70": {
         "cardNumber": "70",
-        "field1": "rukovanje",
-        "field2": "izbjeći",
-        "field3": "(ide okolo-išlo okolo-išlo okolo)",
+        "field1": "ophođenje",
+        "field2": "ophoditi se / postupati",
+        "field3": "(prezent: geht um; preterit: ging um; particip II: umgegangen)",
         "field4": "Međusobno se ponašaju prijateljski",
         "field5": "",
         "field6": "",
@@ -841,7 +841,7 @@
     },
     "71": {
         "cardNumber": "71",
-        "field1": "održavanje",
+        "field1": "uzdržavanje / alimentacija",
         "field2": "plaćati alimentaciju",
         "field3": "",
         "field4": "",
@@ -878,7 +878,7 @@
     "74": {
         "cardNumber": "74",
         "field1": "blizanac",
-        "field2": "Blizanci",
+        "field2": "blizanci",
         "field3": "trojke",
         "field4": "Oni su blizanci",
         "field5": "",
@@ -901,10 +901,10 @@
     },
     "76": {
         "cardNumber": "76",
-        "field1": "Mladenka",
-        "field2": "nevjeste",
+        "field1": "mladenka",
+        "field2": "mladenke",
         "field3": "mladoženja",
-        "field4": "mladoženja",
+        "field4": "mladoženje",
         "field5": "Mlada i mladoženja sretno su blistali",
         "field6": "",
         "field7": "",
@@ -913,9 +913,9 @@
     },
     "77": {
         "cardNumber": "77",
-        "field1": "puno djece",
+        "field1": "s mnogo djece",
         "field2": "bez djece",
-        "field3": "Potječe iz velike obitelji",
+        "field3": "Potječe iz obitelji s mnogo djece.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -938,7 +938,7 @@
     "79": {
         "cardNumber": "79",
         "field1": "palac",
-        "field2": "palčeve",
+        "field2": "palčevi",
         "field3": "Djeca vole sisati palac",
         "field4": "",
         "field5": "",
@@ -963,7 +963,7 @@
         "cardNumber": "81",
         "field1": "češalj",
         "field2": "češljevi",
-        "field3": "Sve sastaviti",
+        "field3": "Sve trpati u isti koš.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -975,7 +975,7 @@
         "cardNumber": "82",
         "field1": "čeljust",
         "field2": "čeljusti",
-        "field3": "Stisnuo je vilicu",
+        "field3": "Stisnuo je čeljusti.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -986,7 +986,7 @@
     "83": {
         "cardNumber": "83",
         "field1": "kažiprst",
-        "field2": "kažiprstima",
+        "field2": "kažiprsti",
         "field3": "Na kažiprstu nosi zlatni prsten",
         "field4": "",
         "field5": "",
@@ -1010,9 +1010,9 @@
     "85": {
         "cardNumber": "85",
         "field1": "ćelava glava",
-        "field2": "one ćelave",
-        "field3": "Naš djed ćelaviti",
-        "field4": "Ćelava glava s prednjim dvorištem",
+        "field2": "ćelave glave",
+        "field3": "Naš djed ćelavi.",
+        "field4": "obrijana glava s pramenom kose sprijeda",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1047,7 +1047,7 @@
         "cardNumber": "88",
         "field1": "usna",
         "field2": "usne",
-        "field3": "Nalakirala je usne",
+        "field3": "Našminkala je usne.",
         "field4": "Ugrizao se za usnicu",
         "field5": "",
         "field6": "",
@@ -1069,8 +1069,8 @@
     },
     "90": {
         "cardNumber": "90",
-        "field1": "džep",
-        "field2": "torbe",
+        "field1": "torba / džep",
+        "field2": "torbe / džepovi",
         "field3": "džepni nožić",
         "field4": "kožna torba",
         "field5": "",
@@ -1083,7 +1083,7 @@
         "cardNumber": "91",
         "field1": "trepavica",
         "field2": "trepavice",
-        "field3": "Za oko mi je zapela trepavica",
+        "field3": "Trepavica mi je upala u oko.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1105,7 +1105,7 @@
     },
     "93": {
         "cardNumber": "93",
-        "field1": "klimav",
+        "field1": "rijedak / prorijeđen",
         "field2": "Kosa mu se prorijedila",
         "field3": "",
         "field4": "",
@@ -1117,8 +1117,8 @@
     },
     "94": {
         "cardNumber": "94",
-        "field1": "otmjeno",
-        "field2": "Napravila je delikatan pokret",
+        "field1": "nježan / sitan",
+        "field2": "Napravila je nježan pokret.",
         "field3": "Ima sitnu figuru",
         "field4": "",
         "field5": "",
@@ -1129,31 +1129,31 @@
     },
     "95": {
         "cardNumber": "95",
-        "field1": "prikladno",
-        "field2": "neprikladno",
-        "field3": "Ne ponašate se primjereno",
+        "field1": "primjeren",
+        "field2": "neprimjeren",
+        "field3": "Ne ponašaš se primjereno.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "96": {
         "cardNumber": "96",
-        "field1": "liječiti",
-        "field2": "Prema svima se odnosi snishodljivo",
+        "field1": "postupati s nekim / liječiti",
+        "field2": "Prema svima se odnosi svisoka.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "97": {
         "cardNumber": "97",
-        "field1": "šteta",
+        "field1": "suosjećanje / sažaljenje",
         "field2": "suosjećajan",
         "field3": "Žao mi ga je",
         "field4": "",
@@ -1161,7 +1161,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "98": {
         "cardNumber": "98",
@@ -1173,23 +1173,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "99": {
         "cardNumber": "99",
-        "field1": "udobnost",
-        "field2": "konzola",
+        "field1": "utjeha",
+        "field2": "tješiti",
         "field3": "Njegove su me riječi ispunile utjehom",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "100": {
         "cardNumber": "100",
-        "field1": "smetnja",
+        "field1": "ljutnja / nezadovoljstvo",
         "field2": "To nam je uzrokovalo mnogo frustracija",
         "field3": "",
         "field4": "",
@@ -1197,7 +1197,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "101": {
         "cardNumber": "101",
@@ -1209,7 +1209,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "102": {
         "cardNumber": "102",
@@ -1221,11 +1221,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "103": {
         "cardNumber": "103",
-        "field1": "Ljubomora",
+        "field1": "ljubomora",
         "field2": "ljubomoran",
         "field3": "Ljubomoran je na svoju djevojku",
         "field4": "",
@@ -1233,43 +1233,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "104": {
         "cardNumber": "104",
-        "field1": "osjetljivost",
-        "field2": "osjetljiv",
+        "field1": "empatija / suosjećajnost",
+        "field2": "empatičan / suosjećajan",
         "field3": "On nije osobito empatična osoba",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "105": {
         "cardNumber": "105",
         "field1": "neprijateljstvo",
         "field2": "neprijateljski",
-        "field3": "Pogledi su im bili neprijateljski raspoloženi",
+        "field3": "Njezini su pogledi bili neprijateljski.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "106": {
         "cardNumber": "106",
         "field1": "osjećaj sigurnosti",
-        "field2": "oporavio se",
+        "field2": "siguran / zaštićen",
         "field3": "Uz njega se osjećala sigurnom",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "107": {
         "cardNumber": "107",
@@ -1281,23 +1281,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "108": {
         "cardNumber": "108",
         "field1": "simpatija",
         "field2": "simpatije",
-        "field3": "prijateljski",
+        "field3": "simpatičan",
         "field4": "Ima ugodan glas",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "109": {
         "cardNumber": "109",
-        "field1": "iščekivanje",
+        "field1": "radosno iščekivanje",
         "field2": "Veselim se Božiću",
         "field3": "",
         "field4": "",
@@ -1305,19 +1305,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "110": {
         "cardNumber": "110",
         "field1": "nježnost",
         "field2": "milovanja",
-        "field3": "ponuda",
+        "field3": "nježan",
         "field4": "Majka ga je nježno pogledala",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "111": {
         "cardNumber": "111",
@@ -1329,19 +1329,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "112": {
         "cardNumber": "112",
         "field1": "suzdržanost",
-        "field2": "Rezervirano",
+        "field2": "suzdržan",
         "field3": "Uvijek je pomalo rezerviran",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "113": {
         "cardNumber": "113",
@@ -1353,31 +1353,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "114": {
         "cardNumber": "114",
         "field1": "osjetiti",
-        "field2": "(osjećaj-osjećaj-osjećaj)",
+        "field2": "(prezent: empfindet; preterit: empfand; particip II: empfunden)",
         "field3": "osjetljiv",
         "field4": "Ne osjeća ništa prema njoj",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "115": {
         "cardNumber": "115",
         "field1": "nemilosrdan",
-        "field2": "bezvrijedan",
+        "field2": "vrijedan sažaljenja",
         "field3": "Bio je nemilosrdna osoba",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "116": {
         "cardNumber": "116",
@@ -1389,12 +1389,12 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "osjećaji"
+        "category": "Osjećaji"
     },
     "117": {
         "cardNumber": "117",
         "field1": "svijest",
-        "field2": "svjesno",
+        "field2": "svjestan / svjesno",
         "field3": "Učinili su to svjesno",
         "field4": "",
         "field5": "",
@@ -1420,7 +1420,7 @@
         "field1": "virus",
         "field2": "virusi",
         "field3": "računalni virus",
-        "field4": "zaraznih virusa",
+        "field4": "zarazni virusi",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1429,8 +1429,8 @@
     },
     "120": {
         "cardNumber": "120",
-        "field1": "Osip",
-        "field2": "osipa",
+        "field1": "osip",
+        "field2": "osipi",
         "field3": "Ona pati od osipa na rukama",
         "field4": "",
         "field5": "",
@@ -1441,9 +1441,9 @@
     },
     "121": {
         "cardNumber": "121",
-        "field1": "slijep",
-        "field2": "slijep",
-        "field3": "slijepi",
+        "field1": "slijepi muškarac",
+        "field2": "slijepe osobe",
+        "field3": "slijep",
         "field4": "Slijep je na jedno oko",
         "field5": "",
         "field6": "",
@@ -1467,7 +1467,7 @@
         "cardNumber": "123",
         "field1": "kost",
         "field2": "kosti",
-        "field3": "prijelom kostiju",
+        "field3": "prijelom kosti",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1477,8 +1477,8 @@
     },
     "124": {
         "cardNumber": "124",
-        "field1": "zimice",
-        "field2": "Dijete leži u krevetu s jezom",
+        "field1": "zimica",
+        "field2": "Dijete leži u krevetu i ima zimicu.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1489,8 +1489,8 @@
     },
     "125": {
         "cardNumber": "125",
-        "field1": "golub",
-        "field2": "golubovi",
+        "field1": "gluhi muškarac",
+        "field2": "gluhe osobe",
         "field3": "gluh",
         "field4": "Karl je bio gluh od rođenja",
         "field5": "",
@@ -1501,7 +1501,7 @@
     },
     "126": {
         "cardNumber": "126",
-        "field1": "naježiti se",
+        "field1": "naježena koža",
         "field2": "Naježio sam se od straha",
         "field3": "",
         "field4": "",
@@ -1514,7 +1514,7 @@
     "127": {
         "cardNumber": "127",
         "field1": "životni vijek",
-        "field2": "životni vijek",
+        "field2": "životni vjekovi",
         "field3": "Životni vijek stanovništva se produžava",
         "field4": "",
         "field5": "",
@@ -1525,7 +1525,7 @@
     },
     "128": {
         "cardNumber": "128",
-        "field1": "briga",
+        "field1": "njega",
         "field2": "Ovaj pacijent zahtijeva stalnu njegu",
         "field3": "",
         "field4": "",
@@ -1537,7 +1537,7 @@
     },
     "129": {
         "cardNumber": "129",
-        "field1": "psihu",
+        "field1": "psiha",
         "field2": "psihe",
         "field3": "Ima stabilnu psihu",
         "field4": "",
@@ -1562,7 +1562,7 @@
     "131": {
         "cardNumber": "131",
         "field1": "čelo",
-        "field2": "čelo",
+        "field2": "čela",
         "field3": "Manfred ima nisko čelo",
         "field4": "",
         "field5": "",
@@ -1575,7 +1575,7 @@
         "cardNumber": "132",
         "field1": "ovisnost",
         "field2": "ovisnosti",
-        "field3": "online ovisnost",
+        "field3": "ovisnost o internetu",
         "field4": "ovisnost o kockanju",
         "field5": "",
         "field6": "",
@@ -1585,7 +1585,7 @@
     },
     "133": {
         "cardNumber": "133",
-        "field1": "Bolest",
+        "field1": "mučnina",
         "field2": "loše",
         "field3": "Muka mi je od ovog mirisa",
         "field4": "",
@@ -1610,7 +1610,7 @@
     "135": {
         "cardNumber": "135",
         "field1": "nadvladati",
-        "field2": "(savladao-savladao-savladao)",
+        "field2": "(prezent: überwindet; preterit: überwand; particip II: überwunden)",
         "field3": "Pobijedila je tešku bolest",
         "field4": "",
         "field5": "",
@@ -1633,9 +1633,9 @@
     },
     "137": {
         "cardNumber": "137",
-        "field1": "Munja",
-        "field2": "munja",
-        "field3": "posvjetljuje se",
+        "field1": "munja",
+        "field2": "munje",
+        "field3": "sijeva",
         "field4": "Munja je udarila u drvo",
         "field5": "",
         "field6": "",
@@ -1646,7 +1646,7 @@
     "138": {
         "cardNumber": "138",
         "field1": "tuča",
-        "field2": "Grad pada",
+        "field2": "pada tuča",
         "field3": "Tuča bubnja o prozor",
         "field4": "",
         "field5": "",
@@ -1658,8 +1658,8 @@
     "139": {
         "cardNumber": "139",
         "field1": "kišica",
-        "field2": "Sipi",
-        "field3": "Danima pada kiša",
+        "field2": "rominja",
+        "field3": "Već danima rominja.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1681,8 +1681,8 @@
     },
     "141": {
         "cardNumber": "141",
-        "field1": "klimatsku zonu",
-        "field2": "klimatskim zonama",
+        "field1": "klimatska zona",
+        "field2": "klimatske zone",
         "field3": "topla klimatska zona",
         "field4": "hladna klimatska zona",
         "field5": "",
@@ -1717,7 +1717,7 @@
     },
     "144": {
         "cardNumber": "144",
-        "field1": "mračno",
+        "field1": "mračan",
         "field2": "mrak",
         "field3": "tame",
         "field4": "Već pada mrak",
@@ -1729,7 +1729,7 @@
     },
     "145": {
         "cardNumber": "145",
-        "field1": "svijetao",
+        "field1": "vedar",
         "field2": "nebo postaje vedro",
         "field3": "Ovo je došlo kao grom iz vedra neba",
         "field4": "",
@@ -1741,7 +1741,7 @@
     },
     "146": {
         "cardNumber": "146",
-        "field1": "loše",
+        "field1": "loš",
         "field2": "Vrijeme je stvarno loše",
         "field3": "",
         "field4": "",
@@ -1753,8 +1753,8 @@
     },
     "147": {
         "cardNumber": "147",
-        "field1": "razjasni se",
-        "field2": "Nebo se opet razvedri",
+        "field1": "razvedriti se",
+        "field2": "Nebo se opet razvedrava.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1765,9 +1765,9 @@
     },
     "148": {
         "cardNumber": "148",
-        "field1": "zamutiti se",
-        "field2": "pokrivač oblaka",
-        "field3": "Nebo se naoblačilo",
+        "field1": "naoblačiti se",
+        "field2": "naoblaka",
+        "field3": "Nebo je oblačno.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1777,7 +1777,7 @@
     },
     "149": {
         "cardNumber": "149",
-        "field1": "namjesti se",
+        "field1": "nastupiti / pojaviti se",
         "field2": "Zima je ove godine stigla rano",
         "field3": "",
         "field4": "",
@@ -1790,9 +1790,9 @@
     "150": {
         "cardNumber": "150",
         "field1": "predvidjeti",
-        "field2": "prognoza",
-        "field3": "predviđanja",
-        "field4": "Vremenska prognoza",
+        "field2": "predviđanje / prognoza",
+        "field3": "predviđanja / prognoze",
+        "field4": "vremenska prognoza",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1801,7 +1801,7 @@
     },
     "151": {
         "cardNumber": "151",
-        "field1": "udarac",
+        "field1": "puhati",
         "field2": "Vjetar puše s istoka",
         "field3": "",
         "field4": "",
@@ -1814,7 +1814,7 @@
     "152": {
         "cardNumber": "152",
         "field1": "izumrijeti",
-        "field2": "(umrije-umro-izumro)",
+        "field2": "(prezent: stirbt aus; preterit: starb aus; particip II: ausgestorben)",
         "field3": "Mamuti su izumrli",
         "field4": "Mnoge biljne vrste izumiru",
         "field5": "",
@@ -1924,7 +1924,7 @@
         "field1": "crv",
         "field2": "crvi",
         "field3": "kišna glista",
-        "field4": "U žarulji je crv",
+        "field4": "U kruški je crv.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1947,7 +1947,7 @@
         "cardNumber": "163",
         "field1": "muha",
         "field2": "muhe",
-        "field3": "ubiti dvije ptice s jednim kamenom",
+        "field3": "Jednim udarcem ubiti dvije muhe.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1957,10 +1957,10 @@
     },
     "164": {
         "cardNumber": "164",
-        "field1": "čeljusti",
+        "field1": "bor",
         "field2": "borovi",
         "field3": "borova šuma",
-        "field4": "češer za bor",
+        "field4": "borov češer",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1982,7 +1982,7 @@
     "166": {
         "cardNumber": "166",
         "field1": "meduza",
-        "field2": "meduza",
+        "field2": "meduze",
         "field3": "Neke meduze su otrovne",
         "field4": "",
         "field5": "",
@@ -2005,8 +2005,8 @@
     },
     "168": {
         "cardNumber": "168",
-        "field1": "summit",
-        "field2": "savjeti",
+        "field1": "vrh",
+        "field2": "vrhovi",
         "field3": "zašiljen",
         "field4": "vrh planine",
         "field5": "",
@@ -2029,9 +2029,9 @@
     },
     "170": {
         "cardNumber": "170",
-        "field1": "izdržljiva",
-        "field2": "kratkotrajni",
-        "field3": "kratkotrajne biljke",
+        "field1": "dugovječan",
+        "field2": "kratkotrajan",
+        "field3": "kratkovječne biljke",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2041,27 +2041,27 @@
     },
     "171": {
         "cardNumber": "171",
-        "field1": "kopirati",
-        "field2": "(otpisuje-otpisuje-otpisuje)",
-        "field3": "šiljak",
+        "field1": "prepisivati",
+        "field2": "(prezent: schreibt ab; preterit: schrieb ab; particip II: abgeschrieben)",
+        "field3": "prepisivati na ispitu",
         "field4": "Mogu li prepisati tvoju zadaću?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "172": {
         "cardNumber": "172",
         "field1": "semestar u inozemstvu",
-        "field2": "semestar u inozemstvu",
+        "field2": "semestri u inozemstvu",
         "field3": "Htio bih ovdje provesti jedan semestar u inozemstvu",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "173": {
         "cardNumber": "173",
@@ -2073,43 +2073,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "174": {
         "cardNumber": "174",
-        "field1": "razredbeni test",
-        "field2": "razredbeni testovi",
-        "field3": "Razredbeni test za jezične tečajeve",
+        "field1": "test za određivanje razine znanja",
+        "field2": "testovi za određivanje razine znanja",
+        "field3": "test za određivanje razine znanja za jezične tečajeve",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "175": {
         "cardNumber": "175",
         "field1": "obrazloženje",
-        "field2": "opravdanja",
-        "field3": "opravdati",
-        "field4": "Možete li opravdati svoje stajalište?",
+        "field2": "obrazloženja",
+        "field3": "obrazložiti",
+        "field4": "Možete li obrazložiti svoje stajalište?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "176": {
         "cardNumber": "176",
-        "field1": "obris",
-        "field2": "obrise",
-        "field3": "struktura",
+        "field1": "nacrt / struktura",
+        "field2": "nacrti / strukture",
+        "field3": "strukturirati",
         "field4": "Prvo morate napisati nacrt",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "177": {
         "cardNumber": "177",
@@ -2121,11 +2121,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "178": {
         "cardNumber": "178",
-        "field1": "Metoda",
+        "field1": "metoda",
         "field2": "metode",
         "field3": "znanstvena metoda",
         "field4": "Razvio je novu metodu",
@@ -2133,31 +2133,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "179": {
         "cardNumber": "179",
-        "field1": "prijepis",
-        "field2": "transkripte",
-        "field3": "Zapiši",
-        "field4": "(piše zajedno-pisao je zajedno-zapisao)",
-        "field5": "Imate li prijepis zadnjeg predavanja?",
+        "field1": "bilješke s predavanja",
+        "field2": "bilješke s predavanja",
+        "field3": "voditi bilješke",
+        "field4": "(prezent: schreibt mit; preterit: schrieb mit; particip II: mitgeschrieben)",
+        "field5": "Imaš li bilješke s posljednjeg predavanja?",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "180": {
         "cardNumber": "180",
-        "field1": "znanost",
+        "field1": "prirodna znanost",
         "field2": "prirodne znanosti",
-        "field3": "duhovna znanost",
+        "field3": "humanistička znanost",
         "field4": "humanističke znanosti",
-        "field5": "humanističke znanosti",
+        "field5": "humanistički",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "181": {
         "cardNumber": "181",
@@ -2169,59 +2169,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "182": {
         "cardNumber": "182",
         "field1": "predavanje",
         "field2": "predavanja",
-        "field3": "Sada imam sat povijesti",
-        "field4": "Idete li na predavanje?",
+        "field3": "Sada imam predavanje iz povijesti.",
+        "field4": "Ideš li na predavanje?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "183": {
         "cardNumber": "183",
         "field1": "daljnje usavršavanje",
-        "field2": "daljnje usavršavanje",
-        "field3": "da nastave školovanje",
+        "field2": "daljnja usavršavanja",
+        "field3": "dalje se usavršavati",
         "field4": "Morate se stalno educirati",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "184": {
         "cardNumber": "184",
         "field1": "dokazati",
-        "field2": "(dokazuje-dokazuje-dokazuje)",
+        "field2": "(prezent: weist nach; preterit: wies nach; particip II: nachgewiesen)",
         "field3": "To se uopće ne može dokazati",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "185": {
         "cardNumber": "185",
-        "field1": "zahtijevajte",
-        "field2": "Profesor puno traži od svojih učenika",
+        "field1": "zahtijevati",
+        "field2": "Profesor puno traži od svojih studenata.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "znanosti i obrazovanja"
+        "category": "Znanost i obrazovanje"
     },
     "186": {
         "cardNumber": "186",
-        "field1": "razlikovati",
+        "field1": "odlikovati / nagraditi",
         "field2": "nagrada",
         "field3": "nagrade",
         "field4": "Dobio je Nobelovu nagradu",
@@ -2233,8 +2233,8 @@
     },
     "187": {
         "cardNumber": "187",
-        "field1": "dizajn scene",
-        "field2": "Što mislite o scenografiji?",
+        "field1": "scenografija",
+        "field2": "Što misliš o scenografiji?",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2247,7 +2247,7 @@
         "cardNumber": "188",
         "field1": "baština",
         "field2": "naslijediti",
-        "field3": "svjetske kulturne baštine",
+        "field3": "svjetska kulturna baština",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2259,7 +2259,7 @@
         "cardNumber": "189",
         "field1": "simbol",
         "field2": "simboli",
-        "field3": "simbolična",
+        "field3": "simboličan",
         "field4": "Ova slika je simbolične prirode",
         "field5": "",
         "field6": "",
@@ -2282,7 +2282,7 @@
     "191": {
         "cardNumber": "191",
         "field1": "doprinos",
-        "field2": "doprinose",
+        "field2": "doprinosi",
         "field3": "Dao je veliki doprinos kulturi",
         "field4": "",
         "field5": "",
@@ -2317,10 +2317,10 @@
     },
     "194": {
         "cardNumber": "194",
-        "field1": "snimanje",
+        "field1": "snimka",
         "field2": "snimke",
         "field3": "Snimka je mutna",
-        "field4": "Jeste li me primili?",
+        "field4": "Jesi li me snimio?",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -2330,7 +2330,7 @@
     "195": {
         "cardNumber": "195",
         "field1": "radnja",
-        "field2": "akcije",
+        "field2": "radnje",
         "field3": "Predstava ima vrlo malo radnje",
         "field4": "",
         "field5": "",
@@ -2355,7 +2355,7 @@
         "cardNumber": "197",
         "field1": "skulptura",
         "field2": "skulpture",
-        "field3": "drvenu skulpturu",
+        "field3": "drvena skulptura",
         "field4": "gotička skulptura",
         "field5": "",
         "field6": "",
@@ -2389,19 +2389,19 @@
     },
     "200": {
         "cardNumber": "200",
-        "field1": "zakopati",
+        "field1": "pokopati",
         "field2": "sprovod",
-        "field3": "sahrane",
+        "field3": "sprovodi",
         "field4": "Sprovod će se obaviti u utorak",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "201": {
         "cardNumber": "201",
-        "field1": "priznati",
+        "field1": "ispovjediti se",
         "field2": "ispovijed",
         "field3": "ispovijesti",
         "field4": "Otišao je na ispovijed",
@@ -2409,31 +2409,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "202": {
         "cardNumber": "202",
-        "field1": "ponudu",
+        "field1": "zapovijed",
         "field2": "zapovijedi",
         "field3": "deset zapovijedi",
-        "field4": "držati zapovijed",
+        "field4": "pridržavati se zapovijedi",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "203": {
         "cardNumber": "203",
         "field1": "opat",
-        "field2": "opatima",
+        "field2": "opati",
         "field3": "opatija",
         "field4": "opatije",
         "field5": "najveća opatija u Europi",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "204": {
         "cardNumber": "204",
@@ -2445,7 +2445,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "205": {
         "cardNumber": "205",
@@ -2457,7 +2457,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "206": {
         "cardNumber": "206",
@@ -2469,19 +2469,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "207": {
         "cardNumber": "207",
         "field1": "duša",
         "field2": "duše",
-        "field3": "Vi ste jedno srce i jedna duša",
+        "field3": "Oni su jedno srce i jedna duša.",
         "field4": "Bio je duša tvrtke",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "208": {
         "cardNumber": "208",
@@ -2493,11 +2493,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "209": {
         "cardNumber": "209",
-        "field1": "brzo",
+        "field1": "postiti",
         "field2": "post",
         "field3": "posna hrana",
         "field4": "",
@@ -2505,19 +2505,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "210": {
         "cardNumber": "210",
-        "field1": "vjerujući",
-        "field2": "nevjerojatno",
+        "field1": "pobožan / vjernički",
+        "field2": "nevjernički",
         "field3": "On je duboko pobožan kršćanin",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "211": {
         "cardNumber": "211",
@@ -2529,12 +2529,12 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religija"
+        "category": "Religija"
     },
     "212": {
         "cardNumber": "212",
-        "field1": "od svih stvari",
-        "field2": "Danas od svih dana kasnim",
+        "field1": "baš / upravo",
+        "field2": "Baš danas kasnim.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2545,7 +2545,7 @@
     },
     "213": {
         "cardNumber": "213",
-        "field1": "trajno",
+        "field1": "trajan",
         "field2": "trajni mir",
         "field3": "",
         "field4": "",
@@ -2557,8 +2557,8 @@
     },
     "214": {
         "cardNumber": "214",
-        "field1": "pregled",
-        "field2": "retrospektive",
+        "field1": "osvrt",
+        "field2": "osvrti",
         "field3": "Gledajući unatrag, mnoge stvari izgledaju drugačije",
         "field4": "",
         "field5": "",
@@ -2571,8 +2571,8 @@
         "cardNumber": "215",
         "field1": "krajnji rok",
         "field2": "rokovi",
-        "field3": "dugoročno",
-        "field4": "kratkoročno",
+        "field3": "dugoročan / dugoročno",
+        "field4": "kratkoročan / kratkoročno",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -2581,9 +2581,9 @@
     },
     "216": {
         "cardNumber": "216",
-        "field1": "prisutnost",
-        "field2": "trenutno",
-        "field3": "Volite li suvremenu umjetnost?",
+        "field1": "sadašnjost",
+        "field2": "sadašnji / trenutačno",
+        "field3": "Sviđa li ti se suvremena umjetnost?",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2594,7 +2594,7 @@
     "217": {
         "cardNumber": "217",
         "field1": "prošlost",
-        "field2": "prošlost",
+        "field2": "prošli",
         "field3": "u prošlosti",
         "field4": "",
         "field5": "",
@@ -2605,9 +2605,9 @@
     },
     "218": {
         "cardNumber": "218",
-        "field1": "dok je",
+        "field1": "neko vrijeme",
         "field2": "nakon nekog vremena",
-        "field3": "Žurba čini otpad",
+        "field3": "Žuri polako.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2618,7 +2618,7 @@
     "219": {
         "cardNumber": "219",
         "field1": "budućnost",
-        "field2": "budućnost",
+        "field2": "budući",
         "field3": "u budućnosti",
         "field4": "",
         "field5": "",
@@ -2665,9 +2665,9 @@
     },
     "223": {
         "cardNumber": "223",
-        "field1": "Sljedeći",
+        "field1": "sljedeći",
         "field2": "sljedeća stranica",
-        "field3": "Slijedeće godine",
+        "field3": "sljedeće godine",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2725,19 +2725,19 @@
     },
     "228": {
         "cardNumber": "228",
-        "field1": "smršaviti",
-        "field2": "(smanjuje-smanjuje-smanjuje)",
+        "field1": "smanjivati se / smršavjeti",
+        "field2": "(prezent: nimmt ab; preterit: nahm ab; particip II: abgenommen)",
         "field3": "smanjenje",
-        "field4": "U jesen se dani smanjuju",
+        "field4": "U jesen se dani skraćuju.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "229": {
         "cardNumber": "229",
-        "field1": "isto",
+        "field1": "previše / odviše",
         "field2": "Nije prekasno",
         "field3": "",
         "field4": "",
@@ -2745,7 +2745,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "230": {
         "cardNumber": "230",
@@ -2757,43 +2757,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "231": {
         "cardNumber": "231",
         "field1": "pravokutnik",
-        "field2": "pravokutnike",
+        "field2": "pravokutnici",
         "field3": "pravokutan",
-        "field4": "Možete li nacrtati carski kvadrat?",
+        "field4": "Možeš li nacrtati pravokutnik?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "232": {
         "cardNumber": "232",
         "field1": "promjer",
-        "field2": "promjere",
+        "field2": "promjeri",
         "field3": "Krug ima dva metra u promjeru",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "233": {
         "cardNumber": "233",
-        "field1": "prosječno",
-        "field2": "U prosjeku",
+        "field1": "prosjek",
+        "field2": "u prosjeku",
         "field3": "Njegov učinak je znatno iznad prosjeka",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "234": {
         "cardNumber": "234",
@@ -2805,31 +2805,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "235": {
         "cardNumber": "235",
-        "field1": "torba",
-        "field2": "torbe",
+        "field1": "vreća",
+        "field2": "vreće",
         "field3": "vreća za spavanje",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "236": {
         "cardNumber": "236",
         "field1": "opseg",
-        "field2": "opsege",
+        "field2": "opsezi",
         "field3": "u cijelosti",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "237": {
         "cardNumber": "237",
@@ -2841,7 +2841,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "238": {
         "cardNumber": "238",
@@ -2853,35 +2853,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "239": {
         "cardNumber": "239",
-        "field1": "Lopta",
-        "field2": "lopte",
-        "field3": "kuglastog",
+        "field1": "kugla",
+        "field2": "kugle",
+        "field3": "kuglast",
         "field4": "Zemlja je kugla",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "240": {
         "cardNumber": "240",
         "field1": "pretjerivanje",
         "field2": "pretjerivanja",
         "field3": "pretjerivati",
-        "field4": "(pretjeruje-pretjeruje-pretjeruje)",
+        "field4": "(prezent: übertreibt; preterit: übertrieb; particip II: übertrieben)",
         "field5": "Pretjeruje s trčanjem",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "241": {
         "cardNumber": "241",
-        "field1": "drastična",
+        "field1": "drastičan",
         "field2": "drastično povećanje cijena",
         "field3": "drastične mjere",
         "field4": "",
@@ -2889,11 +2889,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "242": {
         "cardNumber": "242",
-        "field1": "enormno",
+        "field1": "ogroman",
         "field2": "Bio je to ogroman uspjeh",
         "field3": "To me silno zanima",
         "field4": "",
@@ -2901,11 +2901,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "243": {
         "cardNumber": "243",
-        "field1": "Kvadrat-",
+        "field1": "kvadratni-",
         "field2": "kvadratni centimetar",
         "field3": "Naš stan ima 50 kvadrata",
         "field4": "",
@@ -2913,19 +2913,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "244": {
         "cardNumber": "244",
         "field1": "uglavnom",
-        "field2": "Ogromna većina",
+        "field2": "pretežna većina",
         "field3": "pretežno mladi ljudi",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "245": {
         "cardNumber": "245",
@@ -2937,24 +2937,24 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "246": {
         "cardNumber": "246",
-        "field1": "udebljati se",
-        "field2": "(povećava-povećava-povećava)",
+        "field1": "povećavati se / udebljati se",
+        "field2": "(prezent: nimmt zu; preterit: nahm zu; particip II: zugenommen)",
         "field3": "povećanje",
         "field4": "Stanovništvo se i dalje povećava",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimenzije"
+        "category": "Mjere"
     },
     "247": {
         "cardNumber": "247",
-        "field1": "šalica",
-        "field2": "šalice",
+        "field1": "čaša / pehar",
+        "field2": "čaše / pehari",
         "field3": "Napunila je čaše vinom",
         "field4": "",
         "field5": "",
@@ -2968,7 +2968,7 @@
         "field1": "metla",
         "field2": "metle",
         "field3": "Metlom mete dvorište",
-        "field4": "Nova metla čisti",
+        "field4": "Nova metla dobro mete.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -2977,9 +2977,9 @@
     },
     "249": {
         "cardNumber": "249",
-        "field1": "nedostatak",
-        "field2": "nedostatke",
-        "field3": "kvar",
+        "field1": "kvar",
+        "field2": "kvarovi",
+        "field3": "neispravan",
         "field4": "Uređaj je u kvaru",
         "field5": "",
         "field6": "",
@@ -2990,8 +2990,8 @@
     "250": {
         "cardNumber": "250",
         "field1": "zamjena",
-        "field2": "zamjena",
-        "field3": "dobio kao zamjena",
+        "field2": "zamijeniti",
+        "field3": "dobiti kao zamjenu",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3014,7 +3014,7 @@
     "252": {
         "cardNumber": "252",
         "field1": "kavez",
-        "field2": "kavezima",
+        "field2": "kavezi",
         "field3": "zlatni kavez",
         "field4": "",
         "field5": "",
@@ -3025,11 +3025,11 @@
     },
     "253": {
         "cardNumber": "253",
-        "field1": "pluto",
-        "field2": "čepovi",
+        "field1": "pluteni čep",
+        "field2": "pluteni čepovi",
         "field3": "vadičep",
         "field4": "vadičepi",
-        "field5": "Pluto je zapelo",
+        "field5": "Čep je čvrsto zaglavljen.",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -3039,7 +3039,7 @@
         "cardNumber": "254",
         "field1": "invalidska kolica",
         "field2": "invalidska kolica",
-        "field3": "Nakon nesreće mora sjesti u invalidska kolica",
+        "field3": "Nakon nesreće mora se koristiti invalidskim kolicima.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3049,7 +3049,7 @@
     },
     "255": {
         "cardNumber": "255",
-        "field1": "noj",
+        "field1": "buket",
         "field2": "buketi",
         "field3": "Stavila je buket u vazu",
         "field4": "",
@@ -3061,8 +3061,8 @@
     },
     "256": {
         "cardNumber": "256",
-        "field1": "verzija",
-        "field2": "verzije",
+        "field1": "okvir / verzija",
+        "field2": "okviri / verzije",
         "field3": "Ove naočale trebaju novi okvir",
         "field4": "",
         "field5": "",
@@ -3073,10 +3073,10 @@
     },
     "257": {
         "cardNumber": "257",
-        "field1": "povodac",
-        "field2": "linije",
+        "field1": "uže / uzica",
+        "field2": "užad / uzice",
         "field3": "uže za rublje",
-        "field4": "povodac za psa",
+        "field4": "uzica za psa",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3097,9 +3097,9 @@
     },
     "259": {
         "cardNumber": "259",
-        "field1": "zviždaljka",
-        "field2": "cijevi",
-        "field3": "Pušačka predsezona trenutno je u trendu",
+        "field1": "lula / zviždaljka",
+        "field2": "lule / zviždaljke",
+        "field3": "Pušenje lule trenutačno je u modi.",
         "field4": "Pali lulu",
         "field5": "",
         "field6": "",
@@ -3121,8 +3121,8 @@
     },
     "261": {
         "cardNumber": "261",
-        "field1": "značajka",
-        "field2": "odlaganje",
+        "field1": "raspolagati",
+        "field2": "raspolaganje / odredba",
         "field3": "Imala je auto na raspolaganju",
         "field4": "",
         "field5": "",
@@ -3133,8 +3133,8 @@
     },
     "262": {
         "cardNumber": "262",
-        "field1": "dostupno",
-        "field2": "Ova stvar postoji samo jednom",
+        "field1": "prisutan / dostupan",
+        "field2": "Postoji samo jedan primjerak ove stvari.",
         "field3": "Od zaliha nije ostalo ništa",
         "field4": "",
         "field5": "",
@@ -3145,7 +3145,7 @@
     },
     "263": {
         "cardNumber": "263",
-        "field1": "(dovoljno).",
+        "field1": "biti dovoljan / dostajati",
         "field2": "dostatan",
         "field3": "Materijal nije dovoljan za suknju",
         "field4": "",
@@ -3153,11 +3153,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "264": {
         "cardNumber": "264",
-        "field1": "jetkanje",
+        "field1": "jetkati / nagrizati",
         "field2": "nagrizajući",
         "field3": "kaustične kemikalije",
         "field4": "",
@@ -3165,11 +3165,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "265": {
         "cardNumber": "265",
-        "field1": "voditi",
+        "field1": "olovo",
         "field2": "Nakon posla noge su mi teške kao olovo",
         "field3": "",
         "field4": "",
@@ -3177,7 +3177,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "266": {
         "cardNumber": "266",
@@ -3189,7 +3189,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "267": {
         "cardNumber": "267",
@@ -3201,7 +3201,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "268": {
         "cardNumber": "268",
@@ -3213,35 +3213,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "269": {
         "cardNumber": "269",
         "field1": "jantar",
         "field2": "jantari",
-        "field3": "Jantarna ogrlica",
+        "field3": "jantarna ogrlica",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "270": {
         "cardNumber": "270",
         "field1": "kisik",
-        "field2": "Nedostatak kisika",
-        "field3": "Opskrba kisikom",
+        "field2": "nedostatak kisika",
+        "field3": "opskrba kisikom",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "271": {
         "cardNumber": "271",
-        "field1": "Čelik",
+        "field1": "čelik",
         "field2": "čelici",
         "field3": "Materijal je tvrd poput čelika",
         "field4": "",
@@ -3249,7 +3249,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "272": {
         "cardNumber": "272",
@@ -3261,7 +3261,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "273": {
         "cardNumber": "273",
@@ -3273,7 +3273,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "274": {
         "cardNumber": "274",
@@ -3285,11 +3285,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "275": {
         "cardNumber": "275",
-        "field1": "transparentan",
+        "field1": "proziran",
         "field2": "neproziran",
         "field3": "neprozirno staklo",
         "field4": "",
@@ -3297,19 +3297,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "276": {
         "cardNumber": "276",
-        "field1": "Unesi",
-        "field2": "(ušao-ušao-ušao)",
+        "field1": "skupiti se",
+        "field2": "(prezent: geht ein; preterit: ging ein; particip II: eingegangen)",
         "field3": "Haljina se skupila u pranju",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Tkanine i materijali"
+        "category": "Tvari i materijali"
     },
     "277": {
         "cardNumber": "277",
@@ -3321,7 +3321,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "278": {
         "cardNumber": "278",
@@ -3333,11 +3333,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "279": {
         "cardNumber": "279",
-        "field1": "Protivnik",
+        "field1": "protivnik",
         "field2": "protivnici",
         "field3": "Njega kao protivnika ne treba shvaćati ozbiljno",
         "field4": "",
@@ -3345,7 +3345,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "280": {
         "cardNumber": "280",
@@ -3357,19 +3357,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "281": {
         "cardNumber": "281",
         "field1": "sklek",
         "field2": "sklekovi",
-        "field3": "Morate napraviti 20 sklekova",
+        "field3": "Moraš napraviti 20 sklekova.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "282": {
         "cardNumber": "282",
@@ -3381,55 +3381,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "283": {
         "cardNumber": "283",
-        "field1": "zabava životinja",
-        "field2": "Bio sam stvarno opaka životinja za zabavu",
+        "field1": "veliki ljubitelj zabava",
+        "field2": "Bio sam pravi veliki ljubitelj zabava.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "284": {
         "cardNumber": "284",
-        "field1": "Hit",
-        "field2": "hitovi",
+        "field1": "pogodak",
+        "field2": "pogoci",
         "field3": "Naši su postigli gol",
-        "field4": "Svaki pogodak bio je pogodak",
+        "field4": "Svaki je hitac bio pogodak.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "285": {
         "cardNumber": "285",
         "field1": "razonoda",
-        "field2": "Ovo im samo tjera vrijeme",
+        "field2": "Ona to radi samo iz razonode.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "286": {
         "cardNumber": "286",
-        "field1": "distrakcija",
-        "field2": "smetnje",
-        "field3": "odvratiti",
-        "field4": "Treba mi malo odvraćanja pažnje",
+        "field1": "odvraćanje pažnje / razonoda",
+        "field2": "smetnje / odvraćanja pažnje",
+        "field3": "odvratiti pažnju",
+        "field4": "Treba mi malo razonode.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "287": {
         "cardNumber": "287",
@@ -3441,7 +3441,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "288": {
         "cardNumber": "288",
@@ -3453,11 +3453,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "289": {
         "cardNumber": "289",
-        "field1": "pravila igre",
+        "field1": "pravilo igre",
         "field2": "pravila igre",
         "field3": "To je protiv pravila igre",
         "field4": "Ne znam pravila igre",
@@ -3465,11 +3465,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "290": {
         "cardNumber": "290",
-        "field1": "preferencija",
+        "field1": "sklonost",
         "field2": "Ima sklonost brzim automobilima",
         "field3": "",
         "field4": "",
@@ -3477,19 +3477,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "291": {
         "cardNumber": "291",
-        "field1": "svjetski kup",
-        "field2": "svjetskim prvenstvima",
-        "field3": "svjetski kup",
+        "field1": "svjetsko prvenstvo",
+        "field2": "svjetska prvenstva",
+        "field3": "svjetsko prvenstvo (SP)",
         "field4": "Osvojili su Svjetsko prvenstvo u nogometu",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "292": {
         "cardNumber": "292",
@@ -3501,43 +3501,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "293": {
         "cardNumber": "293",
-        "field1": "pokušaj",
+        "field1": "pokušati",
         "field2": "pokušaj",
         "field3": "pokušaji",
-        "field4": "Treći pokušaj",
+        "field4": "treći pokušaj",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "294": {
         "cardNumber": "294",
-        "field1": "bacanje",
-        "field2": "(baci-baci-baci)",
+        "field1": "baciti",
+        "field2": "(prezent: wirft; preterit: warf; particip II: geworfen)",
         "field3": "bacanje",
-        "field4": "legla",
+        "field4": "bacanja",
         "field5": "Drvo baca sjenu",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport i slobodno vrijeme"
+        "category": "Sport i slobodno vrijeme"
     },
     "295": {
         "cardNumber": "295",
         "field1": "Belgija",
         "field2": "Belgijac, Belgijanka",
-        "field3": "Belgijanci",
+        "field3": "Belgijci",
         "field4": "belgijski",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "296": {
         "cardNumber": "296",
@@ -3549,7 +3549,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "297": {
         "cardNumber": "297",
@@ -3561,83 +3561,83 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "298": {
         "cardNumber": "298",
         "field1": "Danska",
-        "field2": "Dankinja, Dankinja",
-        "field3": "Danci, Danci",
+        "field2": "Danac, Dankinja",
+        "field3": "Danci, Dankinje",
         "field4": "danski",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "299": {
         "cardNumber": "299",
-        "field1": "Ured za izgubljene stvari",
-        "field2": "izgubljeno-nađeno uredi",
+        "field1": "ured za izgubljene i nađene stvari",
+        "field2": "uredi za izgubljene i nađene stvari",
         "field3": "Možda je moja torba već u uredu za izgubljeno i nađeno",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "300": {
         "cardNumber": "300",
-        "field1": "suvenir",
-        "field2": "suveniri",
+        "field1": "dar s putovanja",
+        "field2": "darovi s putovanja",
         "field3": "Hvala na poklonu!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "301": {
         "cardNumber": "301",
         "field1": "prospekt",
-        "field2": "Brošure",
-        "field3": "putnu brošuru",
+        "field2": "prospekti",
+        "field3": "turistički prospekt",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "302": {
         "cardNumber": "302",
-        "field1": "karavana",
-        "field2": "karavane",
-        "field3": "Na odmor su otišli u karavanu",
+        "field1": "kamp-prikolica",
+        "field2": "kamp-prikolice",
+        "field3": "Na odmor su otišli s kamp-prikolicom.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "303": {
         "cardNumber": "303",
-        "field1": "duh avanture",
+        "field1": "želja za pustolovinama",
         "field2": "pustolovan",
-        "field3": "Ovo smo učinili čisto iz avanturističkog smisla",
+        "field3": "To smo učinili iz čiste želje za pustolovinama.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "304": {
         "cardNumber": "304",
-        "field1": "privlačnost",
+        "field1": "atrakcija",
         "field2": "atrakcije",
         "field3": "atraktivan",
         "field4": "Berlin nudi mnoge atrakcije",
@@ -3645,47 +3645,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "305": {
         "cardNumber": "305",
         "field1": "ekspedicija",
         "field2": "ekspedicije",
-        "field3": "Krenuli su u pohod",
+        "field3": "Krenuli su na ekspediciju.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "306": {
         "cardNumber": "306",
         "field1": "Nizozemska",
         "field2": "Nizozemac",
-        "field3": "Nizozemac",
+        "field3": "Nizozemci",
         "field4": "nizozemski",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "307": {
         "cardNumber": "307",
-        "field1": "put",
+        "field1": "ruta",
         "field2": "rute",
-        "field3": "pješačku stazu",
+        "field3": "pješačka ruta",
         "field4": "Ovo je najkraći put",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "308": {
         "cardNumber": "308",
-        "field1": "purica",
+        "field1": "Turska",
         "field2": "Turčin, Turkinja",
         "field3": "Turci, Turkinje",
         "field4": "turski",
@@ -3693,19 +3693,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "309": {
         "cardNumber": "309",
         "field1": "smještaj",
-        "field2": "smještaj",
+        "field2": "smještaji",
         "field3": "Tražimo smještaj za noćenje",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "310": {
         "cardNumber": "310",
@@ -3717,7 +3717,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "311": {
         "cardNumber": "311",
@@ -3729,7 +3729,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "312": {
         "cardNumber": "312",
@@ -3741,47 +3741,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "313": {
         "cardNumber": "313",
         "field1": "Švedska",
-        "field2": "Šveđanin, Šveđanin",
-        "field3": "Šveđani, Šveđani",
+        "field2": "Šveđanin, Šveđanka",
+        "field3": "Šveđani, Šveđanke",
         "field4": "švedski",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "314": {
         "cardNumber": "314",
         "field1": "Mađarska",
-        "field2": "mađarski",
+        "field2": "Mađar",
         "field3": "Mađari",
         "field4": "mađarski",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "315": {
         "cardNumber": "315",
-        "field1": "vratiti",
-        "field2": "Povratak",
+        "field1": "vratiti se",
+        "field2": "povratak",
         "field3": "Kad si se vratio?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Putovati"
+        "category": "Putovanja"
     },
     "316": {
         "cardNumber": "316",
-        "field1": "(povećati",
+        "field1": "povećati / povećati se",
         "field2": "Cijene stalno rastu",
         "field3": "",
         "field4": "",
@@ -3789,43 +3789,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "317": {
         "cardNumber": "317",
-        "field1": "razlikuju se",
-        "field2": "(odstupa-odstupa-odstupa)",
+        "field1": "odstupiti",
+        "field2": "(prezent: weicht ab; preterit: wich ab; particip II: abgewichen)",
         "field3": "Skrenuli smo s puta",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "318": {
         "cardNumber": "318",
-        "field1": "Karakteristika",
-        "field2": "karakteristike",
-        "field3": "nema posebnih karakteristika",
+        "field1": "obilježje",
+        "field2": "obilježja",
+        "field3": "bez posebnih obilježja",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "319": {
         "cardNumber": "319",
-        "field1": "Udaljenost",
+        "field1": "udaljenost",
         "field2": "udaljenosti",
-        "field3": "uklonjeni",
+        "field3": "udaljen",
         "field4": "Stajala je stotinjak metara dalje",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "320": {
         "cardNumber": "320",
@@ -3837,7 +3837,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "321": {
         "cardNumber": "321",
@@ -3849,11 +3849,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "322": {
         "cardNumber": "322",
-        "field1": "čučanj",
+        "field1": "čučati",
         "field2": "Čučala je na podu",
         "field3": "",
         "field4": "",
@@ -3861,79 +3861,79 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "323": {
         "cardNumber": "323",
         "field1": "puzati",
-        "field2": "(puzao-puzao-puzao)",
+        "field2": "(prezent: kriecht; preterit: kroch; particip II: gekrochen)",
         "field3": "puzati na sve četiri",
         "field4": "Navečer se samo želim uvući u krevet",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "324": {
         "cardNumber": "324",
-        "field1": "put do posla",
-        "field2": "visak",
+        "field1": "redovito putovati na posao",
+        "field2": "njihalo",
         "field3": "njihala",
         "field4": "Svaki dan moram putovati na posao",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "325": {
         "cardNumber": "325",
-        "field1": "položiti se",
-        "field2": "sjedni",
-        "field3": "Sjedni!",
+        "field1": "leći",
+        "field2": "sjesti",
+        "field3": "Sjednite!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "326": {
         "cardNumber": "326",
-        "field1": "umivaonik",
-        "field2": "(ispustio-ispustio-ispustio)",
-        "field3": "smanjiti",
+        "field1": "tonuti / spuštati se",
+        "field2": "(prezent: sinkt; preterit: sank; particip II: gesunken)",
+        "field3": "spustiti / sniziti",
         "field4": "Zrakoplov se postupno spušta",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "327": {
         "cardNumber": "327",
-        "field1": "korak",
-        "field2": "(kick-kick-kicked)",
-        "field3": "Unesi",
-        "field4": "(ušao-ušao-ušao)",
-        "field5": "Molim te priđi bliže!",
+        "field1": "stupiti / udariti nogom",
+        "field2": "(prezent: tritt; preterit: trat; particip II: getreten)",
+        "field3": "ući",
+        "field4": "(prezent: tritt ein; preterit: trat ein; particip II: eingetreten)",
+        "field5": "Molim Vas, priđite bliže!",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "328": {
         "cardNumber": "328",
         "field1": "maknuti se",
-        "field2": "(odlazi-otišao-otišao)",
-        "field3": "Ne može pobjeći od prozora",
-        "field4": "Odjuriti!",
+        "field2": "(prezent: kommt weg; preterit: kam weg; particip II: weggekommen)",
+        "field3": "Ne može se odvojiti od prozora.",
+        "field4": "Gubi se!",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "329": {
         "cardNumber": "329",
@@ -3945,31 +3945,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kretanje i određivanje lokacije"
+        "category": "Kretanje i određivanje položaja"
     },
     "330": {
         "cardNumber": "330",
-        "field1": "isticati se",
-        "field2": "(ne uspijeva-ne uspijeva)",
+        "field1": "otpasti / biti otkazan",
+        "field2": "(prezent: fällt aus; preterit: fiel aus; particip II: ausgefallen)",
         "field3": "Vlak je otkazan",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "331": {
         "cardNumber": "331",
-        "field1": "pretinac",
-        "field2": "odjeljci",
-        "field3": "kupe spavaća kola",
-        "field4": "nepušački dio",
+        "field1": "kupe",
+        "field2": "kupei",
+        "field3": "spavaća kola s kupeima",
+        "field4": "kupe za nepušače",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "332": {
         "cardNumber": "332",
@@ -3981,11 +3981,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "333": {
         "cardNumber": "333",
-        "field1": "štit",
+        "field1": "znak",
         "field2": "znakovi",
         "field3": "znak stop",
         "field4": "",
@@ -3993,43 +3993,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "334": {
         "cardNumber": "334",
-        "field1": "platforma",
-        "field2": "platforme",
-        "field3": "rub platforme",
-        "field4": "Molimo odmaknite se od ruba platforme!",
+        "field1": "peron",
+        "field2": "peroni",
+        "field3": "rub perona",
+        "field4": "Molimo odmaknite se od ruba perona!",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "335": {
         "cardNumber": "335",
-        "field1": "rent-a-car",
-        "field2": "automobili za iznajmljivanje",
-        "field3": "Uzimamo rent-a-car",
+        "field1": "unajmljeni automobil",
+        "field2": "unajmljeni automobili",
+        "field3": "Uzet ćemo unajmljeni automobil.",
         "field4": "Unajmljeno vozilo vraćamo s punim spremnikom",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "336": {
         "cardNumber": "336",
-        "field1": "dirigent",
-        "field2": "dirigenti",
+        "field1": "kondukter",
+        "field2": "kondukteri",
         "field3": "Kondukter je već pregledao karte",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "337": {
         "cardNumber": "337",
@@ -4041,23 +4041,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "338": {
         "cardNumber": "338",
         "field1": "kočnica za slučaj opasnosti",
-        "field2": "povucite kočnicu za slučaj opasnosti",
+        "field2": "povući kočnicu za slučaj opasnosti",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "339": {
         "cardNumber": "339",
-        "field1": "upustiti se u",
+        "field1": "priuštiti si",
         "field2": "Ne mogu se počastiti krstarenjem do Novog Zelanda",
         "field3": "",
         "field4": "",
@@ -4065,43 +4065,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "340": {
         "cardNumber": "340",
-        "field1": "zaključati",
-        "field2": "blokiranje",
+        "field1": "zatvoriti / blokirati",
+        "field2": "zatvaranje",
         "field3": "zatvaranja",
         "field4": "Cijeli centar grada bio je zatvoren za automobile",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "341": {
         "cardNumber": "341",
-        "field1": "Spojiti",
-        "field2": "(povezuje-udruga-povezano)",
+        "field1": "povezati",
+        "field2": "(prezent: verbindet; preterit: verband; particip II: verbunden)",
         "field3": "veza",
         "field4": "veze",
         "field5": "autobusna veza",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "342": {
         "cardNumber": "342",
-        "field1": "otpad",
+        "field1": "otpremiti na otpad",
         "field2": "otpad",
-        "field3": "staro auto na otpad",
+        "field3": "dati otpremiti stari automobil na otpad",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "prijevoz"
+        "category": "Prijevoz"
     },
     "343": {
         "cardNumber": "343",
@@ -4118,9 +4118,9 @@
     "344": {
         "cardNumber": "344",
         "field1": "vatromet",
-        "field2": "vatromet",
+        "field2": "vatrometi",
         "field3": "Zabava je završila velikim vatrometom",
-        "field4": "Ispušta vatromet",
+        "field4": "Ispaljuje vatromet.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -4129,7 +4129,7 @@
     },
     "345": {
         "cardNumber": "345",
-        "field1": "Područje",
+        "field1": "područje",
         "field2": "područja",
         "field3": "prirodni rezervat",
         "field4": "industrijsko područje",
@@ -4153,10 +4153,10 @@
     },
     "347": {
         "cardNumber": "347",
-        "field1": "orijentir",
-        "field2": "znamenitosti",
+        "field1": "simbol / znamenitost",
+        "field2": "simboli / znamenitosti",
         "field3": "Simbol Pariza je Eiffelov toranj",
-        "field4": "Orijentir grada",
+        "field4": "simbol grada",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -4166,7 +4166,7 @@
     "348": {
         "cardNumber": "348",
         "field1": "okrug",
-        "field2": "okruzima",
+        "field2": "okruzi",
         "field3": "Ona više ne živi u ovoj četvrti",
         "field4": "",
         "field5": "",
@@ -4177,9 +4177,9 @@
     },
     "349": {
         "cardNumber": "349",
-        "field1": "domorodac",
-        "field2": "domaći",
-        "field3": "Pitamo mještanina za smjer",
+        "field1": "mještanin",
+        "field2": "mještani",
+        "field3": "Pitat ćemo mještanina za put.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4190,9 +4190,9 @@
     "350": {
         "cardNumber": "350",
         "field1": "mjesto",
-        "field2": "lokacije",
-        "field3": "lokalno",
-        "field4": "na stranici",
+        "field2": "mjesta",
+        "field3": "lokalan",
+        "field4": "na licu mjesta",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -4201,7 +4201,7 @@
     },
     "351": {
         "cardNumber": "351",
-        "field1": "Fontana",
+        "field1": "fontana",
         "field2": "fontane",
         "field3": "Na trgu je nova fontana",
         "field4": "",
@@ -4239,7 +4239,7 @@
         "cardNumber": "354",
         "field1": "gradska knjižnica",
         "field2": "gradske knjižnice",
-        "field3": "Posuđujete li često knjige iz gradske knjižnice?",
+        "field3": "Posuđuješ li često knjige iz gradske knjižnice?",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4250,7 +4250,7 @@
     "355": {
         "cardNumber": "355",
         "field1": "nastati",
-        "field2": "(nastaje-nastaje-nastaje)",
+        "field2": "(prezent: entsteht; preterit: entstand; particip II: entstanden)",
         "field3": "Ovdje se gradi škola",
         "field4": "",
         "field5": "",
@@ -4274,7 +4274,7 @@
     "357": {
         "cardNumber": "357",
         "field1": "žito",
-        "field2": "Koje vrste žitarica poznajete?",
+        "field2": "Koje vrste žitarica poznaješ?",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -4285,9 +4285,9 @@
     },
     "358": {
         "cardNumber": "358",
-        "field1": "Slamka",
+        "field1": "slama",
         "field2": "slamnati šešir",
-        "field3": "Ima slame u glavi",
+        "field3": "Prazna mu je glava.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4299,7 +4299,7 @@
         "cardNumber": "359",
         "field1": "gnojivo",
         "field2": "gnojiva",
-        "field3": "oploditi",
+        "field3": "gnojiti",
         "field4": "Jeste li već kupili gnojivo?",
         "field5": "",
         "field6": "",
@@ -4321,7 +4321,7 @@
     },
     "361": {
         "cardNumber": "361",
-        "field1": "Put",
+        "field1": "staza",
         "field2": "staze",
         "field3": "hodati sjenovitom stazom",
         "field4": "trnovit put",
@@ -4357,7 +4357,7 @@
     },
     "364": {
         "cardNumber": "364",
-        "field1": "Hrast",
+        "field1": "hrast",
         "field2": "hrastovi",
         "field3": "krevet od hrastovine",
         "field4": "",
@@ -4369,7 +4369,7 @@
     },
     "365": {
         "cardNumber": "365",
-        "field1": "uzgajivačnica",
+        "field1": "kućica za psa",
         "field2": "kućice za pse",
         "field3": "Kućica za pse nije dovoljno velika",
         "field4": "",
@@ -4381,8 +4381,8 @@
     },
     "366": {
         "cardNumber": "366",
-        "field1": "Linde",
-        "field2": "stabla lipe",
+        "field1": "lipa",
+        "field2": "lipe",
         "field3": "drvored lipa",
         "field4": "lipov cvijet",
         "field5": "",
@@ -4393,9 +4393,9 @@
     },
     "367": {
         "cardNumber": "367",
-        "field1": "požnjeti",
-        "field2": "žetva",
-        "field3": "žetve",
+        "field1": "žeti / ubirati plodove",
+        "field2": "žetva / urod",
+        "field3": "žetve / urodi",
         "field4": "Urod je ove godine slab",
         "field5": "",
         "field6": "",
@@ -4405,10 +4405,10 @@
     },
     "368": {
         "cardNumber": "368",
-        "field1": "krmača",
-        "field2": "sjeme",
-        "field3": "sjemenke",
-        "field4": "Kako ode sjeme, ode i žetva",
+        "field1": "sijati",
+        "field2": "sjetva / sjeme",
+        "field3": "sjetve / sjemenje",
+        "field4": "Kako siješ, tako ćeš i žeti.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -4417,19 +4417,19 @@
     },
     "369": {
         "cardNumber": "369",
-        "field1": "uskladiti",
-        "field2": "Možete li, molim vas, nešto reći gospođi Schwarz?",
+        "field1": "prenijeti poruku",
+        "field2": "Možete li, molim Vas, prenijeti poruku gospođi Schwarz?",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "370": {
         "cardNumber": "370",
-        "field1": "naredba",
+        "field1": "vladati / dobro znati",
         "field2": "Tečno govori francuski",
         "field3": "",
         "field4": "",
@@ -4437,7 +4437,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "371": {
         "cardNumber": "371",
@@ -4449,7 +4449,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "372": {
         "cardNumber": "372",
@@ -4461,31 +4461,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "373": {
         "cardNumber": "373",
         "field1": "zvuk",
         "field2": "zvukovi",
-        "field3": "zvuk",
-        "field4": "(zvuci-zvuci-zvuci)",
+        "field3": "zvučati",
+        "field4": "(prezent: klingt; preterit: klang; particip II: geklungen)",
         "field5": "Priča zvuči nevjerojatno",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "374": {
         "cardNumber": "374",
         "field1": "kontakt",
-        "field2": "Kontakti",
+        "field2": "kontakti",
         "field3": "ostati u kontaktu",
         "field4": "Izgubio sam kontakt s njom",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "375": {
         "cardNumber": "375",
@@ -4497,47 +4497,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "376": {
         "cardNumber": "376",
         "field1": "gledište",
         "field2": "gledišta",
-        "field3": "To ovisi o vašem stajalištu!",
+        "field3": "To ovisi o stajalištu!",
         "field4": "Smatram da...",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "377": {
         "cardNumber": "377",
         "field1": "naglasak",
         "field2": "naglasci",
         "field3": "naglasiti",
-        "field4": "naglasak na prvom slogu",
+        "field4": "naglasiti prvi slog",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "378": {
         "cardNumber": "378",
         "field1": "znakovni jezik",
-        "field2": "Znate li znakovni jezik?",
+        "field2": "Znaš li znakovni jezik?",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "379": {
         "cardNumber": "379",
-        "field1": "isječak",
+        "field1": "zagrada",
         "field2": "zagrade",
         "field3": "staviti u zagradu",
         "field4": "uglate zagrade",
@@ -4545,7 +4545,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "380": {
         "cardNumber": "380",
@@ -4557,19 +4557,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "381": {
         "cardNumber": "381",
-        "field1": "bijela laž",
-        "field2": "bijele laži",
-        "field3": "Pribjegao je bijeloj laži",
+        "field1": "laž iz nužde",
+        "field2": "laži iz nužde",
+        "field3": "Pribjegao je laži iz nužde.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "382": {
         "cardNumber": "382",
@@ -4581,23 +4581,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "383": {
         "cardNumber": "383",
         "field1": "uzrok",
-        "field2": "razlozi",
-        "field3": "Nema problema!",
+        "field2": "uzroci",
+        "field3": "Nema na čemu!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "384": {
         "cardNumber": "384",
-        "field1": "kao i...",
+        "field1": "i... i...",
         "field2": "Ona je i lijepa i pametna",
         "field3": "",
         "field4": "",
@@ -4605,11 +4605,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "385": {
         "cardNumber": "385",
-        "field1": "superioran",
+        "field1": "razmisliti",
         "field2": "Moram razmisliti o tome",
         "field3": "",
         "field4": "",
@@ -4617,19 +4617,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "386": {
         "cardNumber": "386",
         "field1": "usput",
-        "field2": "Usput, jeste li čuli ono...?",
+        "field2": "Usput, jesi li već čuo da...?",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "387": {
         "cardNumber": "387",
@@ -4641,7 +4641,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "388": {
         "cardNumber": "388",
@@ -4653,55 +4653,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "389": {
         "cardNumber": "389",
-        "field1": "to je",
-        "field2": "Vrijedan je, ali tvrdoglav",
+        "field1": "doduše / istina",
+        "field2": "Doduše, marljiv je, ali je tvrdoglav.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Glasovna komunikacija"
+        "category": "Jezična komunikacija"
     },
     "390": {
         "cardNumber": "390",
         "field1": "privući",
-        "field2": "atraktivan",
+        "field2": "privlačan",
         "field3": "Reklame su ponekad vrlo atraktivne",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "391": {
         "cardNumber": "391",
-        "field1": "skripta",
-        "field2": "skripte",
+        "field1": "scenarij",
+        "field2": "scenariji",
         "field3": "scenarist",
         "field4": "scenaristi",
         "field5": "Koliko brzo možete napisati scenarij?",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "392": {
         "cardNumber": "392",
         "field1": "forum",
-        "field2": "forumima",
+        "field2": "forumi",
         "field3": "Na forumima možete razgovarati o svim temama",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "393": {
         "cardNumber": "393",
@@ -4713,19 +4713,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "394": {
         "cardNumber": "394",
         "field1": "blog",
         "field2": "blogovi",
-        "field3": "blogovati",
+        "field3": "pisati blog",
         "field4": "Vodi blog o hrani",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "395": {
         "cardNumber": "395",
@@ -4737,19 +4737,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "396": {
         "cardNumber": "396",
-        "field1": "moderator",
-        "field2": "moderatori",
-        "field3": "umjereno",
-        "field4": "Nova voditeljica emisije jako je nervozna",
+        "field1": "voditelj / moderator",
+        "field2": "voditelji / moderatori",
+        "field3": "voditi emisiju / moderirati",
+        "field4": "Novi voditelj emisije jako je nervozan.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "397": {
         "cardNumber": "397",
@@ -4761,7 +4761,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "398": {
         "cardNumber": "398",
@@ -4773,23 +4773,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "399": {
         "cardNumber": "399",
         "field1": "prijenos",
         "field2": "prijenosi",
-        "field3": "prenosio",
-        "field4": "(transferi-transferi-transferi)",
+        "field3": "prenositi",
+        "field4": "(prezent: überträgt; preterit: übertrug; particip II: übertragen)",
         "field5": "Je li već počeo prijenos koncerta?",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "400": {
         "cardNumber": "400",
-        "field1": "povrsina",
+        "field1": "anketa",
         "field2": "ankete",
         "field3": "provesti anketu",
         "field4": "",
@@ -4797,7 +4797,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "401": {
         "cardNumber": "401",
@@ -4809,7 +4809,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "402": {
         "cardNumber": "402",
@@ -4821,11 +4821,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "403": {
         "cardNumber": "403",
-        "field1": "intervju",
+        "field1": "intervjuirati",
         "field2": "intervju",
         "field3": "intervjui",
         "field4": "intervjuirati filmsku zvijezdu",
@@ -4833,7 +4833,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "404": {
         "cardNumber": "404",
@@ -4845,11 +4845,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "405": {
         "cardNumber": "405",
-        "field1": "staza",
+        "field1": "pratiti",
         "field2": "Sa zanimanjem prati vijesti",
         "field3": "",
         "field4": "",
@@ -4857,19 +4857,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "406": {
         "cardNumber": "406",
         "field1": "objaviti",
         "field2": "javnost",
-        "field3": "Autorica je objavila novi roman",
+        "field3": "Autor je objavio novi roman.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "medijima"
+        "category": "Mediji"
     },
     "407": {
         "cardNumber": "407",
@@ -4881,43 +4881,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "408": {
         "cardNumber": "408",
         "field1": "ured",
-        "field2": "uredima",
-        "field3": "službeno",
+        "field2": "uredi",
+        "field3": "služben / službeno",
         "field4": "ministarstvo vanjskih poslova",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "409": {
         "cardNumber": "409",
         "field1": "vještina",
-        "field2": "poslao",
-        "field3": "Imate vještine u ophođenju s kupcima",
+        "field2": "vješt",
+        "field3": "Vješt si u ophođenju s kupcima.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "410": {
         "cardNumber": "410",
-        "field1": "pivar piva",
-        "field2": "proizvođači piva",
-        "field3": "pivovara piva",
+        "field1": "pivar",
+        "field2": "pivari",
+        "field3": "pivovara",
         "field4": "Ovo je najstarija pivovara u gradu",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "411": {
         "cardNumber": "411",
@@ -4929,19 +4929,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "412": {
         "cardNumber": "412",
         "field1": "stručnjak",
-        "field2": "Stručnjaci",
+        "field2": "stručnjaci",
         "field3": "stručno",
         "field4": "Trebam stručnu pomoć",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "413": {
         "cardNumber": "413",
@@ -4953,43 +4953,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "414": {
         "cardNumber": "414",
         "field1": "maser",
         "field2": "maseri",
-        "field3": "masaža",
+        "field3": "masirati",
         "field4": "Nakon vježbanja uvijek ide na masažu",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "415": {
         "cardNumber": "415",
         "field1": "stolar",
         "field2": "stolari",
-        "field3": "Kabinet je izradio stolar",
+        "field3": "Ormar je izradio stolar.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "416": {
         "cardNumber": "416",
-        "field1": "otkazivanje",
+        "field1": "odbijanje / otkazivanje",
         "field2": "odbijanja",
-        "field3": "otkazati",
-        "field4": "Njen zahtjev je odbijen",
+        "field3": "otkazati / odbiti",
+        "field4": "Njezina je prijava za posao odbijena.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "417": {
         "cardNumber": "417",
@@ -5001,11 +5001,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "418": {
         "cardNumber": "418",
-        "field1": "Radna dozvola",
+        "field1": "radna dozvola",
         "field2": "radne dozvole",
         "field3": "Imate li radnu dozvolu?",
         "field4": "",
@@ -5013,19 +5013,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "419": {
         "cardNumber": "419",
-        "field1": "strano iskustvo",
-        "field2": "iskustva u inostranstvu",
+        "field1": "iskustvo stečeno u inozemstvu",
+        "field2": "iskustva stečena u inozemstvu",
         "field3": "steći iskustvo u inozemstvu",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "420": {
         "cardNumber": "420",
@@ -5037,7 +5037,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "421": {
         "cardNumber": "421",
@@ -5049,7 +5049,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "422": {
         "cardNumber": "422",
@@ -5061,31 +5061,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "423": {
         "cardNumber": "423",
         "field1": "poslovni odnos",
-        "field2": "poslovnim odnosima",
+        "field2": "poslovni odnosi",
         "field3": "Važno nam je održavati poslovne odnose",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "424": {
         "cardNumber": "424",
         "field1": "izazov",
         "field2": "izazovi",
-        "field3": "Novi rad je za mene izazov",
+        "field3": "Novi je posao izazov za mene.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "425": {
         "cardNumber": "425",
@@ -5097,7 +5097,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "426": {
         "cardNumber": "426",
@@ -5109,31 +5109,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "427": {
         "cardNumber": "427",
-        "field1": "obećanje",
-        "field2": "obećanja",
-        "field3": "prihvatiti",
+        "field1": "pristanak / obećanje",
+        "field2": "pristanci / obećanja",
+        "field3": "pristati / obećati",
         "field4": "Dobili smo odobrenje šefa",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "428": {
         "cardNumber": "428",
-        "field1": "posao",
-        "field2": "Posao",
+        "field1": "raditi povremeni posao",
+        "field2": "posao",
         "field3": "poslovi",
-        "field4": "praznični posao",
+        "field4": "posao tijekom školskih praznika",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "429": {
         "cardNumber": "429",
@@ -5145,31 +5145,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "430": {
         "cardNumber": "430",
         "field1": "pretpostaviti",
-        "field2": "stanje",
-        "field3": "Uvjeti",
+        "field2": "preduvjet",
+        "field3": "preduvjeti",
         "field4": "Ispunjava sve uvjete za ovu poziciju",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Raditi"
+        "category": "Rad"
     },
     "431": {
         "cardNumber": "431",
         "field1": "zadržati",
-        "field2": "(čuva-čuva-čuva)",
+        "field2": "(prezent: behält; preterit: behielt; particip II: behalten)",
         "field3": "Molimo zadržite ostatak!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "432": {
         "cardNumber": "432",
@@ -5181,23 +5181,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "433": {
         "cardNumber": "433",
         "field1": "egzistencijalni minimum",
-        "field2": "Primanja su ispod razine egzistencije",
+        "field2": "Prihodi su ispod egzistencijalnog minimuma.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "434": {
         "cardNumber": "434",
-        "field1": "lozinku",
+        "field1": "lozinka",
         "field2": "lozinke",
         "field3": "Zaboravio sam lozinku",
         "field4": "",
@@ -5205,31 +5205,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "435": {
         "cardNumber": "435",
         "field1": "sitniš",
-        "field2": "Imate li kusur?",
+        "field2": "Imate li sitniša?",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "436": {
         "cardNumber": "436",
-        "field1": "Inozemna trgovina",
-        "field2": "unutrašnja trgovina",
+        "field1": "vanjska trgovina",
+        "field2": "unutarnja trgovina",
         "field3": "svjetska trgovina",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "437": {
         "cardNumber": "437",
@@ -5241,47 +5241,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "438": {
         "cardNumber": "438",
-        "field1": "kućanstvo",
-        "field2": "Domaćinstva",
+        "field1": "proračun / kućanstvo",
+        "field2": "proračuni / kućanstva",
         "field3": "To se financira iz proračuna",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "439": {
         "cardNumber": "439",
-        "field1": "otpremu",
-        "field2": "Besplatna dostava",
+        "field1": "otprema",
+        "field2": "bez troškova dostave",
         "field3": "Roba je već zapakirana za slanje",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "440": {
         "cardNumber": "440",
-        "field1": "tvrtka poštanski sandučić",
-        "field2": "poduzeća poštanskih sandučića",
-        "field3": "Osnovali su dvije lažne tvrtke",
+        "field1": "tvrtka sa samo formalnom adresom",
+        "field2": "tvrtke sa samo formalnom adresom",
+        "field3": "Osnovali su dvije tvrtke sa samo formalnom adresom.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "441": {
         "cardNumber": "441",
-        "field1": "komercijalni odnos",
+        "field1": "trgovinski odnos",
         "field2": "trgovinski odnosi",
         "field3": "Trgovinski odnosi Njemačke i SAD-a",
         "field4": "",
@@ -5289,19 +5289,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "442": {
         "cardNumber": "442",
         "field1": "ulaganje",
         "field2": "investicije",
-        "field3": "Investirati",
+        "field3": "ulagati",
         "field4": "Zna mudro uložiti novac",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "443": {
         "cardNumber": "443",
@@ -5313,7 +5313,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "444": {
         "cardNumber": "444",
@@ -5325,7 +5325,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "445": {
         "cardNumber": "445",
@@ -5337,59 +5337,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "446": {
         "cardNumber": "446",
         "field1": "učinak",
         "field2": "učinci",
-        "field3": "djela",
+        "field3": "djelovati",
         "field4": "dugotrajan učinak",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "447": {
         "cardNumber": "447",
-        "field1": "ulazni",
-        "field2": "(ušao-dao ušao-ušao)",
+        "field1": "unijeti",
+        "field2": "(prezent: gibt ein; preterit: gab ein; particip II: eingegeben)",
         "field3": "Molimo unesite svoj PIN!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "448": {
         "cardNumber": "448",
-        "field1": "djelovati",
+        "field1": "trgovati",
         "field2": "trgovac",
         "field3": "trgovci",
-        "field4": "Njegova tvrtka bavi se lijekovima",
+        "field4": "Njegova tvrtka trguje lijekovima.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "449": {
         "cardNumber": "449",
         "field1": "proizvoditi",
         "field2": "proizvodnja",
-        "field3": "Proizvodi se proizvode u inozemstvu",
+        "field3": "Proizvodi su proizvedeni u inozemstvu.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "450": {
         "cardNumber": "450",
-        "field1": "natjecateljski",
+        "field1": "konkurentan",
         "field2": "konkurentnost",
         "field3": "Tvrtka više nije konkurentna",
         "field4": "",
@@ -5397,23 +5397,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "451": {
         "cardNumber": "451",
-        "field1": "se smanjiti",
-        "field2": "penjati se",
-        "field3": "(diže-diže-diže)",
-        "field4": "Povećanje prodaje",
+        "field1": "smanjivati se",
+        "field2": "rasti / penjati se",
+        "field3": "(prezent: steigt; preterit: stieg; particip II: gestiegen)",
+        "field4": "Promet raste.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "452": {
         "cardNumber": "452",
-        "field1": "dugovi",
+        "field1": "dugovati",
         "field2": "dugovi",
         "field3": "Dugujem ti 5 eura",
         "field4": "",
@@ -5421,35 +5421,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Poslovanje"
+        "category": "Gospodarstvo"
     },
     "453": {
         "cardNumber": "453",
-        "field1": "pridružiti",
-        "field2": "(pridružen-pridružen-pridružen)",
+        "field1": "pridružiti se / pristupiti",
+        "field2": "(prezent: tritt bei; preterit: trat bei; particip II: beigetreten)",
         "field3": "Želio bih se pridružiti ovoj organizaciji",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "454": {
         "cardNumber": "454",
-        "field1": "Kneževine",
+        "field1": "kneževina",
         "field2": "kneževine",
-        "field3": "princ",
-        "field4": "prinčevi",
-        "field5": "Živi kao princ",
+        "field3": "knez",
+        "field4": "kneževi",
+        "field5": "Živi kao knez.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "455": {
         "cardNumber": "455",
-        "field1": "Kraljevstvo",
+        "field1": "kraljevstvo",
         "field2": "kraljevstva",
         "field3": "kralj",
         "field4": "kraljevi",
@@ -5457,67 +5457,67 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "456": {
         "cardNumber": "456",
         "field1": "kapitalizam",
-        "field2": "kapitalista",
+        "field2": "kapitalistički",
         "field3": "kapitalistička država",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "457": {
         "cardNumber": "457",
-        "field1": "migracijsku pozadinu",
-        "field2": "Obitelji s migrantskom pozadinom",
+        "field1": "migracijsko podrijetlo",
+        "field2": "obitelji migrantskog podrijetla",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "458": {
         "cardNumber": "458",
         "field1": "socijalizam",
-        "field2": "socijalista",
+        "field2": "socijalistički",
         "field3": "socijalistička revolucija",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "459": {
         "cardNumber": "459",
         "field1": "udruga",
-        "field2": "zavoje",
+        "field2": "udruge",
         "field3": "Osnovao je novu udrugu",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "460": {
         "cardNumber": "460",
-        "field1": "imigrant",
-        "field2": "imigracija",
+        "field1": "doseljenik / doseljenica",
+        "field2": "doseljavanje",
         "field3": "useliti se",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "461": {
         "cardNumber": "461",
@@ -5529,31 +5529,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "462": {
         "cardNumber": "462",
         "field1": "vodstvo",
-        "field2": "ture",
+        "field2": "vodstva / obilasci",
         "field3": "voditi",
         "field4": "političko vodstvo zemlje",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "463": {
         "cardNumber": "463",
         "field1": "naknada",
         "field2": "naknade",
-        "field3": "naplaćuju se",
+        "field3": "uz naplatu",
         "field4": "platiti naknadu",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "464": {
         "cardNumber": "464",
@@ -5565,7 +5565,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "465": {
         "cardNumber": "465",
@@ -5577,7 +5577,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "466": {
         "cardNumber": "466",
@@ -5589,19 +5589,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "467": {
         "cardNumber": "467",
         "field1": "unija",
-        "field2": "sindikati",
-        "field3": "Europska Unija",
+        "field2": "unije",
+        "field3": "Europska unija",
         "field4": "EU",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "468": {
         "cardNumber": "468",
@@ -5613,23 +5613,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "469": {
         "cardNumber": "469",
         "field1": "kandidirati se za dužnost",
-        "field2": "kandidaturu",
-        "field3": "kandidaturama",
+        "field2": "kandidatura",
+        "field3": "kandidature",
         "field4": "kandidat",
         "field5": "kandidati",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "470": {
         "cardNumber": "470",
-        "field1": "reforma",
+        "field1": "reformirati",
         "field2": "reforma",
         "field3": "reforme",
         "field4": "Narod traži socijalne reforme",
@@ -5637,19 +5637,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "471": {
         "cardNumber": "471",
-        "field1": "glasovi",
+        "field1": "glasati",
         "field2": "glas",
         "field3": "glasovi",
-        "field4": "Za koga ste glasali?",
+        "field4": "Za koga si glasao?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "472": {
         "cardNumber": "472",
@@ -5661,15 +5661,15 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Zemlja"
+        "category": "Država"
     },
     "473": {
         "cardNumber": "473",
         "field1": "ljudsko pravo",
-        "field2": "Ljudska prava",
-        "field3": "aktivistica za ljudska prava",
-        "field4": "aktivistima za ljudska prava",
-        "field5": "Krši ljudska prava",
+        "field2": "ljudska prava",
+        "field3": "borac za ljudska prava",
+        "field4": "borci za ljudska prava",
+        "field5": "kršiti ljudska prava",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -5701,9 +5701,9 @@
     },
     "476": {
         "cardNumber": "476",
-        "field1": "jednakost",
-        "field2": "Jednaka prava",
-        "field3": "boriti se za jednakost",
+        "field1": "ravnopravnost",
+        "field2": "ravnopravan",
+        "field3": "boriti se za ravnopravnost",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5713,10 +5713,10 @@
     },
     "477": {
         "cardNumber": "477",
-        "field1": "zločin",
-        "field2": "zločine",
+        "field1": "kazneno djelo",
+        "field2": "kaznena djela",
         "field3": "Osumnjičen je za kazneno djelo",
-        "field4": "počiniti zločin",
+        "field4": "počiniti kazneno djelo",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5725,7 +5725,7 @@
     },
     "478": {
         "cardNumber": "478",
-        "field1": "shvatiti",
+        "field1": "uhvatiti / shvatiti",
         "field2": "Policija je uhvatila počinitelja",
         "field3": "",
         "field4": "",
@@ -5737,7 +5737,7 @@
     },
     "479": {
         "cardNumber": "479",
-        "field1": "pretpostavljena",
+        "field1": "navodni / pretpostavljeni",
         "field2": "Ovo je navodni počinitelj",
         "field3": "",
         "field4": "",
@@ -5749,7 +5749,7 @@
     },
     "480": {
         "cardNumber": "480",
-        "field1": "neprikladno",
+        "field1": "nepropisan",
         "field2": "Nepropisno parkiranje će se kažnjavati",
         "field3": "",
         "field4": "",
@@ -5764,7 +5764,7 @@
         "field1": "opljačkati",
         "field2": "pljačka",
         "field3": "pljačkaš",
-        "field4": "Razbojnici",
+        "field4": "pljačkaši",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5773,9 +5773,9 @@
     },
     "482": {
         "cardNumber": "482",
-        "field1": "neophodan",
+        "field1": "neophodan / neotuđiv",
         "field2": "odreći se",
-        "field3": "Ta su prava neophodna",
+        "field3": "Tih se prava ne može odreći.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5785,10 +5785,10 @@
     },
     "483": {
         "cardNumber": "483",
-        "field1": "osumnjičenik",
-        "field2": "osumnjičenik",
+        "field1": "sumnjičiti",
+        "field2": "osumnjičenik / osumnjičenica",
         "field3": "osumnjičenici",
-        "field4": "sumnjivo",
+        "field4": "sumnjiv",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5809,10 +5809,10 @@
     },
     "485": {
         "cardNumber": "485",
-        "field1": "prekršena",
-        "field2": "(krši-krši-krši)",
-        "field3": "povreda",
-        "field4": "kršenja",
+        "field1": "prekršiti",
+        "field2": "(prezent: verstößt; preterit: verstieß; particip II: verstoßen)",
+        "field3": "prekršaj",
+        "field4": "prekršaji",
         "field5": "prekršiti zakon",
         "field6": "",
         "field7": "",
@@ -5821,10 +5821,10 @@
     },
     "486": {
         "cardNumber": "486",
-        "field1": "prepoznati",
-        "field2": "(priznat-priznat-priznat)",
+        "field1": "priznati",
+        "field2": "(prezent: erkennt an; preterit: erkannte an; particip II: anerkannt)",
         "field3": "priznanje",
-        "field4": "Želio bih vam izraziti svoju zahvalnost",
+        "field4": "Želio bih Vam izraziti svoje priznanje.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5833,7 +5833,7 @@
     },
     "487": {
         "cardNumber": "487",
-        "field1": "okidač",
+        "field1": "izazvati",
         "field2": "Ovo bi moglo izazvati rat",
         "field3": "",
         "field4": "",
@@ -5845,8 +5845,8 @@
     },
     "488": {
         "cardNumber": "488",
-        "field1": "the Fortune",
-        "field2": "Naslijedio si veliko bogatstvo",
+        "field1": "imovina / bogatstvo",
+        "field2": "Naslijedili ste veliko bogatstvo.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -5869,7 +5869,7 @@
     },
     "490": {
         "cardNumber": "490",
-        "field1": "Živjeti zajedno",
+        "field1": "suživot",
         "field2": "miran suživot",
         "field3": "",
         "field4": "",
@@ -5894,9 +5894,9 @@
     "492": {
         "cardNumber": "492",
         "field1": "bijeg",
-        "field2": "bjegovi",
+        "field2": "bjegovi / bijegovi",
         "field3": "pobjeći",
-        "field4": "(bježi-bježi-bježi)",
+        "field4": "(prezent: flieht; preterit: floh; particip II: geflohen)",
         "field5": "U bijegu su",
         "field6": "",
         "field7": "",
@@ -5941,10 +5941,10 @@
     },
     "496": {
         "cardNumber": "496",
-        "field1": "dođi ovamo",
-        "field2": "(dođe ovamo-dođe ovamo-dođe ovamo)",
-        "field3": "porijeklo",
-        "field4": "Plemićkog je porijekla",
+        "field1": "doći ovamo / potjecati",
+        "field2": "(prezent: kommt her; preterit: kam her; particip II: hergekommen)",
+        "field3": "podrijetlo",
+        "field4": "Plemićkog je podrijetla.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5966,8 +5966,8 @@
     "498": {
         "cardNumber": "498",
         "field1": "krivo razumjeti",
-        "field2": "(krivo shvaćen-krivo shvaćen-krivo shvaćen)",
-        "field3": "zavaravajuće",
+        "field2": "(prezent: missversteht; preterit: missverstand; particip II: missverstanden)",
+        "field3": "dvosmislen / podložan pogrešnom tumačenju",
         "field4": "nesporazum",
         "field5": "nesporazumi",
         "field6": "",
@@ -5977,8 +5977,8 @@
     },
     "499": {
         "cardNumber": "499",
-        "field1": "blago",
-        "field2": "zanemarivanje",
+        "field1": "cijeniti",
+        "field2": "ne poštovati / zanemarivati",
         "field3": "Ignorirao je sva pravila",
         "field4": "",
         "field5": "",
@@ -5989,9 +5989,9 @@
     },
     "500": {
         "cardNumber": "500",
-        "field1": "staza",
-        "field2": "praćenje",
-        "field3": "progonima",
+        "field1": "progoniti",
+        "field2": "progon",
+        "field3": "progoni",
         "field4": "Politički je progonjena",
         "field5": "",
         "field6": "",

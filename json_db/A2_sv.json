@@ -2,62 +2,62 @@
     "1": {
         "cardNumber": "1",
         "field1": "baka",
-        "field2": "(bakat-bakat-bakat)",
+        "field2": "(presens: bäckt; preteritum: backte; perfektparticip: gebacken)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mormor bakar tårtan",
+        "field7": "Farmor / mormor bakar tårtan",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "2": {
         "cardNumber": "2",
         "field1": "bitter",
         "field2": "",
-        "field3": "ljuv",
+        "field3": "söt",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "bitter choklad",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "3": {
         "cardNumber": "3",
-        "field1": "grillat kött",
-        "field2": "(stekt-stekt-stekt)",
+        "field1": "steka",
+        "field2": "(presens: brät; preteritum: briet; perfektparticip: gebraten)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Mamman steker fisk",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "4": {
         "cardNumber": "4",
         "field1": "kaféet",
-        "field2": "Kaféerna",
+        "field2": "kaféerna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "i kaféet",
-        "field8": "På söndagar går jag på café",
-        "category": "Näring"
+        "field7": "på kaféet",
+        "field8": "På söndagar går jag på kafé",
+        "category": "Kost"
     },
     "5": {
         "cardNumber": "5",
         "field1": "kycklingen",
-        "field2": "kycklingen",
+        "field2": "kycklingarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Två gånger stekt kyckling med grönsaker",
+        "field7": "Två portioner stekt kyckling med grönsaker",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "6": {
         "cardNumber": "6",
@@ -67,9 +67,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "stek i olja",
+        "field7": "steka i olja",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "7": {
         "cardNumber": "7",
@@ -81,19 +81,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "8": {
-        "cardNumber": "8:e",
+        "cardNumber": "8",
         "field1": "yoghurten",
         "field2": "yoghurtarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Har du någon yoghurt med låg fetthalt?",
+        "field7": "Har ni fettsnåla yoghurtar?",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "9": {
         "cardNumber": "9",
@@ -105,7 +105,7 @@
         "field6": "",
         "field7": "Jag vill gärna ha en kopp kaffe!",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "10": {
         "cardNumber": "10",
@@ -117,31 +117,31 @@
         "field6": "",
         "field7": "Jag dricker en kopp kakao till frukost",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "11": {
         "cardNumber": "11",
-        "field1": "kakan",
-        "field2": "kakorna",
-        "field3": "chokladkakan",
+        "field1": "kexet",
+        "field2": "kexen",
+        "field3": "chokladkexet",
         "field4": "",
         "field5": "smörkexet",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "12": {
         "cardNumber": "12",
         "field1": "paprikan",
-        "field2": "paprikan",
+        "field2": "paprikorna",
         "field3": "söt paprika",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "13": {
         "cardNumber": "13",
@@ -153,7 +153,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "14": {
         "cardNumber": "14",
@@ -163,33 +163,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Gillar du att samla svamp?",
+        "field7": "Tycker du om att plocka svamp?",
         "field8": "Jag gillar inte att plocka svamp",
-        "category": "Näring"
+        "category": "Kost"
     },
     "15": {
         "cardNumber": "15",
-        "field1": "kvarken",
+        "field1": "kvargen",
         "field2": "",
-        "field3": "ostmassakakan",
+        "field3": "kvargkakan",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "16": {
         "cardNumber": "16",
         "field1": "skinkan",
-        "field2": "skinkan",
+        "field2": "skinkorna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vill du ha en rulle med skinka?",
+        "field7": "Vill du ha en fralla med skinka?",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "17": {
         "cardNumber": "17",
@@ -201,7 +201,7 @@
         "field6": "",
         "field7": "Det finns många barer i stadens centrum",
         "field8": "Han går till en bar",
-        "category": "Näring"
+        "category": "Kost"
     },
     "18": {
         "cardNumber": "18",
@@ -213,7 +213,7 @@
         "field6": "",
         "field7": "Dessa päron är så saftiga!",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "19": {
         "cardNumber": "19",
@@ -225,7 +225,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring",
+        "category": "Kost",
         "imageName": ""
     },
     "20": {
@@ -238,7 +238,7 @@
         "field6": "",
         "field7": "ättiksgurka",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "21": {
         "cardNumber": "21",
@@ -250,33 +250,33 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring",
+        "category": "Kost",
         "imageName": ""
     },
     "22": {
         "cardNumber": "22",
         "field1": "körsbäret",
         "field2": "körsbären",
-        "field3": "det söta körsbäret",
+        "field3": "sötkörsbäret",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring",
+        "category": "Kost",
         "imageName": ""
     },
     "23": {
         "cardNumber": "23",
-        "field1": "nudlarna",
+        "field1": "pastan / nudlarna",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Nudlarna är klara",
+        "field7": "Pastan är klar",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "24": {
         "cardNumber": "24",
@@ -288,7 +288,7 @@
         "field6": "",
         "field7": "Plommonen är inte mogna ännu",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "25": {
         "cardNumber": "25",
@@ -300,19 +300,19 @@
         "field6": "",
         "field7": "gräddfil",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "26": {
         "cardNumber": "26",
         "field1": "löken",
-        "field2": "löken",
+        "field2": "lökarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Skär lök i tärningar!",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "27": {
         "cardNumber": "27",
@@ -322,9 +322,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Brödet är färskt",
+        "field7": "Frallan är färsk",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "28": {
         "cardNumber": "28",
@@ -336,7 +336,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "29": {
         "cardNumber": "29",
@@ -346,13 +346,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tårtan är jättegod!",
+        "field7": "Kakan är jättegod!",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "30": {
         "cardNumber": "30",
-        "field1": "salt",
+        "field1": "salta",
         "field2": "",
         "field3": "saltet",
         "field4": "",
@@ -360,31 +360,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "31": {
         "cardNumber": "31",
-        "field1": "smaka bra",
+        "field1": "smaka",
         "field2": "",
-        "field3": "gott",
+        "field3": "välsmakande",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Gillar du fisken?",
+        "field7": "Tycker du att fisken smakar gott?",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "32": {
         "cardNumber": "32",
         "field1": "skära",
-        "field2": "(klipp-klipp-klipper)",
+        "field2": "(presens: schneidet; preteritum: schnitt; perfektparticip: geschnitten)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "skiva",
         "field8": "",
-        "category": "Näring"
+        "category": "Kost"
     },
     "33": {
         "cardNumber": "33",
@@ -394,21 +394,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Gör dig bekväm!",
+        "field7": "Gör det bekvämt för er!",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "34": {
         "cardNumber": "34",
-        "field1": "studien",
-        "field2": "studierummen",
+        "field1": "arbetsrummet",
+        "field2": "arbetsrummen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Han är i sitt arbetsrum",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "35": {
         "cardNumber": "35",
@@ -420,7 +420,7 @@
         "field6": "",
         "field7": "Alla leksaker finns i barnrummet",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "36": {
         "cardNumber": "36",
@@ -432,7 +432,7 @@
         "field6": "",
         "field7": "Vi behöver en matta till vardagsrummet",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "37": {
         "cardNumber": "37",
@@ -442,9 +442,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tar du hissen?",
+        "field7": "Åker ni hiss?",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "38": {
         "cardNumber": "38",
@@ -456,7 +456,7 @@
         "field6": "",
         "field7": "Vad finns på golvet?",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "39": {
         "cardNumber": "39",
@@ -468,7 +468,7 @@
         "field6": "",
         "field7": "Mina grannar är trevliga",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "40": {
         "cardNumber": "40",
@@ -480,31 +480,31 @@
         "field6": "",
         "field7": "Dörren öppnas med nyckeln",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "41": {
         "cardNumber": "41",
-        "field1": "golvet",
-        "field2": "golven",
+        "field1": "våningen",
+        "field2": "våningarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Jag bor på första våningen",
         "field8": "",
-        "category": "Hus"
+        "category": "Bostad"
     },
     "42": {
         "cardNumber": "42",
-        "field1": "(att tvätta sig själv",
-        "field2": "(tvättad-tvättad-tvättad)",
+        "field1": "tvätta / tvätta sig",
+        "field2": "(presens: wäscht; preteritum: wusch; perfektparticip: gewaschen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jag tvättar mina händer",
+        "field7": "Jag tvättar mina händer",
         "field8": "Jag tvättar mig varje dag",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "43": {
         "cardNumber": "43",
@@ -516,19 +516,19 @@
         "field6": "",
         "field7": "ett glas vin",
         "field8": "ett vinglas",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "44": {
         "cardNumber": "44",
         "field1": "soporna",
         "field2": "",
-        "field3": "avfallssortering",
+        "field3": "avfallssorteringen",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Hon slänger flaskan i papperskorgen",
+        "field7": "Hon slänger flaskan i soporna",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "45": {
         "cardNumber": "45",
@@ -540,7 +540,7 @@
         "field6": "",
         "field7": "Dina glasögon är smutsiga",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "46": {
         "cardNumber": "46",
@@ -550,21 +550,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Torka av brädan med svampen!",
+        "field7": "Torka av tavlan med svampen!",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "47": {
         "cardNumber": "47",
         "field1": "grytan",
-        "field2": "krukorna",
+        "field2": "grytorna",
         "field3": "blomkrukan",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "sätt en gryta på elden",
+        "field7": "ställa en gryta på elden",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "48": {
         "cardNumber": "48",
@@ -576,7 +576,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "49": {
         "cardNumber": "49",
@@ -588,7 +588,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Varje dag",
+        "category": "Vardag",
         "imageName": ""
     },
     "50": {
@@ -601,31 +601,31 @@
         "field6": "",
         "field7": "Det måste finnas ordning och reda",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "51": {
         "cardNumber": "51",
-        "field1": "pannan",
-        "field2": "pannorna",
+        "field1": "stekpannan",
+        "field2": "stekpannorna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Jag steker fisken i pannan",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "52": {
         "cardNumber": "52",
         "field1": "renligheten",
         "field2": "",
-        "field3": "rena",
+        "field3": "ren",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "städa",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "53": {
         "cardNumber": "53",
@@ -637,7 +637,7 @@
         "field6": "",
         "field7": "flytande tvål",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "54": {
         "cardNumber": "54",
@@ -649,19 +649,19 @@
         "field6": "",
         "field7": "Hon köper en tub tandkräm",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "55": {
         "cardNumber": "55",
-        "field1": "komplett",
+        "field1": "färdig / klar",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Maten är klar",
-        "field8": "Är du redo?",
-        "category": "Varje dag"
+        "field8": "Är ni färdig redan?",
+        "category": "Vardag"
     },
     "56": {
         "cardNumber": "56",
@@ -673,11 +673,11 @@
         "field6": "",
         "field7": "Hur fungerar detta?",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "57": {
         "cardNumber": "57",
-        "field1": "slå",
+        "field1": "knacka",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -685,7 +685,7 @@
         "field6": "",
         "field7": "Någon knackar på dörren",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "58": {
         "cardNumber": "58",
@@ -697,7 +697,7 @@
         "field6": "",
         "field7": "Badrumsgolvet är blött",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "59": {
         "cardNumber": "59",
@@ -709,12 +709,12 @@
         "field6": "",
         "field7": "Dessa skor är väldigt praktiska",
         "field8": "",
-        "category": "Varje dag"
+        "category": "Vardag"
     },
     "60": {
         "cardNumber": "60",
-        "field1": "att vara uppe",
-        "field2": "(det var)",
+        "field1": "vara öppen",
+        "field2": "(presens: ist; preteritum: war; perfektparticip: gewesen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -725,13 +725,13 @@
     },
     "61": {
         "cardNumber": "61",
-        "field1": "köpet",
+        "field1": "inköpet",
         "field2": "inköpen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Snälla shoppa!",
+        "field7": "Gör inköpen, är du snäll!",
         "field8": "",
         "category": "Inköp och tjänster"
     },
@@ -765,7 +765,7 @@
         "field2": "affärerna",
         "field3": "skoaffären",
         "field4": "",
-        "field5": "bänken",
+        "field5": "butiksdisken",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -791,14 +791,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Hans farbror är en skicklig urmakare",
+        "field7": "Hans farbror / morbror är en skicklig urmakare",
         "field8": "",
         "category": "Inköp och tjänster"
     },
     "67": {
         "cardNumber": "67",
         "field1": "bageriet",
-        "field2": "Bagerierna",
+        "field2": "bagerierna",
         "field3": "bagaren",
         "field4": "bagarna",
         "field5": "",
@@ -821,20 +821,20 @@
     },
     "69": {
         "cardNumber": "69",
-        "field1": "Apoteket",
-        "field2": "apoteken",
+        "field1": "butiken för hygien- och skönhetsprodukter",
+        "field2": "butikerna för hygien- och skönhetsprodukter",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Jag måste gå till apoteket en stund",
+        "field7": "Jag måste snabbt gå till butiken för hygien- och skönhetsprodukter",
         "field8": "",
         "category": "Inköp och tjänster"
     },
     "70": {
         "cardNumber": "70",
         "field1": "kassan",
-        "field2": "kassaapparaterna",
+        "field2": "kassorna",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -846,19 +846,19 @@
     "71": {
         "cardNumber": "71",
         "field1": "ge",
-        "field2": "(ger-gav-givet)",
+        "field2": "(presens: gibt; preteritum: gab; perfektparticip: gegeben)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ge mig tre rullar, tack!",
+        "field7": "Ge mig tre frallor, tack!",
         "field8": "Han ger mig kvittot",
         "category": "Inköp och tjänster"
     },
     "72": {
         "cardNumber": "72",
-        "field1": "fallen",
-        "field2": "(gilla-gilla-gilla)",
+        "field1": "falla i smaken / tilltala",
+        "field2": "(presens: gefällt; preteritum: gefiel; perfektparticip: gefallen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -869,7 +869,7 @@
     },
     "73": {
         "cardNumber": "73",
-        "field1": "Bra",
+        "field1": "bra",
         "field2": "",
         "field3": "dålig",
         "field4": "",
@@ -881,23 +881,23 @@
     },
     "74": {
         "cardNumber": "74",
-        "field1": "se",
+        "field1": "titta",
         "field2": "",
         "field3": "skyltfönstret",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Bara kolla!",
+        "field7": "Titta här!",
         "field8": "",
         "category": "Inköp och tjänster"
     },
     "75": {
         "cardNumber": "75",
-        "field1": "som?",
+        "field1": "vilken?",
         "field2": "",
-        "field3": "som?",
+        "field3": "vilka?",
         "field4": "",
-        "field5": "som?",
+        "field5": "vilket?",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -917,8 +917,8 @@
     },
     "77": {
         "cardNumber": "77",
-        "field1": "att vara",
-        "field2": "(det var)",
+        "field1": "vara stängd",
+        "field2": "(presens: ist; preteritum: war; perfektparticip: gewesen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -931,17 +931,17 @@
         "cardNumber": "78",
         "field1": "nöjd",
         "field2": "",
-        "field3": "otillfredsställd",
+        "field3": "missnöjd",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Är du nöjd?",
+        "field7": "Är ni nöjd?",
         "field8": "",
         "category": "Inköp och tjänster"
     },
     "79": {
         "cardNumber": "79",
-        "field1": "Allt",
+        "field1": "alla",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -965,7 +965,7 @@
     },
     "81": {
         "cardNumber": "81",
-        "field1": "Med vänliga hälsningar!",
+        "field1": "Allt gott!",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -977,8 +977,8 @@
     },
     "82": {
         "cardNumber": "82",
-        "field1": "motta",
-        "field2": "(fick-fick-fick)",
+        "field1": "få",
+        "field2": "(presens: bekommt; preteritum: bekam; perfektparticip: bekommen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -993,7 +993,7 @@
         "field2": "",
         "field3": "den andra",
         "field4": "",
-        "field5": "den andra",
+        "field5": "det andra",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -1001,10 +1001,10 @@
     },
     "84": {
         "cardNumber": "84",
-        "field1": "barnbarnet",
-        "field2": "barnbarnen",
-        "field3": "barnbarnet",
-        "field4": "Barnbarnen",
+        "field1": "sonsonen / dottersonen",
+        "field2": "sonsönerna / dottersönerna",
+        "field3": "sondottern / dotterdottern",
+        "field4": "sondöttrarna / dotterdöttrarna",
         "field5": "barnbarnen",
         "field6": "",
         "field7": "",
@@ -1014,20 +1014,20 @@
     },
     "85": {
         "cardNumber": "85",
-        "field1": "dagiset",
-        "field2": "dagisarna",
+        "field1": "förskolan",
+        "field2": "förskolorna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Min son går på dagis",
+        "field7": "Min son går i förskolan",
         "field8": "",
         "category": "Familj"
     },
     "86": {
         "cardNumber": "86",
         "field1": "människan",
-        "field2": "folket",
+        "field2": "människorna",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1063,7 +1063,7 @@
     "89": {
         "cardNumber": "89",
         "field1": "personen",
-        "field2": "folket",
+        "field2": "personerna",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1074,19 +1074,19 @@
     },
     "90": {
         "cardNumber": "90",
-        "field1": "tanten",
-        "field2": "tanterna",
+        "field1": "fastern / mostern",
+        "field2": "fastrarna / mostrarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Han var hos sin moster",
+        "field7": "Han var hos sin faster / moster",
         "field8": "",
         "category": "Familj"
     },
     "91": {
         "cardNumber": "91",
-        "field1": "överaskningen",
+        "field1": "överraskningen",
         "field2": "överraskningarna",
         "field3": "överraskningsägget",
         "field4": "",
@@ -1098,11 +1098,11 @@
     },
     "92": {
         "cardNumber": "92",
-        "field1": "detta",
+        "field1": "den här",
         "field2": "",
-        "field3": "detta",
+        "field3": "den här / de här",
         "field4": "",
-        "field5": "detta",
+        "field5": "det här",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -1112,7 +1112,7 @@
         "cardNumber": "93",
         "field1": "du",
         "field2": "",
-        "field3": "förnamn",
+        "field3": "dua",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1122,9 +1122,9 @@
     },
     "94": {
         "cardNumber": "94",
-        "field1": "bjuda",
-        "field2": "(bjuder-inbjudna-inbjudna)",
-        "field3": "Inbjudan",
+        "field1": "bjuda in",
+        "field2": "(presens: lädt ein; preteritum: lud ein; perfektparticip: eingeladen)",
+        "field3": "inbjudan",
         "field4": "inbjudningarna",
         "field5": "",
         "field6": "",
@@ -1136,7 +1136,7 @@
         "cardNumber": "95",
         "field1": "för",
         "field2": "",
-        "field3": "evigt",
+        "field3": "för alltid",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1146,10 +1146,10 @@
     },
     "96": {
         "cardNumber": "96",
-        "field1": "att bli född",
+        "field1": "födas",
         "field2": "",
         "field3": "födseln",
-        "field4": "förlossningarna",
+        "field4": "födslarna",
         "field5": "",
         "field6": "",
         "field7": "Jag är född 1985",
@@ -1170,19 +1170,19 @@
     },
     "98": {
         "cardNumber": "98",
-        "field1": "Nej",
+        "field1": "ingen / inget",
         "field2": "",
-        "field3": "Nej",
+        "field3": "inga",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "aldrig",
+        "field7": "inte under några omständigheter",
         "field8": "",
         "category": "Familj"
     },
     "99": {
         "cardNumber": "99",
-        "field1": "enda",
+        "field1": "ogift",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1218,19 +1218,19 @@
     },
     "102": {
         "cardNumber": "102",
-        "field1": "Hon",
-        "field2": "Hon",
+        "field1": "ni (artigt tilltal)",
+        "field2": "ni (artigt tilltal)",
         "field3": "",
         "field4": "",
-        "field5": "använda den formella adressvillkoren",
+        "field5": "nia",
         "field6": "",
-        "field7": "Är du trött?",
+        "field7": "Är ni trött?",
         "field8": "",
         "category": "Familj"
     },
     "103": {
         "cardNumber": "103",
-        "field1": "hon",
+        "field1": "de",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1248,14 +1248,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "hon är trevlig",
+        "field7": "Hon är trevlig",
         "field8": "",
         "category": "Familj"
     },
     "105": {
         "cardNumber": "105",
         "field1": "dö",
-        "field2": "(dör-dö-dö)",
+        "field2": "(presens: stirbt; preteritum: starb; perfektparticip: gestorben)",
         "field3": "döden",
         "field4": "",
         "field5": "",
@@ -1284,13 +1284,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Blommorna är mina",
+        "field7": "Blommorna är från mig",
         "field8": "",
         "category": "Familj"
     },
     "108": {
         "cardNumber": "108",
-        "field1": "Välkommen",
+        "field1": "välkommen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1314,10 +1314,10 @@
     },
     "110": {
         "cardNumber": "110",
-        "field1": "önskar",
+        "field1": "önska",
         "field2": "",
-        "field3": "längtan",
-        "field4": "önskemålen",
+        "field3": "önskningen",
+        "field4": "önskningarna",
         "field5": "",
         "field6": "",
         "field7": "Vad önskar du dig?",
@@ -1326,39 +1326,39 @@
     },
     "111": {
         "cardNumber": "111",
-        "field1": "(att klä på sig",
-        "field2": "(klänningar-klänningar-klänningar)",
+        "field1": "klä på sig / ta på sig",
+        "field2": "(presens: zieht an; preteritum: zog an; perfektparticip: angezogen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jag klär på mig",
-        "field8": "Jag tog på mig kappan",
-        "category": "Se"
+        "field7": "Jag klär på mig",
+        "field8": "Jag tar på mig kappan",
+        "category": "Utseende"
     },
     "112": {
         "cardNumber": "112",
-        "field1": "(klä av sig",
-        "field2": "(tar av tar av tar av)",
+        "field1": "klä av sig / ta av sig",
+        "field2": "(presens: zieht aus; preteritum: zog aus; perfektparticip: ausgezogen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Barnet tar av sig kläderna",
         "field8": "Barnet tar av sig skorna",
-        "category": "Se"
+        "category": "Utseende"
     },
     "113": {
         "cardNumber": "113",
         "field1": "beskriva",
-        "field2": "(beskriver-beskrivs-beskrivs)",
+        "field2": "(presens: beschreibt; preteritum: beschrieb; perfektparticip: beschrieben)",
         "field3": "beskrivningen",
         "field4": "beskrivningarna",
         "field5": "",
         "field6": "",
         "field7": "Beskriv honom!",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "114": {
         "cardNumber": "114",
@@ -1370,19 +1370,19 @@
         "field6": "",
         "field7": "Jag är blond",
         "field8": "Hon har blont hår",
-        "category": "Se"
+        "category": "Utseende"
     },
     "115": {
         "cardNumber": "115",
         "field1": "hatten",
-        "field2": "hattar",
+        "field2": "hattarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Hatten är för dyr",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "116": {
         "cardNumber": "116",
@@ -1394,7 +1394,7 @@
         "field6": "",
         "field7": "Ta med dig paraplyet!",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "117": {
         "cardNumber": "117",
@@ -1406,11 +1406,11 @@
         "field6": "",
         "field7": "Hon har en silverring på sig",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "118": {
         "cardNumber": "118",
-        "field1": "Figuren",
+        "field1": "figuren",
         "field2": "figurerna",
         "field3": "",
         "field4": "",
@@ -1418,11 +1418,11 @@
         "field6": "",
         "field7": "Hans flickvän har en bra figur",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "119": {
         "cardNumber": "119",
-        "field1": "klippningen",
+        "field1": "frisyren",
         "field2": "frisyrerna",
         "field3": "",
         "field4": "",
@@ -1430,43 +1430,43 @@
         "field6": "",
         "field7": "en modern frisyr",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "120": {
         "cardNumber": "120",
         "field1": "modet",
         "field2": "",
-        "field3": "snygg",
+        "field3": "moderiktig",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "enligt det senaste modet",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "121": {
         "cardNumber": "121",
         "field1": "strumpan",
-        "field2": "sockorna",
+        "field2": "strumporna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "ett par stickade strumpor",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "122": {
         "cardNumber": "122",
-        "field1": "fickan",
-        "field2": "påsarna",
+        "field1": "väskan / fickan",
+        "field2": "väskorna / fickorna",
         "field3": "handväskan",
         "field4": "",
-        "field5": "Plånboken",
+        "field5": "plånboken",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "123": {
         "cardNumber": "123",
@@ -1476,21 +1476,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Din moster är smal",
+        "field7": "Er faster / moster är smal",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "124": {
         "cardNumber": "124",
-        "field1": "nära",
+        "field1": "trång",
         "field2": "",
-        "field3": "långt",
+        "field3": "vid",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Dessa byxor är för stora för mig",
+        "field7": "De här byxorna är för vida för mig",
         "field8": "",
-        "category": "Se"
+        "category": "Utseende"
     },
     "125": {
         "cardNumber": "125",
@@ -1500,21 +1500,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Var artig!",
+        "field7": "Var snäll och uppför dig!",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "126": {
         "cardNumber": "126",
         "field1": "karaktären",
-        "field2": "tecknen",
+        "field2": "karaktärerna",
         "field3": "karakteristisk",
         "field4": "",
         "field5": "karaktärsdraget",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "127": {
         "cardNumber": "127",
@@ -1524,9 +1524,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Jag ska berätta ett skämt",
+        "field7": "Jag berättar ett skämt för dig",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "128": {
         "cardNumber": "128",
@@ -1536,9 +1536,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jag är rädd",
+        "field7": "Jag är rädd",
         "field8": "Var inte rädd!",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "129": {
         "cardNumber": "129",
@@ -1550,7 +1550,7 @@
         "field6": "",
         "field7": "Din fantasi känner inga gränser",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "130": {
         "cardNumber": "130",
@@ -1560,13 +1560,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jag är glad",
+        "field7": "Jag är glad",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "131": {
         "cardNumber": "131",
-        "field1": "patient",
+        "field1": "tålmodig",
         "field2": "",
         "field3": "otålig",
         "field4": "",
@@ -1574,19 +1574,19 @@
         "field6": "",
         "field7": "Alla är så otåliga idag!",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "132": {
         "cardNumber": "132",
-        "field1": "att hata",
+        "field1": "hata",
         "field2": "",
         "field3": "hatet",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jag hatar honom",
+        "field7": "Jag hatar honom",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "133": {
         "cardNumber": "133",
@@ -1596,13 +1596,13 @@
         "field4": "förhoppningarna",
         "field5": "",
         "field6": "",
-        "field7": "jag hoppas det",
+        "field7": "Jag hoppas det",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "134": {
         "cardNumber": "134",
-        "field1": "kyss",
+        "field1": "kyssa",
         "field2": "",
         "field3": "kyssen",
         "field4": "kyssarna",
@@ -1610,35 +1610,35 @@
         "field6": "",
         "field7": "Kyss mig!",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "135": {
         "cardNumber": "135",
         "field1": "glädjas",
         "field2": "",
-        "field3": "lyckan",
+        "field3": "glädjen",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Det ger mig glädje",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "136": {
         "cardNumber": "136",
-        "field1": "strikt",
+        "field1": "sträng",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Min tyska lärare är strikt",
+        "field7": "Min tysklärare är sträng",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "137": {
         "cardNumber": "137",
-        "field1": "vänlig",
+        "field1": "sympatisk",
         "field2": "",
         "field3": "osympatisk",
         "field4": "",
@@ -1646,7 +1646,7 @@
         "field6": "",
         "field7": "Hon tycker att han är ganska sympatisk",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "138": {
         "cardNumber": "138",
@@ -1658,17 +1658,17 @@
         "field6": "",
         "field7": "Gråt inte!",
         "field8": "",
-        "category": "känslor"
+        "category": "Känslor"
     },
     "139": {
         "cardNumber": "139",
-        "field1": "(att känna",
+        "field1": "känna / känna sig",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jag mår illa",
+        "field7": "Jag känner mig sjuk",
         "field8": "",
         "category": "Hälsa"
     },
@@ -1699,19 +1699,19 @@
     "142": {
         "cardNumber": "142",
         "field1": "hjärtat",
-        "field2": "hjärtan",
+        "field2": "hjärtana",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "med hela mitt hjärta",
+        "field7": "av hela hjärtat",
         "field8": "",
         "category": "Hälsa"
     },
     "143": {
         "cardNumber": "143",
-        "field1": "drogen",
-        "field2": "medicinerna",
+        "field1": "läkemedlet",
+        "field2": "läkemedlen",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1752,14 +1752,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Stå upp på armbågarna!",
+        "field7": "Stöd dig på armbågarna!",
         "field8": "",
         "category": "Hälsa"
     },
     "147": {
         "cardNumber": "147",
         "field1": "fingret",
-        "field2": "fingret",
+        "field2": "fingrarna",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1770,7 +1770,7 @@
     },
     "148": {
         "cardNumber": "148",
-        "field1": "nacken",
+        "field1": "halsen",
         "field2": "halsarna",
         "field3": "",
         "field4": "",
@@ -1783,10 +1783,10 @@
     "149": {
         "cardNumber": "149",
         "field1": "smärtan",
-        "field2": "smärtan",
+        "field2": "smärtorna",
         "field3": "huvudvärken",
         "field4": "",
-        "field5": "öm hals",
+        "field5": "halsontet",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -1794,19 +1794,19 @@
     },
     "150": {
         "cardNumber": "150",
-        "field1": "kärlkrampen",
+        "field1": "halsflussen",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Du har alla symtom på angina",
+        "field7": "Ni har alla symtom på halsfluss",
         "field8": "",
         "category": "Hälsa"
     },
     "151": {
         "cardNumber": "151",
-        "field1": "Apoteket",
+        "field1": "apoteket",
         "field2": "apoteken",
         "field3": "apotekaren",
         "field4": "apotekarna",
@@ -1820,7 +1820,7 @@
         "cardNumber": "152",
         "field1": "bröstet",
         "field2": "brösten",
-        "field3": "bröstsim",
+        "field3": "simma bröstsim",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1833,7 +1833,7 @@
         "cardNumber": "153",
         "field1": "hälsan",
         "field2": "",
-        "field3": "friska",
+        "field3": "frisk",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1857,7 +1857,7 @@
         "cardNumber": "155",
         "field1": "huden",
         "field2": "",
-        "field3": "hudvård",
+        "field3": "hudvården",
         "field4": "",
         "field5": "hudläkaren",
         "field6": "",
@@ -1921,31 +1921,31 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Snälla visa din tunga!",
+        "field7": "Visa tungan, tack!",
         "field8": "",
         "category": "Hälsa"
     },
     "161": {
         "cardNumber": "161",
-        "field1": "rök",
+        "field1": "röka",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Du får inte röka",
+        "field7": "Ni får inte röka",
         "field8": "",
         "category": "Hälsa"
     },
     "162": {
         "cardNumber": "162",
-        "field1": "ring upp",
-        "field2": "(samtal-kallade)",
+        "field1": "ropa / kalla på",
+        "field2": "(presens: ruft; preteritum: rief; perfektparticip: gerufen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ring doktorn!",
+        "field7": "Kalla på läkaren!",
         "field8": "",
         "category": "Hälsa"
     },
@@ -1957,13 +1957,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "rök skadar hälsan",
+        "field7": "Rökning skadar hälsan",
         "field8": "",
         "category": "Hälsa"
     },
     "164": {
         "cardNumber": "164",
-        "field1": "skall",
+        "field1": "skola / böra",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1978,10 +1978,10 @@
         "field1": "undersöka",
         "field2": "",
         "field3": "undersökningen",
-        "field4": "utredningarna",
+        "field4": "undersökningarna",
         "field5": "",
         "field6": "",
-        "field7": "Jag ska undersöka dig genast",
+        "field7": "Jag ska strax undersöka er",
         "field8": "",
         "category": "Hälsa"
     },
@@ -1993,7 +1993,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Det är fem minusgrader",
+        "field7": "Det är fem plusgrader",
         "field8": "Det är två minusgrader",
         "category": "Väder"
     },
@@ -2011,8 +2011,8 @@
     },
     "168": {
         "cardNumber": "168",
-        "field1": "verka",
-        "field2": "(verkade-verkade)",
+        "field1": "skina / lysa",
+        "field2": "(presens: scheint; preteritum: schien; perfektparticip: geschienen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2023,7 +2023,7 @@
     },
     "169": {
         "cardNumber": "169",
-        "field1": "snö",
+        "field1": "snöa",
         "field2": "",
         "field3": "snön",
         "field4": "",
@@ -2054,14 +2054,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "gå upp på hästen",
+        "field7": "stiga upp på hästen",
         "field8": "",
         "category": "Natur"
     },
     "172": {
         "cardNumber": "172",
-        "field1": "Fåret",
-        "field2": "Fåret",
+        "field1": "fåret",
+        "field2": "fåren",
         "field3": "fårosten",
         "field4": "",
         "field5": "",
@@ -2079,16 +2079,16 @@
         "field5": "",
         "field6": "",
         "field7": "vildsvin",
-        "field8": "Han hade en gris",
+        "field8": "Han hade tur",
         "category": "Natur"
     },
     "174": {
         "cardNumber": "174",
-        "field1": "Örnen",
+        "field1": "örnen",
         "field2": "örnarna",
         "field3": "örnnäsan",
         "field4": "",
-        "field5": "örnens öga",
+        "field5": "örnblicken",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2126,7 +2126,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Du gör ett berg av en mullvadshög!",
+        "field7": "Du gör en höna av en fjäder!",
         "field8": "",
         "category": "Natur"
     },
@@ -2138,7 +2138,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Var inte en groda!",
+        "field7": "Var inte en sådan tråkmåns!",
         "field8": "Den här grodan är grön",
         "category": "Natur"
     },
@@ -2156,32 +2156,32 @@
     },
     "180": {
         "cardNumber": "180",
-        "field1": "kaninen",
-        "field2": "kaninerna",
+        "field1": "haren",
+        "field2": "hararna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ung kanin",
+        "field7": "en ung hare",
         "field8": "",
         "category": "Natur"
     },
     "181": {
         "cardNumber": "181",
-        "field1": "Lejonet",
-        "field2": "Lejonen",
+        "field1": "lejonet",
+        "field2": "lejonen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Detta lejon är väldigt hungrig",
+        "field7": "Det här lejonet är mycket hungrigt",
         "field8": "",
         "category": "Natur"
     },
     "182": {
         "cardNumber": "182",
-        "field1": "havet",
-        "field2": "haven",
+        "field1": "oceanen",
+        "field2": "oceanerna",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2230,7 +2230,7 @@
         "cardNumber": "186",
         "field1": "stjärnan",
         "field2": "stjärnorna",
-        "field3": "zodiaken",
+        "field3": "stjärntecknet",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2246,7 +2246,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "lilla Tiger",
+        "field7": "en liten tiger",
         "field8": "",
         "category": "Natur"
     },
@@ -2258,7 +2258,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "När man pratar om vargen tittar han över häcken",
+        "field7": "När man talar om trollen står de i farstun",
         "field8": "",
         "category": "Natur"
     },
@@ -2270,7 +2270,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Hon är upptagen som ett bi",
+        "field7": "Hon är flitig som ett bi",
         "field8": "",
         "category": "Natur"
     },
@@ -2295,7 +2295,7 @@
         "field5": "",
         "field6": "",
         "field7": "Luften är frisk",
-        "field8": "Du borde få mycket luft",
+        "field8": "Man bör vara ute i friska luften ofta",
         "category": "Natur"
     },
     "192": {
@@ -2330,7 +2330,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Den här raden är lång",
+        "field7": "Den här ormen är lång",
         "field8": "stå i kö",
         "category": "Natur"
     },
@@ -2338,7 +2338,7 @@
         "cardNumber": "195",
         "field1": "miljön",
         "field2": "",
-        "field3": "föroreningen",
+        "field3": "miljöföroreningen",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2350,7 +2350,7 @@
         "cardNumber": "196",
         "field1": "världen",
         "field2": "",
-        "field3": "världsturnén",
+        "field3": "jordenruntresan",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2364,7 +2364,7 @@
         "field2": "",
         "field3": "skyddet",
         "field4": "",
-        "field5": "miljöskydd",
+        "field5": "miljöskyddet",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2392,31 +2392,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "200": {
         "cardNumber": "200",
         "field1": "diskutera",
-        "field2": "(diskuterat-diskuterat-diskuterat)",
+        "field2": "(presens: bespricht; preteritum: besprach; perfektparticip: besprochen)",
         "field3": "mötet",
         "field4": "mötena",
         "field5": "",
         "field6": "",
         "field7": "Jag vill diskutera denna fråga",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "201": {
         "cardNumber": "201",
-        "field1": "besök",
+        "field1": "besöka",
         "field2": "",
         "field3": "besöket",
         "field4": "besöken",
         "field5": "",
         "field6": "",
-        "field7": "Går din son i skolan?",
+        "field7": "Går er son i skolan?",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "202": {
         "cardNumber": "202",
@@ -2426,33 +2426,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Min favoritlektion är tyska",
+        "field7": "Mitt favoritämne är tyska",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "203": {
         "cardNumber": "203",
         "field1": "ämnet",
-        "field2": "ämnet",
+        "field2": "ämnena",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "till detta ämne",
-        "field8": "ändra ämnet",
-        "category": "vetenskap och utbildning"
+        "field7": "om det här ämnet",
+        "field8": "byta ämne",
+        "category": "Vetenskap och utbildning"
     },
     "204": {
         "cardNumber": "204",
         "field1": "felet",
-        "field2": "misstagen",
+        "field2": "felen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Du gör många misstag",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "205": {
         "cardNumber": "205",
@@ -2462,21 +2462,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tyska lärare",
+        "field7": "lärare i tyska",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "206": {
         "cardNumber": "206",
-        "field1": "studenten",
-        "field2": "studenterna",
+        "field1": "eleven",
+        "field2": "eleverna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Du är en bra student",
+        "field7": "Du är en duktig elev",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "207": {
         "cardNumber": "207",
@@ -2486,9 +2486,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "en sexa i biologi",
+        "field7": "betyget 6 i biologi (i det tyska betygssystemet)",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "208": {
         "cardNumber": "208",
@@ -2498,9 +2498,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ett C i kemi",
+        "field7": "betyget 3 i kemi (i det tyska betygssystemet)",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "209": {
         "cardNumber": "209",
@@ -2510,21 +2510,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ett B i geografi",
+        "field7": "betyget 2 i geografi (i det tyska betygssystemet)",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "210": {
         "cardNumber": "210",
-        "field1": "historien",
+        "field1": "historien / historia (skolämne)",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "en femma i historien",
+        "field7": "betyget 5 i historia (i det tyska betygssystemet)",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "211": {
         "cardNumber": "211",
@@ -2536,23 +2536,23 @@
         "field6": "",
         "field7": "Klassen har 20 elever",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "212": {
         "cardNumber": "212",
-        "field1": "klassarbetet",
-        "field2": "klassarbetet",
+        "field1": "det skriftliga provet",
+        "field2": "de skriftliga proven",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vi diskuterar klassarbetet",
+        "field7": "Vi går igenom det skriftliga provet",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "213": {
         "cardNumber": "213",
-        "field1": "krita",
+        "field1": "kritan",
         "field2": "kritorna",
         "field3": "",
         "field4": "",
@@ -2560,7 +2560,7 @@
         "field6": "",
         "field7": "Jag skriver med krita",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "214": {
         "cardNumber": "214",
@@ -2572,19 +2572,19 @@
         "field6": "",
         "field7": "Vi är på den fjärde lektionen i engelska",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "215": {
         "cardNumber": "215",
-        "field1": "matte",
+        "field1": "matematiken",
         "field2": "",
         "field3": "matten",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ett A i matte",
+        "field7": "betyget 1 i matte (i det tyska betygssystemet)",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "216": {
         "cardNumber": "216",
@@ -2596,7 +2596,7 @@
         "field6": "",
         "field7": "två miljarder",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "217": {
         "cardNumber": "217",
@@ -2608,19 +2608,19 @@
         "field6": "",
         "field7": "fyra miljoner",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "218": {
         "cardNumber": "218",
-        "field1": "det fysiska",
+        "field1": "fysiken",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "en fyra i fysik",
+        "field7": "betyget 4 i fysik (i det tyska betygssystemet)",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "219": {
         "cardNumber": "219",
@@ -2632,19 +2632,19 @@
         "field6": "",
         "field7": "på sidan 26",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "220": {
         "cardNumber": "220",
-        "field1": "whiteboardtavlan",
-        "field2": "brädorna",
+        "field1": "tavlan",
+        "field2": "tavlorna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Skriv gärna detta på tavlan!",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "221": {
         "cardNumber": "221",
@@ -2656,7 +2656,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "222": {
         "cardNumber": "222",
@@ -2668,11 +2668,11 @@
         "field6": "",
         "field7": "Han är en smart man",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "223": {
         "cardNumber": "223",
-        "field1": "a",
+        "field1": "en / ett",
         "field2": "",
         "field3": "elva",
         "field4": "",
@@ -2680,11 +2680,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "224": {
         "cardNumber": "224",
-        "field1": "helt enkelt",
+        "field1": "enkel",
         "field2": "",
         "field3": "svår",
         "field4": "",
@@ -2692,31 +2692,31 @@
         "field6": "",
         "field7": "Uppgiften är enkel",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "225": {
         "cardNumber": "225",
-        "field1": "ett hundra",
+        "field1": "etthundra",
         "field2": "",
-        "field3": "två hundra",
+        "field3": "tvåhundra",
         "field4": "",
         "field5": "trehundra",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "226": {
         "cardNumber": "226",
-        "field1": "ett tusen",
+        "field1": "ettusen",
         "field2": "",
         "field3": "tvåtusen",
         "field4": "",
-        "field5": "tre tusen",
+        "field5": "tretusen",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "227": {
         "cardNumber": "227",
@@ -2726,9 +2726,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Den här studenten är lat",
+        "field7": "Den här eleven är lat",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "228": {
         "cardNumber": "228",
@@ -2740,7 +2740,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "229": {
         "cardNumber": "229",
@@ -2750,9 +2750,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Du måste lära dig",
-        "field8": "Du måste vara hårt arbetande",
-        "category": "vetenskap och utbildning"
+        "field7": "Du måste plugga",
+        "field8": "Man måste vara flitig",
+        "category": "Vetenskap och utbildning"
     },
     "230": {
         "cardNumber": "230",
@@ -2764,7 +2764,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "231": {
         "cardNumber": "231",
@@ -2776,7 +2776,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "232": {
         "cardNumber": "232",
@@ -2788,31 +2788,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "233": {
         "cardNumber": "233",
         "field1": "förstå",
-        "field2": "(förstår-förstår)",
+        "field2": "(presens: versteht; preteritum: verstand; perfektparticip: verstanden)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Jag förstår inte den här texten",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "234": {
         "cardNumber": "234",
         "field1": "fjorton",
         "field2": "",
-        "field3": "Fyrtio",
+        "field3": "fyrtio",
         "field4": "",
         "field5": "fyrtiofyra",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "235": {
         "cardNumber": "235",
@@ -2824,11 +2824,11 @@
         "field6": "",
         "field7": "Jag är inte förberedd idag",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "236": {
         "cardNumber": "236",
-        "field1": "show",
+        "field1": "visa",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -2836,7 +2836,7 @@
         "field6": "",
         "field7": "Visa mig vad du har i dina händer!",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "237": {
         "cardNumber": "237",
@@ -2848,23 +2848,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "vetenskap och utbildning"
+        "category": "Vetenskap och utbildning"
     },
     "238": {
         "cardNumber": "238",
-        "field1": "Sagan",
+        "field1": "sagan",
         "field2": "sagorna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mormor läser en saga",
+        "field7": "Farmor / mormor läser en saga högt",
         "field8": "",
         "category": "Kultur och konst"
     },
     "239": {
         "cardNumber": "239",
-        "field1": "Affischen",
+        "field1": "affischen",
         "field2": "affischerna",
         "field3": "filmaffischen",
         "field4": "",
@@ -2925,22 +2925,22 @@
     },
     "244": {
         "cardNumber": "244",
-        "field1": "högt",
+        "field1": "högljudd / högt",
         "field2": "",
         "field3": "tyst",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Man måste tala mjukt här",
+        "field7": "Här måste man tala tyst",
         "field8": "",
         "category": "Kultur och konst"
     },
     "245": {
         "cardNumber": "245",
-        "field1": "dra",
+        "field1": "teckna / rita",
         "field2": "",
         "field3": "teckningen",
-        "field4": "målningen",
+        "field4": "teckningarna",
         "field5": "",
         "field6": "",
         "field7": "Hon tecknar naturen",
@@ -2949,7 +2949,7 @@
     },
     "246": {
         "cardNumber": "246",
-        "field1": "ljus",
+        "field1": "tända",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -2957,43 +2957,43 @@
         "field6": "",
         "field7": "Jag tänder ljusen",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "247": {
         "cardNumber": "247",
-        "field1": "Korset",
+        "field1": "korset",
         "field2": "korsen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Hon gjorde ett kors",
+        "field7": "Hon gjorde korstecknet",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "248": {
         "cardNumber": "248",
         "field1": "undret",
-        "field2": "underverken",
+        "field2": "undren",
         "field3": "underbar",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Jag tror inte på mirakel",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "249": {
         "cardNumber": "249",
         "field1": "ängeln",
-        "field2": "ängeln",
+        "field2": "änglarna",
         "field3": "skyddsängeln",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religion",
+        "category": "Religion",
         "imageName": ""
     },
     "250": {
@@ -3006,20 +3006,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religion",
+        "category": "Religion",
         "imageName": ""
     },
     "251": {
         "cardNumber": "251",
-        "field1": "jultomten",
+        "field1": "Sankt Nikolaus",
         "field2": "",
-        "field3": "St Nicholas dag",
+        "field3": "Sankt Nikolaus-dagen",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Jultomten kommer imorgon",
+        "field7": "Imorgon kommer Sankt Nikolaus",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "252": {
         "cardNumber": "252",
@@ -3031,7 +3031,7 @@
         "field6": "",
         "field7": "Prästen håller helig mässa",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "253": {
         "cardNumber": "253",
@@ -3041,34 +3041,34 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Sätt inte djävulen på väggen!",
+        "field7": "Måla inte fan på väggen!",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "254": {
         "cardNumber": "254",
         "field1": "ljuset",
         "field2": "ljusen",
-        "field3": "levande ljuset",
+        "field3": "ljusskenet",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religion",
+        "category": "Religion",
         "imageName": ""
     },
     "255": {
         "cardNumber": "255",
         "field1": "religionen",
-        "field2": "religionen",
+        "field2": "religionerna",
         "field3": "religiös",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Vilken religion tillhör du?",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "256": {
         "cardNumber": "256",
@@ -3080,7 +3080,7 @@
         "field6": "",
         "field7": "Jag tror på Gud",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "257": {
         "cardNumber": "257",
@@ -3092,12 +3092,12 @@
         "field6": "",
         "field7": "Barnen dekorerar granen",
         "field8": "",
-        "category": "religion"
+        "category": "Religion"
     },
     "258": {
         "cardNumber": "258",
-        "field1": "Börja",
-        "field2": "(börjar-började-började)",
+        "field1": "börja",
+        "field2": "(presens: beginnt; preteritum: begann; perfektparticip: begonnen)",
         "field3": "början",
         "field4": "",
         "field5": "",
@@ -3109,7 +3109,7 @@
     "259": {
         "cardNumber": "259",
         "field1": "kalendern",
-        "field2": "kalendern",
+        "field2": "kalendrarna",
         "field3": "möteskalendern",
         "field4": "",
         "field5": "",
@@ -3140,42 +3140,42 @@
         "field5": "",
         "field6": "",
         "field7": "på eftermiddagen",
-        "field8": "eftermiddag",
+        "field8": "på eftermiddagarna",
         "category": "Tid"
     },
     "262": {
         "cardNumber": "262",
         "field1": "sommaren",
-        "field2": "sommaren",
+        "field2": "somrarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "i sommar",
+        "field7": "på sommaren",
         "field8": "",
         "category": "Tid"
     },
     "263": {
         "cardNumber": "263",
-        "field1": "morgonen",
-        "field2": "morgnarna",
+        "field1": "förmiddagen",
+        "field2": "förmiddagarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "på morgonen",
-        "field8": "morgon",
+        "field7": "på förmiddagen",
+        "field8": "på förmiddagarna",
         "category": "Tid"
     },
     "264": {
         "cardNumber": "264",
-        "field1": "säsongen",
+        "field1": "årstiden",
         "field2": "årstiderna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vilken säsong gillar du bäst?",
+        "field7": "Vilken årstid tycker du bäst om?",
         "field8": "",
         "category": "Tid"
     },
@@ -3205,8 +3205,8 @@
     },
     "267": {
         "cardNumber": "267",
-        "field1": "den andra",
-        "field2": "Den andra",
+        "field1": "sekunden",
+        "field2": "sekunderna",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3223,25 +3223,25 @@
         "field4": "sluten",
         "field5": "",
         "field6": "",
-        "field7": "Klassen slutar vid ett",
+        "field7": "Undervisningen slutar klockan ett",
         "field8": "",
         "category": "Tid"
     },
     "269": {
         "cardNumber": "269",
-        "field1": "mot",
+        "field1": "omkring / vid (om tid)",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mot nio",
+        "field7": "omkring klockan nio",
         "field8": "",
         "category": "Tid"
     },
     "270": {
         "cardNumber": "270",
-        "field1": "hetero",
+        "field1": "just nu / precis",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3253,7 +3253,7 @@
     },
     "271": {
         "cardNumber": "271",
-        "field1": "även",
+        "field1": "strax / genast",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3277,7 +3277,7 @@
     },
     "273": {
         "cardNumber": "273",
-        "field1": "lång",
+        "field1": "länge",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3301,7 +3301,7 @@
     },
     "275": {
         "cardNumber": "275",
-        "field1": "det nya året/nyåret",
+        "field1": "nyåret / det nya året",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3331,7 +3331,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Är du klar?",
+        "field7": "Är du redan färdig?",
         "field8": "",
         "category": "Tid"
     },
@@ -3379,7 +3379,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Klockan är fem efter elva",
+        "field7": "Klockan är fem över elva",
         "field8": "",
         "category": "Tid"
     },
@@ -3391,7 +3391,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Allt är med mig",
+        "field7": "Jag har allt med mig",
         "field8": "",
         "category": "Mått"
     },
@@ -3410,7 +3410,7 @@
     "284": {
         "cardNumber": "284",
         "field1": "grammet",
-        "field2": "gram",
+        "field2": "grammen",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3421,9 +3421,9 @@
     },
     "285": {
         "cardNumber": "285",
-        "field1": "torget",
-        "field2": "rutorna",
-        "field3": "fyrkant",
+        "field1": "kvadraten",
+        "field2": "kvadraterna",
+        "field3": "kvadratisk",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3433,7 +3433,7 @@
     },
     "286": {
         "cardNumber": "286",
-        "field1": "Cirkeln",
+        "field1": "cirkeln",
         "field2": "cirklarna",
         "field3": "",
         "field4": "",
@@ -3445,8 +3445,8 @@
     },
     "287": {
         "cardNumber": "287",
-        "field1": "form",
-        "field2": "formulären",
+        "field1": "formen",
+        "field2": "formerna",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3457,8 +3457,8 @@
     },
     "288": {
         "cardNumber": "288",
-        "field1": "ton",
-        "field2": "ton",
+        "field1": "tonnet",
+        "field2": "tonnen",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3493,9 +3493,9 @@
     },
     "291": {
         "cardNumber": "291",
-        "field1": "ganska",
+        "field1": "hel / helt",
         "field2": "",
-        "field3": "Ganska bra",
+        "field3": "ganska bra",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3505,9 +3505,9 @@
     },
     "292": {
         "cardNumber": "292",
-        "field1": "Exakt",
+        "field1": "exakt / noggrann",
         "field2": "",
-        "field3": "felaktig",
+        "field3": "oprecis / onoggrann",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3517,7 +3517,7 @@
     },
     "293": {
         "cardNumber": "293",
-        "field1": "hetero",
+        "field1": "rak",
         "field2": "",
         "field3": "krokig",
         "field4": "",
@@ -3541,7 +3541,7 @@
     },
     "295": {
         "cardNumber": "295",
-        "field1": "tömma",
+        "field1": "tom",
         "field2": "",
         "field3": "full",
         "field4": "",
@@ -3565,7 +3565,7 @@
     },
     "297": {
         "cardNumber": "297",
-        "field1": "runt",
+        "field1": "rund",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3578,7 +3578,7 @@
     "298": {
         "cardNumber": "298",
         "field1": "föra",
-        "field2": "(bringar med sig)",
+        "field2": "(presens: bringt; preteritum: brachte; perfektparticip: gebracht)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3589,7 +3589,7 @@
     },
     "299": {
         "cardNumber": "299",
-        "field1": "Pennskrinet",
+        "field1": "pennfodralet",
         "field2": "pennfodralen",
         "field3": "",
         "field4": "",
@@ -3602,12 +3602,12 @@
     "300": {
         "cardNumber": "300",
         "field1": "linjalen",
-        "field2": "härskarna",
+        "field2": "linjalerna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Han ritar en fyrkant med linjalen",
+        "field7": "Han ritar en kvadrat med linjalen",
         "field8": "",
         "category": "Föremål"
     },
@@ -3631,14 +3631,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Jag får det direkt",
+        "field7": "Jag hämtar det strax",
         "field8": "",
         "category": "Föremål"
     },
     "303": {
         "cardNumber": "303",
-        "field1": "låta",
-        "field2": "(löv-löv-löv)",
+        "field1": "låta / lämna",
+        "field2": "(presens: lässt; preteritum: ließ; perfektparticip: gelassen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3650,14 +3650,14 @@
     "304": {
         "cardNumber": "304",
         "field1": "bestå",
-        "field2": "(pass-pass-pass)",
+        "field2": "(presens: besteht; preteritum: bestand; perfektparticip: bestanden)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Familjen består av tre personer",
         "field8": "Bordet är gjort av trä",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "305": {
         "cardNumber": "305",
@@ -3669,11 +3669,11 @@
         "field6": "",
         "field7": "en kedja av guld",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "306": {
         "cardNumber": "306",
-        "field1": "skogen",
+        "field1": "träet",
         "field2": "",
         "field3": "träbordet",
         "field4": "",
@@ -3681,7 +3681,7 @@
         "field6": "",
         "field7": "Dörren är gjord av trä",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "307": {
         "cardNumber": "307",
@@ -3693,7 +3693,7 @@
         "field6": "",
         "field7": "mjukt läder",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "308": {
         "cardNumber": "308",
@@ -3705,7 +3705,7 @@
         "field6": "",
         "field7": "Bägaren är gjord av silver",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "309": {
         "cardNumber": "309",
@@ -3717,7 +3717,7 @@
         "field6": "",
         "field7": "en tröja gjord av 100% bomull",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "310": {
         "cardNumber": "310",
@@ -3729,7 +3729,7 @@
         "field6": "",
         "field7": "ren ull",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "311": {
         "cardNumber": "311",
@@ -3741,7 +3741,7 @@
         "field6": "",
         "field7": "Hon har gråa ögon",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "312": {
         "cardNumber": "312",
@@ -3753,7 +3753,7 @@
         "field6": "",
         "field7": "hård som sten",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "313": {
         "cardNumber": "313",
@@ -3765,7 +3765,7 @@
         "field6": "",
         "field7": "Det är ljust",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "314": {
         "cardNumber": "314",
@@ -3777,11 +3777,11 @@
         "field6": "",
         "field7": "en orange klänning",
         "field8": "",
-        "category": "Tyger och material"
+        "category": "Ämnen och material"
     },
     "315": {
         "cardNumber": "315",
-        "field1": "Schack",
+        "field1": "schacket",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3789,19 +3789,19 @@
         "field6": "",
         "field7": "Jag spelar ofta schack med min pappa",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "316": {
         "cardNumber": "316",
-        "field1": "poolen",
-        "field2": "simbassängerna",
+        "field1": "simhallen / simbassängen",
+        "field2": "simhallarna / simbassängerna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "På tisdagar går jag till simhallen",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "317": {
         "cardNumber": "317",
@@ -3813,7 +3813,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "318": {
         "cardNumber": "318",
@@ -3825,19 +3825,19 @@
         "field6": "",
         "field7": "Kan du åka skridskor?",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "319": {
         "cardNumber": "319",
-        "field1": "Idrottsmannen",
+        "field1": "idrottaren",
         "field2": "idrottarna",
-        "field3": "sportig",
+        "field3": "idrottslig / sportig",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Han blev en idrottsman",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "320": {
         "cardNumber": "320",
@@ -3849,19 +3849,19 @@
         "field6": "",
         "field7": "Jag gillar inte att gå på cirkus",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "321": {
         "cardNumber": "321",
-        "field1": "discot",
+        "field1": "diskoteket",
         "field2": "diskoteken",
-        "field3": "klubben",
+        "field3": "diskoteket",
         "field4": "diskoteken",
         "field5": "Imorgon ska vi på disco",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport och fritid",
+        "category": "Sport och fritid",
         "imageName": ""
     },
     "322": {
@@ -3874,20 +3874,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport och fritid",
+        "category": "Sport och fritid",
         "imageName": ""
     },
     "323": {
         "cardNumber": "323",
         "field1": "fånga",
-        "field2": "(fångst-fångad-fångad)",
+        "field2": "(presens: fängt; preteritum: fing; perfektparticip: gefangen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Klaus tar bollen",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "324": {
         "cardNumber": "324",
@@ -3897,13 +3897,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "de är väldigt starka",
+        "field7": "De är väldigt starka",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "325": {
         "cardNumber": "325",
-        "field1": "Intresserad av",
+        "field1": "intressera sig",
         "field2": "",
         "field3": "intresset",
         "field4": "intressena",
@@ -3911,7 +3911,7 @@
         "field6": "",
         "field7": "Vad är du intresserad av?",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "326": {
         "cardNumber": "326",
@@ -3923,11 +3923,11 @@
         "field6": "",
         "field7": "Jag blir aldrig uttråkad",
         "field8": "",
-        "category": "sport och fritid"
+        "category": "Sport och fritid"
     },
     "327": {
         "cardNumber": "327",
-        "field1": "(bli informerad",
+        "field1": "informera / informera sig",
         "field2": "",
         "field3": "informationen",
         "field4": "informationen",
@@ -3935,19 +3935,19 @@
         "field6": "",
         "field7": "Han behöver lite information",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "328": {
         "cardNumber": "328",
-        "field1": "lära känna varandra).",
+        "field1": "lära känna / lära känna varandra",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Jag gillar att träffa nya människor",
-        "field8": "Vi träffades igår",
-        "category": "Resa"
+        "field8": "Vi lärde känna varandra igår",
+        "category": "Resor"
     },
     "329": {
         "cardNumber": "329",
@@ -3959,19 +3959,19 @@
         "field6": "",
         "field7": "en trevlig dag",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "330": {
         "cardNumber": "330",
         "field1": "bada",
         "field2": "",
-        "field3": "badrummet",
+        "field3": "badet",
         "field4": "baden",
         "field5": "",
         "field6": "",
         "field7": "Jag gillar att bada i havet",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "331": {
         "cardNumber": "331",
@@ -3983,19 +3983,19 @@
         "field6": "",
         "field7": "Berlin är en välkänd stad",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "332": {
         "cardNumber": "332",
-        "field1": "se",
+        "field1": "besöka och titta på",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vi skulle vilja besöka Bremen",
+        "field7": "Vi skulle vilja se oss omkring i Bremen",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "333": {
         "cardNumber": "333",
@@ -4007,7 +4007,7 @@
         "field6": "",
         "field7": "Mozart-monumentet",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "334": {
         "cardNumber": "334",
@@ -4017,33 +4017,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Imorgon åker vi till Hamburg",
+        "field7": "Imorgon gör vi en utflykt till Hamburg",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "335": {
         "cardNumber": "335",
         "field1": "utlänningen",
-        "field2": "utlänningen",
+        "field2": "utlänningarna",
         "field3": "utländsk",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Här bor många utlänningar",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "336": {
         "cardNumber": "336",
-        "field1": "Guiden",
-        "field2": "turistguiderna",
+        "field1": "resehandboken / reseguiden",
+        "field2": "resehandböckerna / reseguiderna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Har du några guider?",
+        "field7": "Har ni några resehandböcker?",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "337": {
         "cardNumber": "337",
@@ -4055,19 +4055,19 @@
         "field6": "",
         "field7": "Jag packar ryggsäcken",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "338": {
         "cardNumber": "338",
         "field1": "stranden",
-        "field2": "Stränderna",
+        "field2": "stränderna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "De är på stranden",
         "field8": "Idag ska vi till stranden",
-        "category": "Resa"
+        "category": "Resor"
     },
     "339": {
         "cardNumber": "339",
@@ -4075,11 +4075,11 @@
         "field2": "turisterna",
         "field3": "turismen",
         "field4": "",
-        "field5": "turistinformation",
+        "field5": "turistinformationen",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "340": {
         "cardNumber": "340",
@@ -4091,7 +4091,7 @@
         "field6": "",
         "field7": "Vi väntade vid gränsen i två timmar",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "341": {
         "cardNumber": "341",
@@ -4103,48 +4103,48 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Resa",
+        "category": "Resor",
         "imageName": ""
     },
     "342": {
         "cardNumber": "342",
-        "field1": "utländsk",
+        "field1": "främmande",
         "field2": "",
-        "field3": "främmande språk",
+        "field3": "det främmande språket",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Jag är en främling här",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "343": {
         "cardNumber": "343",
-        "field1": "att hälsa",
+        "field1": "hälsa",
         "field2": "",
         "field3": "hälsningen",
-        "field4": "hälsningar",
+        "field4": "hälsningarna",
         "field5": "",
         "field6": "",
         "field7": "Hälsningar från Berlin",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "344": {
         "cardNumber": "344",
         "field1": "känna till",
-        "field2": "(visste-visste-visste)",
+        "field2": "(presens: kennt; preteritum: kannte; perfektparticip: gekannt)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Känner du den här mannen?",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "345": {
         "cardNumber": "345",
-        "field1": "Översätt",
+        "field1": "översätta",
         "field2": "",
         "field3": "översättningen",
         "field4": "översättningarna",
@@ -4152,31 +4152,31 @@
         "field6": "",
         "field7": "Jag översätter texten",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "346": {
         "cardNumber": "346",
-        "field1": "camping",
+        "field1": "tälta",
         "field2": "",
         "field3": "tältet",
         "field4": "tälten",
-        "field5": "Campingen",
+        "field5": "tältplatsen",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Resa"
+        "category": "Resor"
     },
     "347": {
         "cardNumber": "347",
-        "field1": "(Att lägga sig ner",
+        "field1": "lägga / lägga sig",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ligg ned!",
+        "field7": "Lägg dig ner!",
         "field8": "Jag lägger mig på sidan",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "348": {
         "cardNumber": "348",
@@ -4188,19 +4188,19 @@
         "field6": "",
         "field7": "Han hänger upp bilden på väggen",
         "field8": "Soffan står mot väggen",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "349": {
         "cardNumber": "349",
         "field1": "förbli",
-        "field2": "(blir-blir-blir)",
+        "field2": "(presens: bleibt; preteritum: blieb; perfektparticip: geblieben)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Hur länge stannar du här?",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "350": {
         "cardNumber": "350",
@@ -4212,7 +4212,7 @@
         "field6": "",
         "field7": "Utgången är där",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "351": {
         "cardNumber": "351",
@@ -4224,7 +4224,7 @@
         "field6": "",
         "field7": "Var är ingången?",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "352": {
         "cardNumber": "352",
@@ -4235,12 +4235,12 @@
         "field5": "",
         "field6": "",
         "field7": "i norr",
-        "field8": "Norr",
-        "category": "Rörelse och platsbestämning"
+        "field8": "norrut",
+        "category": "Rörelse och lägesbeskrivning"
     },
     "353": {
         "cardNumber": "353",
-        "field1": "Öst",
+        "field1": "öst",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4248,23 +4248,23 @@
         "field6": "",
         "field7": "i öst",
         "field8": "österut",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "354": {
         "cardNumber": "354",
-        "field1": "södern",
+        "field1": "söder",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "i söder",
-        "field8": "åt söder",
-        "category": "Rörelse och platsbestämning"
+        "field8": "söderut",
+        "category": "Rörelse och lägesbeskrivning"
     },
     "355": {
         "cardNumber": "355",
-        "field1": "västern",
+        "field1": "väst",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4272,7 +4272,7 @@
         "field6": "",
         "field7": "i väst",
         "field8": "västerut",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "356": {
         "cardNumber": "356",
@@ -4284,7 +4284,7 @@
         "field6": "",
         "field7": "Boken ligger i mitten",
         "field8": "Sätt vasen i mitten!",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "357": {
         "cardNumber": "357",
@@ -4296,43 +4296,43 @@
         "field6": "",
         "field7": "Jag hör musiken genom väggen",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "358": {
         "cardNumber": "358",
-        "field1": "motsatt",
+        "field1": "mittemot",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "mitt emot huset",
+        "field7": "mittemot huset",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "359": {
         "cardNumber": "359",
-        "field1": "Rakt",
+        "field1": "rakt fram",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Snälla gå direkt!",
+        "field7": "Gå rakt fram, tack!",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "360": {
         "cardNumber": "360",
         "field1": "hänga",
-        "field2": "(häng-hängde-hängde)",
+        "field2": "(presens: hängt; preteritum: hing; perfektparticip: gehangen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Han hänger kostymen i garderoben",
         "field8": "Lampan hänger över bordet",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "361": {
         "cardNumber": "361",
@@ -4344,11 +4344,11 @@
         "field6": "",
         "field7": "Jag går till köket",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "362": {
         "cardNumber": "362",
-        "field1": "Vänster",
+        "field1": "vänster",
         "field2": "",
         "field3": "höger",
         "field4": "",
@@ -4356,11 +4356,11 @@
         "field6": "",
         "field7": "Gå till vänster!",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "363": {
         "cardNumber": "363",
-        "field1": "stänga",
+        "field1": "nära",
         "field2": "",
         "field3": "långt",
         "field4": "",
@@ -4368,35 +4368,35 @@
         "field6": "",
         "field7": "Vi är nära målet",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "364": {
         "cardNumber": "364",
-        "field1": "uppsättning",
+        "field1": "sätta",
         "field2": "",
-        "field3": "att sitta ner",
+        "field3": "sätta sig",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Sätt dig gärna på stolen!",
+        "field7": "Sätt dig på stolen, är du snäll!",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "365": {
         "cardNumber": "365",
         "field1": "stå",
-        "field2": "(står-stod-stod)",
+        "field2": "(presens: steht; preteritum: stand; perfektparticip: gestanden)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Jag har stått här i två timmar",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "366": {
         "cardNumber": "366",
-        "field1": "plats",
+        "field1": "ställa",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4404,11 +4404,11 @@
         "field6": "",
         "field7": "Ställ grytan där!",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "367": {
         "cardNumber": "367",
-        "field1": "ovan",
+        "field1": "över / ovanför",
         "field2": "",
         "field3": "under",
         "field4": "",
@@ -4416,19 +4416,19 @@
         "field6": "",
         "field7": "De bor ovanför mig",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "368": {
         "cardNumber": "368",
-        "field1": "innan",
+        "field1": "framför",
         "field2": "",
-        "field3": "Bakom",
+        "field3": "bakom",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Bilen står framför huset",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "369": {
         "cardNumber": "369",
@@ -4440,19 +4440,19 @@
         "field6": "",
         "field7": "mellan parken och banken",
         "field8": "",
-        "category": "Rörelse och platsbestämning"
+        "category": "Rörelse och lägesbeskrivning"
     },
     "370": {
         "cardNumber": "370",
-        "field1": "Fara!",
+        "field1": "Se upp!",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Se upp steg!",
+        "field7": "Se upp för trappsteget!",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "371": {
         "cardNumber": "371",
@@ -4464,7 +4464,7 @@
         "field6": "",
         "field7": "Kan du köra motorcykel?",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "372": {
         "cardNumber": "372",
@@ -4476,31 +4476,31 @@
         "field6": "",
         "field7": "Fartyget ligger i hamnen",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "373": {
         "cardNumber": "373",
         "field1": "piloten",
-        "field2": "Piloterna",
+        "field2": "piloterna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Piloten flyger planet",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "374": {
         "cardNumber": "374",
-        "field1": "utrymmet",
+        "field1": "platsen",
         "field2": "platserna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Snälla få en plats!",
+        "field7": "Var så god och sitt!",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "375": {
         "cardNumber": "375",
@@ -4512,31 +4512,31 @@
         "field6": "",
         "field7": "Jag kör till Berlin med bil",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "376": {
         "cardNumber": "376",
         "field1": "fri",
         "field2": "",
-        "field3": "ockuperade",
+        "field3": "upptagen",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Är det upptaget här?",
+        "field7": "Är den här platsen ledig?",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "377": {
         "cardNumber": "377",
-        "field1": "i tid",
+        "field1": "punktlig / i tid",
         "field2": "",
-        "field3": "opunktionell",
+        "field3": "opunktlig",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "tåget anlände i tid",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "378": {
         "cardNumber": "378",
@@ -4548,7 +4548,7 @@
         "field6": "",
         "field7": "Han väntar på tågstationen",
         "field8": "Jag väntar på tåget",
-        "category": "transport"
+        "category": "Transport"
     },
     "379": {
         "cardNumber": "379",
@@ -4600,10 +4600,10 @@
     },
     "383": {
         "cardNumber": "383",
-        "field1": "håll",
-        "field2": "(håller-hålls-hålls)",
-        "field3": "busshållplatsen",
-        "field4": "busshållplatserna",
+        "field1": "stanna / hålla",
+        "field2": "(presens: hält; preteritum: hielt; perfektparticip: gehalten)",
+        "field3": "hållplatsen",
+        "field4": "hållplatserna",
         "field5": "",
         "field6": "",
         "field7": "vid busshållplatsen",
@@ -4654,7 +4654,7 @@
         "field4": "parkeringsplatserna",
         "field5": "",
         "field6": "",
-        "field7": "du kan inte parkera här",
+        "field7": "Här får man inte parkera",
         "field8": "",
         "category": "Stad"
     },
@@ -4662,11 +4662,11 @@
         "cardNumber": "388",
         "field1": "fältet",
         "field2": "fälten",
-        "field3": "grusvägen",
+        "field3": "åkervägen",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "att arbeta på fälten",
+        "field7": "arbeta på åkern",
         "field8": "",
         "category": "By"
     },
@@ -4686,7 +4686,7 @@
         "cardNumber": "390",
         "field1": "gården",
         "field2": "gårdarna",
-        "field3": "gårdsekonomin",
+        "field3": "jordbruket",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4703,7 +4703,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Kvarnen vänder",
+        "field7": "Kvarnen snurrar",
         "field8": "",
         "category": "By"
     },
@@ -4721,11 +4721,11 @@
     },
     "393": {
         "cardNumber": "393",
-        "field1": "FIR",
-        "field2": "granarna",
-        "field3": "julgranen",
+        "field1": "ädelgranen",
+        "field2": "ädelgranarna",
+        "field3": "ädelgranen",
         "field4": "",
-        "field5": "granskogen",
+        "field5": "ädelgranskogen",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -4754,7 +4754,7 @@
         "field6": "",
         "field7": "Hon springer fortare än mig",
         "field8": "Han är större än mig",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "396": {
         "cardNumber": "396",
@@ -4766,19 +4766,19 @@
         "field6": "",
         "field7": "Gör det annorlunda!",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "397": {
         "cardNumber": "397",
         "field1": "betyda",
         "field2": "",
-        "field3": "meningen",
+        "field3": "betydelsen",
         "field4": "betydelserna",
         "field5": "",
         "field6": "",
         "field7": "Vad betyder det?",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "398": {
         "cardNumber": "398",
@@ -4790,19 +4790,19 @@
         "field6": "",
         "field7": "Du är definitivt hungrig",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "399": {
         "cardNumber": "399",
         "field1": "stava",
         "field2": "",
-        "field3": "brevet",
-        "field4": "Bokstäverna",
+        "field3": "bokstaven",
+        "field4": "bokstäverna",
         "field5": "",
         "field6": "",
         "field7": "Stava ditt namn!",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "400": {
         "cardNumber": "400",
@@ -4814,11 +4814,11 @@
         "field6": "",
         "field7": "ordna enligt alfabetet",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "401": {
         "cardNumber": "401",
-        "field1": "Exemplet",
+        "field1": "exemplet",
         "field2": "exemplen",
         "field3": "",
         "field4": "",
@@ -4826,7 +4826,7 @@
         "field6": "",
         "field7": "till exempel",
         "field8": "Exemplet är träffande",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "402": {
         "cardNumber": "402",
@@ -4838,11 +4838,11 @@
         "field6": "",
         "field7": "Jag saknar ord",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "403": {
         "cardNumber": "403",
-        "field1": "den där",
+        "field1": "att",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4850,19 +4850,19 @@
         "field6": "",
         "field7": "Jag vet att du älskar honom",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "404": {
         "cardNumber": "404",
-        "field1": "tror",
-        "field2": "(tänker-tänker-tänker)",
+        "field1": "tänka / tro",
+        "field2": "(presens: denkt; preteritum: dachte; perfektparticip: gedacht)",
         "field3": "tanken",
-        "field4": "tankar",
+        "field4": "tankarna",
         "field5": "",
         "field6": "",
-        "field7": "Jag tror det...",
+        "field7": "Jag tror att...",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "405": {
         "cardNumber": "405",
@@ -4874,7 +4874,7 @@
         "field6": "",
         "field7": "Jag går hem för det är sent",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "406": {
         "cardNumber": "406",
@@ -4886,7 +4886,7 @@
         "field6": "",
         "field7": "Kan du översätta den här meningen till tyska?",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "407": {
         "cardNumber": "407",
@@ -4898,7 +4898,7 @@
         "field6": "",
         "field7": "Det är sent, så jag går hem",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "408": {
         "cardNumber": "408",
@@ -4908,21 +4908,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jag bryr mig inte",
+        "field7": "Jag bryr mig inte",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "409": {
         "cardNumber": "409",
-        "field1": "Ja",
+        "field1": "ja",
         "field2": "",
-        "field3": "Nej",
+        "field3": "nej",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Vänligen svara ja eller nej",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "410": {
         "cardNumber": "410",
@@ -4934,7 +4934,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "411": {
         "cardNumber": "411",
@@ -4944,9 +4944,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Självklart kommer jag också",
+        "field7": "Självklart följer jag också med",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "412": {
         "cardNumber": "412",
@@ -4958,7 +4958,7 @@
         "field6": "",
         "field7": "Jag vet inte om han kommer",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "413": {
         "cardNumber": "413",
@@ -4970,19 +4970,19 @@
         "field6": "",
         "field7": "Säg det på tyska!",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "414": {
         "cardNumber": "414",
-        "field1": "tänka",
+        "field1": "presentera sig",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Introducera dig själv!",
-        "field8": "Får jag introducera mig själv?",
-        "category": "Röstkommunikation"
+        "field7": "Presentera dig!",
+        "field8": "Får jag presentera mig?",
+        "category": "Språklig kommunikation"
     },
     "415": {
         "cardNumber": "415",
@@ -4992,13 +4992,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "hon är så vacker",
+        "field7": "Hon är så vacker",
         "field8": "Det är så vackert här!",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "416": {
         "cardNumber": "416",
-        "field1": "snarare",
+        "field1": "utan",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5006,7 +5006,7 @@
         "field6": "",
         "field7": "Detta är inte rött utan gult",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "417": {
         "cardNumber": "417",
@@ -5016,13 +5016,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Jag kanske går till sjön",
+        "field7": "Jag kanske åker till sjön",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "418": {
         "cardNumber": "418",
-        "field1": "Sann",
+        "field1": "sann",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5030,11 +5030,11 @@
         "field6": "",
         "field7": "Är det sant?",
         "field8": "Inte sant?",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "419": {
         "cardNumber": "419",
-        "field1": "Vad",
+        "field1": "vad",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5042,11 +5042,11 @@
         "field6": "",
         "field7": "Vad gör du?",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "420": {
         "cardNumber": "420",
-        "field1": "Viktig",
+        "field1": "viktig",
         "field2": "",
         "field3": "oviktig",
         "field4": "",
@@ -5054,19 +5054,19 @@
         "field6": "",
         "field7": "Det är väldigt viktigt för honom",
         "field8": "",
-        "category": "Röstkommunikation"
+        "category": "Språklig kommunikation"
     },
     "421": {
         "cardNumber": "421",
-        "field1": "ring upp",
-        "field2": "(samtal-kallade)",
-        "field3": "kallelsen",
-        "field4": "samtalen",
+        "field1": "ringa (till)",
+        "field2": "(presens: ruft an; preteritum: rief an; perfektparticip: angerufen)",
+        "field3": "telefonsamtalet",
+        "field4": "telefonsamtalen",
         "field5": "",
         "field6": "",
         "field7": "Jag ringer dig imorgon",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "422": {
         "cardNumber": "422",
@@ -5078,7 +5078,7 @@
         "field6": "",
         "field7": "kulturprogrammet",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "423": {
         "cardNumber": "423",
@@ -5090,31 +5090,31 @@
         "field6": "",
         "field7": "När kommer brevbäraren?",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "424": {
         "cardNumber": "424",
         "field1": "datorn",
-        "field2": "datorn",
+        "field2": "datorerna",
         "field3": "datorspelet",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Vi jobbar vid datorn",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "425": {
         "cardNumber": "425",
-        "field1": "tvn",
+        "field1": "tv-apparaten",
         "field2": "tv-apparaterna",
-        "field3": "teven",
-        "field4": "teven",
+        "field3": "tv:n",
+        "field4": "tv-apparaterna",
         "field5": "",
         "field6": "",
-        "field7": "Stäng av tv: n!",
+        "field7": "Stäng av tv:n!",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "426": {
         "cardNumber": "426",
@@ -5124,13 +5124,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Hur mycket kostar stämpeln för detta brev?",
+        "field7": "Vad kostar frimärket till det här brevet?",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "427": {
         "cardNumber": "427",
-        "field1": "inlägget",
+        "field1": "posten",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5138,7 +5138,7 @@
         "field6": "",
         "field7": "Jag är på posten",
         "field8": "Jag måste gå till posten",
-        "category": "media"
+        "category": "Medier"
     },
     "428": {
         "cardNumber": "428",
@@ -5150,7 +5150,7 @@
         "field6": "",
         "field7": "fick du mitt vykort?",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "429": {
         "cardNumber": "429",
@@ -5162,19 +5162,19 @@
         "field6": "",
         "field7": "ett tomt telefonkort",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "430": {
         "cardNumber": "430",
-        "field1": "TV",
-        "field2": "(tittar på TV-såg TV-tittade på TV)",
-        "field3": "tvn",
+        "field1": "titta på tv",
+        "field2": "(presens: sieht fern; preteritum: sah fern; perfektparticip: ferngesehen)",
+        "field3": "televisionen / tv:n",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "på tv",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "431": {
         "cardNumber": "431",
@@ -5186,7 +5186,7 @@
         "field6": "",
         "field7": "Telefonen ringer!",
         "field8": "",
-        "category": "media"
+        "category": "Medier"
     },
     "432": {
         "cardNumber": "432",
@@ -5203,7 +5203,7 @@
     "433": {
         "cardNumber": "433",
         "field1": "chefen",
-        "field2": "ledarna",
+        "field2": "cheferna",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -5214,13 +5214,13 @@
     },
     "434": {
         "cardNumber": "434",
-        "field1": "regissören",
+        "field1": "direktören",
         "field2": "direktörerna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Hon är med regissören",
+        "field7": "Hon är hos direktören",
         "field8": "",
         "category": "Arbete"
     },
@@ -5238,7 +5238,7 @@
     },
     "436": {
         "cardNumber": "436",
-        "field1": "Kollegan",
+        "field1": "kollegan",
         "field2": "kollegorna",
         "field3": "",
         "field4": "",
@@ -5264,18 +5264,18 @@
         "cardNumber": "438",
         "field1": "förnamnet",
         "field2": "förnamnen",
-        "field3": "efternamn",
+        "field3": "efternamnet",
         "field4": "efternamnen",
         "field5": "",
         "field6": "",
-        "field7": "Vad är ditt förnamn?",
+        "field7": "Vad är ert förnamn?",
         "field8": "",
         "category": "Arbete"
     },
     "439": {
         "cardNumber": "439",
         "field1": "arbetet",
-        "field2": "verken",
+        "field2": "arbetena",
         "field3": "arbetaren",
         "field4": "arbetarna",
         "field5": "",
@@ -5292,7 +5292,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Vad är din nationalitet?",
+        "field7": "Vilken nationalitet har ni?",
         "field8": "",
         "category": "Arbete"
     },
@@ -5346,7 +5346,7 @@
     },
     "445": {
         "cardNumber": "445",
-        "field1": "han själv",
+        "field1": "själv",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5378,19 +5378,19 @@
         "field6": "",
         "field7": "Jag har inga pengar på kontot",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "448": {
         "cardNumber": "448",
         "field1": "affärsmannen",
-        "field2": "affärsmännen",
-        "field3": "Affärskvinnan",
+        "field2": "affärsfolket",
+        "field3": "affärskvinnan",
         "field4": "affärskvinnorna",
         "field5": "",
         "field6": "",
         "field7": "Han är ingen bra affärsman",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "449": {
         "cardNumber": "449",
@@ -5402,11 +5402,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "450": {
         "cardNumber": "450",
-        "field1": "notan",
+        "field1": "räkningen / beräkningen",
         "field2": "räkningarna",
         "field3": "telefonräkningen",
         "field4": "",
@@ -5414,7 +5414,7 @@
         "field6": "",
         "field7": "enligt min beräkning",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "451": {
         "cardNumber": "451",
@@ -5426,7 +5426,7 @@
         "field6": "",
         "field7": "Närmaste växlingskontor finns i centrum",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "452": {
         "cardNumber": "452",
@@ -5438,7 +5438,7 @@
         "field6": "",
         "field7": "Jag har mitt eget hus",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "453": {
         "cardNumber": "453",
@@ -5448,9 +5448,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Resan kostar nästan €500",
+        "field7": "Resan kostar nästan 500 euro",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "454": {
         "cardNumber": "454",
@@ -5462,23 +5462,23 @@
         "field6": "",
         "field7": "Jag har inte tillräckligt med pengar för resan",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "455": {
         "cardNumber": "455",
         "field1": "ha",
-        "field2": "(har-hat-hat)",
+        "field2": "(presens: hat; preteritum: hatte; perfektparticip: gehabt)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jag har inga pengar",
-        "field8": "Du har mycket pengar",
-        "category": "Företag"
+        "field7": "Jag har inga pengar",
+        "field8": "Ni har mycket pengar",
+        "category": "Ekonomi"
     },
     "456": {
         "cardNumber": "456",
-        "field1": "Privat",
+        "field1": "privat",
         "field2": "",
         "field3": "den privata skolan",
         "field4": "",
@@ -5486,7 +5486,7 @@
         "field6": "",
         "field7": "Detta är ett privat evenemang",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "457": {
         "cardNumber": "457",
@@ -5498,11 +5498,11 @@
         "field6": "",
         "field7": "Vi sparar till en ny bil",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "458": {
         "cardNumber": "458",
-        "field1": "förändra",
+        "field1": "växla / byta",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5510,23 +5510,23 @@
         "field6": "",
         "field7": "Var kan jag växla pengar?",
         "field8": "",
-        "category": "Företag"
+        "category": "Ekonomi"
     },
     "459": {
         "cardNumber": "459",
-        "field1": "(träffa",
-        "field2": "(hit-hit-hit)",
+        "field1": "träffa / träffas",
+        "field2": "(presens: trifft; preteritum: traf; perfektparticip: getroffen)",
         "field3": "mötet",
         "field4": "mötena",
         "field5": "",
         "field6": "",
         "field7": "När träffas vi?",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "460": {
         "cardNumber": "460",
-        "field1": "Parlament",
+        "field1": "parlamentet",
         "field2": "parlamenten",
         "field3": "",
         "field4": "",
@@ -5534,7 +5534,7 @@
         "field6": "",
         "field7": "I år kommer folket att välja ett nytt parlament",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "461": {
         "cardNumber": "461",
@@ -5546,7 +5546,7 @@
         "field6": "",
         "field7": "kungen av Spanien",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "462": {
         "cardNumber": "462",
@@ -5558,7 +5558,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "463": {
         "cardNumber": "463",
@@ -5570,7 +5570,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land",
+        "category": "Stat",
         "imageName": ""
     },
     "464": {
@@ -5583,20 +5583,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land",
+        "category": "Stat",
         "imageName": ""
     },
     "465": {
         "cardNumber": "465",
         "field1": "staten",
         "field2": "staterna",
-        "field3": "stat",
+        "field3": "statlig",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "en självständig stat",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "466": {
         "cardNumber": "466",
@@ -5606,9 +5606,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "tryckfrihet",
+        "field7": "pressfriheten",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "467": {
         "cardNumber": "467",
@@ -5620,11 +5620,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "468": {
         "cardNumber": "468",
-        "field1": "festen",
+        "field1": "partiet",
         "field2": "partierna",
         "field3": "",
         "field4": "",
@@ -5632,19 +5632,19 @@
         "field6": "",
         "field7": "Han är medlem i detta parti",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "469": {
         "cardNumber": "469",
-        "field1": "det politiska",
+        "field1": "politiken",
         "field2": "",
         "field3": "politikern",
         "field4": "politikerna",
-        "field5": "politiskt",
+        "field5": "politisk",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "470": {
         "cardNumber": "470",
@@ -5654,21 +5654,21 @@
         "field4": "organisationerna",
         "field5": "",
         "field6": "",
-        "field7": "FN:s organisation (UNO)",
+        "field7": "Förenta nationerna (FN)",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "471": {
         "cardNumber": "471",
         "field1": "styra",
         "field2": "",
         "field3": "regeringen",
-        "field4": "regeringen",
+        "field4": "regeringarna",
         "field5": "",
         "field6": "",
         "field7": "Drottningen styr landet",
         "field8": "",
-        "category": "Land"
+        "category": "Stat"
     },
     "472": {
         "cardNumber": "472",
@@ -5680,7 +5680,7 @@
         "field6": "",
         "field7": "Han kommer definitivt att hamna i fängelse",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "473": {
         "cardNumber": "473",
@@ -5692,19 +5692,19 @@
         "field6": "",
         "field7": "Ärendet kommer upp i domstol i morgon",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "474": {
         "cardNumber": "474",
-        "field1": "den rätta",
-        "field2": "den rätta",
-        "field3": "lagligt",
+        "field1": "rätten / rättigheten",
+        "field2": "rättigheterna",
+        "field3": "rättslig",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Rättigheter och skyldigheter",
+        "field7": "rättigheter och skyldigheter",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "475": {
         "cardNumber": "475",
@@ -5716,32 +5716,32 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Höger",
+        "category": "Rättsväsen",
         "imageName": ""
     },
     "476": {
         "cardNumber": "476",
         "field1": "domaren",
-        "field2": "domaren",
+        "field2": "domarna",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "en sträng domare",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "477": {
         "cardNumber": "477",
         "field1": "polisen",
         "field2": "",
         "field3": "polismannen",
-        "field4": "Poliserna",
+        "field4": "poliserna",
         "field5": "polisstationen",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "478": {
         "cardNumber": "478",
@@ -5753,11 +5753,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "479": {
         "cardNumber": "479",
-        "field1": "Maj",
+        "field1": "få / ha tillåtelse",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5765,19 +5765,19 @@
         "field6": "",
         "field7": "Du får inte röka!",
         "field8": "Det är inte tillåtet att röka här!",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "480": {
         "cardNumber": "480",
         "field1": "stjäla",
-        "field2": "(stjäl-stål-stul)",
+        "field2": "(presens: stiehlt; preteritum: stahl; perfektparticip: gestohlen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Varför stjäl han?",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "481": {
         "cardNumber": "481",
@@ -5789,19 +5789,19 @@
         "field6": "",
         "field7": "Han är död",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "482": {
         "cardNumber": "482",
         "field1": "döda",
         "field2": "",
         "field3": "dödandet",
-        "field4": "morden",
+        "field4": "dödandena",
         "field5": "",
         "field6": "",
-        "field7": "Du dödade en person",
+        "field7": "De har dödat en människa",
         "field8": "",
-        "category": "Höger"
+        "category": "Rättsväsen"
     },
     "483": {
         "cardNumber": "483",
@@ -5848,13 +5848,13 @@
         "field5": "",
         "field6": "",
         "field7": "Du får inte dricka alkohol",
-        "field8": "läsk",
+        "field8": "alkoholfria drycker",
         "category": "Sociala konflikter"
     },
     "487": {
         "cardNumber": "487",
         "field1": "fienden",
-        "field2": "fienden",
+        "field2": "fienderna",
         "field3": "fientlig",
         "field4": "",
         "field5": "",
@@ -5889,9 +5889,9 @@
     },
     "490": {
         "cardNumber": "490",
-        "field1": "tanken",
-        "field2": "tankarna",
-        "field3": "tanken",
+        "field1": "stridsvagnen",
+        "field2": "stridsvagnarna",
+        "field3": "pansarvagnen",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5945,7 +5945,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Läkemedlen är skadliga för din hälsa",
+        "field7": "Drogerna skadar hälsan",
         "field8": "",
         "category": "Sociala konflikter"
     },
@@ -5969,7 +5969,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Kan du skjuta en pistol?",
+        "field7": "Kan du skjuta med pistol?",
         "field8": "",
         "category": "Sociala konflikter"
     },
@@ -5977,7 +5977,7 @@
         "cardNumber": "497",
         "field1": "säkerheten",
         "field2": "",
-        "field3": "säkra",
+        "field3": "säker / trygg",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -6000,7 +6000,7 @@
     "499": {
         "cardNumber": "499",
         "field1": "skjuta",
-        "field2": "(skjuter-skott-skott)",
+        "field2": "(presens: schießt; preteritum: schoss; perfektparticip: geschossen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -6013,7 +6013,7 @@
         "cardNumber": "500",
         "field1": "försiktig",
         "field2": "",
-        "field3": "slarvig",
+        "field3": "oförsiktig",
         "field4": "",
         "field5": "",
         "field6": "",

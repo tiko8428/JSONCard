@@ -1,7 +1,7 @@
 {
   "1": {
     "cardNumber": "1",
-    "field1": "birrën",
+    "field1": "birra",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -13,33 +13,33 @@
   },
   "2": {
     "cardNumber": "2",
-    "field1": "bukën",
+    "field1": "buka",
     "field2": "bukat",
-    "field3": "bukën e zezë",
+    "field3": "buka e zezë",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bukën e blej nga furra buke",
+    "field7": "Bukën e blej te bukëpjekësi",
     "field8": "",
     "category": "Të ushqyerit"
   },
   "3": {
     "cardNumber": "3",
-    "field1": "simite",
-    "field2": "rrotullat",
+    "field1": "simitja",
+    "field2": "simitet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ne hamë rrotulla për mëngjes",
+    "field7": "Hamë simite për mëngjes",
     "field8": "",
     "category": "Të ushqyerit"
   },
   "4": {
     "cardNumber": "4",
-    "field1": "vezën",
+    "field1": "veza",
     "field2": "vezët",
-    "field3": "vezën e skuqur",
+    "field3": "veza e skuqur",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -49,7 +49,7 @@
   },
   "5": {
     "cardNumber": "5",
-    "field1": "akulloren",
+    "field1": "akulli / akullorja",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -61,7 +61,7 @@
   },
   "6": {
     "cardNumber": "6",
-    "field1": "mishin",
+    "field1": "mishi",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -97,9 +97,9 @@
   },
   "9": {
     "cardNumber": "9",
-    "field1": "ujin",
+    "field1": "uji",
     "field2": "",
-    "field3": "ujin mineral",
+    "field3": "uji mineral",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -109,7 +109,7 @@
   },
   "10": {
     "cardNumber": "10",
-    "field1": "mollën",
+    "field1": "molla",
     "field2": "mollët",
     "field3": "",
     "field4": "",
@@ -121,21 +121,21 @@
   },
   "11": {
     "cardNumber": "11",
-    "field1": "oreksin",
+    "field1": "oreksi",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Mirë oreks!",
+    "field7": "Ju bëftë mirë!",
     "field8": "Pas shëtitjes së gjatë ajo ka një oreks të madh",
     "category": "Të ushqyerit"
   },
   "12": {
     "cardNumber": "12",
-    "field1": "etjen",
+    "field1": "etja",
     "field2": "",
-    "field3": "të etur",
+    "field3": "i etur",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -145,7 +145,7 @@
   },
   "13": {
     "cardNumber": "13",
-    "field1": "urinë",
+    "field1": "uria",
     "field2": "",
     "field3": "i uritur",
     "field4": "",
@@ -157,21 +157,21 @@
   },
   "14": {
     "cardNumber": "14",
-    "field1": "kafen",
+    "field1": "kafeja",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Unë do të doja një filxhan kafe të lutem!",
+    "field7": "Do të doja një filxhan kafe, ju lutem!",
     "field8": "",
     "category": "Të ushqyerit"
   },
   "15": {
     "cardNumber": "15",
-    "field1": "djathin",
+    "field1": "djathi",
     "field2": "",
-    "field3": "bukën e djathit",
+    "field3": "buka me djathë",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -181,9 +181,9 @@
   },
   "16": {
     "cardNumber": "16",
-    "field1": "tortën",
-    "field2": "ëmbëlsirat",
-    "field3": "cheesecake",
+    "field1": "keku",
+    "field2": "kekët",
+    "field3": "ëmbëlsira me djathë",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -194,7 +194,7 @@
   },
   "17": {
     "cardNumber": "17",
-    "field1": "orizin",
+    "field1": "orizi",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -206,9 +206,9 @@
   },
   "18": {
     "cardNumber": "18",
-    "field1": "lëngun",
+    "field1": "lëngu",
     "field2": "lëngjet",
-    "field3": "lëngun e mollës",
+    "field3": "lëngu i mollës",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -219,9 +219,9 @@
   },
   "19": {
     "cardNumber": "19",
-    "field1": "sallatën",
+    "field1": "sallata",
     "field2": "sallatat",
-    "field3": "sallatën me patate",
+    "field3": "sallata me patate",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -232,7 +232,7 @@
   },
   "20": {
     "cardNumber": "20",
-    "field1": "çajin",
+    "field1": "çaji",
     "field2": "",
     "field3": "çaj të zi",
     "field4": "",
@@ -246,7 +246,7 @@
     "cardNumber": "21",
     "field1": "vera",
     "field2": "verërat",
-    "field3": "verën e kuqe",
+    "field3": "vera e kuqe",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -257,7 +257,7 @@
   },
   "22": {
     "cardNumber": "22",
-    "field1": "sheqerin",
+    "field1": "sheqeri",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -269,13 +269,13 @@
   },
   "23": {
     "cardNumber": "23",
-    "field1": "bananen",
+    "field1": "banania",
     "field2": "bananet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ju pelqejne bananet?",
+    "field7": "A të pëlqejnë bananet?",
     "field8": "",
     "category": "Të ushqyerit"
   },
@@ -293,7 +293,7 @@
   },
   "25": {
     "cardNumber": "25",
-    "field1": "pataten",
+    "field1": "patatja",
     "field2": "patatet",
     "field3": "patatet e skuqura",
     "field4": "",
@@ -306,7 +306,7 @@
   },
   "26": {
     "cardNumber": "26",
-    "field1": "qumështin",
+    "field1": "qumështi",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -318,13 +318,13 @@
   },
   "27": {
     "cardNumber": "27",
-    "field1": "portokallia",
+    "field1": "portokalli",
     "field2": "portokallet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Unë marr 1 kilogram portokall",
+    "field7": "Marr një kilogram portokalle",
     "field8": "",
     "category": "Të ushqyerit"
   },
@@ -342,21 +342,21 @@
   },
   "29": {
     "cardNumber": "29",
-    "field1": "çokollatën",
+    "field1": "çokollata",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "një copë çokollatë",
+    "field7": "një çokollatë pllakë",
     "field8": "",
     "category": "Të ushqyerit"
   },
   "30": {
     "cardNumber": "30",
-    "field1": "supën",
+    "field1": "supa",
     "field2": "supat",
-    "field3": "supë me perime",
+    "field3": "supa me perime",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -372,15 +372,15 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "A ju pëlqen lëngu i domates?",
+    "field7": "A të pëlqen lëngu i domates?",
     "field8": "",
     "category": "Të ushqyerit"
   },
   "32": {
     "cardNumber": "32",
-    "field1": "tortën",
-    "field2": "ëmbëlsirat",
-    "field3": "tortën me çokollatë",
+    "field1": "torta",
+    "field2": "tortat",
+    "field3": "torta me çokollatë",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -391,19 +391,19 @@
   },
   "33": {
     "cardNumber": "33",
-    "field1": "sallam",
-    "field2": "salsiçet",
-    "field3": "sallam",
-    "field4": "salsiçet",
+    "field1": "sallami / salsiçja",
+    "field2": "sallamet / salsiçet",
+    "field3": "salsiçja e vogël",
+    "field4": "salsiçet e vogla",
     "field5": "",
     "field6": "",
-    "field7": "Suxhuk është i shijshëm",
+    "field7": "Salsiçja është e shijshme",
     "field8": "",
     "category": "Të ushqyerit"
   },
   "34": {
     "cardNumber": "34",
-    "field1": "limonin",
+    "field1": "limoni",
     "field2": "limonët",
     "field3": "",
     "field4": "",
@@ -415,13 +415,13 @@
   },
   "35": {
     "cardNumber": "35",
-    "field1": "hani",
-    "field2": "(ha-ngrënë-ngrënë)",
-    "field3": "ushqimin",
+    "field1": "ha",
+    "field2": "(e tashme: isst; e shkuar: aß; pjesore: gegessen)",
+    "field3": "ushqimi",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Çfarë ju pëlqen të hani?",
+    "field7": "Çfarë të pëlqen të hash?",
     "field8": "",
     "category": "Të ushqyerit"
   },
@@ -429,7 +429,7 @@
     "cardNumber": "36",
     "field1": "ha mëngjes",
     "field2": "",
-    "field3": "mëngjesin",
+    "field3": "mëngjesi",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -451,13 +451,13 @@
   },
   "38": {
     "cardNumber": "38",
-    "field1": "pije",
-    "field2": "(pije-pije-dehur)",
+    "field1": "pi",
+    "field2": "(e tashme: trinkt; e shkuar: trank; pjesore: getrunken)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Çfarë ju pëlqen të pini?",
+    "field7": "Çfarë të pëlqen të pish?",
     "field8": "",
     "category": "Të ushqyerit"
   },
@@ -465,11 +465,11 @@
     "cardNumber": "39",
     "field1": "ha darkë",
     "field2": "",
-    "field3": "darken",
+    "field3": "darka",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ne kemi darkë në orën tetë",
+    "field7": "Hamë darkë në orën tetë",
     "field8": "",
     "category": "Të ushqyerit"
   },
@@ -477,7 +477,7 @@
     "cardNumber": "40",
     "field1": "ha drekë",
     "field2": "",
-    "field3": "drekën",
+    "field3": "dreka",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -495,7 +495,7 @@
     "field6": "",
     "field7": "Banjo është e pastër",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "42": {
     "cardNumber": "42",
@@ -507,11 +507,11 @@
     "field6": "",
     "field7": "Ju lutem rregulloni shtratin!",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "43": {
     "cardNumber": "43",
-    "field1": "dritaren",
+    "field1": "dritarja",
     "field2": "dritaret",
     "field3": "",
     "field4": "",
@@ -519,11 +519,11 @@
     "field6": "",
     "field7": "Dritaret janë të pista",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "44": {
     "cardNumber": "44",
-    "field1": "shtëpinë",
+    "field1": "shtëpia",
     "field2": "shtëpitë",
     "field3": "",
     "field4": "",
@@ -531,11 +531,11 @@
     "field6": "",
     "field7": "Unë jam në shtëpi",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "45": {
     "cardNumber": "45",
-    "field1": "raftin",
+    "field1": "rafti",
     "field2": "raftet",
     "field3": "",
     "field4": "",
@@ -543,11 +543,11 @@
     "field6": "",
     "field7": "Rafti është bosh",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "46": {
     "cardNumber": "46",
-    "field1": "divanin",
+    "field1": "divani",
     "field2": "divanet",
     "field3": "",
     "field4": "",
@@ -555,11 +555,11 @@
     "field6": "",
     "field7": "Ky divan është i rehatshëm",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "47": {
     "cardNumber": "47",
-    "field1": "dhomën",
+    "field1": "dhoma",
     "field2": "dhomat",
     "field3": "dhoma e gjumit",
     "field4": "",
@@ -567,7 +567,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shtëpi",
+    "category": "Shtëpia",
     "imageName": ""
   },
   "48": {
@@ -580,7 +580,7 @@
     "field6": "",
     "field7": "Kush është në ballkon?",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "49": {
     "cardNumber": "49",
@@ -592,7 +592,7 @@
     "field6": "",
     "field7": "në korridor",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "50": {
     "cardNumber": "50",
@@ -604,7 +604,7 @@
     "field6": "",
     "field7": "Dollapi është plot",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "51": {
     "cardNumber": "51",
@@ -616,7 +616,7 @@
     "field6": "",
     "field7": "Gjyshi është ulur në kolltuk",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "52": {
     "cardNumber": "52",
@@ -628,11 +628,11 @@
     "field6": "",
     "field7": "Pasqyra është në banjë",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "53": {
     "cardNumber": "53",
-    "field1": "karrigen",
+    "field1": "karrigia",
     "field2": "karriget",
     "field3": "",
     "field4": "",
@@ -640,44 +640,44 @@
     "field6": "",
     "field7": "Gjyshja ulet në karrige",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "54": {
     "cardNumber": "54",
-    "field1": "tapetin",
-    "field2": "qilimat",
+    "field1": "tapeti",
+    "field2": "tapetet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tapeti është në dysheme",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "55": {
     "cardNumber": "55",
     "field1": "tavolina",
     "field2": "tavolinat",
-    "field3": "tavolina",
+    "field3": "tavolina e shkrimit",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shtëpi",
+    "category": "Shtëpia",
     "imageName": ""
   },
   "56": {
     "cardNumber": "56",
-    "field1": "dyshemeja",
-    "field2": "dyshemetë",
+    "field1": "kati",
+    "field2": "katet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Unë jetoj në katin e parë",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "57": {
     "cardNumber": "57",
@@ -689,11 +689,11 @@
     "field6": "",
     "field7": "Ata kanë një kuzhinë shumë të madhe",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "58": {
     "cardNumber": "58",
-    "field1": "llambën",
+    "field1": "llamba",
     "field2": "llambat",
     "field3": "llamba e tavolinës",
     "field4": "",
@@ -701,20 +701,20 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shtëpi",
+    "category": "Shtëpia",
     "imageName": ""
   },
   "59": {
     "cardNumber": "59",
-    "field1": "tualetin",
+    "field1": "tualeti",
     "field2": "tualetet",
-    "field3": "tualetin",
+    "field3": "tualeti",
     "field4": "tualetet",
     "field5": "",
     "field6": "",
     "field7": "Unë jam duke shkuar në tualet",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "60": {
     "cardNumber": "60",
@@ -726,11 +726,11 @@
     "field6": "",
     "field7": "Dera është e mbyllur",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "61": {
     "cardNumber": "61",
-    "field1": "vazo",
+    "field1": "vazoja",
     "field2": "vazot",
     "field3": "",
     "field4": "",
@@ -738,11 +738,11 @@
     "field6": "",
     "field7": "Një vazo e madhe me trëndafila është në tryezë",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "62": {
     "cardNumber": "62",
-    "field1": "murin",
+    "field1": "muri",
     "field2": "muret",
     "field3": "",
     "field4": "",
@@ -750,36 +750,36 @@
     "field6": "",
     "field7": "Çfarë është e varur në mur?",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "63": {
     "cardNumber": "63",
-    "field1": "jetojnë",
+    "field1": "banoj",
     "field2": "",
-    "field3": "apartamentin",
+    "field3": "apartamenti",
     "field4": "apartamentet",
     "field5": "",
     "field6": "",
-    "field7": "ku jetoni?",
+    "field7": "Ku banon?",
     "field8": "",
-    "category": "shtëpi"
+    "category": "Shtëpia"
   },
   "64": {
     "cardNumber": "64",
-    "field1": "pastroj",
+    "field1": "rregulloj",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Unë pastroj dhomën time çdo ditë",
+    "field7": "E rregulloj dhomën time çdo ditë",
     "field8": "",
     "category": "Jeta e përditshme"
   },
   "65": {
     "cardNumber": "65",
-    "field1": "ngrihu",
-    "field2": "(ngrihet - u ngrit - u ngrit)",
+    "field1": "ngrihem",
+    "field2": "(e tashme: steht auf; e shkuar: stand auf; pjesore: aufgestanden)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -802,8 +802,8 @@
   },
   "67": {
     "cardNumber": "67",
-    "field1": "gotën",
-    "field2": "syzet",
+    "field1": "gota",
+    "field2": "gotat",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -814,21 +814,21 @@
   },
   "68": {
     "cardNumber": "68",
-    "field1": "peshqirin",
+    "field1": "peshqiri",
     "field2": "peshqirët",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "një peshqir të freskët",
+    "field7": "një peshqir i pastër",
     "field8": "",
     "category": "Jeta e përditshme"
   },
   "69": {
     "cardNumber": "69",
-    "field1": "thikën",
+    "field1": "thika",
     "field2": "thikat",
-    "field3": "thikën e bukës",
+    "field3": "thika e bukës",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -839,21 +839,21 @@
   },
   "70": {
     "cardNumber": "70",
-    "field1": "frigoriferin",
+    "field1": "frigoriferi",
     "field2": "frigoriferët",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Kosi është në frigorifer",
+    "field7": "Ajka e thartë është në frigorifer",
     "field8": "",
     "category": "Jeta e përditshme"
   },
   "71": {
     "cardNumber": "71",
-    "field1": "lugën",
+    "field1": "luga",
     "field2": "lugët",
-    "field3": "lugën e çajit",
+    "field3": "luga e çajit",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -864,7 +864,7 @@
   },
   "72": {
     "cardNumber": "72",
-    "field1": "pjatën",
+    "field1": "pjata",
     "field2": "pjatat",
     "field3": "",
     "field4": "",
@@ -876,7 +876,7 @@
   },
   "73": {
     "cardNumber": "73",
-    "field1": "pirunin",
+    "field1": "piruni",
     "field2": "pirunët",
     "field3": "",
     "field4": "",
@@ -888,9 +888,9 @@
   },
   "74": {
     "cardNumber": "74",
-    "field1": "filxhan",
-    "field2": "kupat",
-    "field3": "filxhanin e kafesë",
+    "field1": "filxhani",
+    "field2": "filxhanët",
+    "field3": "filxhani i kafesë",
     "field4": "filxhanët e kafesë",
     "field5": "",
     "field6": "",
@@ -900,7 +900,7 @@
   },
   "75": {
     "cardNumber": "75",
-    "field1": "pastër",
+    "field1": "pastroj",
     "field2": "",
     "field3": "pastruesja",
     "field4": "pastrueset",
@@ -913,12 +913,12 @@
   "76": {
     "cardNumber": "76",
     "field1": "fle",
-    "field2": "(fle-fle-fle)",
+    "field2": "(e tashme: schläft; e shkuar: schlief; pjesore: geschlafen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Vëllai im fle vonë",
+    "field7": "Vëllai im fle gjatë",
     "field8": "",
     "category": "Jeta e përditshme"
   },
@@ -936,11 +936,11 @@
   },
   "78": {
     "cardNumber": "78",
-    "field1": "lani",
-    "field2": "(larë-larë-larë)",
-    "field3": "lani veten",
+    "field1": "laj",
+    "field2": "(e tashme: wäscht; e shkuar: wusch; pjesore: gewaschen)",
+    "field3": "lahem",
     "field4": "",
-    "field5": "lavatriçen",
+    "field5": "lavatriçja",
     "field6": "",
     "field7": "",
     "field8": "",
@@ -948,19 +948,19 @@
   },
   "79": {
     "cardNumber": "79",
-    "field1": "nevojë",
+    "field1": "kam nevojë",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Kam ende nevojë për kuark, gjalpë dhe krem",
+    "field7": "Më duhen ende gjizë, gjalpë dhe ajkë",
     "field8": "",
     "category": "Blerjet dhe shërbimet"
   },
   "80": {
     "cardNumber": "80",
-    "field1": "kafenenë",
+    "field1": "kafeneja",
     "field2": "kafenetë",
     "field3": "",
     "field4": "",
@@ -972,9 +972,9 @@
   },
   "81": {
     "cardNumber": "81",
-    "field1": "biznesin",
+    "field1": "dyqani",
     "field2": "dyqanet",
-    "field3": "dyqanin",
+    "field3": "dyqani",
     "field4": "dyqanet",
     "field5": "dyqani i luleve",
     "field6": "",
@@ -985,9 +985,9 @@
   },
   "82": {
     "cardNumber": "82",
-    "field1": "ushqimin",
-    "field2": "ushqimet",
-    "field3": "dyqan ushqimore",
+    "field1": "produkti ushqimor",
+    "field2": "produktet ushqimore",
+    "field3": "dyqani ushqimor",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -998,7 +998,7 @@
   },
   "83": {
     "cardNumber": "83",
-    "field1": "restorantin",
+    "field1": "restoranti",
     "field2": "restorantet",
     "field3": "",
     "field4": "",
@@ -1024,7 +1024,7 @@
     "cardNumber": "85",
     "field1": "blej",
     "field2": "",
-    "field3": "pazar",
+    "field3": "bëj pazar",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -1034,7 +1034,7 @@
   },
   "86": {
     "cardNumber": "86",
-    "field1": "hapur",
+    "field1": "hap",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1047,30 +1047,30 @@
   "87": {
     "cardNumber": "87",
     "field1": "mbyll",
-    "field2": "(mbyll-mbyll-mbyll)",
+    "field2": "(e tashme: schließt; e shkuar: schloss; pjesore: geschlossen)",
     "field3": "mbyllur",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Dyqani eshte i mbyllur",
+    "field7": "Dyqani është i mbyllur",
     "field8": "",
     "category": "Blerjet dhe shërbimet"
   },
   "88": {
     "cardNumber": "88",
-    "field1": "shesin",
+    "field1": "shes",
     "field2": "",
     "field3": "shitësi",
     "field4": "shitësit",
     "field5": "",
     "field6": "",
-    "field7": "Bächer shet bukë",
+    "field7": "Bukëpjekësi shet bukë",
     "field8": "",
     "category": "Blerjet dhe shërbimet"
   },
   "89": {
     "cardNumber": "89",
-    "field1": "fëmijën",
+    "field1": "fëmija",
     "field2": "fëmijët",
     "field3": "",
     "field4": "",
@@ -1078,7 +1078,7 @@
     "field6": "",
     "field7": "Sa fëmijë keni?",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "90": {
     "cardNumber": "90",
@@ -1090,31 +1090,31 @@
     "field6": "",
     "field7": "Ajo është një vajzë, ajo është e bukur",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "91": {
     "cardNumber": "91",
-    "field1": "tuajat",
+    "field1": "yt / jote",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "problemi juaj",
-    "field8": "Ky është problemi juaj",
-    "category": "familjare"
+    "field7": "problemi yt",
+    "field8": "Ky është problemi yt",
+    "category": "Familja"
   },
   "92": {
     "cardNumber": "92",
-    "field1": "vëllain",
+    "field1": "vëllai",
     "field2": "vëllezërit",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Unë kam dy vëllezër",
-    "field8": "Si e ka emrin vellai yt?",
-    "category": "familjare"
+    "field8": "Si e ka emrin vëllai yt?",
+    "category": "Familja"
   },
   "93": {
     "cardNumber": "93",
@@ -1126,31 +1126,31 @@
     "field6": "",
     "field7": "Nipi im është 4 vjeç",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "94": {
     "cardNumber": "94",
-    "field1": "mysafirin",
-    "field2": "të ftuarit",
+    "field1": "mysafiri",
+    "field2": "mysafirët",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "të jetë mysafir",
+    "field7": "të jesh mysafir",
     "field8": "Unë jam mysafir këtu",
-    "category": "familjare"
+    "category": "Familja"
   },
   "95": {
     "cardNumber": "95",
-    "field1": "ditëlindjen",
+    "field1": "ditëlindja",
     "field2": "ditëlindjet",
-    "field3": "vajza e ditelindjes",
+    "field3": "personi që ka ditëlindjen",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "familjare",
+    "category": "Familja",
     "imageName": ""
   },
   "96": {
@@ -1163,11 +1163,11 @@
     "field6": "",
     "field7": "Gjyshi im është në pension",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "97": {
     "cardNumber": "97",
-    "field1": "djalin",
+    "field1": "djali",
     "field2": "djemtë",
     "field3": "",
     "field4": "",
@@ -1175,11 +1175,11 @@
     "field6": "",
     "field7": "Ky është një djalë, ai është i mirë",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "98": {
     "cardNumber": "98",
-    "field1": "njeriun",
+    "field1": "burri",
     "field2": "burrat",
     "field3": "",
     "field4": "",
@@ -1187,7 +1187,7 @@
     "field6": "",
     "field7": "Ky është një burrë, ai është i gjatë",
     "field8": "Si quhet burri juaj?",
-    "category": "familjare"
+    "category": "Familja"
   },
   "99": {
     "cardNumber": "99",
@@ -1199,11 +1199,11 @@
     "field6": "",
     "field7": "Xhaxhai im jeton në Berlin",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "100": {
     "cardNumber": "100",
-    "field1": "djalin",
+    "field1": "djali",
     "field2": "djemtë",
     "field3": "",
     "field4": "",
@@ -1211,11 +1211,11 @@
     "field6": "",
     "field7": "Unë kam një djalë",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "101": {
     "cardNumber": "101",
-    "field1": "babait",
+    "field1": "babai",
     "field2": "baballarët",
     "field3": "Babai",
     "field4": "baballarët",
@@ -1223,7 +1223,7 @@
     "field6": "",
     "field7": "Babai im është me profesion shofer autobusi",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "102": {
     "cardNumber": "102",
@@ -1235,31 +1235,31 @@
     "field6": "",
     "field7": "Të dy prindërit e mi punojnë",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "103": {
     "cardNumber": "103",
-    "field1": "familjen",
+    "field1": "familja",
     "field2": "familjet",
-    "field3": "emri i familjes",
+    "field3": "mbiemri",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Familja ime është e madhe",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "104": {
     "cardNumber": "104",
     "field1": "gruaja",
-    "field2": "femrat",
+    "field2": "gratë",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Si quhet gruaja juaj?",
     "field8": "Kjo është një grua, ajo është e bukur",
-    "category": "familjare"
+    "category": "Familja"
   },
   "105": {
     "cardNumber": "105",
@@ -1269,9 +1269,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Keni vëllezër e motra?",
+    "field7": "A ke vëllezër e motra?",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "106": {
     "cardNumber": "106",
@@ -1281,9 +1281,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ku jetojnë gjyshërit tuaj?",
+    "field7": "Ku banojnë gjyshërit e tu?",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "107": {
     "cardNumber": "107",
@@ -1293,13 +1293,13 @@
     "field4": "gjyshet",
     "field5": "",
     "field6": "",
-    "field7": "Sa vjeç është gjyshja juaj?",
+    "field7": "Sa vjeç është gjyshja jote?",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "108": {
     "cardNumber": "108",
-    "field1": "nënën",
+    "field1": "nëna",
     "field2": "nënat",
     "field3": "mami",
     "field4": "nënat",
@@ -1307,7 +1307,7 @@
     "field6": "",
     "field7": "Nëna ime është shtëpiake",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "109": {
     "cardNumber": "109",
@@ -1318,8 +1318,8 @@
     "field5": "",
     "field6": "",
     "field7": "Unë kam një motër",
-    "field8": "Sa vjeç është motra juaj?",
-    "category": "familjare"
+    "field8": "Sa vjeç është motra jote?",
+    "category": "Familja"
   },
   "110": {
     "cardNumber": "110",
@@ -1331,11 +1331,11 @@
     "field6": "",
     "field7": "Tezja ime është mjeke",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "111": {
     "cardNumber": "111",
-    "field1": "e bija",
+    "field1": "vajza",
     "field2": "vajzat",
     "field3": "",
     "field4": "",
@@ -1343,19 +1343,19 @@
     "field6": "",
     "field7": "Inge ka dy djem dhe tre vajza",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "112": {
     "cardNumber": "112",
-    "field1": "ju",
+    "field1": "ti",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Je gjermane?",
-    "field8": "Je gjermane?",
-    "category": "familjare"
+    "field8": "Je gjerman?",
+    "category": "Familja"
   },
   "113": {
     "cardNumber": "113",
@@ -1367,11 +1367,11 @@
     "field6": "",
     "field7": "Ai është mësues",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "114": {
     "cardNumber": "114",
-    "field1": "atë",
+    "field1": "ai / ajo (përemër për gjininë asnjanëse në gjermanisht)",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1379,35 +1379,35 @@
     "field6": "",
     "field7": "Ky është një fëmijë, është i vogël",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "115": {
     "cardNumber": "115",
-    "field1": "tuajat",
+    "field1": "juaj",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "shtëpinë tuaj",
-    "field8": "apartamentin tuaj",
-    "category": "familjare"
+    "field7": "shtëpia juaj",
+    "field8": "apartamenti juaj",
+    "category": "Familja"
   },
   "116": {
     "cardNumber": "116",
-    "field1": "I",
+    "field1": "unë",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Unë jam student",
+    "field7": "Unë jam nxënës",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "117": {
     "cardNumber": "117",
-    "field1": "Ju",
+    "field1": "juaj",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1415,35 +1415,35 @@
     "field6": "",
     "field7": "Djali juaj",
     "field8": "Vajza juaj",
-    "category": "familjare"
+    "category": "Familja"
   },
   "118": {
     "cardNumber": "118",
-    "field1": "saj",
+    "field1": "i saj / e saj / i tyre / e tyre",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vëllai i saj",
-    "field8": "fëmijët e tyre",
-    "category": "familjare"
+    "field7": "vëllai i saj / i tyre",
+    "field8": "fëmijët e saj / e tyre",
+    "category": "Familja"
   },
   "119": {
     "cardNumber": "119",
-    "field1": "saj",
+    "field1": "ju",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Je gjermane?",
+    "field7": "A jeni gjermanë?",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "120": {
     "cardNumber": "120",
-    "field1": "imja",
+    "field1": "im / ime",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1451,47 +1451,47 @@
     "field6": "",
     "field7": "babai im",
     "field8": "nëna ime",
-    "category": "familjare"
+    "category": "Familja"
   },
   "121": {
     "cardNumber": "121",
-    "field1": "të jetë",
+    "field1": "i tij / e tij",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "makinën e tij",
+    "field7": "makina e tij",
     "field8": "motra e tij",
-    "category": "familjare"
+    "category": "Familja"
   },
   "122": {
     "cardNumber": "122",
-    "field1": "të jetë",
-    "field2": "(është-ishte)",
+    "field1": "jam",
+    "field2": "(e tashme: ist; e shkuar: war; pjesore: gewesen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "ji i lumtur",
+    "field7": "të jesh i lumtur",
     "field8": "Unë jam i lumtur",
-    "category": "familjare"
+    "category": "Familja"
   },
   "123": {
     "cardNumber": "123",
-    "field1": "Ju",
-    "field2": "saj",
+    "field1": "ju (forma e mirësjelljes)",
+    "field2": "ajo / ata / ato",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "jeni lodhur?",
+    "field7": "A jeni të lodhur?",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "124": {
     "cardNumber": "124",
-    "field1": "saj",
+    "field1": "ata / ato",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1499,31 +1499,31 @@
     "field6": "",
     "field7": "Ata janë mjekë",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "125": {
     "cardNumber": "125",
-    "field1": "saj",
+    "field1": "ajo",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ajo është e bukur",
+    "field7": "Ajo është e sjellshme",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "126": {
     "cardNumber": "126",
-    "field1": "tonë",
+    "field1": "ynë / jonë",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "kopshti ynë",
-    "field8": "familjen tonë",
-    "category": "familjare"
+    "field8": "familja jonë",
+    "category": "Familja"
   },
   "127": {
     "cardNumber": "127",
@@ -1535,7 +1535,7 @@
     "field6": "",
     "field7": "Kush është ai?",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "128": {
     "cardNumber": "128",
@@ -1547,7 +1547,7 @@
     "field6": "",
     "field7": "Ne jemi studentë",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "129": {
     "cardNumber": "129",
@@ -1559,24 +1559,24 @@
     "field6": "",
     "field7": "Ne do të shkojmë për pushime së bashku",
     "field8": "",
-    "category": "familjare"
+    "category": "Familja"
   },
   "130": {
     "cardNumber": "130",
-    "field1": "e vjetër",
+    "field1": "i vjetër / i moshuar",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "sa vjec jeni?",
+    "field7": "Sa vjeç je?",
     "field8": "Unë jam 25 vjeç",
     "category": "Pamja e jashtme"
   },
   "131": {
     "cardNumber": "131",
-    "field1": "këmishën",
-    "field2": "këmisha",
+    "field1": "këmisha",
+    "field2": "këmishët",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -1587,20 +1587,20 @@
   },
   "132": {
     "cardNumber": "132",
-    "field1": "fustanin",
-    "field2": "rrobat",
+    "field1": "fustani",
+    "field2": "fustanet",
     "field3": "fustani i mbrëmjes",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ky fustan ju duket mirë",
+    "field7": "Ky fustan të shkon shumë",
     "field8": "",
     "category": "Pamja e jashtme"
   },
   "133": {
     "cardNumber": "133",
-    "field1": "bluzën",
-    "field2": "bluzat",
+    "field1": "bluza me mëngë të shkurtra",
+    "field2": "bluzat me mëngë të shkurtra",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -1611,7 +1611,7 @@
   },
   "134": {
     "cardNumber": "134",
-    "field1": "pallton",
+    "field1": "palltoja",
     "field2": "palltot",
     "field3": "mushama",
     "field4": "",
@@ -1623,19 +1623,19 @@
   },
   "135": {
     "cardNumber": "135",
-    "field1": "xhupin",
+    "field1": "pulovra",
     "field2": "pulovrat",
-    "field3": "xhupin",
+    "field3": "pulovra",
     "field4": "pulovrat",
     "field5": "",
     "field6": "",
-    "field7": "Xhupi është shumë i ngrohtë",
+    "field7": "Pulovra është shumë e ngrohtë",
     "field8": "",
     "category": "Pamja e jashtme"
   },
   "136": {
     "cardNumber": "136",
-    "field1": "fundin",
+    "field1": "fundi",
     "field2": "fundet",
     "field3": "",
     "field4": "",
@@ -1647,7 +1647,7 @@
   },
   "137": {
     "cardNumber": "137",
-    "field1": "këpucën",
+    "field1": "këpuca",
     "field2": "këpucët",
     "field3": "këpucët sportive",
     "field4": "",
@@ -1659,25 +1659,25 @@
   },
   "138": {
     "cardNumber": "138",
-    "field1": "trashë",
+    "field1": "i shëndoshë / i trashë",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Xhaxhai juaj është shumë i trashë",
+    "field7": "Xhaxhai juaj është shumë i shëndoshë",
     "field8": "",
     "category": "Pamja e jashtme"
   },
   "139": {
     "cardNumber": "139",
-    "field1": "bluzën",
+    "field1": "bluza",
     "field2": "bluzat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "E keni edhe ju këtë bluzë në të bardhë?",
+    "field7": "A e keni këtë bluzë edhe në të bardhë?",
     "field8": "",
     "category": "Pamja e jashtme"
   },
@@ -1707,9 +1707,9 @@
   },
   "142": {
     "cardNumber": "142",
-    "field1": "xhaketën",
+    "field1": "xhaketa",
     "field2": "xhaketat",
-    "field3": "xhamat e erës",
+    "field3": "xhaketa kundër erës",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -1731,9 +1731,9 @@
   },
   "144": {
     "cardNumber": "144",
-    "field1": "çantën",
+    "field1": "çanta",
     "field2": "çantat",
-    "field3": "çantën e dorës",
+    "field3": "çanta e dorës",
     "field4": "",
     "field5": "portofolin",
     "field6": "",
@@ -1750,7 +1750,7 @@
     "field5": "",
     "field6": "",
     "field7": "Kjo pallto është shumë e madhe",
-    "field8": "sa e gjate jeni?",
+    "field8": "Sa i gjatë jeni?",
     "category": "Pamja e jashtme"
   },
   "146": {
@@ -1773,25 +1773,25 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ti je akoma i vogel",
+    "field7": "Ti je ende i vogël",
     "field8": "Këto pantallona janë shumë të vogla",
     "category": "Pamja e jashtme"
   },
   "148": {
     "cardNumber": "148",
-    "field1": "e bukur",
+    "field1": "i bukur",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Kjo bluze eshte shume e bukur",
+    "field7": "Kjo bluzë është shumë e bukur",
     "field8": "Faleminderit shumë!",
     "category": "Pamja e jashtme"
   },
   "149": {
     "cardNumber": "149",
-    "field1": "madhështore",
+    "field1": "i mrekullueshëm",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1803,8 +1803,8 @@
   },
   "150": {
     "cardNumber": "150",
-    "field1": "veshin",
-    "field2": "(vishet-vishet-vishet)",
+    "field1": "vesh",
+    "field2": "(e tashme: trägt; e shkuar: trug; pjesore: getragen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -1815,44 +1815,44 @@
   },
   "151": {
     "cardNumber": "151",
-    "field1": "shokun",
-    "field2": "miqtë",
-    "field3": "e dashura",
-    "field4": "te dashurat",
-    "field5": "miqesine",
+    "field1": "miku / i dashuri",
+    "field2": "miqtë / të dashurit",
+    "field3": "mikja / e dashura",
+    "field4": "miket / të dashurat",
+    "field5": "miqësia",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "ndjenjat",
+    "category": "Ndjenjat",
     "imageName": ""
   },
   "152": {
     "cardNumber": "152",
-    "field1": "miqësore",
+    "field1": "i sjellshëm",
     "field2": "",
-    "field3": "jomiqësore",
+    "field3": "i pasjellshëm",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ajo është shumë miqësore",
+    "field7": "Ajo është shumë e sjellshme",
     "field8": "",
-    "category": "ndjenjat"
+    "category": "Ndjenjat"
   },
   "153": {
     "cardNumber": "153",
     "field1": "i lumtur",
     "field2": "",
-    "field3": "i pakënaqur",
+    "field3": "i palumtur",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Unë jam shumë i lumtur!",
+    "field7": "Jam kaq i lumtur!",
     "field8": "",
-    "category": "ndjenjat"
+    "category": "Ndjenjat"
   },
   "154": {
     "cardNumber": "154",
-    "field1": "qeshni",
+    "field1": "qesh",
     "field2": "",
     "field3": "e qeshura",
     "field4": "",
@@ -1860,35 +1860,35 @@
     "field6": "",
     "field7": "Një person i lumtur qesh shpesh",
     "field8": "",
-    "category": "ndjenjat"
+    "category": "Ndjenjat"
   },
   "155": {
     "cardNumber": "155",
-    "field1": "dashuri",
+    "field1": "dua",
     "field2": "",
-    "field3": "dashurinë",
+    "field3": "dashuria",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "te dua",
+    "field7": "Të dua",
     "field8": "",
-    "category": "ndjenjat"
+    "category": "Ndjenjat"
   },
   "156": {
     "cardNumber": "156",
-    "field1": "qesharake",
+    "field1": "argëtues / gazmor",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "një person qesharak",
-    "field8": "Është gjithmonë shumë qesharake këtu",
-    "category": "ndjenjat"
+    "field7": "një njeri gazmor",
+    "field8": "Këtu ka gjithmonë shumë argëtim",
+    "category": "Ndjenjat"
   },
   "157": {
     "cardNumber": "157",
-    "field1": "si",
+    "field1": "më pëlqen",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1896,23 +1896,23 @@
     "field6": "",
     "field7": "Më pëlqen çokollata",
     "field8": "",
-    "category": "ndjenjat"
+    "category": "Ndjenjat"
   },
   "158": {
     "cardNumber": "158",
-    "field1": "bukur",
+    "field1": "i sjellshëm / simpatik",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Kjo vajzë është e bukur",
+    "field7": "Kjo vajzë është e sjellshme",
     "field8": "",
-    "category": "ndjenjat"
+    "category": "Ndjenjat"
   },
   "159": {
     "cardNumber": "159",
-    "field1": "e trishtuar",
+    "field1": "i trishtuar",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1920,7 +1920,7 @@
     "field6": "",
     "field7": "një fytyrë e trishtuar",
     "field8": "Pse je kaq i trishtuar?",
-    "category": "ndjenjat"
+    "category": "Ndjenjat"
   },
   "160": {
     "cardNumber": "160",
@@ -1936,7 +1936,7 @@
   },
   "161": {
     "cardNumber": "161",
-    "field1": "këmbën",
+    "field1": "këmba",
     "field2": "këmbët",
     "field3": "",
     "field4": "",
@@ -1948,7 +1948,7 @@
   },
   "162": {
     "cardNumber": "162",
-    "field1": "fytyrën",
+    "field1": "fytyra",
     "field2": "fytyrat",
     "field3": "",
     "field4": "",
@@ -1960,7 +1960,7 @@
   },
   "163": {
     "cardNumber": "163",
-    "field1": "flokët",
+    "field1": "floku",
     "field2": "flokët",
     "field3": "",
     "field4": "",
@@ -1972,7 +1972,7 @@
   },
   "164": {
     "cardNumber": "164",
-    "field1": "spitalin",
+    "field1": "spitali",
     "field2": "spitalet",
     "field3": "",
     "field4": "",
@@ -1984,20 +1984,20 @@
   },
   "165": {
     "cardNumber": "165",
-    "field1": "veshin",
+    "field1": "veshi",
     "field2": "veshët",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "veshët e mëdhenj/të vegjël",
-    "field8": "Gjyshi im ka vesh të keq",
+    "field8": "Gjyshi im nuk dëgjon mirë",
     "category": "Shëndeti"
   },
   "166": {
     "cardNumber": "166",
-    "field1": "krahun",
-    "field2": "krahet",
+    "field1": "krahu",
+    "field2": "krahët",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2008,10 +2008,10 @@
   },
   "167": {
     "cardNumber": "167",
-    "field1": "mjekun",
+    "field1": "mjeku",
     "field2": "mjekët",
-    "field3": "mjekun",
-    "field4": "mjekët",
+    "field3": "mjekja",
+    "field4": "mjeket",
     "field5": "dentisti",
     "field6": "",
     "field7": "",
@@ -2021,37 +2021,37 @@
   },
   "168": {
     "cardNumber": "168",
-    "field1": "këmbën",
-    "field2": "këmbët",
+    "field1": "shputa e këmbës",
+    "field2": "shputat e këmbëve",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "në këmbë",
-    "field8": "Unë eci në shkollë",
+    "field8": "Në shkollë shkoj në këmbë",
     "category": "Shëndeti"
   },
   "169": {
     "cardNumber": "169",
-    "field1": "kokën",
+    "field1": "koka",
     "field2": "kokat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "kam dhimbje koke",
+    "field7": "Kam dhimbje koke",
     "field8": "",
     "category": "Shëndeti"
   },
   "170": {
     "cardNumber": "170",
-    "field1": "trupin",
+    "field1": "trupi",
     "field2": "trupat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "një trup të hollë",
+    "field7": "një trup i hollë",
     "field8": "",
     "category": "Shëndeti"
   },
@@ -2081,19 +2081,19 @@
   },
   "173": {
     "cardNumber": "173",
-    "field1": "dorën",
+    "field1": "dora",
     "field2": "duart",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "dorën e djathtë",
-    "field8": "dorën e majtë",
+    "field7": "dora e djathtë",
+    "field8": "dora e majtë",
     "category": "Shëndeti"
   },
   "174": {
     "cardNumber": "174",
-    "field1": "hundën",
+    "field1": "hunda",
     "field2": "hundët",
     "field3": "",
     "field4": "",
@@ -2105,9 +2105,9 @@
   },
   "175": {
     "cardNumber": "175",
-    "field1": "ndihmë",
-    "field2": "(i ndihmuar-ndihmuar-ndihmuar)",
-    "field3": "ndihmën",
+    "field1": "ndihmoj",
+    "field2": "(e tashme: hilft; e shkuar: half; pjesore: geholfen)",
+    "field3": "ndihma",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -2117,7 +2117,7 @@
   },
   "176": {
     "cardNumber": "176",
-    "field1": "dëgjojnë",
+    "field1": "dëgjoj",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2129,7 +2129,7 @@
   },
   "177": {
     "cardNumber": "177",
-    "field1": "jetojnë",
+    "field1": "jetoj",
     "field2": "",
     "field3": "jeta",
     "field4": "",
@@ -2141,8 +2141,8 @@
   },
   "178": {
     "cardNumber": "178",
-    "field1": "shih",
-    "field2": "(shih-pa-parë)",
+    "field1": "shoh",
+    "field2": "(e tashme: sieht; e shkuar: sah; pjesore: gesehen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2165,7 +2165,7 @@
   },
   "180": {
     "cardNumber": "180",
-    "field1": "qiellin",
+    "field1": "qielli",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2183,7 +2183,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Është erë",
+    "field7": "Fryn erë",
     "field8": "",
     "category": "Moti"
   },
@@ -2213,7 +2213,7 @@
   },
   "184": {
     "cardNumber": "184",
-    "field1": "nxehtë",
+    "field1": "i nxehtë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2225,7 +2225,7 @@
   },
   "185": {
     "cardNumber": "185",
-    "field1": "ftohtë",
+    "field1": "i ftohtë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2237,7 +2237,7 @@
   },
   "186": {
     "cardNumber": "186",
-    "field1": "shiu",
+    "field1": "bie shi",
     "field2": "",
     "field3": "shiu",
     "field4": "",
@@ -2249,13 +2249,13 @@
   },
   "187": {
     "cardNumber": "187",
-    "field1": "të ngrohtë",
+    "field1": "i ngrohtë",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Është e ngrohtë",
+    "field7": "Është ngrohtë",
     "field8": "Mbrëmja është e ngrohtë",
     "category": "Moti"
   },
@@ -2263,7 +2263,7 @@
     "cardNumber": "188",
     "field1": "kafsha",
     "field2": "kafshët",
-    "field3": "kafshën shtëpiake",
+    "field3": "kafsha shtëpiake",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -2274,7 +2274,7 @@
   },
   "189": {
     "cardNumber": "189",
-    "field1": "malin",
+    "field1": "mali",
     "field2": "malet",
     "field3": "",
     "field4": "",
@@ -2287,7 +2287,7 @@
   "190": {
     "cardNumber": "190",
     "field1": "peshku",
-    "field2": "peshku",
+    "field2": "peshqit",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2334,7 +2334,7 @@
   },
   "194": {
     "cardNumber": "194",
-    "field1": "hënën",
+    "field1": "hëna",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2346,7 +2346,7 @@
   },
   "195": {
     "cardNumber": "195",
-    "field1": "parkun",
+    "field1": "parku",
     "field2": "parqet",
     "field3": "",
     "field4": "",
@@ -2364,8 +2364,8 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "në liqen",
-    "field8": "Sabina shkon në liqen",
+    "field7": "buzë liqenit",
+    "field8": "Sabina shkon te liqeni",
     "category": "Natyra"
   },
   "197": {
@@ -2382,7 +2382,7 @@
   },
   "198": {
     "cardNumber": "198",
-    "field1": "pyllin",
+    "field1": "pylli",
     "field2": "pyjet",
     "field3": "",
     "field4": "",
@@ -2394,7 +2394,7 @@
   },
   "199": {
     "cardNumber": "199",
-    "field1": "ishullin",
+    "field1": "ishulli",
     "field2": "ishujt",
     "field3": "",
     "field4": "",
@@ -2412,7 +2412,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "I dashuri im nuk i pëlqen macet",
+    "field7": "Mikut tim nuk i pëlqejnë macet",
     "field8": "",
     "category": "Natyra"
   },
@@ -2426,59 +2426,59 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "202": {
     "cardNumber": "202",
-    "field1": "përgjigje",
+    "field1": "përgjigjem",
     "field2": "",
-    "field3": "përgjigjen",
+    "field3": "përgjigjja",
     "field4": "përgjigjet",
     "field5": "",
     "field6": "",
     "field7": "Nuk e di përgjigjen",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "203": {
     "cardNumber": "203",
-    "field1": "librin",
+    "field1": "libri",
     "field2": "librat",
-    "field3": "tekstin shkollor",
+    "field3": "teksti mësimor",
     "field4": "",
-    "field5": "fletoren e punës",
+    "field5": "fletorja e punës",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "204": {
     "cardNumber": "204",
-    "field1": "broshurën",
+    "field1": "fletorja",
     "field2": "fletoret",
-    "field3": "librat e shkollës",
+    "field3": "fletoret e shkollës",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Unë i shkruaj shënimet e mia në një fletore",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "205": {
     "cardNumber": "205",
-    "field1": "kursin",
+    "field1": "kursi",
     "field2": "kurset",
-    "field3": "kursin e gjuhës",
+    "field3": "kursi i gjuhës",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Unë jam duke marrë një kurs",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "206": {
     "cardNumber": "206",
-    "field1": "tekstin",
+    "field1": "teksti",
     "field2": "tekstet",
     "field3": "",
     "field4": "",
@@ -2486,31 +2486,31 @@
     "field6": "",
     "field7": "Ju lutemi lexoni tekstin!",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "207": {
     "cardNumber": "207",
-    "field1": "mësimin",
+    "field1": "mësimi",
     "field2": "",
-    "field3": "mësimet e gjermanishtes",
+    "field3": "mësimi i gjermanishtes",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "klasa fillon në tetë",
+    "field7": "Mësimi fillon në orën tetë",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "208": {
     "cardNumber": "208",
-    "field1": "detyrën",
+    "field1": "detyra",
     "field2": "detyrat",
-    "field3": "detyrat e shtëpisë",
+    "field3": "detyra e shtëpisë",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Unë jam duke bërë detyrat e shtëpisë",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "209": {
     "cardNumber": "209",
@@ -2522,56 +2522,56 @@
     "field6": "",
     "field7": "në bibliotekë",
     "field8": "Pas shkollës shkoj në bibliotekë",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "210": {
     "cardNumber": "210",
-    "field1": "klasën",
+    "field1": "klasa",
     "field2": "klasat",
-    "field3": "klasën",
+    "field3": "dhoma e mësimit",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit",
+    "category": "Shkenca dhe arsimi",
     "imageName": ""
   },
   "211": {
     "cardNumber": "211",
-    "field1": "shënimin",
-    "field2": "shënimet",
+    "field1": "nota",
+    "field2": "notat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Vajza ime merr nota të mira",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "212": {
     "cardNumber": "212",
-    "field1": "numrin",
+    "field1": "numri",
     "field2": "numrat",
     "field3": "numri i shtëpisë",
     "field4": "",
-    "field5": "numrin e llogarisë",
+    "field5": "numri i llogarisë",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "213": {
     "cardNumber": "213",
-    "field1": "pushimin",
+    "field1": "pushimi",
     "field2": "pushimet",
-    "field3": "drekën",
+    "field3": "sanduiçi i pushimit",
     "field4": "",
-    "field5": "pushimin e kafesë",
+    "field5": "pushimi për kafe",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "214": {
     "cardNumber": "214",
@@ -2583,11 +2583,11 @@
     "field6": "",
     "field7": "në shkollë",
     "field8": "Bruno tashmë po shkon në shkollë",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "215": {
     "cardNumber": "215",
-    "field1": "faqen",
+    "field1": "faqja",
     "field2": "faqet",
     "field3": "",
     "field4": "",
@@ -2595,7 +2595,7 @@
     "field6": "",
     "field7": "Kjo është në faqen 26",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "216": {
     "cardNumber": "216",
@@ -2607,7 +2607,7 @@
     "field6": "",
     "field7": "Unë studioj në universitet",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "217": {
     "cardNumber": "217",
@@ -2619,7 +2619,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "218": {
     "cardNumber": "218",
@@ -2631,7 +2631,7 @@
     "field6": "",
     "field7": "Ai është numri 1",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "219": {
     "cardNumber": "219",
@@ -2643,19 +2643,19 @@
     "field6": "",
     "field7": "Është ora njëmbëdhjetë",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "220": {
     "cardNumber": "220",
-    "field1": "pyesni",
+    "field1": "pyes",
     "field2": "",
-    "field3": "pyetjen",
+    "field3": "pyetja",
     "field4": "pyetjet",
     "field5": "",
     "field6": "",
     "field7": "Unë kam një pyetje",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "221": {
     "cardNumber": "221",
@@ -2667,11 +2667,11 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "222": {
     "cardNumber": "222",
-    "field1": "mësojnë",
+    "field1": "mësoj",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2679,19 +2679,19 @@
     "field6": "",
     "field7": "Unë jam duke mësuar gjermanisht",
     "field8": "Nuk mësoj më anglisht",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "223": {
     "cardNumber": "223",
-    "field1": "lexoni",
-    "field2": "(lexo-lexo-lexo)",
+    "field1": "lexoj",
+    "field2": "(e tashme: liest; e shkuar: las; pjesore: gelesen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "A ju pëlqen të lexoni?",
+    "field7": "A të pëlqen të lexosh?",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "224": {
     "cardNumber": "224",
@@ -2703,31 +2703,31 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "225": {
     "cardNumber": "225",
     "field1": "zero",
     "field2": "",
-    "field3": "zero",
+    "field3": "zeroja",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Ky person është një zero",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "226": {
     "cardNumber": "226",
-    "field1": "shkruani",
-    "field2": "(shkruan-shkruan-shkruan)",
+    "field1": "shkruaj",
+    "field2": "(e tashme: schreibt; e shkuar: schrieb; pjesore: geschrieben)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Si e shkruani këtë?",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "227": {
     "cardNumber": "227",
@@ -2739,7 +2739,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "228": {
     "cardNumber": "228",
@@ -2751,31 +2751,31 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "229": {
     "cardNumber": "229",
-    "field1": "studim",
+    "field1": "studioj",
     "field2": "",
     "field3": "studenti",
-    "field4": "nxënësit",
+    "field4": "studentët",
     "field5": "",
     "field6": "",
-    "field7": "çfarë po studion?",
+    "field7": "Çfarë studion?",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "230": {
     "cardNumber": "230",
-    "field1": "e harruar",
-    "field2": "(harroj-harruar-harruar)",
+    "field1": "harroj",
+    "field2": "(e tashme: vergisst; e shkuar: vergaß; pjesore: vergessen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Mos harroni librin tuaj të matematikës!",
+    "field7": "Mos e harro librin tënd të matematikës!",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "231": {
     "cardNumber": "231",
@@ -2787,11 +2787,11 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "232": {
     "cardNumber": "232",
-    "field1": "përsëritni",
+    "field1": "përsëris",
     "field2": "",
     "field3": "përsëritja",
     "field4": "përsëritjet",
@@ -2799,19 +2799,19 @@
     "field6": "",
     "field7": "Ju lutem mund ta përsërisni atë?",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "233": {
     "cardNumber": "233",
     "field1": "e di",
-    "field2": "(dije-dij-dije)",
+    "field2": "(e tashme: weiß; e shkuar: wusste; pjesore: gewusst)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "nuk e di",
     "field8": "A e dini se ku është Ralf?",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "234": {
     "cardNumber": "234",
@@ -2823,7 +2823,7 @@
     "field6": "",
     "field7": "Motra ime mund të numërojë deri në 100",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "235": {
     "cardNumber": "235",
@@ -2835,7 +2835,7 @@
     "field6": "",
     "field7": "Dhoma 10",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "236": {
     "cardNumber": "236",
@@ -2847,13 +2847,13 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "shkencës dhe arsimit"
+    "category": "Shkenca dhe arsimi"
   },
   "237": {
     "cardNumber": "237",
-    "field1": "albumin",
+    "field1": "albumi",
     "field2": "albumet",
-    "field3": "albumin e fotografive",
+    "field3": "albumi i fotografive",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -2864,20 +2864,20 @@
   },
   "238": {
     "cardNumber": "238",
-    "field1": "foton",
-    "field2": "fotot",
+    "field1": "figura / piktura",
+    "field2": "figurat / pikturat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Fotoja qëndron e varur në mur",
+    "field7": "Piktura është e varur në mur",
     "field8": "",
     "category": "Kultura dhe arti"
   },
   "239": {
     "cardNumber": "239",
-    "field1": "foton",
-    "field2": "fotot",
+    "field1": "fotografia",
+    "field2": "fotografitë",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2888,7 +2888,7 @@
   },
   "240": {
     "cardNumber": "240",
-    "field1": "kinemanë",
+    "field1": "kinemaja",
     "field2": "kinematë",
     "field3": "",
     "field4": "",
@@ -2900,7 +2900,7 @@
   },
   "241": {
     "cardNumber": "241",
-    "field1": "pianon",
+    "field1": "pianoja",
     "field2": "pianot",
     "field3": "",
     "field4": "",
@@ -2912,7 +2912,7 @@
   },
   "242": {
     "cardNumber": "242",
-    "field1": "koncertin",
+    "field1": "koncerti",
     "field2": "koncertet",
     "field3": "",
     "field4": "",
@@ -2924,7 +2924,7 @@
   },
   "243": {
     "cardNumber": "243",
-    "field1": "këngën",
+    "field1": "kënga",
     "field2": "këngët",
     "field3": "kënga e Krishtlindjes",
     "field4": "",
@@ -2938,7 +2938,7 @@
   "244": {
     "cardNumber": "244",
     "field1": "muzeu",
-    "field2": "muzeumet",
+    "field2": "muzetë",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2961,7 +2961,7 @@
   },
   "246": {
     "cardNumber": "246",
-    "field1": "filmin",
+    "field1": "filmi",
     "field2": "filmat",
     "field3": "",
     "field4": "",
@@ -2973,19 +2973,19 @@
   },
   "247": {
     "cardNumber": "247",
-    "field1": "kamera",
-    "field2": "kamerat",
+    "field1": "aparati fotografik",
+    "field2": "aparatet fotografike",
     "field3": "kamera",
     "field4": "kamerat",
     "field5": "",
     "field6": "",
-    "field7": "Kamera bën fotografi të mira",
+    "field7": "Aparati fotografik bën fotografi të mira",
     "field8": "",
     "category": "Kultura dhe arti"
   },
   "248": {
     "cardNumber": "248",
-    "field1": "kitarën",
+    "field1": "kitara",
     "field2": "kitarat",
     "field3": "",
     "field4": "",
@@ -2997,10 +2997,10 @@
   },
   "249": {
     "cardNumber": "249",
-    "field1": "grupin",
+    "field1": "grupi",
     "field2": "grupet",
-    "field3": "banda",
-    "field4": "grupet",
+    "field3": "grupi muzikor",
+    "field4": "grupet muzikore",
     "field5": "grupi muzikor",
     "field6": "",
     "field7": "",
@@ -3010,7 +3010,7 @@
   },
   "250": {
     "cardNumber": "250",
-    "field1": "artin",
+    "field1": "arti",
     "field2": "artet",
     "field3": "",
     "field4": "",
@@ -3022,9 +3022,9 @@
   },
   "251": {
     "cardNumber": "251",
-    "field1": "muzikën",
+    "field1": "muzika",
     "field2": "",
-    "field3": "muzikantin",
+    "field3": "muzikanti",
     "field4": "muzikantët",
     "field5": "",
     "field6": "",
@@ -3034,7 +3034,7 @@
   },
   "252": {
     "cardNumber": "252",
-    "field1": "bojë",
+    "field1": "pikturoj",
     "field2": "",
     "field3": "piktori",
     "field4": "",
@@ -3047,7 +3047,7 @@
   "253": {
     "cardNumber": "253",
     "field1": "këndoj",
-    "field2": "(këndon-këndon-këndohet)",
+    "field2": "(e tashme: singt; e shkuar: sang; pjesore: gesungen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -3058,7 +3058,7 @@
   },
   "254": {
     "cardNumber": "254",
-    "field1": "valle",
+    "field1": "vallëzoj",
     "field2": "",
     "field3": "vallëzimi",
     "field4": "vallet",
@@ -3070,15 +3070,15 @@
   },
   "255": {
     "cardNumber": "255",
-    "field1": "festivalin",
-    "field2": "festivalet",
-    "field3": "festën familjare",
+    "field1": "festa",
+    "field2": "festat",
+    "field3": "festa familjare",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "feja",
+    "category": "Feja",
     "imageName": ""
   },
   "256": {
@@ -3091,23 +3091,23 @@
     "field6": "",
     "field7": "Gëzuar Pashkët!",
     "field8": "",
-    "category": "feja"
+    "category": "Feja"
   },
   "257": {
     "cardNumber": "257",
     "field1": "Krishtlindjet",
     "field2": "Krishtlindjet",
-    "field3": "festat e Krishtlindjeve",
+    "field3": "pushimet e Krishtlindjeve",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Gëzuar Krishtlindjet!",
     "field8": "",
-    "category": "feja"
+    "category": "Feja"
   },
   "258": {
     "cardNumber": "258",
-    "field1": "Ardhja",
+    "field1": "Ardhja e Krishtit",
     "field2": "",
     "field3": "kalendari i Ardhjes",
     "field4": "",
@@ -3115,11 +3115,11 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "feja"
+    "category": "Feja"
   },
   "259": {
     "cardNumber": "259",
-    "field1": "zotin",
+    "field1": "Zoti",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3127,23 +3127,23 @@
     "field6": "",
     "field7": "Faleminderit Zotit!",
     "field8": "",
-    "category": "feja"
+    "category": "Feja"
   },
   "260": {
     "cardNumber": "260",
-    "field1": "Santa Claus",
+    "field1": "Babagjyshi i Krishtlindjeve",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Santa Claus sjell dhurata për Krishtlindje",
+    "field7": "Babagjyshi i Krishtlindjeve sjell dhurata për Krishtlindje",
     "field8": "",
-    "category": "feja"
+    "category": "Feja"
   },
   "261": {
     "cardNumber": "261",
-    "field1": "kishën",
+    "field1": "kisha",
     "field2": "kishat",
     "field3": "",
     "field4": "",
@@ -3151,19 +3151,19 @@
     "field6": "",
     "field7": "në kishë",
     "field8": "Unë shkoj në kishë të dielave",
-    "category": "feja"
+    "category": "Feja"
   },
   "262": {
     "cardNumber": "262",
-    "field1": "traditën",
+    "field1": "tradita",
     "field2": "traditat",
-    "field3": "tradicionale",
+    "field3": "tradicional",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Kjo është një traditë gjermane",
     "field8": "",
-    "category": "feja"
+    "category": "Feja"
   },
   "263": {
     "cardNumber": "263",
@@ -3173,13 +3173,13 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Natën e Krishtlindjes",
+    "field7": "Nata e Krishtlindjes",
     "field8": "në prag të Krishtlindjes",
-    "category": "feja"
+    "category": "Feja"
   },
   "264": {
     "cardNumber": "264",
-    "field1": "deri sa",
+    "field1": "deri",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3187,7 +3187,7 @@
     "field6": "",
     "field7": "Shihemi nesër!",
     "field8": "Shihemi së shpejti!",
-    "category": "koha"
+    "category": "Koha"
   },
   "265": {
     "cardNumber": "265",
@@ -3199,23 +3199,23 @@
     "field6": "",
     "field7": "çdo vit",
     "field8": "këtë vit",
-    "category": "koha"
+    "category": "Koha"
   },
   "266": {
     "cardNumber": "266",
-    "field1": "tremujori",
-    "field2": "lagjet",
+    "field1": "çereku",
+    "field2": "çerekët",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Është një çerek e tetë",
-    "field8": "Është dy e çerek",
-    "category": "koha"
+    "field7": "Është ora tetë pa një çerek",
+    "field8": "Është ora dy e një çerek",
+    "category": "Koha"
   },
   "267": {
     "cardNumber": "267",
-    "field1": "fundjavës",
+    "field1": "fundjava",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3223,23 +3223,23 @@
     "field6": "",
     "field7": "në fundjavë",
     "field8": "Kalofshi një fundjavë të këndshme!",
-    "category": "koha"
+    "category": "Koha"
   },
   "268": {
     "cardNumber": "268",
-    "field1": "mbrëmjen",
-    "field2": "mbrëmjeve",
+    "field1": "mbrëmja",
+    "field2": "mbrëmjet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "në mbrëmje",
-    "field8": "mbrëmje",
-    "category": "koha"
+    "field8": "mbrëmjeve",
+    "category": "Koha"
   },
   "269": {
     "cardNumber": "269",
-    "field1": "prill",
+    "field1": "prilli",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3247,11 +3247,11 @@
     "field6": "",
     "field7": "në prill",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "270": {
     "cardNumber": "270",
-    "field1": "gushtin",
+    "field1": "gushti",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3259,11 +3259,11 @@
     "field6": "",
     "field7": "në gusht",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "271": {
     "cardNumber": "271",
-    "field1": "dhjetorin",
+    "field1": "dhjetori",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3271,35 +3271,35 @@
     "field6": "",
     "field7": "në dhjetor",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "272": {
     "cardNumber": "272",
-    "field1": "të martën",
-    "field2": "të martave",
+    "field1": "e marta",
+    "field2": "të martat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "të martën",
-    "field8": "të martën",
-    "category": "koha"
+    "field8": "të martave",
+    "category": "Koha"
   },
   "273": {
     "cardNumber": "273",
-    "field1": "të enjten",
-    "field2": "të enjteve",
+    "field1": "e enjtja",
+    "field2": "të enjtet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "të enjten",
     "field8": "të enjteve",
-    "category": "koha"
+    "category": "Koha"
   },
   "274": {
     "cardNumber": "274",
-    "field1": "shkurt",
+    "field1": "shkurti",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3307,47 +3307,47 @@
     "field6": "",
     "field7": "në shkurt",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "275": {
     "cardNumber": "275",
-    "field1": "e premte",
-    "field2": "të premteve",
+    "field1": "e premtja",
+    "field2": "të premtet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "të premten",
     "field8": "të premteve",
-    "category": "koha"
+    "category": "Koha"
   },
   "276": {
     "cardNumber": "276",
     "field1": "pranvera",
-    "field2": "burimet",
+    "field2": "pranverat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "në pranverë",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "277": {
     "cardNumber": "277",
     "field1": "vjeshta",
-    "field2": "vjeshta",
+    "field2": "vjeshtat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "në vjeshtë",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "278": {
     "cardNumber": "278",
-    "field1": "janar",
+    "field1": "janari",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3355,11 +3355,11 @@
     "field6": "",
     "field7": "në janar",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "279": {
     "cardNumber": "279",
-    "field1": "korrik",
+    "field1": "korriku",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3367,11 +3367,11 @@
     "field6": "",
     "field7": "në korrik",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "280": {
     "cardNumber": "280",
-    "field1": "qershor",
+    "field1": "qershori",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3379,11 +3379,11 @@
     "field6": "",
     "field7": "në qershor",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "281": {
     "cardNumber": "281",
-    "field1": "maj",
+    "field1": "maji",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3391,11 +3391,11 @@
     "field6": "",
     "field7": "në maj",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "282": {
     "cardNumber": "282",
-    "field1": "mars",
+    "field1": "marsi",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3403,23 +3403,23 @@
     "field6": "",
     "field7": "në mars",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "283": {
     "cardNumber": "283",
     "field1": "mesdita",
     "field2": "",
-    "field3": "mëngjesin",
+    "field3": "paraditja",
     "field4": "",
-    "field5": "pasdite",
+    "field5": "pasditja",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "284": {
     "cardNumber": "284",
-    "field1": "të mërkurën",
+    "field1": "e mërkura",
     "field2": "të mërkurat",
     "field3": "",
     "field4": "",
@@ -3427,11 +3427,11 @@
     "field6": "",
     "field7": "të mërkurën",
     "field8": "të mërkurave",
-    "category": "koha"
+    "category": "Koha"
   },
   "285": {
     "cardNumber": "285",
-    "field1": "muajin",
+    "field1": "muaji",
     "field2": "muajt",
     "field3": "",
     "field4": "",
@@ -3439,35 +3439,35 @@
     "field6": "",
     "field7": "çdo muaj",
     "field8": "pas një muaji",
-    "category": "koha"
+    "category": "Koha"
   },
   "286": {
     "cardNumber": "286",
-    "field1": "të hënën",
-    "field2": "kuvendi",
+    "field1": "e hëna",
+    "field2": "të hënat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "të hënën",
     "field8": "të hënave",
-    "category": "koha"
+    "category": "Koha"
   },
   "287": {
     "cardNumber": "287",
-    "field1": "mëngjesin",
+    "field1": "mëngjesi",
     "field2": "mëngjeset",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "në mëngjes",
-    "field8": "mëngjes",
-    "category": "koha"
+    "field8": "mëngjeseve",
+    "category": "Koha"
   },
   "288": {
     "cardNumber": "288",
-    "field1": "nëntorin",
+    "field1": "nëntori",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3475,11 +3475,11 @@
     "field6": "",
     "field7": "në nëntor",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "289": {
     "cardNumber": "289",
-    "field1": "tetor",
+    "field1": "tetori",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3487,35 +3487,35 @@
     "field6": "",
     "field7": "në tetor",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "290": {
     "cardNumber": "290",
-    "field1": "të shtunën",
-    "field2": "të shtunave",
+    "field1": "e shtuna",
+    "field2": "të shtunat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "të shtunën",
     "field8": "të shtunave",
-    "category": "koha"
+    "category": "Koha"
   },
   "291": {
     "cardNumber": "291",
-    "field1": "shtatorin",
+    "field1": "shtatori",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "ne shtator",
+    "field7": "në shtator",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "292": {
     "cardNumber": "292",
-    "field1": "verës",
+    "field1": "vera",
     "field2": "verat",
     "field3": "",
     "field4": "",
@@ -3523,23 +3523,23 @@
     "field6": "",
     "field7": "në verë",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "293": {
     "cardNumber": "293",
-    "field1": "të dielën",
-    "field2": "të dielave",
+    "field1": "e diela",
+    "field2": "të dielat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "të dielën",
     "field8": "të dielave",
-    "category": "koha"
+    "category": "Koha"
   },
   "294": {
     "cardNumber": "294",
-    "field1": "ditën",
+    "field1": "dita",
     "field2": "ditët",
     "field3": "",
     "field4": "",
@@ -3547,11 +3547,11 @@
     "field6": "",
     "field7": "çdo ditë",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "295": {
     "cardNumber": "295",
-    "field1": "dimrin",
+    "field1": "dimri",
     "field2": "dimrat",
     "field3": "",
     "field4": "",
@@ -3559,11 +3559,11 @@
     "field6": "",
     "field7": "në dimër",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "296": {
     "cardNumber": "296",
-    "field1": "natën",
+    "field1": "nata",
     "field2": "netët",
     "field3": "",
     "field4": "",
@@ -3571,11 +3571,11 @@
     "field6": "",
     "field7": "natën",
     "field8": "natën",
-    "category": "koha"
+    "category": "Koha"
   },
   "297": {
     "cardNumber": "297",
-    "field1": "orën",
+    "field1": "ora (kohëzgjatje)",
     "field2": "orët",
     "field3": "",
     "field4": "",
@@ -3583,23 +3583,23 @@
     "field6": "",
     "field7": "dy orë",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "298": {
     "cardNumber": "298",
-    "field1": "orën",
+    "field1": "ora (koha)",
     "field2": "",
-    "field3": "orën",
+    "field3": "ora (pajisja)",
     "field4": "orët",
     "field5": "",
     "field6": "",
     "field7": "Sa është ora?",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "299": {
     "cardNumber": "299",
-    "field1": "javën",
+    "field1": "java",
     "field2": "javët",
     "field3": "",
     "field4": "",
@@ -3607,7 +3607,7 @@
     "field6": "",
     "field7": "çdo javë",
     "field8": "një javë më parë",
-    "category": "koha"
+    "category": "Koha"
   },
   "300": {
     "cardNumber": "300",
@@ -3618,8 +3618,8 @@
     "field5": "",
     "field6": "",
     "field7": "Unë nuk kam kohë",
-    "field8": "Kur keni kohë?",
-    "category": "koha"
+    "field8": "Kur ke kohë?",
+    "category": "Koha"
   },
   "301": {
     "cardNumber": "301",
@@ -3631,7 +3631,7 @@
     "field6": "",
     "field7": "nga herët në mëngjes deri në mbrëmje vonë",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "302": {
     "cardNumber": "302",
@@ -3643,7 +3643,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "303": {
     "cardNumber": "303",
@@ -3655,7 +3655,7 @@
     "field6": "",
     "field7": "këtë mëngjes",
     "field8": "sonte",
-    "category": "koha"
+    "category": "Koha"
   },
   "304": {
     "cardNumber": "304",
@@ -3667,7 +3667,7 @@
     "field6": "",
     "field7": "përgjithmonë",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "305": {
     "cardNumber": "305",
@@ -3677,9 +3677,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Çfarë jeni duke bërë tani?",
+    "field7": "Çfarë po bën tani?",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "306": {
     "cardNumber": "306",
@@ -3691,7 +3691,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "307": {
     "cardNumber": "307",
@@ -3703,11 +3703,11 @@
     "field6": "",
     "field7": "është vonë",
     "field8": "Sa është ora?",
-    "category": "koha"
+    "category": "Koha"
   },
   "308": {
     "cardNumber": "308",
-    "field1": "përreth",
+    "field1": "në (për orën)",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3715,7 +3715,7 @@
     "field6": "",
     "field7": "Në çfarë ore?",
     "field8": "Në orën një / në një",
-    "category": "koha"
+    "category": "Koha"
   },
   "309": {
     "cardNumber": "309",
@@ -3725,9 +3725,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "kur do vini?",
+    "field7": "Kur vjen?",
     "field8": "",
-    "category": "koha"
+    "category": "Koha"
   },
   "310": {
     "cardNumber": "310",
@@ -3739,23 +3739,23 @@
     "field6": "",
     "field7": "dy kilogramë mollë",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "311": {
     "cardNumber": "311",
-    "field1": "copën",
+    "field1": "copa",
     "field2": "copat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "një copë tortë",
+    "field7": "një copë kek",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "312": {
     "cardNumber": "312",
-    "field1": "litra",
+    "field1": "litri",
     "field2": "litrat",
     "field3": "",
     "field4": "",
@@ -3763,11 +3763,11 @@
     "field6": "",
     "field7": "dy litra qumësht",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "313": {
     "cardNumber": "313",
-    "field1": "njehsori",
+    "field1": "metri",
     "field2": "metrat",
     "field3": "centimetri",
     "field4": "",
@@ -3775,11 +3775,11 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "314": {
     "cardNumber": "314",
-    "field1": "kanaçen",
+    "field1": "kanaçja",
     "field2": "kanaçet",
     "field3": "",
     "field4": "",
@@ -3787,11 +3787,11 @@
     "field6": "",
     "field7": "një kanaçe birrë",
     "field8": "një kanaçe birre",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "315": {
     "cardNumber": "315",
-    "field1": "shishen",
+    "field1": "shishja",
     "field2": "shishet",
     "field3": "",
     "field4": "",
@@ -3799,31 +3799,31 @@
     "field6": "",
     "field7": "një shishe qumësht",
     "field8": "një shishe qumështi",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "316": {
     "cardNumber": "316",
-    "field1": "paketën",
-    "field2": "paketat",
+    "field1": "pakoja",
+    "field2": "pakot",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "një pako me biskota",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "317": {
     "cardNumber": "317",
-    "field1": "çantën",
-    "field2": "çantat",
+    "field1": "qesja",
+    "field2": "qeset",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Keni nevojë për një çantë?",
+    "field7": "A ju duhet një qese?",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "318": {
     "cardNumber": "318",
@@ -3835,23 +3835,23 @@
     "field6": "",
     "field7": "Filmi ishte shumë i shkurtër",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "319": {
     "cardNumber": "319",
-    "field1": "gjatë",
+    "field1": "i gjatë",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Skaji është shumë i gjatë",
+    "field7": "Fundi është shumë i gjatë",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "320": {
     "cardNumber": "320",
-    "field1": "lehtë",
+    "field1": "i lehtë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3859,11 +3859,11 @@
     "field6": "",
     "field7": "Çanta e shpinës është e lehtë",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "321": {
     "cardNumber": "321",
-    "field1": "vështirë",
+    "field1": "i rëndë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3871,7 +3871,7 @@
     "field6": "",
     "field7": "A janë të rënda këto valixhe?",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "322": {
     "cardNumber": "322",
@@ -3883,7 +3883,7 @@
     "field6": "",
     "field7": "Kam shumë punë / kam shumë për të bërë",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "323": {
     "cardNumber": "323",
@@ -3895,35 +3895,35 @@
     "field6": "",
     "field7": "Kam pak kohë",
     "field8": "",
-    "category": "Dimensionet"
+    "category": "Masat dhe përmasat"
   },
   "324": {
     "cardNumber": "324",
-    "field1": "fletën",
-    "field2": "gjethet",
+    "field1": "fleta",
+    "field2": "fletët",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "një copë letër",
+    "field7": "një fletë letre",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "325": {
     "cardNumber": "325",
-    "field1": "sundimtari",
-    "field2": "pushtetarët",
+    "field1": "vizorja",
+    "field2": "vizoret",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Nuk mund ta gjej sundimtarin tim",
+    "field7": "Nuk e gjej vizoren time",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "326": {
     "cardNumber": "326",
-    "field1": "lodrën",
+    "field1": "lodra",
     "field2": "lodrat",
     "field3": "lodra e preferuar",
     "field4": "",
@@ -3931,44 +3931,44 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Artikuj",
+    "category": "Sendet",
     "imageName": ""
   },
   "327": {
     "cardNumber": "327",
-    "field1": "stilolapsin",
+    "field1": "stilolapsi",
     "field2": "stilolapsat",
-    "field3": "coolie",
-    "field4": "të ftohtët",
+    "field3": "stilolapsi",
+    "field4": "stilolapsat",
     "field5": "",
     "field6": "",
     "field7": "Ku është stilolapsi im?",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "328": {
     "cardNumber": "328",
-    "field1": "gomën",
+    "field1": "goma",
     "field2": "gomat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "A keni një gomë?",
+    "field7": "A ke një gomë?",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "329": {
     "cardNumber": "329",
-    "field1": "lapsin",
+    "field1": "lapsi",
     "field2": "lapsat",
-    "field3": "lapsin me ngjyra",
+    "field3": "lapsi me ngjyra",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Artikuj",
+    "category": "Sendet",
     "imageName": ""
   },
   "330": {
@@ -3981,7 +3981,7 @@
     "field6": "",
     "field7": "Andrea luan me kukulla",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "331": {
     "cardNumber": "331",
@@ -3993,7 +3993,7 @@
     "field6": "",
     "field7": "Këto janë gjërat e mia",
     "field8": "Paketoni gjërat tuaja!",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "332": {
     "cardNumber": "332",
@@ -4003,37 +4003,37 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "një palë gërshërë të mprehtë",
+    "field7": "një palë gërshërë të mprehta",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "333": {
     "cardNumber": "333",
-    "field1": "gjeni",
-    "field2": "(gjen-gjet-gjetur)",
+    "field1": "gjej",
+    "field2": "(e tashme: findet; e shkuar: fand; pjesore: gefunden)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Nuk i gjej syzet",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "334": {
     "cardNumber": "334",
-    "field1": "e re",
+    "field1": "i ri",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Kjo ndertese eshte e re",
+    "field7": "Kjo ndërtesë është e re",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "335": {
     "cardNumber": "335",
-    "field1": "kërkimi",
+    "field1": "kërkoj",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4041,19 +4041,19 @@
     "field6": "",
     "field7": "Çfarë po kërkoni?",
     "field8": "kë po kërkoni?",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "336": {
     "cardNumber": "336",
-    "field1": "humbasin",
-    "field2": "(humbur-humbur-humbur)",
+    "field1": "humbas",
+    "field2": "(e tashme: verliert; e shkuar: verlor; pjesore: verloren)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Shpesh më humbasin çelësat",
     "field8": "",
-    "category": "Artikuj"
+    "category": "Sendet"
   },
   "337": {
     "cardNumber": "337",
@@ -4065,7 +4065,7 @@
     "field6": "",
     "field7": "blu e errët",
     "field8": "Unë kam sy blu",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "338": {
     "cardNumber": "338",
@@ -4077,7 +4077,7 @@
     "field6": "",
     "field7": "Babai im ka sy kafe",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "339": {
     "cardNumber": "339",
@@ -4087,13 +4087,13 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Fotografia është plot ngjyra dhe qesharake",
+    "field7": "Figura është plot ngjyra dhe gazmore",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "340": {
     "cardNumber": "340",
-    "field1": "gotën",
+    "field1": "xhami",
     "field2": "",
     "field3": "dera e xhamit",
     "field4": "",
@@ -4101,11 +4101,11 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "341": {
     "cardNumber": "341",
-    "field1": "metalin",
+    "field1": "metali",
     "field2": "metalet",
     "field3": "rafti metalik",
     "field4": "",
@@ -4113,32 +4113,32 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Pëlhura dhe materiale",
+    "category": "Substancat dhe materialet",
     "imageName": ""
   },
   "342": {
     "cardNumber": "342",
-    "field1": "letrën",
+    "field1": "letra",
     "field2": "",
-    "field3": "letrën higjienike",
+    "field3": "letra higjienike",
     "field4": "",
-    "field5": "qesen letre",
+    "field5": "qesja prej letre",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "343": {
     "cardNumber": "343",
     "field1": "plastika",
     "field2": "",
-    "field3": "shishe plastike",
+    "field3": "shishja plastike",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "344": {
     "cardNumber": "344",
@@ -4148,13 +4148,13 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Cila ngjyrë ju pëlqen më shumë?",
+    "field7": "Cila ngjyrë të pëlqen më shumë?",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "345": {
     "cardNumber": "345",
-    "field1": "errët",
+    "field1": "i errët",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4162,11 +4162,11 @@
     "field6": "",
     "field7": "Është errësirë",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "346": {
     "cardNumber": "346",
-    "field1": "të verdhë",
+    "field1": "i verdhë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4174,11 +4174,11 @@
     "field6": "",
     "field7": "dritë e verdhë (semafor)",
     "field8": "Ka lule të verdha në tryezë",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "347": {
     "cardNumber": "347",
-    "field1": "jeshile",
+    "field1": "i gjelbër",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4186,11 +4186,11 @@
     "field6": "",
     "field7": "Inge ka sy të gjelbër",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "348": {
     "cardNumber": "348",
-    "field1": "të ndritshme",
+    "field1": "i ndritshëm / i çelët",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4198,11 +4198,11 @@
     "field6": "",
     "field7": "blu e hapur",
     "field8": "një dhomë e ndritshme",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "349": {
     "cardNumber": "349",
-    "field1": "e kuqe",
+    "field1": "i kuq",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4210,11 +4210,11 @@
     "field6": "",
     "field7": "Ai ka flokë të kuq",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "350": {
     "cardNumber": "350",
-    "field1": "e zezë",
+    "field1": "i zi",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4222,11 +4222,11 @@
     "field6": "",
     "field7": "bardh e zi",
     "field8": "një foto bardh e zi",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "351": {
     "cardNumber": "351",
-    "field1": "të bardhë",
+    "field1": "i bardhë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4234,14 +4234,14 @@
     "field6": "",
     "field7": "e bardhë si bora",
     "field8": "",
-    "category": "Pëlhura dhe materiale"
+    "category": "Substancat dhe materialet"
   },
   "352": {
     "cardNumber": "352",
-    "field1": "biçikletën",
+    "field1": "biçikleta",
     "field2": "biçikletat",
-    "field3": "rrota",
-    "field4": "rrotat",
+    "field3": "biçikleta / rrota",
+    "field4": "biçikletat / rrotat",
     "field5": "",
     "field6": "",
     "field7": "Më pëlqen çiklizmi",
@@ -4256,13 +4256,13 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Çfarë lloj hobi keni?",
+    "field7": "Çfarë hobi ke?",
     "field8": "Unë kam dy hobi: të udhëtoj dhe të gatuaj",
     "category": "Sporti dhe koha e lirë"
   },
   "354": {
     "cardNumber": "354",
-    "field1": "stadiumin",
+    "field1": "stadiumi",
     "field2": "stadiumet",
     "field3": "",
     "field4": "",
@@ -4286,7 +4286,7 @@
   },
   "356": {
     "cardNumber": "356",
-    "field1": "topin",
+    "field1": "topi",
     "field2": "topat",
     "field3": "",
     "field4": "",
@@ -4310,7 +4310,7 @@
   },
   "358": {
     "cardNumber": "358",
-    "field1": "futbollin",
+    "field1": "futbolli",
     "field2": "",
     "field3": "futbollisti",
     "field4": "",
@@ -4322,9 +4322,9 @@
   },
   "359": {
     "cardNumber": "359",
-    "field1": "skitë",
+    "field1": "skija",
     "field2": "skitë",
-    "field3": "skive",
+    "field3": "skija",
     "field4": "skitë",
     "field5": "",
     "field6": "",
@@ -4334,7 +4334,7 @@
   },
   "360": {
     "cardNumber": "360",
-    "field1": "argëtimin",
+    "field1": "argëtimi",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4346,11 +4346,11 @@
   },
   "361": {
     "cardNumber": "361",
-    "field1": "sportin",
+    "field1": "sporti",
     "field2": "",
     "field3": "atleti",
     "field4": "atletët",
-    "field5": "sportive",
+    "field5": "sportiv",
     "field6": "",
     "field7": "",
     "field8": "",
@@ -4358,8 +4358,8 @@
   },
   "362": {
     "cardNumber": "362",
-    "field1": "fushën e sportit",
-    "field2": "terrenet sportive",
+    "field1": "fusha e sportit",
+    "field2": "fushat e sportit",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -4370,9 +4370,9 @@
   },
   "363": {
     "cardNumber": "363",
-    "field1": "volejbollin",
+    "field1": "volejbolli",
     "field2": "",
-    "field3": "volejbollistja",
+    "field3": "volejbollisti",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -4382,7 +4382,7 @@
   },
   "364": {
     "cardNumber": "364",
-    "field1": "kohën e lirë",
+    "field1": "koha e lirë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4418,7 +4418,7 @@
   },
   "367": {
     "cardNumber": "367",
-    "field1": "vraponi",
+    "field1": "vrapoj",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4430,9 +4430,9 @@
   },
   "368": {
     "cardNumber": "368",
-    "field1": "mbledhin",
+    "field1": "mbledh",
     "field2": "",
-    "field3": "koleksionin",
+    "field3": "koleksioni",
     "field4": "koleksionet",
     "field5": "",
     "field6": "",
@@ -4442,9 +4442,9 @@
   },
   "369": {
     "cardNumber": "369",
-    "field1": "notuar",
-    "field2": "(noton-sfungjer-noton)",
-    "field3": "pishinën",
+    "field1": "notoj",
+    "field2": "(e tashme: schwimmt; e shkuar: schwamm; pjesore: geschwommen)",
+    "field3": "pishina",
     "field4": "pishinat",
     "field5": "",
     "field6": "",
@@ -4454,7 +4454,7 @@
   },
   "370": {
     "cardNumber": "370",
-    "field1": "shkoni për një shëtitje",
+    "field1": "shëtis",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4478,7 +4478,7 @@
   },
   "372": {
     "cardNumber": "372",
-    "field1": "të fortë",
+    "field1": "i fortë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4490,31 +4490,31 @@
   },
   "373": {
     "cardNumber": "373",
-    "field1": "praktikë",
+    "field1": "ushtrohem",
     "field2": "",
-    "field3": "ushtrimin",
+    "field3": "ushtrimi",
     "field4": "ushtrimet",
     "field5": "",
     "field6": "",
-    "field7": "Unë praktikoj çdo ditë",
+    "field7": "Ushtrohem çdo ditë",
     "field8": "",
     "category": "Sporti dhe koha e lirë"
   },
   "374": {
     "cardNumber": "374",
-    "field1": "Amerikën",
+    "field1": "Amerika",
     "field2": "",
-    "field3": "amerikanja, gruaja amerikane",
-    "field4": "amerikanët, gratë amerikane",
-    "field5": "amerikane",
+    "field3": "amerikani, amerikania",
+    "field4": "amerikanët, amerikanet",
+    "field5": "amerikan",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "375": {
     "cardNumber": "375",
-    "field1": "vendin e huaj",
+    "field1": "bota e jashtme / vendet e huaja",
     "field2": "",
     "field3": "i huaji",
     "field4": "të huajt",
@@ -4522,35 +4522,35 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "376": {
     "cardNumber": "376",
-    "field1": "bagazhin",
+    "field1": "bagazhi",
     "field2": "",
-    "field3": "bagazhin e dorës",
+    "field3": "bagazhi i dorës",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "377": {
     "cardNumber": "377",
-    "field1": "hotelin",
+    "field1": "hoteli",
     "field2": "hotelet",
     "field3": "dhoma e hotelit",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "ne hotel",
+    "field7": "në hotel",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "378": {
     "cardNumber": "378",
-    "field1": "vendin",
+    "field1": "vendi",
     "field2": "vendet",
     "field3": "harta",
     "field4": "",
@@ -4558,12 +4558,12 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni",
+    "category": "Udhëtimet",
     "imageName": ""
   },
   "379": {
     "cardNumber": "379",
-    "field1": "valixhen",
+    "field1": "valixhja",
     "field2": "valixhet",
     "field3": "",
     "field4": "",
@@ -4571,23 +4571,23 @@
     "field6": "",
     "field7": "A është valixhja mjaft e madhe?",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "380": {
     "cardNumber": "380",
-    "field1": "pasaportën",
+    "field1": "pasaporta",
     "field2": "pasaportat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Marr me vete pasaportën dhe manualin",
+    "field7": "Marr me vete pasaportën dhe udhërrëfyesin turistik",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "381": {
     "cardNumber": "381",
-    "field1": "pushimet",
+    "field1": "pushimi",
     "field2": "pushimet",
     "field3": "",
     "field4": "",
@@ -4595,19 +4595,19 @@
     "field6": "",
     "field7": "jam me pushime",
     "field8": "Ne do të shkojmë në det me pushime",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "382": {
     "cardNumber": "382",
     "field1": "Gjermania",
     "field2": "",
-    "field3": "i, gjermani",
+    "field3": "gjermani, gjermania",
     "field4": "gjermanët",
-    "field5": "gjermanisht",
+    "field5": "gjerman",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "383": {
     "cardNumber": "383",
@@ -4619,79 +4619,79 @@
     "field6": "",
     "field7": "Jemi me pushime",
     "field8": "Ku po shkoni me pushime?",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "384": {
     "cardNumber": "384",
     "field1": "Zvicra",
     "field2": "",
-    "field3": "zviceranja, gruaja zvicerane",
-    "field4": "zvicerani, zvicerani",
-    "field5": "zvicerane",
+    "field3": "zvicerani, zvicerania",
+    "field4": "zviceranët, zviceranet",
+    "field5": "zviceran",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "385": {
     "cardNumber": "385",
     "field1": "Anglia",
     "field2": "",
     "field3": "anglezi, anglezja",
-    "field4": "anglezët, gratë angleze",
-    "field5": "anglisht",
+    "field4": "anglezët, anglezet",
+    "field5": "anglez",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "386": {
     "cardNumber": "386",
     "field1": "Franca",
     "field2": "",
     "field3": "francezi, francezja",
-    "field4": "francezët, gratë franceze",
-    "field5": "frëngjisht",
+    "field4": "francezët, francezet",
+    "field5": "francez",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "387": {
     "cardNumber": "387",
     "field1": "Italia",
     "field2": "",
-    "field3": "italiane, italiane",
-    "field4": "italianët, femrat italiane",
-    "field5": "italisht",
+    "field3": "italiani, italiania",
+    "field4": "italianët, italianet",
+    "field5": "italian",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "388": {
     "cardNumber": "388",
-    "field1": "merrni",
-    "field2": "(merr-merr-merr)",
+    "field1": "marr",
+    "field2": "(e tashme: nimmt; e shkuar: nahm; pjesore: genommen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Çfarë po merrni me vete?",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "389": {
     "cardNumber": "389",
     "field1": "Austria",
     "field2": "",
-    "field3": "austriake, grua austriake",
-    "field4": "austriakët, gratë austriake",
-    "field5": "austriake",
+    "field3": "austriaku, austriakja",
+    "field4": "austriakët, austriaket",
+    "field5": "austriak",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "390": {
     "cardNumber": "390",
@@ -4703,104 +4703,104 @@
     "field6": "",
     "field7": "Ne ende duhet të paketojmë valixhet",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "391": {
     "cardNumber": "391",
-    "field1": "plani",
+    "field1": "planifikoj",
     "field2": "",
-    "field3": "planin",
+    "field3": "plani",
     "field4": "planet",
     "field5": "",
     "field6": "",
     "field7": "Po planifikoj udhëtimin e radhës",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "392": {
     "cardNumber": "392",
     "field1": "Polonia",
     "field2": "",
-    "field3": "polakja, gruaja polake",
-    "field4": "polakët, gratë polake",
-    "field5": "polonisht",
+    "field3": "polaku, polakja",
+    "field4": "polakët, polaket",
+    "field5": "polak",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "393": {
     "cardNumber": "393",
-    "field1": "udhëtimi",
+    "field1": "udhëtoj",
     "field2": "",
-    "field3": "udhëtimin",
+    "field3": "udhëtimi",
     "field4": "udhëtimet",
     "field5": "",
     "field6": "",
     "field7": "Udhëtim të mbarë!",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "394": {
     "cardNumber": "394",
-    "field1": "rezervë",
+    "field1": "rezervoj",
     "field2": "",
-    "field3": "rezervimin",
+    "field3": "rezervimi",
     "field4": "rezervimet",
     "field5": "",
     "field6": "",
     "field7": "Do të doja të rezervoja një dhomë",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "395": {
     "cardNumber": "395",
     "field1": "Rusia",
     "field2": "",
-    "field3": "ruse, grua ruse",
-    "field4": "rusët, gratë ruse",
-    "field5": "rusisht",
+    "field3": "rusi, rusja",
+    "field4": "rusët, ruset",
+    "field5": "rus",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "396": {
     "cardNumber": "396",
     "field1": "Spanja",
     "field2": "",
-    "field3": "spanjolli, spanjolli",
-    "field4": "spanjollët, femrat spanjolle",
+    "field3": "spanjolli, spanjollja",
+    "field4": "spanjollët, spanjollet",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "397": {
     "cardNumber": "397",
-    "field1": "flasin",
-    "field2": "(flet-foli-folur)",
+    "field1": "flas",
+    "field2": "(e tashme: spricht; e shkuar: sprach; pjesore: gesprochen)",
     "field3": "gjuha",
     "field4": "gjuhët",
-    "field5": "gjuhën amtare",
+    "field5": "gjuha amtare",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Udhëtoni",
+    "category": "Udhëtimet",
     "imageName": ""
   },
   "398": {
     "cardNumber": "398",
-    "field1": "shpenzojnë",
-    "field2": "(shpenzuar-shpenzuar-shpenzuar)",
+    "field1": "kaloj (kohën)",
+    "field2": "(e tashme: verbringt; e shkuar: verbrachte; pjesore: verbracht)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Pushimet i kaloj buzë detit",
     "field8": "",
-    "category": "Udhëtoni"
+    "category": "Udhëtimet"
   },
   "399": {
     "cardNumber": "399",
@@ -4828,7 +4828,7 @@
   },
   "401": {
     "cardNumber": "401",
-    "field1": "jashtë",
+    "field1": "nga",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4840,13 +4840,13 @@
   },
   "402": {
     "cardNumber": "402",
-    "field1": "në",
+    "field1": "te / pranë",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Posta është në stacionin e trenit",
+    "field7": "Posta është pranë stacionit të trenit",
     "field8": "Unë do të qëndroj me tezen time sot",
     "category": "Lëvizja dhe përcaktimi i vendndodhjes"
   },
@@ -4864,8 +4864,8 @@
   },
   "404": {
     "cardNumber": "404",
-    "field1": "shko",
-    "field2": "(shkon-shkoi-iku)",
+    "field1": "shkoj",
+    "field2": "(e tashme: geht; e shkuar: ging; pjesore: gegangen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -4894,37 +4894,37 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Unë jam në (në) shtëpi",
+    "field7": "Unë jam në shtëpi",
     "field8": "",
     "category": "Lëvizja dhe përcaktimi i vendndodhjes"
   },
   "407": {
     "cardNumber": "407",
-    "field1": "ejani",
-    "field2": "(vjen-erdhi-erdhi)",
+    "field1": "vij",
+    "field2": "(e tashme: kommt; e shkuar: kam; pjesore: gekommen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Treni është vonë",
-    "field8": "Nga jeni ju?",
+    "field7": "Treni vjen me vonesë",
+    "field8": "Nga vjen?",
     "category": "Lëvizja dhe përcaktimi i vendndodhjes"
   },
   "408": {
     "cardNumber": "408",
-    "field1": "gënjeshtër",
-    "field2": "(gënjeshtra-gënjeshtra-gënjeshtra)",
+    "field1": "rri shtrirë / ndodhem",
+    "field2": "(e tashme: liegt; e shkuar: lag; pjesore: gelegen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Pse është kjo këtu?",
+    "field7": "Pse ndodhet kjo këtu?",
     "field8": "",
     "category": "Lëvizja dhe përcaktimi i vendndodhjes"
   },
   "409": {
     "cardNumber": "409",
-    "field1": "pas",
+    "field1": "për / drejt",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4948,8 +4948,8 @@
   },
   "411": {
     "cardNumber": "411",
-    "field1": "ulu",
-    "field2": "(ul-ul-ul)",
+    "field1": "rri ulur",
+    "field2": "(e tashme: sitzt; e shkuar: saß; pjesore: gesessen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -4966,7 +4966,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "ku jeni ju?",
+    "field7": "Ku je?",
     "field8": "",
     "category": "Lëvizja dhe përcaktimi i vendndodhjes"
   },
@@ -4990,13 +4990,13 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Unë jam duke shkuar te mjeku",
+    "field7": "Shkoj te mjeku",
     "field8": "Unë do të vij për vizitë nesër",
     "category": "Lëvizja dhe përcaktimi i vendndodhjes"
   },
   "415": {
     "cardNumber": "415",
-    "field1": "makinën",
+    "field1": "makina",
     "field2": "makinat",
     "field3": "",
     "field4": "",
@@ -5014,13 +5014,13 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "A jeni duke fluturuar me aeroplan apo duke ngarë makinën?",
+    "field7": "A do të udhëtoni me avion apo me makinë?",
     "field8": "",
     "category": "Transporti"
   },
   "417": {
     "cardNumber": "417",
-    "field1": "anijen",
+    "field1": "anija",
     "field2": "anijet",
     "field3": "",
     "field4": "",
@@ -5056,8 +5056,8 @@
   },
   "420": {
     "cardNumber": "420",
-    "field1": "rrugën",
-    "field2": "shtigjet",
+    "field1": "rruga",
+    "field2": "rrugët",
     "field3": "trotuari",
     "field4": "",
     "field5": "",
@@ -5081,11 +5081,11 @@
   },
   "422": {
     "cardNumber": "422",
-    "field1": "kartën",
+    "field1": "karta",
     "field2": "kartat",
-    "field3": "biletën",
+    "field3": "bileta",
     "field4": "",
-    "field5": "biletën e kinemasë",
+    "field5": "bileta e kinemasë",
     "field6": "",
     "field7": "",
     "field8": "",
@@ -5093,8 +5093,8 @@
   },
   "423": {
     "cardNumber": "423",
-    "field1": "makinë",
-    "field2": "(ngas-ngas-ngas)",
+    "field1": "udhëtoj me mjet / ngas",
+    "field2": "(e tashme: fährt; e shkuar: fuhr; pjesore: gefahren)",
     "field3": "shoferi",
     "field4": "shoferët",
     "field5": "",
@@ -5105,8 +5105,8 @@
   },
   "424": {
     "cardNumber": "424",
-    "field1": "fluturojnë",
-    "field2": "(fluturon-fluturon-fluturon)",
+    "field1": "fluturoj",
+    "field2": "(e tashme: fliegt; e shkuar: flog; pjesore: geflogen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -5135,7 +5135,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Jeni duke vozitur shumë shpejt",
+    "field7": "Po e nget makinën shumë shpejt",
     "field8": "",
     "category": "Transporti"
   },
@@ -5149,7 +5149,7 @@
     "field6": "",
     "field7": "Ne po ndërtojmë një shtëpi",
     "field8": "",
-    "category": "qytet"
+    "category": "Qyteti"
   },
   "428": {
     "cardNumber": "428",
@@ -5161,7 +5161,7 @@
     "field6": "",
     "field7": "Unë rrallë marr një taksi",
     "field8": "",
-    "category": "qytet"
+    "category": "Qyteti"
   },
   "429": {
     "cardNumber": "429",
@@ -5173,11 +5173,11 @@
     "field6": "",
     "field7": "në qendër",
     "field8": "",
-    "category": "qytet"
+    "category": "Qyteti"
   },
   "430": {
     "cardNumber": "430",
-    "field1": "autobusin",
+    "field1": "autobusi",
     "field2": "autobusët",
     "field3": "",
     "field4": "",
@@ -5185,11 +5185,11 @@
     "field6": "",
     "field7": "Shkoj në shkollë me autobus",
     "field8": "",
-    "category": "qytet"
+    "category": "Qyteti"
   },
   "431": {
     "cardNumber": "431",
-    "field1": "parkun",
+    "field1": "parku",
     "field2": "parqet",
     "field3": "",
     "field4": "",
@@ -5197,11 +5197,11 @@
     "field6": "",
     "field7": "në park",
     "field8": "Të shtunave shkoj në park",
-    "category": "qytet"
+    "category": "Qyteti"
   },
   "432": {
     "cardNumber": "432",
-    "field1": "kopshtin zoologjik",
+    "field1": "kopshti zoologjik",
     "field2": "kopshtet zoologjike",
     "field3": "",
     "field4": "",
@@ -5209,7 +5209,7 @@
     "field6": "",
     "field7": "Sot do të shkojmë në kopshtin zoologjik",
     "field8": "",
-    "category": "qytet"
+    "category": "Qyteti"
   },
   "433": {
     "cardNumber": "433",
@@ -5221,11 +5221,11 @@
     "field6": "",
     "field7": "Unë jetoj në një qytet",
     "field8": "",
-    "category": "qytet"
+    "category": "Qyteti"
   },
   "434": {
     "cardNumber": "434",
-    "field1": "stacionin",
+    "field1": "stacioni",
     "field2": "stacionet",
     "field3": "stacioni i metrosë",
     "field4": "",
@@ -5233,7 +5233,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "qytet",
+    "category": "Qyteti",
     "imageName": ""
   },
   "435": {
@@ -5244,9 +5244,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Unë jetoj në Schillerstrasse",
+    "field7": "Banoj në rrugën Schiller",
     "field8": "",
-    "category": "qytet"
+    "category": "Qyteti"
   },
   "436": {
     "cardNumber": "436",
@@ -5262,13 +5262,13 @@
   },
   "437": {
     "cardNumber": "437",
-    "field1": "vendin",
+    "field1": "fshati / fshati si zonë rurale",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Gjyshërit e mi jetojnë në vend",
+    "field7": "Gjyshërit e mi jetojnë në fshat",
     "field8": "",
     "category": "Fshati"
   },
@@ -5287,7 +5287,7 @@
   },
   "439": {
     "cardNumber": "439",
-    "field1": "kopshtin",
+    "field1": "kopshti",
     "field2": "kopshtet",
     "field3": "kopshtari",
     "field4": "kopshtarët",
@@ -5300,7 +5300,7 @@
   },
   "440": {
     "cardNumber": "440",
-    "field1": "lulen",
+    "field1": "lulja",
     "field2": "lulet",
     "field3": "luledielli",
     "field4": "",
@@ -5312,8 +5312,8 @@
   },
   "441": {
     "cardNumber": "441",
-    "field1": "rriten",
-    "field2": "(rritet-rritur-rritur)",
+    "field1": "rritem",
+    "field2": "(e tashme: wächst; e shkuar: wuchs; pjesore: gewachsen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -5332,7 +5332,7 @@
     "field6": "",
     "field7": "Nuk e di, por Pjetri e di patjetër",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "443": {
     "cardNumber": "443",
@@ -5344,7 +5344,7 @@
     "field6": "",
     "field7": "A po mësoni edhe gjermanisht?",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "444": {
     "cardNumber": "444",
@@ -5356,31 +5356,31 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "445": {
     "cardNumber": "445",
-    "field1": "pyesni",
-    "field2": "(pyet-pyet-pyet)",
+    "field1": "lutem / kërkoj",
+    "field2": "(e tashme: bittet; e shkuar: bat; pjesore: gebeten)",
     "field3": "Ju lutem!",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Ju lutem!",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "446": {
     "cardNumber": "446",
-    "field1": "faleminderit",
+    "field1": "falënderoj",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Faleminderit shumë!",
-    "field8": "Asgjë për të falënderuar!",
-    "category": "Komunikimi me zë"
+    "field8": "S'ka përse!",
+    "category": "Komunikimi gjuhësor"
   },
   "447": {
     "cardNumber": "447",
@@ -5392,7 +5392,7 @@
     "field6": "",
     "field7": "Më falni ju lutem!",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "448": {
     "cardNumber": "448",
@@ -5404,11 +5404,11 @@
     "field6": "",
     "field7": "Më trego!",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "449": {
     "cardNumber": "449",
-    "field1": "me vjen keq!",
+    "field1": "Më vjen keq!",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -5416,7 +5416,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë",
+    "category": "Komunikimi gjuhësor",
     "imageName": ""
   },
   "450": {
@@ -5427,45 +5427,45 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ju uroj një natë të mirë",
+    "field7": "Të uroj një natë të mirë",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "451": {
     "cardNumber": "451",
     "field1": "Mirëmbrëma!",
     "field2": "",
-    "field3": "Mbrëmje!",
+    "field3": "Mirëmbrëma!",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "452": {
     "cardNumber": "452",
-    "field1": "Mirmengjesi!",
+    "field1": "Mirëmëngjes!",
     "field2": "",
-    "field3": "Mëngjes!",
+    "field3": "Mirëmëngjes!",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "453": {
     "cardNumber": "453",
-    "field1": "dite te mire!",
+    "field1": "Mirëdita!",
     "field2": "",
-    "field3": "ditë!",
+    "field3": "Mirëdita!",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "454": {
     "cardNumber": "454",
@@ -5477,24 +5477,24 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë",
+    "category": "Komunikimi gjuhësor",
     "imageName": ""
   },
   "455": {
     "cardNumber": "455",
-    "field1": "thirrur",
-    "field2": "(është-quhej)",
+    "field1": "quhem",
+    "field2": "(e tashme: heißt; e shkuar: hieß; pjesore: geheißen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "si e ke emrin?",
     "field8": "Emri im është Maria",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "456": {
     "cardNumber": "456",
-    "field1": "Zotin",
+    "field1": "zotëria",
     "field2": "zotërinjtë",
     "field3": "",
     "field4": "",
@@ -5502,7 +5502,7 @@
     "field6": "",
     "field7": "Zoti Schmidt",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "457": {
     "cardNumber": "457",
@@ -5514,7 +5514,7 @@
     "field6": "",
     "field7": "Po, ke të drejtë",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "458": {
     "cardNumber": "458",
@@ -5526,11 +5526,11 @@
     "field6": "",
     "field7": "Gjithçka e qartë?",
     "field8": "Kuptohet!",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "459": {
     "cardNumber": "459",
-    "field1": "Kujdesuni!",
+    "field1": "Kalofsh mirë!",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -5538,12 +5538,12 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë",
+    "category": "Komunikimi gjuhësor",
     "imageName": ""
   },
   "460": {
     "cardNumber": "460",
-    "field1": "nr",
+    "field1": "jo",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -5551,11 +5551,11 @@
     "field6": "",
     "field7": "Jo, faleminderit",
     "field8": "Oh jo!",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "461": {
     "cardNumber": "461",
-    "field1": "jo",
+    "field1": "nuk / jo",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -5563,7 +5563,7 @@
     "field6": "",
     "field7": "ende jo",
     "field8": "nuk e di",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "462": {
     "cardNumber": "462",
@@ -5575,7 +5575,7 @@
     "field6": "",
     "field7": "Shkoj në kinema ose në një koncert",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "463": {
     "cardNumber": "463",
@@ -5585,21 +5585,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Sa turp!",
-    "field8": "Është turp që duhet të iki tani",
-    "category": "Komunikimi me zë"
+    "field7": "Sa keq!",
+    "field8": "Sa keq që më duhet të iki që tani",
+    "category": "Komunikimi gjuhësor"
   },
   "464": {
     "cardNumber": "464",
-    "field1": "flasin",
-    "field2": "(flet-folur-folur)",
+    "field1": "flas",
+    "field2": "(e tashme: spricht; e shkuar: sprach; pjesore: gesprochen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "A flisni gjermanisht?",
     "field8": "Cilat gjuhë flisni?",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "465": {
     "cardNumber": "465",
@@ -5611,7 +5611,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë",
+    "category": "Komunikimi gjuhësor",
     "imageName": ""
   },
   "466": {
@@ -5623,8 +5623,8 @@
     "field5": "",
     "field6": "",
     "field7": "ajo dhe ai",
-    "field8": "Unë jam mirë, dhe ju si jeni?",
-    "category": "Komunikimi me zë"
+    "field8": "Jam mirë, po ti si je?",
+    "category": "Komunikimi gjuhësor"
   },
   "467": {
     "cardNumber": "467",
@@ -5634,9 +5634,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Pse jeni të lodhur?",
+    "field7": "Pse je i lodhur?",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "468": {
     "cardNumber": "468",
@@ -5648,23 +5648,23 @@
     "field6": "",
     "field7": "Çfarë po bën?",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "469": {
     "cardNumber": "469",
-    "field1": "si ja kaloni?",
+    "field1": "Si je?",
     "field2": "",
-    "field3": "si ja kaloni?",
+    "field3": "Si jeni?",
     "field4": "",
     "field5": "Faleminderit, jam mirë",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Komunikimi me zë"
+    "category": "Komunikimi gjuhësor"
   },
   "470": {
     "cardNumber": "470",
-    "field1": "internetin",
+    "field1": "interneti",
     "field2": "",
     "field3": "faqen e internetit",
     "field4": "",
@@ -5672,11 +5672,11 @@
     "field6": "",
     "field7": "në internet",
     "field8": "",
-    "category": "Media"
+    "category": "Mediat"
   },
   "471": {
     "cardNumber": "471",
-    "field1": "radion",
+    "field1": "radioja",
     "field2": "radiot",
     "field3": "",
     "field4": "",
@@ -5684,35 +5684,35 @@
     "field6": "",
     "field7": "në radio",
     "field8": "A dëgjoni radio?",
-    "category": "Media"
+    "category": "Mediat"
   },
   "472": {
     "cardNumber": "472",
-    "field1": "letrën",
+    "field1": "letra",
     "field2": "letrat",
-    "field3": "postierin",
+    "field3": "postieri",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Babai shkruan një letër",
     "field8": "",
-    "category": "Media"
+    "category": "Mediat"
   },
   "473": {
     "cardNumber": "473",
-    "field1": "adresën",
+    "field1": "adresa",
     "field2": "adresat",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Cila është adresa juaj?",
-    "field8": "Nuk e kam adresën tuaj",
-    "category": "Media"
+    "field7": "Cila është adresa jote?",
+    "field8": "Nuk e kam adresën tënde",
+    "category": "Mediat"
   },
   "474": {
     "cardNumber": "474",
-    "field1": "emailin",
+    "field1": "emaili",
     "field2": "emailet",
     "field3": "adresën e emailit",
     "field4": "",
@@ -5720,24 +5720,24 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Media",
+    "category": "Mediat",
     "imageName": ""
   },
   "475": {
     "cardNumber": "475",
-    "field1": "mesazhin",
-    "field2": "lajmet",
+    "field1": "lajmi / mesazhi",
+    "field2": "lajmet / mesazhet",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Kam një lajm të mirë",
     "field8": "",
-    "category": "Media"
+    "category": "Mediat"
   },
   "476": {
     "cardNumber": "476",
-    "field1": "revistën",
+    "field1": "revista",
     "field2": "revistat",
     "field3": "revista e grave",
     "field4": "",
@@ -5745,56 +5745,56 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Media",
+    "category": "Mediat",
     "imageName": ""
   },
   "477": {
     "cardNumber": "477",
-    "field1": "gazetën",
+    "field1": "gazeta",
     "field2": "gazetat",
-    "field3": "gazetën javore",
+    "field3": "gazeta javore",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "A ju pëlqen të lexoni gazeta?",
+    "field7": "A të pëlqen të lexosh gazeta?",
     "field8": "",
-    "category": "Media"
+    "category": "Mediat"
   },
   "478": {
     "cardNumber": "478",
-    "field1": "dërgoni",
+    "field1": "dërgoj",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Do ta dërgoj letrën me postë ajrore",
+    "field7": "E dërgoj letrën me postë ajrore",
     "field8": "",
-    "category": "Media"
+    "category": "Mediat"
   },
   "479": {
     "cardNumber": "479",
     "field1": "bëj një telefonatë",
     "field2": "",
-    "field3": "telefonin",
+    "field3": "telefoni",
     "field4": "telefonat",
-    "field5": "celularin",
+    "field5": "celulari",
     "field6": "telefonat celularë",
     "field7": "",
     "field8": "",
-    "category": "Media"
+    "category": "Mediat"
   },
   "480": {
     "cardNumber": "480",
-    "field1": "puna",
+    "field1": "punoj",
     "field2": "",
-    "field3": "punën",
+    "field3": "puna",
     "field4": "",
     "field5": "punëtori",
     "field6": "punëtorët",
     "field7": "",
     "field8": "",
-    "category": "puna"
+    "category": "Puna"
   },
   "481": {
     "cardNumber": "481",
@@ -5806,24 +5806,24 @@
     "field6": "",
     "field7": "Lars nuk do të shkojë në zyrë sot",
     "field8": "",
-    "category": "puna"
+    "category": "Puna"
   },
   "482": {
     "cardNumber": "482",
-    "field1": "datën",
-    "field2": "të dhënat",
+    "field1": "data",
+    "field2": "datat",
     "field3": "data e lindjes",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "puna",
+    "category": "Puna",
     "imageName": ""
   },
   "483": {
     "cardNumber": "483",
-    "field1": "dokumentin",
+    "field1": "dokumenti",
     "field2": "dokumentet",
     "field3": "",
     "field4": "",
@@ -5831,11 +5831,11 @@
     "field6": "",
     "field7": "një dokument i rëndësishëm",
     "field8": "",
-    "category": "puna"
+    "category": "Puna"
   },
   "484": {
     "cardNumber": "484",
-    "field1": "profesionin",
+    "field1": "profesioni",
     "field2": "profesionet",
     "field3": "",
     "field4": "",
@@ -5843,24 +5843,24 @@
     "field6": "",
     "field7": "Cili është profesioni juaj?",
     "field8": "",
-    "category": "puna"
+    "category": "Puna"
   },
   "485": {
     "cardNumber": "485",
     "field1": "emri",
     "field2": "emrat",
-    "field3": "emri i parë",
-    "field4": "emrat e parë",
+    "field3": "emri",
+    "field4": "emrat",
     "field5": "mbiemri",
     "field6": "mbiemrat",
     "field7": "",
     "field8": "",
-    "category": "puna",
+    "category": "Puna",
     "imageName": ""
   },
   "486": {
     "cardNumber": "486",
-    "field1": "gabim",
+    "field1": "i gabuar",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -5868,7 +5868,7 @@
     "field6": "",
     "field7": "Kjo datë është e pasaktë",
     "field8": "",
-    "category": "puna"
+    "category": "Puna"
   },
   "487": {
     "cardNumber": "487",
@@ -5878,9 +5878,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Çfarë jeni duke bërë në fundjavë?",
+    "field7": "Çfarë bën në fundjavë?",
     "field8": "",
-    "category": "puna"
+    "category": "Puna"
   },
   "488": {
     "cardNumber": "488",
@@ -5892,35 +5892,35 @@
     "field6": "",
     "field7": "Unë jam i lodhur pas punës",
     "field8": "",
-    "category": "puna"
+    "category": "Puna"
   },
   "489": {
     "cardNumber": "489",
-    "field1": "korrekte",
+    "field1": "i saktë",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "A është kjo e saktë?",
-    "field8": "Kjo formë është e saktë",
-    "category": "puna"
+    "field8": "Ky formular është i saktë",
+    "category": "Puna"
   },
   "490": {
     "cardNumber": "490",
-    "field1": "fitojnë",
+    "field1": "fitoj (para)",
     "field2": "",
-    "field3": "merita",
+    "field3": "fitimi / të ardhurat",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Ai fiton shumë para",
     "field8": "",
-    "category": "puna"
+    "category": "Puna"
   },
   "491": {
     "cardNumber": "491",
-    "field1": "lirë",
+    "field1": "i lirë",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -5944,7 +5944,7 @@
   },
   "493": {
     "cardNumber": "493",
-    "field1": "çmimin",
+    "field1": "çmimi",
     "field2": "çmimet",
     "field3": "",
     "field4": "",
@@ -5970,8 +5970,8 @@
     "cardNumber": "495",
     "field1": "fabrika",
     "field2": "fabrikat",
-    "field3": "punën",
-    "field4": "punimet",
+    "field3": "fabrika / uzina",
+    "field4": "fabrikat / uzinat",
     "field5": "",
     "field6": "",
     "field7": "Xhaxhai im punon në një fabrikë",
@@ -5993,8 +5993,8 @@
   },
   "497": {
     "cardNumber": "497",
-    "field1": "kanë",
-    "field2": "(ka-kishte-kishte)",
+    "field1": "kam",
+    "field2": "(e tashme: hat; e shkuar: hatte; pjesore: gehabt)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -6005,7 +6005,7 @@
   },
   "498": {
     "cardNumber": "498",
-    "field1": "kosto",
+    "field1": "kushton",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -6017,7 +6017,7 @@
   },
   "499": {
     "cardNumber": "499",
-    "field1": "shtrenjtë",
+    "field1": "i shtrenjtë",
     "field2": "",
     "field3": "",
     "field4": "",

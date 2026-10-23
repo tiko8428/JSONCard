@@ -1,39 +1,39 @@
 {
     "1": {
         "cardNumber": "1",
-        "field1": "prezent",
-        "field2": "S-au servit mese delicioase",
+        "field1": "a pune pe masă / a servi",
+        "field2": "S-au servit mâncăruri delicioase.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "2": {
         "cardNumber": "2",
         "field1": "variat",
-        "field2": "Fii atent la dieta ta si mananca o varietate de alimente!",
+        "field2": "Aveți grijă de alimentația dumneavoastră și mâncați variat!",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "3": {
         "cardNumber": "3",
-        "field1": "nevoie",
-        "field2": "(necesar-necesar-necesar)",
+        "field1": "a necesita / a avea nevoie de",
+        "field2": "(prezent: bedarf; preterit: bedurfte; participiu: bedurft)",
         "field3": "Felul de mâncare necesită o atenție specială",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "4": {
         "cardNumber": "4",
@@ -45,83 +45,83 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "5": {
         "cardNumber": "5",
-        "field1": "produsul finit",
-        "field2": "produsele finite",
+        "field1": "produsul alimentar gata preparat",
+        "field2": "produsele alimentare gata preparate",
         "field3": "Cât de hrănitoare sunt aceste produse gata preparate?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "6": {
         "cardNumber": "6",
-        "field1": "cel mai bun înainte de data",
-        "field2": "Data ca cel mai bun înainte a expirat de mult",
+        "field1": "data durabilității minimale",
+        "field2": "Data durabilității minimale a fost depășită de mult.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "7": {
         "cardNumber": "7",
         "field1": "piureul",
         "field2": "piureurile",
-        "field3": "piure",
+        "field3": "a pasa / a face piure",
         "field4": "În copilărie uram piureul de cartofi",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "8": {
-        "cardNumber": "al 8-lea",
+        "cardNumber": "8",
         "field1": "sita",
         "field2": "sitele",
-        "field3": "Șapte",
+        "field3": "a cerne",
         "field4": "Ai o memorie ca o sită",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "9": {
         "cardNumber": "9",
-        "field1": "răspândirea",
-        "field2": "spread-urile",
-        "field3": "Ce vrei ca spread?",
-        "field4": "Prefer untul ca tartinat",
+        "field1": "pasta tartinabilă",
+        "field2": "pastele tartinabile",
+        "field3": "Ce vrei să întinzi pe pâine?",
+        "field4": "Prefer să ung pâinea cu unt.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "10": {
         "cardNumber": "10",
-        "field1": "rândunica",
-        "field2": "înghiţiturile",
-        "field3": "a inghiti",
-        "field4": "Ai un pahar de apa pentru mine?",
+        "field1": "înghițitura",
+        "field2": "înghițiturile",
+        "field3": "a înghiți",
+        "field4": "Ai o înghițitură de apă pentru mine?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "11": {
         "cardNumber": "11",
-        "field1": "stoc",
+        "field1": "provizia / rezerva",
         "field2": "proviziile",
         "field3": "Se epuizează proviziile",
         "field4": "",
@@ -129,59 +129,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "12": {
         "cardNumber": "12",
-        "field1": "lentilele",
-        "field2": "lentilele",
+        "field1": "bobul de linte",
+        "field2": "boabele de linte",
         "field3": "Eu gătesc linte la cină",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "13": {
         "cardNumber": "13",
         "field1": "risipa",
-        "field2": "deşeuri",
-        "field3": "Mancare irosita",
+        "field2": "a risipi",
+        "field3": "risipa alimentară",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "14": {
         "cardNumber": "14",
-        "field1": "compatibilitatea",
-        "field2": "compatibil",
+        "field1": "tolerabilitatea",
+        "field2": "ușor de tolerat",
         "field3": "Acest aliment este greu de tolerat",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "15": {
         "cardNumber": "15",
         "field1": "comestibil",
-        "field2": "necomestibile",
+        "field2": "necomestibil",
         "field3": "Peștele nu mai este comestibil.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "16": {
         "cardNumber": "16",
-        "field1": "satura",
+        "field1": "a sătura",
         "field2": "Mâncarea aceasta este sățioasă",
         "field3": "Curiozitatea lui nu poate fi satisfăcută",
         "field4": "",
@@ -189,31 +189,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "17": {
         "cardNumber": "17",
-        "field1": "rasfata-te",
-        "field2": "(stricat-stricat-stricat)",
+        "field1": "a se strica",
+        "field2": "(prezent: verdirbt; preterit: verdarb; participiu: verdorben)",
         "field3": "perisabil",
         "field4": "Aceste alimente sunt foarte perisabile",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "18": {
         "cardNumber": "18",
-        "field1": "devora",
-        "field2": "(devorat-devorat-devorat)",
-        "field3": "Ea a devorat rulada în cel mai scurt timp",
+        "field1": "a devora",
+        "field2": "(prezent: verschlingt; preterit: verschlang; participiu: verschlungen)",
+        "field3": "Ea a devorat chifla într-o clipă.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "19": {
         "cardNumber": "19",
@@ -225,71 +225,71 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Nutriție"
+        "category": "Alimentație"
     },
     "20": {
         "cardNumber": "20",
-        "field1": "limpeziți",
-        "field2": "Trebuie să-mi curăț din nou dulapul",
+        "field1": "a face ordine / a debarasa",
+        "field2": "Trebuie să fac din nou ordine în dulap și să arunc lucrurile inutile.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "21": {
         "cardNumber": "21",
-        "field1": "ilumina",
-        "field2": "Iluminatul",
-        "field3": "Iluminatul",
+        "field1": "a ilumina",
+        "field2": "iluminatul",
+        "field3": "sistemele de iluminat",
         "field4": "Nu poți lucra cu acest iluminat!",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "22": {
         "cardNumber": "22",
-        "field1": "bazinul",
-        "field2": "piscinele",
-        "field3": "Piscina este blocata",
-        "field4": "Vrei să umpli ligheanul cu apă?",
+        "field1": "chiuveta / bazinul",
+        "field2": "chiuvetele / bazinele",
+        "field3": "Chiuveta este înfundată.",
+        "field4": "Umpli, te rog, chiuveta cu apă?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "23": {
         "cardNumber": "23",
         "field1": "balustrada",
         "field2": "balustradele",
-        "field3": "Ține-te de balustradă",
+        "field3": "Țineți-vă bine de balustradă.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "24": {
         "cardNumber": "24",
-        "field1": "alarma de incendiu",
-        "field2": "alarmele de incendiu",
-        "field3": "S-a repezit la alarma de incendiu",
+        "field1": "dispozitivul de alarmare în caz de incendiu",
+        "field2": "dispozitivele de alarmare în caz de incendiu",
+        "field3": "Ea s-a repezit la dispozitivul de alarmare în caz de incendiu.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "25": {
         "cardNumber": "25",
-        "field1": "un cal alb; mucegai",
+        "field1": "mucegaiul",
         "field2": "Cea mai bună protecție împotriva mucegaiului este ventilația regulată",
         "field3": "",
         "field4": "",
@@ -297,47 +297,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "26": {
         "cardNumber": "26",
-        "field1": "cartoful de canapea",
-        "field2": "cartofii de canapea",
-        "field3": "Acest cartof de canapea iese rar din apartamentul lui",
+        "field1": "sedentarul care stă mereu în casă",
+        "field2": "sedentarii care stau mereu în casă",
+        "field3": "Acest sedentar abia dacă iese din locuința lui.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "27": {
         "cardNumber": "27",
         "field1": "chiria de bază",
         "field2": "chiriile de bază",
-        "field3": "chiria caldă",
-        "field4": "chiriile calde",
+        "field3": "chiria cu cheltuielile de întreținere incluse",
+        "field4": "chiriile cu cheltuielile de întreținere incluse",
         "field5": "Chiria de bază este de 700 de euro",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "28": {
         "cardNumber": "28",
-        "field1": "Administratia",
-        "field2": "Linia este defectă",
+        "field1": "conducta / cablul",
+        "field2": "Conducta este defectă.",
         "field3": "Mai trebuie să punem o conductă de gaz",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "29": {
         "cardNumber": "29",
-        "field1": "desprinde",
+        "field1": "a se desprinde",
         "field2": "Tapetul din camera de zi se desprinde încet",
         "field3": "",
         "field4": "",
@@ -345,35 +345,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "30": {
         "cardNumber": "30",
-        "field1": "sabot",
-        "field2": "Constipatia",
-        "field3": "blocajele",
+        "field1": "a înfunda",
+        "field2": "înfundarea / constipația",
+        "field3": "înfundările / constipațiile",
         "field4": "Părul a blocat scurgerea",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "31": {
         "cardNumber": "31",
-        "field1": "dispersa",
-        "field2": "risipite",
+        "field1": "a împrăștia",
+        "field2": "împrăștiat",
         "field3": "Lucrurile ei erau împrăștiate în toată camera",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Casa"
+        "category": "Locuință"
     },
     "32": {
         "cardNumber": "32",
-        "field1": "ușoară",
+        "field1": "a aprinde",
         "field2": "Și-a aprins o țigară",
         "field3": "",
         "field4": "",
@@ -381,95 +381,95 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "33": {
         "cardNumber": "33",
         "field1": "eroarea",
         "field2": "erorile",
-        "field3": "greseste",
+        "field3": "a se înșela",
         "field4": "Dar te înșeli!",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "34": {
         "cardNumber": "34",
         "field1": "muritorul de rând",
         "field2": "muritorii de rând",
         "field3": "Există aici camere pentru simpli muritori?",
-        "field4": "Fiecare muritor știe ce este asta",
+        "field4": "Orice muritor de rând știe ce este asta.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "35": {
         "cardNumber": "35",
         "field1": "sunetul",
         "field2": "sunetele",
-        "field3": "sunet",
+        "field3": "a răsuna",
         "field4": "Deodată s-a auzit un țipăt",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "36": {
         "cardNumber": "36",
-        "field1": "decelerația",
-        "field2": "acceleratia",
-        "field3": "Trebuie sa fac asta cu viteza maxima",
+        "field1": "încetinirea ritmului",
+        "field2": "accelerarea",
+        "field3": "Trebuie să rezolv asta cât mai repede.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "37": {
         "cardNumber": "37",
-        "field1": "căscat",
-        "field2": "Ea căscă de oboseală",
+        "field1": "a căsca",
+        "field2": "Ea căsca de oboseală.",
         "field3": "Nu m-am putut abține să nu căsc de plictiseală",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "38": {
         "cardNumber": "38",
-        "field1": "trata",
-        "field2": "Îmi dau o mică pauză acum",
+        "field1": "a-i dori cuiva un lucru bun / a-și permite o plăcere",
+        "field2": "Îmi permit acum o scurtă pauză.",
         "field3": "Chiar merită acest succes",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "39": {
         "cardNumber": "39",
-        "field1": "mâner",
-        "field2": "manipularea",
-        "field3": "Îmi puteți explica cum să folosesc acest dispozitiv?",
+        "field1": "a mânui / a utiliza",
+        "field2": "utilizarea",
+        "field3": "Poți să-mi explici cum se folosește acest aparat?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "40": {
         "cardNumber": "40",
-        "field1": "se dovedeste",
+        "field1": "a-și dovedi valoarea / a se dovedi bun",
         "field2": "S-a dovedit a fi un prieten loial",
         "field3": "",
         "field4": "",
@@ -477,19 +477,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "41": {
         "cardNumber": "41",
-        "field1": "in schimb",
-        "field2": "A renuntat la yoga si acum merge in schimb la jogging",
+        "field1": "în schimb",
+        "field2": "Ea a renunțat la yoga; în schimb, acum face jogging.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "42": {
         "cardNumber": "42",
@@ -501,11 +501,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "43": {
         "cardNumber": "43",
-        "field1": "neglijare",
+        "field1": "a neglija",
         "field2": "Grădina pare neglijată",
         "field3": "Copiii se simt neglijați de părinți",
         "field4": "",
@@ -513,91 +513,91 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "44": {
         "cardNumber": "44",
-        "field1": "realiza",
-        "field2": "Ea și-a realizat în sfârșit visul de a-și deține propria casă",
+        "field1": "a realiza / a înfăptui",
+        "field2": "Ea și-a împlinit în sfârșit visul de a avea propria casă.",
         "field3": "Nu toate ideile pot fi realizate fără efort",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "45": {
         "cardNumber": "45",
-        "field1": "întâmpla",
-        "field2": "(apare-apare-apare)",
+        "field1": "a se întâmpla",
+        "field2": "(prezent: kommt vor; preterit: kam vor; participiu: vorgekommen)",
         "field3": "Nu am mai experimentat așa ceva până acum",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "În fiecare zi"
+        "category": "Viața de zi cu zi"
     },
     "46": {
         "cardNumber": "46",
-        "field1": "atotcuprinzătoare",
-        "field2": "Un program atotcuprinzător este disponibil pentru o săptămână",
+        "field1": "atotcuprinzător",
+        "field2": "Timp de o săptămână vă stă la dispoziție un program atotcuprinzător.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "47": {
         "cardNumber": "47",
-        "field1": "dobândi",
-        "field2": "cumparatura",
-        "field3": "cumpărăturile",
+        "field1": "a achiziționa",
+        "field2": "achiziția",
+        "field3": "achizițiile",
         "field4": "Ai făcut deja toate achizițiile pentru noul tău apartament?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "48": {
         "cardNumber": "48",
-        "field1": "aşterne",
-        "field2": "De ce nu a expus nimeni marfa noua in vitrina?",
+        "field1": "a expune / a întinde",
+        "field2": "De ce nu a expus nimeni marfa nouă în vitrină?",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "49": {
         "cardNumber": "49",
         "field1": "supraoferta",
-        "field2": "supraoferta",
+        "field2": "ofertele excedentare",
         "field3": "oferta insuficientă",
-        "field4": "subofertele",
+        "field4": "ofertele insuficiente",
         "field5": "Există o ofertă excesivă de alimente în supermarketuri",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "50": {
         "cardNumber": "50",
-        "field1": "Graba",
+        "field1": "aglomerația",
         "field2": "Aglomerația la deschiderea noului magazin a fost enormă",
-        "field3": "A fost o mare graba la casă",
+        "field3": "La casă era o mare aglomerație.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "51": {
         "cardNumber": "51",
@@ -609,31 +609,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "52": {
         "cardNumber": "52",
-        "field1": "informatia",
-        "field2": "informatia",
-        "field3": "As dori niste informatii",
+        "field1": "informația",
+        "field2": "informațiile",
+        "field3": "Aș dori o informație.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "53": {
         "cardNumber": "53",
-        "field1": "clientii",
-        "field2": "clientii",
-        "field3": "Avem o clientela mare",
+        "field1": "clientela",
+        "field2": "clientelele",
+        "field3": "Avem o clientelă numeroasă.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "54": {
         "cardNumber": "54",
@@ -645,7 +645,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "55": {
         "cardNumber": "55",
@@ -657,11 +657,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "56": {
         "cardNumber": "56",
-        "field1": "garanție",
+        "field1": "a garanta",
         "field2": "Puteți garanta că livrarea va ajunge la timp?",
         "field3": "",
         "field4": "",
@@ -669,19 +669,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "57": {
         "cardNumber": "57",
         "field1": "a depozita",
         "field2": "depozitul",
-        "field3": "tabere",
-        "field4": "Mai avem aceasta dimensiune pe stoc",
+        "field3": "depozitele",
+        "field4": "Mai avem această mărime în stoc.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "58": {
         "cardNumber": "58",
@@ -693,14 +693,14 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Achizitii si servicii"
+        "category": "Cumpărături și servicii"
     },
     "59": {
         "cardNumber": "59",
         "field1": "a adopta",
         "field2": "copilul adoptat",
         "field3": "copiii adoptivi",
-        "field4": "parintii adoptivi",
+        "field4": "părinții adoptivi",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -709,8 +709,8 @@
     },
     "60": {
         "cardNumber": "60",
-        "field1": "menținut",
-        "field2": "(intretine-intretine-intretine)",
+        "field1": "a menține",
+        "field2": "(prezent: erhält aufrecht; preterit: erhielt aufrecht; participiu: aufrechterhalten)",
         "field3": "Încearcă să mențină legătura cu familia",
         "field4": "",
         "field5": "",
@@ -721,8 +721,8 @@
     },
     "61": {
         "cardNumber": "61",
-        "field1": "se sustrage",
-        "field2": "(dodges-dodges-dodges)",
+        "field1": "a evita / a se feri",
+        "field2": "(prezent: weicht aus; preterit: wich aus; participiu: ausgewichen)",
         "field3": "De ce mă eviți?",
         "field4": "",
         "field5": "",
@@ -733,9 +733,9 @@
     },
     "62": {
         "cardNumber": "62",
-        "field1": "acorda",
-        "field2": "dăruirea de cadouri",
-        "field3": "cadourile",
+        "field1": "a dărui",
+        "field2": "împărțirea cadourilor de Crăciun",
+        "field3": "împărțirile cadourilor de Crăciun",
         "field4": "Ce le-ați oferit copiilor de Crăciun?",
         "field5": "",
         "field6": "",
@@ -745,8 +745,8 @@
     },
     "63": {
         "cardNumber": "63",
-        "field1": "unirea",
-        "field2": "Nu a existat nici o unitate între surori",
+        "field1": "sentimentul de apartenență / legătura de solidaritate",
+        "field2": "Între surori nu exista un sentiment de solidaritate.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -771,7 +771,7 @@
         "cardNumber": "65",
         "field1": "luna de miere",
         "field2": "Ne-am petrecut luna de miere la Veneția",
-        "field3": "Când pleci în luna de miere?",
+        "field3": "Când plecați în luna de miere?",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -781,8 +781,8 @@
     },
     "66": {
         "cardNumber": "66",
-        "field1": "pubertate",
-        "field2": "pubertate",
+        "field1": "pubertatea",
+        "field2": "a trece prin pubertate",
         "field3": "El intră treptat la pubertate",
         "field4": "",
         "field5": "",
@@ -795,8 +795,8 @@
         "cardNumber": "67",
         "field1": "părinții vitregi",
         "field2": "tatăl vitreg",
-        "field3": "tatii vitregi",
-        "field4": "Mama vitrega",
+        "field3": "tații vitregi",
+        "field4": "mama vitregă",
         "field5": "mamele vitrege",
         "field6": "",
         "field7": "",
@@ -805,8 +805,8 @@
     },
     "68": {
         "cardNumber": "68",
-        "field1": "ciupit",
-        "field2": "(ciupi-ciupi-ciupiți)",
+        "field1": "a ciupi",
+        "field2": "(prezent: kneift; preterit: kniff; participiu: gekniffen)",
         "field3": "Ea a ciupit obrazul copilului",
         "field4": "",
         "field5": "",
@@ -829,8 +829,8 @@
     },
     "70": {
         "cardNumber": "70",
-        "field1": "au un cuvânt de spus",
-        "field2": "(co-decide-co-decide-co-decide)",
+        "field1": "a participa la luarea deciziilor",
+        "field2": "(prezent: entscheidet mit; preterit: entschied mit; participiu: mitentschieden)",
         "field3": "Copiii au, de asemenea, voie să aibă un cuvânt de spus",
         "field4": "",
         "field5": "",
@@ -841,10 +841,10 @@
     },
     "71": {
         "cardNumber": "71",
-        "field1": "nou nascut",
+        "field1": "nou-născut",
         "field2": "nou-născutul",
-        "field3": "nou-născuţii",
-        "field4": "Copiii nou-născuți zac în această secție",
+        "field3": "nou-născuții",
+        "field4": "În această secție se află copiii nou-născuți.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -853,8 +853,8 @@
     },
     "72": {
         "cardNumber": "72",
-        "field1": "exemplifica",
-        "field2": "Părinții ei i-au modelat disponibilitatea de a ajuta",
+        "field1": "a da exemplu prin propria viață",
+        "field2": "Părinții ei i-au dat, prin propriul comportament, un exemplu de disponibilitate de a-i ajuta pe ceilalți.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -865,9 +865,9 @@
     },
     "73": {
         "cardNumber": "73",
-        "field1": "asociate",
-        "field2": "apartenenta",
-        "field3": "Avea sentimentul de apartenență celor mai apropiați",
+        "field1": "aparținând / care ține de",
+        "field2": "apartenența",
+        "field3": "Simțea că aparține grupului celor apropiați.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -877,31 +877,31 @@
     },
     "74": {
         "cardNumber": "74",
-        "field1": "vizibil",
+        "field1": "care atrage atenția / izbitor",
         "field2": "discret",
-        "field3": "Hainele ei sunt foarte atrăgătoare",
+        "field3": "Hainele ei atrag foarte mult atenția.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "75": {
         "cardNumber": "75",
-        "field1": "apărea",
-        "field2": "(apare-apare-apare)",
-        "field3": "aparenta",
-        "field4": "Păreai puțin sigur astăzi",
+        "field1": "a apărea / a se prezenta",
+        "field2": "(prezent: tritt auf; preterit: trat auf; participiu: aufgetreten)",
+        "field3": "felul de a se prezenta",
+        "field4": "Astăzi te-ai prezentat cu oarecare nesiguranță.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "76": {
         "cardNumber": "76",
-        "field1": "judecător",
+        "field1": "a judeca / a evalua",
         "field2": "evaluarea",
         "field3": "evaluările",
         "field4": "Nu ar trebui să judeci oamenii în funcție de aspectul lor",
@@ -909,7 +909,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "77": {
         "cardNumber": "77",
@@ -921,19 +921,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "78": {
         "cardNumber": "78",
-        "field1": "cântarele",
-        "field2": "Ce șampon pentru mătreață ați recomanda?",
+        "field1": "mătreața",
+        "field2": "Ce șampon împotriva mătreții mi-ați recomanda?",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "79": {
         "cardNumber": "79",
@@ -945,23 +945,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "80": {
         "cardNumber": "80",
         "field1": "tatuajul",
         "field2": "tatuajele",
-        "field3": "tatuaj",
+        "field3": "a tatua",
         "field4": "I s-a îndepărtat tatuajul",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "81": {
         "cardNumber": "81",
-        "field1": "pieptene",
+        "field1": "a coafa",
         "field2": "Coaforul ți-a făcut părul foarte frumos",
         "field3": "",
         "field4": "",
@@ -969,19 +969,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "82": {
         "cardNumber": "82",
-        "field1": "aplecat peste",
+        "field1": "aplecat / încovoiat",
         "field2": "drept",
-        "field3": "Pentru că era obosită, nu mai putea sta în picioare",
+        "field3": "De oboseală nu mai putea sta dreaptă pe scaun.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "83": {
         "cardNumber": "83",
@@ -993,11 +993,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "84": {
         "cardNumber": "84",
-        "field1": "moale",
+        "field1": "a șchiopăta",
         "field2": "Chiar și în copilărie șchiopăta cu piciorul stâng",
         "field3": "",
         "field4": "",
@@ -1005,95 +1005,95 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "85": {
         "cardNumber": "85",
-        "field1": "privirea",
-        "field2": "Băiatul se uită absent",
+        "field1": "a privi fix",
+        "field2": "Băiatul privea fix înainte, cu gândul în altă parte.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "86": {
         "cardNumber": "86",
-        "field1": "iertat",
-        "field2": "(deformat-deformat-deformat)",
-        "field3": "Ea a făcut o grimasă dureroasă",
+        "field1": "a schimonosi / a deforma",
+        "field2": "(prezent: verzieht; preterit: verzog; participiu: verzogen)",
+        "field3": "Și-a schimonosit fața de durere.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "87": {
         "cardNumber": "87",
-        "field1": "scoate afara",
+        "field1": "a tresări / a zvâcni",
         "field2": "zvâcnirea",
         "field3": "zvâcnirile",
-        "field4": "El îşi zvâcni scurt din sprâncene",
+        "field4": "El a tresărit scurt din sprâncene.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Uite"
+        "category": "Aspect fizic"
     },
     "88": {
         "cardNumber": "88",
-        "field1": "ghici",
-        "field2": "Nu bănuim nimic",
+        "field1": "a bănui / a presimți",
+        "field2": "Nu am bănuit nimic.",
         "field3": "Cine ar fi putut ghici asta!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "89": {
         "cardNumber": "89",
         "field1": "a fi impresionat",
-        "field2": "(este-era)",
-        "field3": "A fost luată imediat cu el",
-        "field4": "La început nu le-a fost deosebit de pasionat de ideea mea",
+        "field2": "(prezent: ist; preterit: war; participiu: gewesen)",
+        "field3": "Ea a fost imediat fermecată de el.",
+        "field4": "La început nu au fost prea încântați de ideea mea.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "90": {
         "cardNumber": "90",
-        "field1": "Cu sinceritate",
-        "field2": "imi pare sincer rau!",
+        "field1": "sincer",
+        "field2": "Îmi pare sincer rău!",
         "field3": "Are un caracter sincer",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "91": {
         "cardNumber": "91",
-        "field1": "insistenţă",
-        "field2": "persistent",
+        "field1": "a stărui / a insista",
+        "field2": "perseverent",
         "field3": "În ciuda tuturor argumentelor, el insistă asupra părerii sale",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "92": {
         "cardNumber": "92",
-        "field1": "regret",
+        "field1": "a regreta",
         "field2": "regretul",
         "field3": "Nu am regretat niciodată această decizie",
         "field4": "",
@@ -1101,139 +1101,139 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "93": {
         "cardNumber": "93",
-        "field1": "preocuparea",
-        "field2": "multumirile",
+        "field1": "îndoiala / rezerva",
+        "field2": "îndoielile / rezervele",
         "field3": "fără ezitare",
-        "field4": "merita considerat",
+        "field4": "demn de luat în considerare",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "94": {
         "cardNumber": "94",
-        "field1": "constiinta",
-        "field2": "remușcarea",
-        "field3": "Conștiința rea se trădează pe sine",
+        "field1": "conștiința",
+        "field2": "mustrările de conștiință",
+        "field3": "Conștiința vinovată se trădează singură.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "95": {
         "cardNumber": "95",
-        "field1": "judecata",
-        "field2": "Niciodată nu ar trebui să oprești judecata rațională",
+        "field1": "discernământul",
+        "field2": "Nu ar trebui să renunți niciodată la judecata rațională.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "96": {
         "cardNumber": "96",
         "field1": "dezgustul",
-        "field2": "detesta",
+        "field2": "a detesta",
         "field3": "Detest astfel de intrigi",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "97": {
         "cardNumber": "97",
-        "field1": "nevoia",
-        "field2": "Ea a făcut asta din constrângere interioară",
+        "field1": "imboldul / impulsul",
+        "field2": "A făcut asta dintr-un imbold lăuntric.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "98": {
         "cardNumber": "98",
-        "field1": "sfâșietorul de inimi",
-        "field2": "cei care sfâşie inima",
-        "field3": "E o adevărată sfâșietoare de inimi",
+        "field1": "cuceritorul de inimi",
+        "field2": "cuceritorii de inimi",
+        "field3": "Ea este o adevărată cuceritoare de inimi.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "99": {
         "cardNumber": "99",
-        "field1": "îndrăgostitul",
-        "field2": "E bolnav de dragoste",
+        "field1": "suferința din dragoste",
+        "field2": "El suferă din dragoste.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "100": {
         "cardNumber": "100",
-        "field1": "mormăitul",
-        "field2": "mormăiții",
-        "field3": "Nu mai fi atât de ticălos!",
+        "field1": "morocănosul",
+        "field2": "morocănoșii",
+        "field3": "Nu mai fi atât de morocănos!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "101": {
         "cardNumber": "101",
-        "field1": "întunericul",
-        "field2": "sumbru",
+        "field1": "melancolia / tristețea",
+        "field2": "melancolic",
         "field3": "A căzut din nou în tristețe",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "102": {
         "cardNumber": "102",
-        "field1": "dorinta",
-        "field2": "voinic",
-        "field3": "cu voinţă slabă",
+        "field1": "voința",
+        "field2": "cu voință puternică",
+        "field3": "cu voință slabă",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "103": {
         "cardNumber": "103",
         "field1": "devotamentul",
-        "field2": "predare",
-        "field3": "(renunta-renuntat-predat)",
+        "field2": "a se dedica / a se abandona",
+        "field3": "(prezent: gibt hin; preterit: gab hin; participiu: hingegeben)",
         "field4": "A cântat la pian cu pasiune",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "104": {
         "cardNumber": "104",
@@ -1245,47 +1245,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "105": {
         "cardNumber": "105",
-        "field1": "Motiv",
+        "field1": "rațiunea",
         "field2": "rezonabil",
-        "field3": "Am crezut că ești o persoană sensibilă",
+        "field3": "Credeam că ești o persoană cu judecată.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "106": {
         "cardNumber": "106",
-        "field1": "a incuraja",
-        "field2": "descuraja",
+        "field1": "a încuraja",
+        "field2": "a descuraja",
         "field3": "Nu te descuraja atât de ușor!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "107": {
         "cardNumber": "107",
-        "field1": "răzbuna",
-        "field2": "razbunarea",
+        "field1": "a se răzbuna",
+        "field2": "răzbunarea",
         "field3": "Mă voi răzbuna pentru asta",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "108": {
         "cardNumber": "108",
-        "field1": "tânjesc",
+        "field1": "a tânji / a dori cu ardoare",
         "field2": "dorul",
         "field3": "Oamenii tânjesc după pace și liniște",
         "field4": "",
@@ -1293,11 +1293,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "109": {
         "cardNumber": "109",
-        "field1": "minune",
+        "field1": "a se uimi / a se minuna",
         "field2": "uimirea",
         "field3": "Cuvintele lui m-au uimit",
         "field4": "",
@@ -1305,7 +1305,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "110": {
         "cardNumber": "110",
@@ -1317,11 +1317,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "111": {
         "cardNumber": "111",
-        "field1": "uimi",
+        "field1": "a uimi",
         "field2": "Am fost uimit de răspunsul ei",
         "field3": "",
         "field4": "",
@@ -1329,11 +1329,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "112": {
         "cardNumber": "112",
-        "field1": "face față",
+        "field1": "a face față / a suporta",
         "field2": "Mi-a fost greu să fac față acestei dezamăgiri",
         "field3": "Nu putem suporta aceste costuri",
         "field4": "",
@@ -1341,11 +1341,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "113": {
         "cardNumber": "113",
-        "field1": "nelinişti",
+        "field1": "a neliniști / a face nesigur",
         "field2": "Mă tulburi cu tăcerea ta",
         "field3": "Când mă gândesc la viitorul meu, mă simt foarte nesigur",
         "field4": "",
@@ -1353,23 +1353,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "114": {
         "cardNumber": "114",
-        "field1": "recastiga",
-        "field2": "(câștigă înapoi-câștigă înapoi- câștigă înapoi)",
+        "field1": "a recâștiga",
+        "field2": "(prezent: gewinnt zurück; preterit: gewann zurück; participiu: zurückgewonnen)",
         "field3": "Nu-i vei recâștiga încrederea atât de ușor",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sentimente"
+        "category": "Sentimente"
     },
     "115": {
         "cardNumber": "115",
-        "field1": "îmbătrânire",
+        "field1": "a îmbătrâni",
         "field2": "îmbătrânirea",
         "field3": "A îmbătrânit devreme",
         "field4": "",
@@ -1383,7 +1383,7 @@
         "cardNumber": "116",
         "field1": "înnăscut",
         "field2": "dobândit",
-        "field3": "Boala este congenitala",
+        "field3": "Boala este congenitală.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1393,9 +1393,9 @@
     },
     "117": {
         "cardNumber": "117",
-        "field1": "fii langa ea",
-        "field2": "(este-era)",
-        "field3": "Am fost liber toată ziua ieri",
+        "field1": "a nu fi în apele sale",
+        "field2": "(prezent: ist; preterit: war; participiu: gewesen)",
+        "field3": "Ieri nu am fost în apele mele toată ziua.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1407,7 +1407,7 @@
         "cardNumber": "118",
         "field1": "arsurile la stomac",
         "field2": "Am arsuri la stomac",
-        "field3": "Imi puteti recomanda un remediu pentru arsuri la stomac?",
+        "field3": "Îmi puteți recomanda un remediu pentru arsurile la stomac?",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1442,8 +1442,8 @@
     "121": {
         "cardNumber": "121",
         "field1": "cerul gurii",
-        "field2": "cerul gurii",
-        "field3": "Gustul meu este complet uscat",
+        "field2": "palatele bucale (cerurile gurii)",
+        "field3": "Cerul gurii îmi este complet uscat.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1453,7 +1453,7 @@
     },
     "122": {
         "cardNumber": "122",
-        "field1": "semnul din nastere",
+        "field1": "semnul din naștere",
         "field2": "semnele din naștere",
         "field3": "Am acest semn din naștere de la naștere",
         "field4": "",
@@ -1478,7 +1478,7 @@
     "124": {
         "cardNumber": "124",
         "field1": "sudoarea",
-        "field2": "sudoare",
+        "field2": "a transpira",
         "field3": "Era scăldat în sudoare",
         "field4": "",
         "field5": "",
@@ -1490,8 +1490,8 @@
     "125": {
         "cardNumber": "125",
         "field1": "apărarea",
-        "field2": "mecanismul de aparare",
-        "field3": "mecanismelor de aparare",
+        "field2": "mecanismul de apărare",
+        "field3": "mecanismele de apărare",
         "field4": "Mecanismele de apărare ale organismului nu sunt activate",
         "field5": "",
         "field6": "",
@@ -1501,7 +1501,7 @@
     },
     "126": {
         "cardNumber": "126",
-        "field1": "lipsa de miscare",
+        "field1": "lipsa de mișcare",
         "field2": "Mulți oameni suferă de lipsa exercițiului fizic",
         "field3": "",
         "field4": "",
@@ -1525,9 +1525,9 @@
     },
     "128": {
         "cardNumber": "128",
-        "field1": "leacul",
+        "field1": "cura de tratament",
         "field2": "curele",
-        "field3": "După atac de cord, a trebuit să ia un tratament de două săptămâni",
+        "field3": "După infarct a trebuit să urmeze o cură de tratament de două săptămâni.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1537,7 +1537,7 @@
     },
     "129": {
         "cardNumber": "129",
-        "field1": "pojar",
+        "field1": "rujeola / pojarul",
         "field2": "Rujeola este foarte contagioasă",
         "field3": "",
         "field4": "",
@@ -1561,8 +1561,8 @@
     },
     "131": {
         "cardNumber": "131",
-        "field1": "însoţit",
-        "field2": "(merge de-a lungul-a mers de-a lungul-a mers de-a lungul)",
+        "field1": "a merge împreună cu / a fi însoțit de",
+        "field2": "(prezent: geht einher; preterit: ging einher; participiu: einhergegangen)",
         "field3": "Această boală este de obicei însoțită de o erupție cutanată",
         "field4": "",
         "field5": "",
@@ -1573,8 +1573,8 @@
     },
     "132": {
         "cardNumber": "132",
-        "field1": "instrui",
-        "field2": "(instruiește-instruit-instruit)",
+        "field1": "a interna / a instrui",
+        "field2": "(prezent: weist ein; preterit: wies ein; participiu: eingewiesen)",
         "field3": "Doctorul a internat-o la spital",
         "field4": "",
         "field5": "",
@@ -1585,8 +1585,8 @@
     },
     "133": {
         "cardNumber": "133",
-        "field1": "care promovează sănătatea",
-        "field2": "dăunătoare sănătății",
+        "field1": "benefic pentru sănătate",
+        "field2": "dăunător sănătății",
         "field3": "Aceste substanțe sunt dăunătoare sănătății",
         "field4": "",
         "field5": "",
@@ -1597,9 +1597,9 @@
     },
     "134": {
         "cardNumber": "134",
-        "field1": "paraliza",
+        "field1": "a paraliza",
         "field2": "paralizia",
-        "field3": "paralizia",
+        "field3": "paraliziile",
         "field4": "De la accident are un braț paralizat",
         "field5": "",
         "field6": "",
@@ -1609,8 +1609,8 @@
     },
     "135": {
         "cardNumber": "135",
-        "field1": "ușurează-te",
-        "field2": "(lasa-las-lasa-lasa)",
+        "field1": "a slăbi / a se diminua",
+        "field2": "(prezent: lässt nach; preterit: ließ nach; participiu: nachgelassen)",
         "field3": "Vederea scade odată cu vârsta",
         "field4": "",
         "field5": "",
@@ -1622,9 +1622,9 @@
     "136": {
         "cardNumber": "136",
         "field1": "predispus",
-        "field2": "predispoziţia",
-        "field3": "predispoziţiile",
-        "field4": "Copilul este înclinat muzical",
+        "field2": "predispoziția",
+        "field3": "predispozițiile",
+        "field4": "Copilul are înclinații muzicale.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1633,9 +1633,9 @@
     },
     "137": {
         "cardNumber": "137",
-        "field1": "împinge",
-        "field2": "represiunea",
-        "field3": "Aș vrea să reprim aceste amintiri",
+        "field1": "a reprima / a înlătura",
+        "field2": "refularea",
+        "field3": "Aș prefera să refulez aceste amintiri.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1645,7 +1645,7 @@
     },
     "138": {
         "cardNumber": "138",
-        "field1": "împiedica",
+        "field1": "a preveni / a folosi mijloace contraceptive",
         "field2": "contraceptivul",
         "field3": "contraceptivele",
         "field4": "Folosim pilula pentru contracepție",
@@ -1657,7 +1657,7 @@
     },
     "139": {
         "cardNumber": "139",
-        "field1": "se presupune",
+        "field1": "presupus",
         "field2": "Presupusa gripă s-a dovedit a fi o simplă răceală",
         "field3": "",
         "field4": "",
@@ -1669,7 +1669,7 @@
     },
     "140": {
         "cardNumber": "140",
-        "field1": "efectiv",
+        "field1": "eficient",
         "field2": "eficacitatea",
         "field3": "Este eficient acest medicament?",
         "field4": "",
@@ -1681,8 +1681,8 @@
     },
     "141": {
         "cardNumber": "141",
-        "field1": "dezghetul",
-        "field2": "Se instalează un dezgheț",
+        "field1": "dezghețul",
+        "field2": "Începe dezghețul.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1694,7 +1694,7 @@
     "142": {
         "cardNumber": "142",
         "field1": "roua",
-        "field2": "Roua a căzut",
+        "field2": "S-a depus rouă.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1708,7 +1708,7 @@
         "field1": "valul de căldură",
         "field2": "valurile de căldură",
         "field3": "valul de frig",
-        "field4": "valurile reci",
+        "field4": "valurile de frig",
         "field5": "Țara suferă de câteva săptămâni de un val de căldură",
         "field6": "",
         "field7": "",
@@ -1729,8 +1729,8 @@
     },
     "145": {
         "cardNumber": "145",
-        "field1": "pătrunde",
-        "field2": "(pătrunde prin-penetrează prin-penetrează)",
+        "field1": "a pătrunde",
+        "field2": "(prezent: dringt durch; preterit: drang durch; participiu: durchgedrungen)",
         "field3": "Soarele abia a pătruns astăzi",
         "field4": "",
         "field5": "",
@@ -1741,7 +1741,7 @@
     },
     "146": {
         "cardNumber": "146",
-        "field1": "introduce",
+        "field1": "a începe / a se instala",
         "field2": "Ploaia a început din nou",
         "field3": "",
         "field4": "",
@@ -1753,9 +1753,9 @@
     },
     "147": {
         "cardNumber": "147",
-        "field1": "umed",
-        "field2": "sufocarea",
-        "field3": "Azi este îngrozitor de umed",
+        "field1": "zăpușitor (cald și umed)",
+        "field2": "zăpușeala",
+        "field3": "Astăzi este îngrozitor de zăpușitor.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1777,7 +1777,7 @@
     },
     "149": {
         "cardNumber": "149",
-        "field1": "adăuga",
+        "field1": "a afecta / a chinui",
         "field2": "Căldura mă afectează cu adevărat",
         "field3": "",
         "field4": "",
@@ -1789,9 +1789,9 @@
     },
     "150": {
         "cardNumber": "150",
-        "field1": "favoare",
-        "field2": "favoarea",
-        "field3": "beneficiile",
+        "field1": "a favoriza",
+        "field2": "favorizarea",
+        "field3": "favorizările",
         "field4": "Vremea blândă favorizează creșterea plantelor",
         "field5": "",
         "field6": "",
@@ -1813,9 +1813,9 @@
     },
     "152": {
         "cardNumber": "152",
-        "field1": "potop",
-        "field2": "Râul este inundat",
-        "field3": "Inundația a provocat multe pagube",
+        "field1": "viitura / nivelul ridicat al apei",
+        "field2": "Râul este umflat.",
+        "field3": "Viitura a provocat pagube foarte mari.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1825,9 +1825,9 @@
     },
     "153": {
         "cardNumber": "153",
-        "field1": "răsăritul",
-        "field2": "strălucirea de după",
-        "field3": "Se apropie zorii",
+        "field1": "roșeața zorilor",
+        "field2": "roșeața asfințitului",
+        "field3": "Cerul începe să se înroșească în zori.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1837,10 +1837,10 @@
     },
     "154": {
         "cardNumber": "154",
-        "field1": "barajul",
-        "field2": "barajele",
-        "field3": "Vechiul baraj este în pericol de rupere",
-        "field4": "Aici se construiește un alt baraj",
+        "field1": "digul / barajul",
+        "field2": "digurile / barajele",
+        "field3": "Vechiul dig amenință să se rupă.",
+        "field4": "Aici se ridică încă un dig.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1849,9 +1849,9 @@
     },
     "155": {
         "cardNumber": "155",
-        "field1": "macaraua",
-        "field2": "macaralele",
-        "field3": "Macarale zburau pe cer",
+        "field1": "cocorul",
+        "field2": "cocorii",
+        "field3": "Cocorii zburau pe cer.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1862,9 +1862,9 @@
     "156": {
         "cardNumber": "156",
         "field1": "păpădia",
-        "field2": "păpădia",
-        "field3": "păpădiile",
-        "field4": "Pe pajiște erau multe păpădii",
+        "field2": "păpădia cu puf",
+        "field3": "păpădiile cu puf",
+        "field4": "Pe pajiște erau foarte multe păpădii cu puf.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1874,7 +1874,7 @@
     "157": {
         "cardNumber": "157",
         "field1": "exploatarea",
-        "field2": "exploata",
+        "field2": "a exploata",
         "field3": "Rezervele naturale de apă sunt exploatate",
         "field4": "",
         "field5": "",
@@ -1887,9 +1887,9 @@
         "cardNumber": "158",
         "field1": "refluxul",
         "field2": "refluxurile",
-        "field3": "potopul",
-        "field4": "inundatiile",
-        "field5": "Marea va veni peste o oră",
+        "field3": "fluxul",
+        "field4": "fluxurile",
+        "field5": "Peste o oră începe fluxul.",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -1909,8 +1909,8 @@
     },
     "160": {
         "cardNumber": "160",
-        "field1": "spărtura",
-        "field2": "golurile",
+        "field1": "prăpastia / crevasa",
+        "field2": "prăpăstiile / crevasele",
         "field3": "Ai grijă să nu cazi în prăpastie!",
         "field4": "",
         "field5": "",
@@ -1933,8 +1933,8 @@
     },
     "162": {
         "cardNumber": "162",
-        "field1": "anotimpul",
-        "field2": "anotimpurile",
+        "field1": "sezonul",
+        "field2": "sezoanele",
         "field3": "sezonier",
         "field4": "Sezonul căpșunilor se încheie în curând",
         "field5": "",
@@ -1945,7 +1945,7 @@
     },
     "163": {
         "cardNumber": "163",
-        "field1": "rău",
+        "field1": "întunecat / sumbru",
         "field2": "întunericul",
         "field3": "Mi se pare că acest peisaj este prea întunecat",
         "field4": "",
@@ -1957,9 +1957,9 @@
     },
     "164": {
         "cardNumber": "164",
-        "field1": "strigăt",
-        "field2": "Trebuie să plângi cu lupii",
-        "field3": "Furtuna urlă afară",
+        "field1": "a urla",
+        "field2": "Cu lupii trebuie să urli ca lupii.",
+        "field3": "Afară urla furtuna.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1969,8 +1969,8 @@
     },
     "165": {
         "cardNumber": "165",
-        "field1": "te grabesti",
-        "field2": "Marea urlă",
+        "field1": "a susura / a foșni",
+        "field2": "Marea vuiește.",
         "field3": "Se aude fântâna murmurând în liniște",
         "field4": "",
         "field5": "",
@@ -1981,10 +1981,10 @@
     },
     "166": {
         "cardNumber": "166",
-        "field1": "camuflaj",
+        "field1": "a camufla",
         "field2": "camuflajul",
         "field3": "camuflajele",
-        "field4": "Multe animale sunt excelente la camuflaj",
+        "field4": "Multe animale se pot camufla excelent.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1993,7 +1993,7 @@
     },
     "167": {
         "cardNumber": "167",
-        "field1": "Reflectați",
+        "field1": "a reflecta",
         "field2": "reflexia",
         "field3": "reflexiile",
         "field4": "Apa reflectă cerul",
@@ -2005,51 +2005,51 @@
     },
     "168": {
         "cardNumber": "168",
-        "field1": "a tăia calea",
-        "field2": "(tăie tăieturi)",
+        "field1": "a tăia / a obține un rezultat",
+        "field2": "(prezent: schneidet ab; preterit: schnitt ab; participiu: abgeschnitten)",
         "field3": "S-a descurcat bine la ultimul examen",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "169": {
         "cardNumber": "169",
-        "field1": "În mod corespunzător",
-        "field2": "însuşirea",
+        "field1": "a-și însuși / a dobândi",
+        "field2": "însușirea",
         "field3": "La universitate puteți dobândi cunoștințe extinse",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "170": {
         "cardNumber": "170",
         "field1": "gena",
         "field2": "genele",
-        "field3": "Genele sunt purtătorii de informații genetice",
-        "field4": "ADN-ul conține 20.000 de gene bune",
+        "field3": "Genele sunt purtătoarele informației ereditare.",
+        "field4": "ADN-ul conține puțin peste 20.000 de gene.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "171": {
         "cardNumber": "171",
-        "field1": "descoperirea",
-        "field2": "Această tehnologie a fost un progres",
+        "field1": "progresul decisiv / descoperirea revoluționară",
+        "field2": "Această tehnologie a reprezentat progresul decisiv.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "172": {
         "cardNumber": "172",
@@ -2061,31 +2061,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "173": {
         "cardNumber": "173",
         "field1": "baza",
-        "field2": "cele elementare",
+        "field2": "bazele",
         "field3": "fundamental",
         "field4": "Învățarea este o bază pentru succes",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "174": {
         "cardNumber": "174",
-        "field1": "decalajul de cunoștințe",
-        "field2": "lacunele de cunoștințe",
+        "field1": "lacuna în cunoștințe",
+        "field2": "lacunele în cunoștințe",
         "field3": "Am multe lacune în cunoștințele mele de biologie",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "175": {
         "cardNumber": "175",
@@ -2097,23 +2097,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "176": {
         "cardNumber": "176",
-        "field1": "explica",
-        "field2": "explicatia",
-        "field3": "explicatiile",
+        "field1": "a explica",
+        "field2": "explicația",
+        "field3": "explicațiile",
         "field4": "Explicațiile tehnice încă lipsesc aici",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "177": {
         "cardNumber": "177",
-        "field1": "bine întemeiată",
+        "field1": "bine fundamentat",
         "field2": "Are cunoștințe aprofundate",
         "field3": "",
         "field4": "",
@@ -2121,11 +2121,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "178": {
         "cardNumber": "178",
-        "field1": "chestionare",
+        "field1": "a examina critic / a pune sub semnul întrebării",
         "field2": "Întotdeauna a vrut să pună la îndoială totul până la ultimul detaliu",
         "field3": "",
         "field4": "",
@@ -2133,31 +2133,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "179": {
         "cardNumber": "179",
-        "field1": "înţelege",
-        "field2": "(implementat-înțeles-înțeles)",
-        "field3": "de inteles",
+        "field1": "a înțelege / a urmări raționamentul",
+        "field2": "(prezent: vollzieht nach; preterit: vollzog nach; participiu: nachvollzogen)",
+        "field3": "de înțeles",
         "field4": "Această teorie nu este de înțeles pentru începători",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "180": {
         "cardNumber": "180",
-        "field1": "am o perioada grea",
-        "field2": "(se face greu-does greu-does greu-face greu)",
+        "field1": "a avea dificultăți",
+        "field2": "(prezent: tut sich schwer; preterit: tat sich schwer; participiu: schwergetan)",
         "field3": "Îmi este greu cu această sarcină",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "181": {
         "cardNumber": "181",
@@ -2169,35 +2169,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "182": {
         "cardNumber": "182",
-        "field1": "fundamenta",
-        "field2": "suportul",
-        "field3": "fundamentele",
+        "field1": "a susține cu argumente / a fundamenta",
+        "field2": "fundamentarea",
+        "field3": "fundamentările",
         "field4": "Vă puteți susține afirmația cu dovezi?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "183": {
         "cardNumber": "183",
-        "field1": "transmite",
-        "field2": "medierea",
-        "field3": "Profesorul este bun în a transmite cunoștințele sale studenților",
+        "field1": "a transmite / a intermedia",
+        "field2": "transmiterea / intermedierea",
+        "field3": "Profesorul știe să le transmită bine studenților cunoștințele sale.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "184": {
         "cardNumber": "184",
-        "field1": "respinge",
+        "field1": "a infirma",
         "field2": "Nu a fost greu să infirmi această teorie",
         "field3": "",
         "field4": "",
@@ -2205,23 +2205,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "185": {
         "cardNumber": "185",
-        "field1": "vin scurt",
-        "field2": "Distracția de a învăța nu trebuie neglijată",
+        "field1": "a fi neglijat / a nu primi suficientă atenție",
+        "field2": "Plăcerea de a învăța nu trebuie neglijată.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "știință și educație"
+        "category": "Știință și educație"
     },
     "186": {
         "cardNumber": "186",
-        "field1": "face",
+        "field1": "a confecționa / a realiza",
         "field2": "A realizat o copie de înaltă calitate a tabloului",
         "field3": "",
         "field4": "",
@@ -2233,7 +2233,7 @@
     },
     "187": {
         "cardNumber": "187",
-        "field1": "recursul",
+        "field1": "ecoul / rezonanța",
         "field2": "ecourile",
         "field3": "Această melodie are ecouri ale muzicii de jazz",
         "field4": "",
@@ -2258,9 +2258,9 @@
     "189": {
         "cardNumber": "189",
         "field1": "rama",
-        "field2": "Ramele",
-        "field3": "cadru",
-        "field4": "Pictura în ulei are un cadru auriu",
+        "field2": "ramele",
+        "field3": "a înrăma",
+        "field4": "Pictura în ulei are o ramă aurie.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -2269,7 +2269,7 @@
     },
     "190": {
         "cardNumber": "190",
-        "field1": "apelul",
+        "field1": "reputația",
         "field2": "Acum se bucură de o bună reputație ca artist",
         "field3": "Reputația acestui târg este excelentă",
         "field4": "",
@@ -2281,7 +2281,7 @@
     },
     "191": {
         "cardNumber": "191",
-        "field1": "anticul",
+        "field1": "Antichitatea",
         "field2": "antic",
         "field3": "Are puțin interes pentru mitologia antică",
         "field4": "",
@@ -2293,8 +2293,8 @@
     },
     "192": {
         "cardNumber": "192",
-        "field1": "intalnirea",
-        "field2": "intalnirile",
+        "field1": "recenzia",
+        "field2": "recenziile",
         "field3": "Recenzia filmului a fost foarte bună",
         "field4": "",
         "field5": "",
@@ -2317,7 +2317,7 @@
     },
     "194": {
         "cardNumber": "194",
-        "field1": "inspiratia",
+        "field1": "inspirația",
         "field2": "inspirațiile",
         "field3": "a inspira",
         "field4": "Nu poate picta fără inspirație",
@@ -2329,8 +2329,8 @@
     },
     "195": {
         "cardNumber": "195",
-        "field1": "spatiul",
-        "field2": "premisele",
+        "field1": "încăperea / spațiul",
+        "field2": "încăperile / spațiile",
         "field3": "Nu găsim spații potrivite pentru târg",
         "field4": "",
         "field5": "",
@@ -2341,9 +2341,9 @@
     },
     "196": {
         "cardNumber": "196",
-        "field1": "completare",
-        "field2": "complet",
-        "field3": "Cu această carte autoarea și-a completat ciclul de romane",
+        "field1": "desăvârșirea / finalizarea",
+        "field2": "a desăvârși / a finaliza",
+        "field3": "Cu această carte, autoarea și-a încheiat ciclul de romane.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2353,7 +2353,7 @@
     },
     "197": {
         "cardNumber": "197",
-        "field1": "convenţional",
+        "field1": "convențional",
         "field2": "Obiceiurile tradiționale sunt încă păstrate în această comunitate",
         "field3": "",
         "field4": "",
@@ -2365,8 +2365,8 @@
     },
     "198": {
         "cardNumber": "198",
-        "field1": "de profil înalt",
-        "field2": "Rolul va fi ocupat de un actor de top",
+        "field1": "de înaltă clasă",
+        "field2": "Rolul va fi interpretat de un actor de înaltă clasă.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2377,9 +2377,9 @@
     },
     "199": {
         "cardNumber": "199",
-        "field1": "imita",
+        "field1": "a imita",
         "field2": "imitația",
-        "field3": "imitatiile",
+        "field3": "imitațiile",
         "field4": "Nu-i poți imita stilul",
         "field5": "",
         "field6": "",
@@ -2389,7 +2389,7 @@
     },
     "200": {
         "cardNumber": "200",
-        "field1": "descrie",
+        "field1": "a descrie",
         "field2": "descrierea",
         "field3": "descrierile",
         "field4": "Autorul își descrie experiențele în fiecare detaliu",
@@ -2401,11 +2401,11 @@
     },
     "201": {
         "cardNumber": "201",
-        "field1": "rupere",
-        "field2": "(sfasiat-sfasiat-rupt)",
-        "field3": "lacrima",
-        "field4": "lacrimile",
-        "field5": "Criticii au răscolit piesa",
+        "field1": "a critica aspru",
+        "field2": "(prezent: verreißt; preterit: verriss; participiu: verrissen)",
+        "field3": "recenzia defavorabilă",
+        "field4": "recenziile defavorabile",
+        "field5": "Criticii au desființat piesa de teatru.",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2425,15 +2425,15 @@
     },
     "203": {
         "cardNumber": "203",
-        "field1": "masa de seara",
-        "field2": "mesele de seară",
-        "field3": "Ultima cina",
+        "field1": "împărtășania / Cina Domnului",
+        "field2": "celebrările Cinei Domnului",
+        "field3": "Cina cea de Taină",
         "field4": "Mergi la împărtășire?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "204": {
         "cardNumber": "204",
@@ -2445,7 +2445,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "205": {
         "cardNumber": "205",
@@ -2457,11 +2457,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "206": {
         "cardNumber": "206",
-        "field1": "ateism",
+        "field1": "ateismul",
         "field2": "ateul",
         "field3": "ateii",
         "field4": "ateu",
@@ -2469,31 +2469,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "207": {
         "cardNumber": "207",
-        "field1": "vîngăriţa",
+        "field1": "păgânul",
         "field2": "păgânii",
-        "field3": "păgânism",
+        "field3": "păgânismul",
         "field4": "păgân",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "208": {
         "cardNumber": "208",
         "field1": "ereticul",
         "field2": "ereticii",
-        "field3": "Inchiziția a ars mii de eretici",
+        "field3": "Inchiziția a poruncit arderea pe rug a mii de eretici.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "209": {
         "cardNumber": "209",
@@ -2505,31 +2505,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "210": {
         "cardNumber": "210",
         "field1": "profetul",
-        "field2": "profetii",
-        "field3": "Profeția",
-        "field4": "profeţiile",
-        "field5": "prooroci",
+        "field2": "profeții",
+        "field3": "profeția",
+        "field4": "profețiile",
+        "field5": "a profeți",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "211": {
         "cardNumber": "211",
         "field1": "apocalipsa",
         "field2": "apocalipsele",
-        "field3": "sfarsitul lumii",
+        "field3": "sfârșitul lumii",
         "field4": "Sfârșitul lumii a fost prezis de mai multe ori",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "212": {
         "cardNumber": "212",
@@ -2541,23 +2541,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "213": {
         "cardNumber": "213",
         "field1": "păcatul",
         "field2": "păcatele",
-        "field3": "păcat",
+        "field3": "a păcătui",
         "field4": "El a comis un păcat grav",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "214": {
         "cardNumber": "214",
-        "field1": "în",
+        "field1": "în decurs de / în termen de",
         "field2": "El speră să finalizeze sarcina în două ore",
         "field3": "În câteva clipe, strada a fost acoperită de zăpadă",
         "field4": "",
@@ -2570,7 +2570,7 @@
     "215": {
         "cardNumber": "215",
         "field1": "schimbarea",
-        "field2": "schimbătoare",
+        "field2": "schimbător",
         "field3": "Moda este schimbătoare",
         "field4": "",
         "field5": "",
@@ -2582,8 +2582,8 @@
     "216": {
         "cardNumber": "216",
         "field1": "finitudinea",
-        "field2": "Infinitul",
-        "field3": "Te-am așteptat aproape de veci!",
+        "field2": "infinitatea",
+        "field3": "Te-am așteptat aproape o veșnicie!",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2593,10 +2593,10 @@
     },
     "217": {
         "cardNumber": "217",
-        "field1": "Epoca",
+        "field1": "epoca",
         "field2": "epocile",
         "field3": "Omenirea este la începutul unei noi ere",
-        "field4": "Această invenție va face o epocă",
+        "field4": "Această invenție va marca o epocă.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -2618,7 +2618,7 @@
     "219": {
         "cardNumber": "219",
         "field1": "uitarea",
-        "field2": "Acest artist a fost uitat astăzi",
+        "field2": "În prezent, acest artist a căzut în uitare.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2653,8 +2653,8 @@
     },
     "222": {
         "cardNumber": "222",
-        "field1": "volatil",
-        "field2": "Ea aruncă o privire spre masă",
+        "field1": "fugar / trecător",
+        "field2": "Ea a aruncat o privire fugară spre masă.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2665,9 +2665,9 @@
     },
     "223": {
         "cardNumber": "223",
-        "field1": "retrospectiv",
+        "field1": "ulterior / cu întârziere",
         "field2": "anticipat",
-        "field3": "Îți doresc o zi de naștere cu întârziere",
+        "field3": "Îți urez „La mulți ani!” cu întârziere.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2689,8 +2689,8 @@
     },
     "225": {
         "cardNumber": "225",
-        "field1": "în ritm rapid",
-        "field2": "Trăim vremuri foarte rapide",
+        "field1": "cu schimbări rapide",
+        "field2": "Trăim într-o epocă în care totul se schimbă foarte repede.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2701,7 +2701,7 @@
     },
     "226": {
         "cardNumber": "226",
-        "field1": "orar",
+        "field1": "din oră în oră",
         "field2": "Autobuzul circulă la fiecare oră",
         "field3": "",
         "field4": "",
@@ -2726,7 +2726,7 @@
     "228": {
         "cardNumber": "228",
         "field1": "orientat spre viitor",
-        "field2": "privind in urma",
+        "field2": "privind în urmă",
         "field3": "Căutăm o soluție orientată spre viitor",
         "field4": "",
         "field5": "",
@@ -2750,26 +2750,26 @@
     "230": {
         "cardNumber": "230",
         "field1": "duzina",
-        "field2": "zecile",
+        "field2": "duzinile",
         "field3": "Cât costă o duzină de ouă?",
-        "field4": "Primește zeci de scrisori în fiecare zi",
+        "field4": "Primește zilnic zeci de scrisori.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "231": {
         "cardNumber": "231",
         "field1": "calculul",
         "field2": "calculele",
-        "field3": "calculati",
+        "field3": "a calcula",
         "field4": "Mai întâi trebuie să calculați costurile",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "232": {
         "cardNumber": "232",
@@ -2781,11 +2781,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "233": {
         "cardNumber": "233",
-        "field1": "în măsura",
+        "field1": "amploarea / dimensiunea",
         "field2": "dimensiunile",
         "field3": "Dimensiunile craterului sunt enorme",
         "field4": "",
@@ -2793,19 +2793,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "234": {
         "cardNumber": "234",
-        "field1": "fracția",
-        "field2": "fractiile",
+        "field1": "fracțiunea",
+        "field2": "fracțiunile",
         "field3": "Venitul nostru acoperă doar o fracțiune din costuri",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "235": {
         "cardNumber": "235",
@@ -2817,31 +2817,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "236": {
         "cardNumber": "236",
-        "field1": "abundenta",
+        "field1": "abundența",
         "field2": "de prisos",
-        "field3": "Avem destul timp",
+        "field3": "Avem timp din belșug.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "237": {
         "cardNumber": "237",
-        "field1": "unu si jumatate",
-        "field2": "unu si jumatate",
+        "field1": "unu și jumătate",
+        "field2": "unu și jumătate",
         "field3": "Lecțiile durează o oră și jumătate",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "238": {
         "cardNumber": "238",
@@ -2853,67 +2853,67 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "239": {
         "cardNumber": "239",
-        "field1": "legal",
-        "field2": "legalitatea",
-        "field3": "legile",
-        "field4": "Dezvoltarea se desfășoară conform legii",
+        "field1": "conform unor legi obiective",
+        "field2": "legitatea",
+        "field3": "legitățile",
+        "field4": "Dezvoltarea se desfășoară conform unor legi obiective.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "240": {
         "cardNumber": "240",
         "field1": "enorm",
-        "field2": "puțin",
+        "field2": "neînsemnat / minor",
         "field3": "Modificările față de sistemul anterior sunt minore",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "241": {
         "cardNumber": "241",
-        "field1": "pe măsură",
-        "field2": "Această mașină este personalizată pentru o familie de patru persoane",
+        "field1": "făcut pe măsură",
+        "field2": "Această mașină este concepută pe măsura nevoilor unei familii de patru persoane.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dimensiuni"
+        "category": "Măsuri și dimensiuni"
     },
     "242": {
         "cardNumber": "242",
-        "field1": "servi afară",
-        "field2": "Vechea mea bicicletă și-a făcut ziua",
+        "field1": "a-și încheia perioada de utilizare",
+        "field2": "Vechea mea bicicletă și-a trăit traiul.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "243": {
         "cardNumber": "243",
-        "field1": "modelul întrerupt",
-        "field2": "modelele întrerupte",
-        "field3": "Telefonul mobil este un model întrerupt, motiv pentru care este atât de ieftin",
+        "field1": "modelul scos treptat din producție",
+        "field2": "modelele scoase treptat din producție",
+        "field3": "Telefonul mobil este un model scos treptat din producție, de aceea este atât de ieftin.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "244": {
         "cardNumber": "244",
@@ -2925,19 +2925,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "245": {
         "cardNumber": "245",
-        "field1": "carligul",
+        "field1": "cârligul",
         "field2": "cârligele",
-        "field3": "Poți, te rog, să înființezi cârligul în perete?",
-        "field4": "Oferta are o captură",
+        "field3": "Poți, te rog, să bați cârligul în perete?",
+        "field4": "Oferta ascunde un inconvenient.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "246": {
         "cardNumber": "246",
@@ -2949,55 +2949,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "247": {
         "cardNumber": "247",
-        "field1": "clipul",
-        "field2": "parantezele",
-        "field3": "Mai am nevoie de două paranteze, ai vreunul?",
+        "field1": "clema / agrafa",
+        "field2": "clemele / agrafele",
+        "field3": "Mai am nevoie de două cleme. Ai vreuna?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "248": {
         "cardNumber": "248",
         "field1": "lama",
         "field2": "lamele",
         "field3": "Cuțitul are o lamă ascuțită",
-        "field4": "În semifinale se încrucișează din nou săbiile",
+        "field4": "În semifinale își vor încrucișa din nou săbiile.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "249": {
         "cardNumber": "249",
-        "field1": "ansamblul",
-        "field2": "montajele",
-        "field3": "dezmembrarea",
-        "field4": "dezmembrarea",
-        "field5": "Dezmembrarea mașinii este terminată",
+        "field1": "montarea / asamblarea",
+        "field2": "montările / asamblările",
+        "field3": "demontarea",
+        "field4": "demontările",
+        "field5": "Demontarea mașinii s-a încheiat.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "250": {
         "cardNumber": "250",
-        "field1": "la indemana",
-        "field2": "Această cameră este destul de la îndemână",
+        "field1": "ușor de mânuit",
+        "field2": "Acest aparat foto este destul de ușor de mânuit.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "251": {
         "cardNumber": "251",
@@ -3009,11 +3009,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "252": {
         "cardNumber": "252",
-        "field1": "decolorare",
+        "field1": "a se decolora / a se estompa",
         "field2": "Culoarea s-a decolorat deja puțin",
         "field3": "Amintirile noastre se estompează în timp",
         "field4": "",
@@ -3021,11 +3021,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Articole"
+        "category": "Obiecte"
     },
     "253": {
         "cardNumber": "253",
-        "field1": "a eșuat",
+        "field1": "neobișnuit / extravagant",
         "field2": "Rochia are un model neobișnuit",
         "field3": "",
         "field4": "",
@@ -3033,19 +3033,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "254": {
         "cardNumber": "254",
-        "field1": "ieși",
-        "field2": "(ie-a ieșit-a ieșit)",
+        "field1": "a se termina / a ieși",
+        "field2": "(prezent: geht aus; preterit: ging aus; participiu: ausgegangen)",
         "field3": "Am rămas fără benzină",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "255": {
         "cardNumber": "255",
@@ -3057,7 +3057,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "256": {
         "cardNumber": "256",
@@ -3069,31 +3069,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "257": {
         "cardNumber": "257",
-        "field1": "propozitia",
-        "field2": "propozițiile",
+        "field1": "sedimentul / depunerea",
+        "field2": "sedimentele / depunerile",
         "field3": "zatul de cafea",
-        "field4": "Propoziția s-a format în fundul sticlei",
+        "field4": "Pe fundul sticlei s-a format un sediment.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "258": {
         "cardNumber": "258",
         "field1": "poluantul",
-        "field2": "poluantii",
+        "field2": "poluanții",
         "field3": "Produsul nu conține substanțe nocive",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "259": {
         "cardNumber": "259",
@@ -3105,67 +3105,67 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "260": {
         "cardNumber": "260",
-        "field1": "textura",
-        "field2": "procura",
+        "field1": "natura / structura",
+        "field2": "a procura",
         "field3": "Trebuie verificată natura materialului",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "261": {
         "cardNumber": "261",
-        "field1": "dezintegra",
-        "field2": "(se dezintegrează-se dezintegrează-se dezintegrează)",
-        "field3": "decăderea",
+        "field1": "a se dezintegra / a se destrăma",
+        "field2": "(prezent: zerfällt; preterit: zerfiel; participiu: zerfallen)",
+        "field3": "dezintegrarea",
         "field4": "Zidul vechi s-a prăbușit",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țesături și materiale"
+        "category": "Substanțe și materiale"
     },
     "262": {
         "cardNumber": "262",
-        "field1": "citi cu voce tare",
-        "field2": "(citește din-citește din-citește)",
-        "field3": "Citeste prin",
-        "field4": "(citire-citire-citire)",
-        "field5": "citit greșit",
-        "field6": "(citește-citește-citește)",
+        "field1": "a citi până la capăt / a selecta",
+        "field2": "(prezent: liest aus; preterit: las aus; participiu: ausgelesen)",
+        "field3": "a citi în întregime",
+        "field4": "(prezent: liest durch; preterit: las durch; participiu: durchgelesen)",
+        "field5": "a greși la citire",
+        "field6": "(prezent: verliest; preterit: verlas; participiu: verlesen)",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "263": {
         "cardNumber": "263",
-        "field1": "îndoi",
-        "field2": "difracția",
-        "field3": "inflexiunile",
-        "field4": "ghemuit",
+        "field1": "a îndoi",
+        "field2": "îndoirea / flexiunea",
+        "field3": "îndoirile / flexiunile",
+        "field4": "genuflexiunea",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "264": {
         "cardNumber": "264",
-        "field1": "a nu face nimic",
-        "field2": "leneşul",
-        "field3": "leneşii",
+        "field1": "trândăvia",
+        "field2": "leneșul",
+        "field3": "leneșii",
         "field4": "Cât timp ai petrecut fără să faci nimic?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "265": {
         "cardNumber": "265",
@@ -3177,59 +3177,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "266": {
         "cardNumber": "266",
-        "field1": "nebunia",
-        "field2": "cei Fimmels",
-        "field3": "Are o pasiune pentru mașini",
+        "field1": "mania / pasiunea exagerată",
+        "field2": "maniile / pasiunile exagerate",
+        "field3": "Are o pasiune exagerată pentru mașini.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "267": {
         "cardNumber": "267",
         "field1": "cântatul",
         "field2": "cântările",
-        "field3": "Ea a însoțit-o cântând la chitară",
-        "field4": "Cântarea păsărilor este încântător",
+        "field3": "Și-a acompaniat cântatul la chitară.",
+        "field4": "Cântecul păsărilor este încântător.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "268": {
         "cardNumber": "268",
         "field1": "uralele",
-        "field2": "a ridica moralul",
-        "field3": "Golgheterul și-a sărbătorit golul",
+        "field2": "a jubila / a aclama",
+        "field3": "Marcatorul a jubilat pentru golul său.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "269": {
         "cardNumber": "269",
-        "field1": "trenul",
-        "field2": "trenuri",
+        "field1": "mutarea",
+        "field2": "mutările",
         "field3": "Cine are prima mutare?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "270": {
         "cardNumber": "270",
-        "field1": "timpul expirat",
+        "field1": "pauza / time-outul",
         "field2": "Echipa a luat o scurtă pauză",
         "field3": "",
         "field4": "",
@@ -3237,43 +3237,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "271": {
         "cardNumber": "271",
-        "field1": "nemulțumirea",
-        "field2": "Ea nu vrea să meargă la jogging",
-        "field3": "Nu-și poate depăși neplăcerea",
+        "field1": "lipsa de chef",
+        "field2": "Ea merge la jogging fără niciun chef.",
+        "field3": "Nu-și poate învinge lipsa de chef.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "272": {
         "cardNumber": "272",
         "field1": "tombola",
         "field2": "tombolele",
-        "field3": "dăruind",
-        "field4": "De data aceasta se tombolă o excursie în jurul lumii",
+        "field3": "a oferi ca premiu la tombolă",
+        "field4": "De data aceasta, premiul tombolei este o călătorie în jurul lumii.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "273": {
         "cardNumber": "273",
-        "field1": "continuă",
-        "field2": "(ține pasul-ține pasul-ține pasul)",
+        "field1": "a ține pasul",
+        "field2": "(prezent: hält mit; preterit: hielt mit; participiu: mitgehalten)",
         "field3": "Sportivul nu a mai putut ține pasul",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "274": {
         "cardNumber": "274",
@@ -3285,7 +3285,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "275": {
         "cardNumber": "275",
@@ -3297,7 +3297,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "276": {
         "cardNumber": "276",
@@ -3309,43 +3309,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "277": {
         "cardNumber": "277",
-        "field1": "pariu",
+        "field1": "a paria",
         "field2": "pariul",
         "field3": "pariurile",
-        "field4": "Am alergat",
+        "field4": "Ne-am luat la întrecere la alergat.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "278": {
         "cardNumber": "278",
-        "field1": "distruge",
-        "field2": "ajunge la nimic",
-        "field3": "(va deveni nimic - va deveni nimic - va deveni nimic)",
+        "field1": "a zădărnici / a distruge",
+        "field2": "a fi zădărnicit / a se nărui",
+        "field3": "(prezent: wird zunichte; preterit: wurde zunichte; participiu: zunichtegeworden)",
         "field4": "Vremea ne-a stricat planurile",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport și timp liber"
+        "category": "Sport și timp liber"
     },
     "279": {
         "cardNumber": "279",
-        "field1": "bugetul de vacanta",
-        "field2": "bugetele de vacanta",
+        "field1": "bugetul de vacanță",
+        "field2": "bugetele de vacanță",
         "field3": "Bugetul nostru de vacanță este deja epuizat",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "280": {
         "cardNumber": "280",
@@ -3357,55 +3357,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "281": {
         "cardNumber": "281",
-        "field1": "Farul",
+        "field1": "farul",
         "field2": "farurile",
-        "field3": "Vechiul far va fi transformat in curand intr-o carciuma",
+        "field3": "Vechiul far va fi transformat în curând într-un local.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "282": {
         "cardNumber": "282",
-        "field1": "stimulul",
-        "field2": "stimulii",
+        "field1": "atracția / farmecul",
+        "field2": "atracțiile / farmecele",
         "field3": "minunat",
         "field4": "A fost cea mai frumoasă experiență din întreaga vacanță",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "283": {
         "cardNumber": "283",
-        "field1": "direcția busolei",
+        "field1": "punctul cardinal",
         "field2": "punctele cardinale",
-        "field3": "Nord, sud, vest și est sunt direcțiile cardinale",
+        "field3": "Nordul, sudul, vestul și estul sunt punctele cardinale.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "284": {
         "cardNumber": "284",
-        "field1": "impunerea",
-        "field2": "impunerea",
-        "field3": "Aceasta este o impertinență!",
-        "field4": "Hotelul a fost o impunere pentru călători",
+        "field1": "pretenția exagerată / situația inacceptabilă",
+        "field2": "pretențiile exagerate / situațiile inacceptabile",
+        "field3": "Este inacceptabil!",
+        "field4": "Condițiile din hotel au fost inacceptabile pentru călători.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "285": {
         "cardNumber": "285",
@@ -3417,7 +3417,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "286": {
         "cardNumber": "286",
@@ -3429,7 +3429,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "287": {
         "cardNumber": "287",
@@ -3441,59 +3441,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "288": {
         "cardNumber": "288",
-        "field1": "adapta",
+        "field1": "a se adapta",
         "field2": "adaptarea",
-        "field3": "ajustările",
+        "field3": "adaptările",
         "field4": "Se poate adapta bine unui mediu nou",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "289": {
         "cardNumber": "289",
-        "field1": "esenţial",
-        "field2": "Această vaccinare este esențială pentru călătorii",
+        "field1": "esențial",
+        "field2": "Acest vaccin este indispensabil pentru călătorie.",
         "field3": "Credem că acest lucru este esențial",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "290": {
         "cardNumber": "290",
-        "field1": "găzdui",
-        "field2": "(cazeaza-caza-caza)",
-        "field3": "adăpostul",
-        "field4": "locurile de cazare",
-        "field5": "Ne-am cazat in cel mai bun hotel din oras",
+        "field1": "a caza / a adăposti",
+        "field2": "(prezent: bringt unter; preterit: brachte unter; participiu: untergebracht)",
+        "field3": "cazarea",
+        "field4": "cazările",
+        "field5": "Am fost cazați în cel mai bun hotel din oraș.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Voiaj"
+        "category": "Călătorii"
     },
     "291": {
         "cardNumber": "291",
         "field1": "obstacolul",
         "field2": "obstacolele",
-        "field3": "împiedica",
+        "field3": "a împiedica",
         "field4": "Aceste obstacole nu sunt atât de ușor de îndepărtat",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "292": {
         "cardNumber": "292",
-        "field1": "la nivel national",
+        "field1": "pe întregul teritoriu",
         "field2": "Această specie de plante obișnuia să fie răspândită peste tot",
         "field3": "",
         "field4": "",
@@ -3501,7 +3501,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "293": {
         "cardNumber": "293",
@@ -3513,23 +3513,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "294": {
         "cardNumber": "294",
-        "field1": "trage",
+        "field1": "a târî / a căra cu greu",
         "field2": "Ai târât valiza sus singur?",
-        "field3": "Mașina spartă a fost remorcată la atelier",
+        "field3": "Mașina defectă a fost remorcată la atelier.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "295": {
         "cardNumber": "295",
-        "field1": "Trapa",
+        "field1": "a se strecura / a ieși din ou",
         "field2": "Șoarecele s-a strecurat în gaură",
         "field3": "Și-a pus haina și a plecat din casă",
         "field4": "",
@@ -3537,91 +3537,91 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "296": {
         "cardNumber": "296",
         "field1": "rigid",
-        "field2": "îngheţa",
-        "field3": "Au înghețat în stare de șoc",
+        "field2": "a încremeni",
+        "field3": "Au încremenit de spaimă.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "297": {
         "cardNumber": "297",
-        "field1": "întinde",
+        "field1": "a întinde",
         "field2": "ruta",
         "field3": "traseele",
-        "field4": "Se ridică de pe scaun și se întinse",
+        "field4": "S-a ridicat din fotoliu și s-a întins.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "298": {
         "cardNumber": "298",
-        "field1": "depaseste",
-        "field2": "(depaseste-depaseste-depaseste)",
-        "field3": "Traversarea pistelor este interzisă!",
+        "field1": "a depăși / a traversa",
+        "field2": "(prezent: überschreitet; preterit: überschritt; participiu: überschritten)",
+        "field3": "Traversarea liniilor de cale ferată este interzisă!",
         "field4": "Ați depășit limita de viteză",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "299": {
         "cardNumber": "299",
-        "field1": "mergi inainte",
-        "field2": "(progresează-progresează-progresează) ",
-        "field3": "Abia am făcut progrese cu mașina",
+        "field1": "a înainta / a progresa",
+        "field2": "(prezent: kommt voran; preterit: kam voran; participiu: vorangekommen)",
+        "field3": "Abia am reușit să înaintăm cu mașina.",
         "field4": "Lucrarea merge bine",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Determinarea mișcării și a locației"
+        "category": "Mișcare și localizare"
     },
     "300": {
         "cardNumber": "300",
-        "field1": "trecerea de cale ferată",
-        "field2": "trecerile de cale ferată",
-        "field3": "Atenție, trecerea la nivel este nerestricționată",
+        "field1": "trecerea la nivel cu calea ferată",
+        "field2": "trecerile la nivel cu calea ferată",
+        "field3": "Ai grijă, trecerea la nivel cu calea ferată nu are bariere.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "301": {
         "cardNumber": "301",
-        "field1": "culoarul",
-        "field2": "coridoarele",
+        "field1": "treapta de viteză",
+        "field2": "treptele de viteză",
         "field3": "Câte trepte are bicicleta ta de curse?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "302": {
         "cardNumber": "302",
-        "field1": "traficul care se apropie",
+        "field1": "traficul din sens opus",
         "field2": "Această stradă are circulație în două sensuri",
-        "field3": "Un trafic intens care se apropie",
+        "field3": "Traficul din sens opus este intens.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "303": {
         "cardNumber": "303",
@@ -3633,19 +3633,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "304": {
         "cardNumber": "304",
-        "field1": "vătămarea personală",
-        "field2": "daune materiale",
+        "field1": "vătămarea corporală",
+        "field2": "paguba materială",
         "field3": "Accidentul a produs pagube materiale importante",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "305": {
         "cardNumber": "305",
@@ -3657,11 +3657,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "306": {
         "cardNumber": "306",
-        "field1": "dulapurile",
+        "field1": "bariera",
         "field2": "barierele",
         "field3": "Bariera se ridică",
         "field4": "",
@@ -3669,31 +3669,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "307": {
         "cardNumber": "307",
-        "field1": "melodia",
-        "field2": "urmele",
-        "field3": "Încercați să treceți pe banda din dreapta",
+        "field1": "banda de circulație / urma",
+        "field2": "benzile de circulație / urmele",
+        "field3": "Încearcă să treci pe banda din dreapta.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "308": {
         "cardNumber": "308",
-        "field1": "ajunge",
-        "field2": "(a sosit-a sosit-a sosit)",
-        "field3": "Autobuzul ajunge târziu la Lviv",
-        "field4": "Ajung luni la 12 p.m",
+        "field1": "a sosi",
+        "field2": "(prezent: trifft ein; preterit: traf ein; participiu: eingetroffen)",
+        "field3": "Autobuzul sosește cu întârziere la Lviv.",
+        "field4": "Sosesc luni la ora 12.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "309": {
         "cardNumber": "309",
@@ -3705,11 +3705,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "310": {
         "cardNumber": "310",
-        "field1": "claxona",
+        "field1": "a claxona",
         "field2": "Taximetristul claxona nerăbdător",
         "field3": "",
         "field4": "",
@@ -3717,35 +3717,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "311": {
         "cardNumber": "311",
-        "field1": "conduce",
-        "field2": "direcția",
-        "field3": "taxa",
+        "field1": "a conduce / a pilota",
+        "field2": "volanul",
+        "field3": "impozitul",
         "field4": "S-a urcat la volan și a pornit mașina",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "312": {
         "cardNumber": "312",
-        "field1": "supraîncărcat",
-        "field2": "(supraîncărcat-supraîncărcat-supraîncărcat)",
+        "field1": "a supraîncărca",
+        "field2": "(prezent: überlädt; preterit: überlud; participiu: überladen)",
         "field3": "Mașina este complet supraîncărcată",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "313": {
         "cardNumber": "313",
-        "field1": "accidente",
+        "field1": "a suferi un accident",
         "field2": "A avut un accident mortal cu mașina lui",
         "field3": "",
         "field4": "",
@@ -3753,11 +3753,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "transport"
+        "category": "Transport"
     },
     "314": {
         "cardNumber": "314",
-        "field1": "opriți",
+        "field1": "a parca / a opri",
         "field2": "Nu există loc de parcare aici pentru a lăsa mașina",
         "field3": "",
         "field4": "",
@@ -3769,9 +3769,9 @@
     },
     "315": {
         "cardNumber": "315",
-        "field1": "figurina",
-        "field2": "figurinele",
-        "field3": "Figura colorată atrage imediat atenția trecătorilor",
+        "field1": "firma / panoul publicitar",
+        "field2": "firmele / panourile publicitare",
+        "field3": "Firma multicoloră atrage imediat privirile trecătorilor.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3782,7 +3782,7 @@
     "316": {
         "cardNumber": "316",
         "field1": "efortul",
-        "field2": "complex",
+        "field2": "costisitor / care necesită mult efort",
         "field3": "Lucrările de construcție se realizează cu cel mai mic efort",
         "field4": "",
         "field5": "",
@@ -3793,7 +3793,7 @@
     },
     "317": {
         "cardNumber": "317",
-        "field1": "drumul acasa",
+        "field1": "drumul spre casă",
         "field2": "În drum spre casă, nu a scos niciun cuvânt",
         "field3": "Eu trebuie să plec acasă acum",
         "field4": "",
@@ -3805,7 +3805,7 @@
     },
     "318": {
         "cardNumber": "318",
-        "field1": "colectare de deșeuri",
+        "field1": "colectarea gunoiului",
         "field2": "Colectarea gunoiului municipal funcționează perfect",
         "field3": "",
         "field4": "",
@@ -3817,7 +3817,7 @@
     },
     "319": {
         "cardNumber": "319",
-        "field1": "stâlpul",
+        "field1": "coloana",
         "field2": "coloanele",
         "field3": "Acoperișul este susținut de coloane",
         "field4": "Coloanele decorează portalul casei",
@@ -3829,9 +3829,9 @@
     },
     "320": {
         "cardNumber": "320",
-        "field1": "partea de umbră",
-        "field2": "laturile din umbră",
-        "field3": "Viața în acest domeniu are și dezavantajele ei",
+        "field1": "dezavantajul",
+        "field2": "dezavantajele",
+        "field3": "Viața în acest cartier are și dezavantajele ei.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3841,9 +3841,9 @@
     },
     "321": {
         "cardNumber": "321",
-        "field1": "Supravegherea",
+        "field1": "supravegherea",
         "field2": "supravegherile",
-        "field3": "monitor",
+        "field3": "a supraveghea",
         "field4": "Traficul rutier este monitorizat",
         "field5": "",
         "field6": "",
@@ -3865,9 +3865,9 @@
     },
     "323": {
         "cardNumber": "323",
-        "field1": "crește volumul",
+        "field1": "numai / doar",
         "field2": "În biserică erau doar bătrâni",
-        "field3": "Există o mulțime de baruri și discoteci în această zonă",
+        "field3": "În această zonă sunt numai baruri și discoteci.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3877,10 +3877,10 @@
     },
     "324": {
         "cardNumber": "324",
-        "field1": "jenat",
-        "field2": "relocarea",
-        "field3": "transferurile",
-        "field4": "Oprirea a fost mutată acum o lună",
+        "field1": "a muta / a reloca",
+        "field2": "mutarea",
+        "field3": "mutările",
+        "field4": "Stația a fost mutată acum o lună.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3890,8 +3890,8 @@
     "325": {
         "cardNumber": "325",
         "field1": "blana",
-        "field2": "pieile",
-        "field3": "Blana de oaie se tunde",
+        "field2": "blănurile",
+        "field3": "Oile sunt tunse.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3901,9 +3901,9 @@
     },
     "326": {
         "cardNumber": "326",
-        "field1": "mancarea",
-        "field2": "a hrani",
-        "field3": "Ai hrănit încă puii?",
+        "field1": "hrana pentru animale",
+        "field2": "a hrăni",
+        "field3": "Le-ați dat deja găinilor de mâncare?",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3914,7 +3914,7 @@
     "327": {
         "cardNumber": "327",
         "field1": "fânul",
-        "field2": "Are bani ca fânul",
+        "field2": "Are bani cu nemiluita.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3925,9 +3925,9 @@
     },
     "328": {
         "cardNumber": "328",
-        "field1": "Grebla",
+        "field1": "grebla",
         "field2": "greblele",
-        "field3": "Mânerul greblei este rupt",
+        "field3": "Coada greblei este ruptă.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3939,7 +3939,7 @@
         "cardNumber": "329",
         "field1": "noroiul",
         "field2": "plin de noroi",
-        "field3": "Pantofii tăi sunt toți noroi",
+        "field3": "Pantofii tăi sunt plini de noroi.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -3951,7 +3951,7 @@
         "cardNumber": "330",
         "field1": "lopata",
         "field2": "lopețile",
-        "field3": "lopată",
+        "field3": "a săpa cu lopata",
         "field4": "Mai trebuie să dai cu lopata mult timp",
         "field5": "",
         "field6": "",
@@ -3985,7 +3985,7 @@
     },
     "333": {
         "cardNumber": "333",
-        "field1": "păşune",
+        "field1": "pășunea",
         "field2": "pășunile",
         "field3": "Vitele stau pe pășune tot timpul anului",
         "field4": "",
@@ -3997,8 +3997,8 @@
     },
     "334": {
         "cardNumber": "334",
-        "field1": "evadare",
-        "field2": "(scăpat-scăpat-scăpat)",
+        "field1": "a scăpa / a evada",
+        "field2": "(prezent: entflieht; preterit: entfloh; participiu: entflohen)",
         "field3": "În weekend vreau să scap de agitația orașului",
         "field4": "",
         "field5": "",
@@ -4009,9 +4009,9 @@
     },
     "335": {
         "cardNumber": "335",
-        "field1": "ciripit",
-        "field2": "Un greier ciripește în iarbă",
-        "field3": "Puteai auzi cicadele ciripind în tufiș",
+        "field1": "a țârâi",
+        "field2": "Un greier țârâie în iarbă.",
+        "field3": "În tufiș se auzeau cicadele țârâind.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4021,7 +4021,7 @@
     },
     "336": {
         "cardNumber": "336",
-        "field1": "adăuga",
+        "field1": "a provoca / a pricinui",
         "field2": "Ploile au cauzat mari pagube fermierilor",
         "field3": "",
         "field4": "",
@@ -4033,51 +4033,51 @@
     },
     "337": {
         "cardNumber": "337",
-        "field1": "indica",
-        "field2": "(da-dat-dat)",
+        "field1": "a se lăuda / a indica",
+        "field2": "(prezent: gibt an; preterit: gab an; participiu: angegeben)",
         "field3": "lăudărosul",
-        "field4": "show-off-urile",
-        "field5": "Toată lumea crede că este un poser",
+        "field4": "lăudăroșii",
+        "field5": "Toată lumea îl consideră un lăudăros.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "338": {
         "cardNumber": "338",
-        "field1": "dat",
-        "field2": "din cauza lipsei",
-        "field3": "în scopul de",
+        "field1": "având în vedere",
+        "field2": "din lipsă de",
+        "field3": "în scopul",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "339": {
         "cardNumber": "339",
-        "field1": "ridica",
-        "field2": "(preia-preia-preia)",
+        "field1": "a relua / a aborda",
+        "field2": "(prezent: greift auf; preterit: griff auf; participiu: aufgegriffen)",
         "field3": "Aș dori să revin la întrebarea anterioară",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "340": {
         "cardNumber": "340",
-        "field1": "luminează",
-        "field2": "Iluminismul",
+        "field1": "a lămuri / a informa",
+        "field2": "lămurirea",
         "field3": "lămuririle",
         "field4": "Avocatul i-a explicat drepturile sale",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "341": {
         "cardNumber": "341",
@@ -4089,119 +4089,119 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "342": {
         "cardNumber": "342",
         "field1": "empatia",
-        "field2": "empatiza",
-        "field3": "Are empatie bună",
+        "field2": "a empatiza",
+        "field3": "Are o mare capacitate de empatie.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "343": {
         "cardNumber": "343",
-        "field1": "alunecarea",
-        "field2": "derapajele",
-        "field3": "Asta a fost doar un blip!",
+        "field1": "pasul greșit / scăparea",
+        "field2": "pașii greșiți / scăpările",
+        "field3": "A fost doar o scăpare!",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "344": {
         "cardNumber": "344",
         "field1": "obiecția",
         "field2": "obiecțiile",
-        "field3": "obiect",
+        "field3": "a obiecta",
         "field4": "Există obiecții la plan?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "345": {
         "cardNumber": "345",
         "field1": "persoana cu gânduri asemănătoare",
-        "field2": "oamenii asemănători",
-        "field3": "cu gânduri asemănătoare",
-        "field4": "Puteți găsi mulți oameni cu gânduri similare într-un club",
+        "field2": "persoanele cu aceleași convingeri",
+        "field3": "cu aceleași convingeri",
+        "field4": "Într-o asociație se pot găsi mulți oameni cu aceleași convingeri.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "346": {
         "cardNumber": "346",
         "field1": "consensul",
         "field2": "consensurile",
-        "field3": "disidenţa",
-        "field4": "disidenţa",
+        "field3": "dezacordul",
+        "field4": "dezacordurile",
         "field5": "Nu există un consens în acest sens",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "347": {
         "cardNumber": "347",
         "field1": "prietenul",
-        "field2": "perechea",
+        "field2": "prietenii",
         "field3": "Karl este un vechi prieten de-al meu",
         "field4": "Mă pot baza întotdeauna pe prietenul meu",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "348": {
         "cardNumber": "348",
-        "field1": "Respectul",
+        "field1": "privința / aspectul",
         "field2": "aspectele",
-        "field3": "in ceea ce priveste",
-        "field4": "Există întrebări legate de această magazie?",
+        "field3": "în ceea ce privește",
+        "field4": "Mai există întrebări referitoare la această propunere?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "349": {
         "cardNumber": "349",
-        "field1": "Concluzia",
+        "field1": "concluzia",
         "field2": "concluziile",
-        "field3": "Încheia",
-        "field4": "Sper că veți obține lucrurile potrivite din asta",
-        "field5": "Co",
-        "field6": "",
-        "field7": "",
-        "field8": "",
-        "category": "comunicare"
-    },
-    "350": {
-        "cardNumber": "350",
-        "field1": "dobândi",
-        "field2": "(dobândit-dobândit-dobândit)",
-        "field3": "achiziția",
-        "field4": "Însuşirea limbii",
+        "field3": "a trage concluzii",
+        "field4": "Sper că vei trage concluziile corecte din asta.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
+    },
+    "350": {
+        "cardNumber": "350",
+        "field1": "a dobândi",
+        "field2": "(prezent: erwirbt; preterit: erwarb; participiu: erworben)",
+        "field3": "achiziția",
+        "field4": "însușirea limbii",
+        "field5": "",
+        "field6": "",
+        "field7": "",
+        "field8": "",
+        "category": "Comunicare"
     },
     "351": {
         "cardNumber": "351",
-        "field1": "esenţial",
+        "field1": "esențial",
         "field2": "Comunicarea este o parte esențială a vieții sociale",
         "field3": "",
         "field4": "",
@@ -4209,11 +4209,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "352": {
         "cardNumber": "352",
-        "field1": "specifice sexului",
+        "field1": "specific sexului / genului",
         "field2": "Nu trebuie să te comporți întotdeauna într-o manieră specifică genului",
         "field3": "",
         "field4": "",
@@ -4221,11 +4221,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "353": {
         "cardNumber": "353",
-        "field1": "cu siguranță",
+        "field1": "sigur / cert",
         "field2": "certitudinea",
         "field3": "Pot spune asta cu certitudine",
         "field4": "",
@@ -4233,95 +4233,95 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "354": {
         "cardNumber": "354",
-        "field1": "tine",
-        "field2": "(ține-ține-țin)",
+        "field1": "a ține / a considera",
+        "field2": "(prezent: hält; preterit: hielt; participiu: gehalten)",
         "field3": "atitudinea",
         "field4": "atitudinile",
-        "field5": "Ce parere aveti de aceasta idee?",
+        "field5": "Ce părere ai despre această idee?",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "355": {
         "cardNumber": "355",
-        "field1": "descendenţă",
-        "field2": "(vine după-a venit după-a venit după)",
+        "field1": "a da curs / a îndeplini",
+        "field2": "(prezent: kommt nach; preterit: kam nach; participiu: nachgekommen)",
         "field3": "În sfârșit și-a îndeplinit promisiunea",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "356": {
         "cardNumber": "356",
         "field1": "Noroc!",
-        "field2": "Noroc Anul Nou!",
+        "field2": "La mulți ani de Anul Nou!",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "357": {
         "cardNumber": "357",
-        "field1": "flata",
-        "field2": "linguşirea",
-        "field3": "linguşirea",
+        "field1": "a flata",
+        "field2": "lingușirea",
+        "field3": "lingușirile",
         "field4": "Complimentele lui mă flatează",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "358": {
         "cardNumber": "358",
-        "field1": "promite-te",
-        "field2": "Moderatorul a făcut o promisiune de mai multe ori",
+        "field1": "a greși în vorbire",
+        "field2": "Prezentatorul a făcut de mai multe ori greșeli de exprimare.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "359": {
         "cardNumber": "359",
-        "field1": "ascunde",
-        "field2": "Îmi ascuzi ceva",
+        "field1": "a ascunde",
+        "field2": "Îmi ascunzi ceva.",
         "field3": "Și-a ascuns problemele mult timp",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "360": {
         "cardNumber": "360",
-        "field1": "mult mai mult",
-        "field2": "În contrast",
-        "field3": "in orice caz",
+        "field1": "mai degrabă / ci mai curând",
+        "field2": "în schimb / în contrast",
+        "field3": "totuși / ce-i drept",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "comunicare"
+        "category": "Comunicare"
     },
     "361": {
         "cardNumber": "361",
-        "field1": "radia",
+        "field1": "a difuza / a emana",
         "field2": "difuzarea",
         "field3": "Emisiunea nu mai este difuzată",
         "field4": "",
@@ -4329,11 +4329,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "362": {
         "cardNumber": "362",
-        "field1": "sul",
+        "field1": "a răsfoi",
         "field2": "Ea răsfoia o carte, plictisită",
         "field3": "",
         "field4": "",
@@ -4341,19 +4341,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "363": {
         "cardNumber": "363",
         "field1": "reverberația",
-        "field2": "reverbera",
+        "field2": "a răsuna / a avea ecou",
         "field3": "Ideea lui a răsunat în toată țara",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "364": {
         "cardNumber": "364",
@@ -4365,35 +4365,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "365": {
         "cardNumber": "365",
         "field1": "accesul",
         "field2": "accesele",
-        "field3": "acces",
-        "field4": "(accesuri-accesuri-accesuri)",
+        "field3": "a accesa / a apuca",
+        "field4": "(prezent: greift zu; preterit: griff zu; participiu: zugegriffen)",
         "field5": "Computerul refuză accesul la acest fișier",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "366": {
         "cardNumber": "366",
-        "field1": "documentatia",
-        "field2": "documentatiile",
+        "field1": "documentarul / documentația",
+        "field2": "documentarele / documentațiile",
         "field3": "documentarul",
         "field4": "documentarele",
         "field5": "Merită vizionat documentarul?",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "367": {
         "cardNumber": "367",
-        "field1": "privelistea",
+        "field1": "perspectiva / punctul de vedere",
         "field2": "perspectivele",
         "field3": "Am o altă perspectivă asupra lucrurilor",
         "field4": "",
@@ -4401,35 +4401,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "368": {
         "cardNumber": "368",
-        "field1": "Link-ul",
-        "field2": "link-urile",
-        "field3": "legătură",
+        "field1": "legătura",
+        "field2": "legăturile",
+        "field3": "a lega / a conecta",
         "field4": "Autorul a reușit să lege în mod logic diferite puncte de vedere",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "369": {
         "cardNumber": "369",
         "field1": "digital",
-        "field2": "digitalizare",
+        "field2": "digitalizarea",
         "field3": "Trăim în era digitală",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "370": {
         "cardNumber": "370",
-        "field1": "dezvălui",
+        "field1": "a dezvălui",
         "field2": "dezvăluirea",
         "field3": "dezvăluirile",
         "field4": "Presa a demascat scandalul",
@@ -4437,7 +4437,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "371": {
         "cardNumber": "371",
@@ -4449,7 +4449,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "372": {
         "cardNumber": "372",
@@ -4461,7 +4461,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "373": {
         "cardNumber": "373",
@@ -4473,37 +4473,37 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "374": {
         "cardNumber": "374",
-        "field1": "pentru a vă conecta",
-        "field2": "deconectați-vă",
+        "field1": "a se conecta",
+        "field2": "a se deconecta",
         "field3": "Vă rugăm să vă conectați acum",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "375": {
         "cardNumber": "375",
-        "field1": "Salvați",
+        "field1": "a salva / a stoca",
         "field2": "capacitatea de stocare",
-        "field3": "capacitatile de stocare",
-        "field4": "Ai salvat datele?",
+        "field3": "capacitățile de stocare",
+        "field4": "Ați salvat datele?",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "mass-media"
+        "category": "Mass-media"
     },
     "376": {
         "cardNumber": "376",
-        "field1": "remediu",
-        "field2": "(fix-fix-fix)",
-        "field3": "repararea",
+        "field1": "a remedia",
+        "field2": "(prezent: behebt; preterit: behob; participiu: behoben)",
+        "field3": "remedierea",
         "field4": "Defectul a fost remediat în câteva minute",
         "field5": "",
         "field6": "",
@@ -4525,11 +4525,11 @@
     },
     "378": {
         "cardNumber": "378",
-        "field1": "ambarcatiunea",
+        "field1": "meșteșugul",
         "field2": "meșteșugurile",
-        "field3": "Meșterul",
-        "field4": "mesterii",
-        "field5": "Chiar știi lucrurile tale!",
+        "field3": "meșterul",
+        "field4": "meșterii",
+        "field5": "Chiar îți cunoști meseria!",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -4538,7 +4538,7 @@
     "379": {
         "cardNumber": "379",
         "field1": "criteriul",
-        "field2": "criteriul",
+        "field2": "criteriile",
         "field3": "Ce criterii se folosesc pentru a face alegerea?",
         "field4": "",
         "field5": "",
@@ -4561,9 +4561,9 @@
     },
     "381": {
         "cardNumber": "381",
-        "field1": "privelistea",
-        "field2": "intuițiile",
-        "field3": "Managerul de resurse umane mi-a dat o perspectivă asupra noilor mele sarcini",
+        "field1": "privirea din interior / înțelegerea",
+        "field2": "privirile din interior / perspectivele",
+        "field3": "Responsabilul de resurse umane mi-a prezentat noile mele îndatoriri.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4597,10 +4597,10 @@
     },
     "384": {
         "cardNumber": "384",
-        "field1": "Privilegiul",
+        "field1": "avantajul",
         "field2": "avantajele",
-        "field3": "preferabil",
-        "field4": "Șeful a dat preferință ideii sale",
+        "field3": "de preferință",
+        "field4": "Șeful a preferat ideea lui.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -4611,7 +4611,7 @@
         "cardNumber": "385",
         "field1": "cariera",
         "field2": "carierele",
-        "field3": "Îmi poți spune pe scurt despre cariera ta profesională?",
+        "field3": "Îmi puteți descrie pe scurt parcursul dumneavoastră profesional?",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4623,7 +4623,7 @@
         "cardNumber": "386",
         "field1": "oportunitatea de avansare",
         "field2": "oportunitățile de avansare",
-        "field3": "Șansele tale de avansare sunt mici",
+        "field3": "Șansele dumneavoastră de avansare sunt reduse.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4633,9 +4633,9 @@
     },
     "387": {
         "cardNumber": "387",
-        "field1": "rezistența",
-        "field2": "durabil",
-        "field3": "Pentru această meserie trebuie să fii rezistent",
+        "field1": "capacitatea de a face față solicitărilor",
+        "field2": "rezistent la solicitări",
+        "field3": "Pentru acest loc de muncă trebuie să poți face față solicitărilor.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4657,9 +4657,9 @@
     },
     "389": {
         "cardNumber": "389",
-        "field1": "replica",
-        "field2": "iute la minte",
-        "field3": "Ea a dat un răspuns iute la minte",
+        "field1": "promptitudinea în replică",
+        "field2": "cu replică promptă",
+        "field3": "Ea a dat o replică promptă și isteață.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4670,8 +4670,8 @@
     "390": {
         "cardNumber": "390",
         "field1": "capacitatea de a lucra în echipă",
-        "field2": "jucător în echipă",
-        "field3": "Cauți un jucător de echipă",
+        "field2": "capabil să lucreze în echipă",
+        "field3": "Caută un angajat capabil să lucreze în echipă.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4681,8 +4681,8 @@
     },
     "391": {
         "cardNumber": "391",
-        "field1": "un al doilea pilon principal",
-        "field2": "Aș dori să-mi construiesc o a doua sursă de afaceri",
+        "field1": "o a doua sursă de venit",
+        "field2": "Aș dori să-mi asigur o a doua sursă de venit.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -4693,9 +4693,9 @@
     },
     "392": {
         "cardNumber": "392",
-        "field1": "ia-ți timp liber",
-        "field2": "(își ia timp liber-i-a luat timp liber-și ia timp liber)",
-        "field3": "Am luat azi afara",
+        "field1": "a-și lua liber",
+        "field2": "(prezent: nimmt frei; preterit: nahm frei; participiu: freigenommen)",
+        "field3": "Astăzi mi-am luat liber.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4705,8 +4705,8 @@
     },
     "393": {
         "cardNumber": "393",
-        "field1": "în primul rând",
-        "field2": "incidental",
+        "field1": "în principal",
+        "field2": "secundar",
         "field3": "Munca lui se limitează în principal la consilierea clienților",
         "field4": "",
         "field5": "",
@@ -4717,9 +4717,9 @@
     },
     "394": {
         "cardNumber": "394",
-        "field1": "onora",
-        "field2": "remunerația",
-        "field3": "onorurile",
+        "field1": "a remunera / a recompensa",
+        "field2": "remunerarea",
+        "field3": "remunerările",
         "field4": "Performanța muncii trebuie recompensată în consecință",
         "field5": "",
         "field6": "",
@@ -4741,9 +4741,9 @@
     },
     "396": {
         "cardNumber": "396",
-        "field1": "să-ți cunoști drumul",
-        "field2": "(știe despre-știe despre-știe despre)",
-        "field3": "Ea cunoaște foarte bine această zonă",
+        "field1": "a se pricepe / a cunoaște bine",
+        "field2": "(prezent: kennt sich aus; preterit: kannte sich aus; participiu: ausgekannt)",
+        "field3": "Ea se pricepe foarte bine în acest domeniu.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4753,7 +4753,7 @@
     },
     "397": {
         "cardNumber": "397",
-        "field1": "sunt potrivite",
+        "field1": "a fi potrivit",
         "field2": "adecvarea",
         "field3": "Mai întâi trebuie să-și dovedească aptitudinea profesională",
         "field4": "",
@@ -4765,8 +4765,8 @@
     },
     "398": {
         "cardNumber": "398",
-        "field1": "dispari",
-        "field2": "Nu te bloca, concentrează-te pe ceea ce este cel mai important",
+        "field1": "a se risipi în amănunte",
+        "field2": "Nu te pierde în amănunte; concentrează-te asupra lucrurilor esențiale.",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -4777,9 +4777,9 @@
     },
     "399": {
         "cardNumber": "399",
-        "field1": "reprezentant",
-        "field2": "deputatul",
-        "field3": "deputatii",
+        "field1": "în calitate de adjunct / înlocuitor",
+        "field2": "adjunctul / înlocuitorul",
+        "field3": "adjuncții / înlocuitorii",
         "field4": "A fost ales director adjunct",
         "field5": "",
         "field6": "",
@@ -4789,7 +4789,7 @@
     },
     "400": {
         "cardNumber": "400",
-        "field1": "esenţial",
+        "field1": "esențial",
         "field2": "Germana este o cerință esențială pentru acest post",
         "field3": "",
         "field4": "",
@@ -4801,8 +4801,8 @@
     },
     "401": {
         "cardNumber": "401",
-        "field1": "a avea dreptul",
-        "field2": "(stă pentru-stă pentru-admis)",
+        "field1": "a i se cuveni / a-i reveni de drept",
+        "field2": "(prezent: steht zu; preterit: stand zu; participiu: zugestanden)",
         "field3": "Avem dreptul la 21 de zile de concediu pe an",
         "field4": "",
         "field5": "",
@@ -4813,19 +4813,19 @@
     },
     "402": {
         "cardNumber": "402",
-        "field1": "cădere brusca",
-        "field2": "paragraf",
+        "field1": "a vinde / a desface (mărfuri)",
+        "field2": "desfacerea / vânzarea",
         "field3": "Vânzările de mărfuri stagnează",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "403": {
         "cardNumber": "403",
-        "field1": "imprumutul",
+        "field1": "împrumutul",
         "field2": "împrumuturile",
         "field3": "Banca i-a dat un nou credit",
         "field4": "Ea trebuie să ramburseze împrumutul luna viitoare",
@@ -4833,23 +4833,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "404": {
         "cardNumber": "404",
-        "field1": "creditul",
-        "field2": "creditele",
-        "field3": "Domnul Stein are un sold mare în bancă",
+        "field1": "soldul creditor / disponibilul din cont",
+        "field2": "soldurile creditoare / disponibilurile din conturi",
+        "field3": "Domnul Stein are o sumă mare disponibilă în contul bancar.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "405": {
         "cardNumber": "405",
-        "field1": "capitala",
+        "field1": "capitalul",
         "field2": "capitalul minim",
         "field3": "capitalul împrumutat",
         "field4": "",
@@ -4857,31 +4857,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "406": {
         "cardNumber": "406",
-        "field1": "Creșterea",
-        "field2": "creşterile",
+        "field1": "avântul / creșterea economică",
+        "field2": "avânturile / creșterile economice",
         "field3": "recesiunea",
         "field4": "recesiunile",
-        "field5": "Economia se confruntă cu o creștere furtunoasă",
+        "field5": "Economia cunoaște un avânt puternic.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "407": {
         "cardNumber": "407",
         "field1": "fluxul de bani",
-        "field2": "banii curg",
+        "field2": "fluxurile de bani",
         "field3": "Nu orice flux de numerar poate fi urmărit",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "408": {
         "cardNumber": "408",
@@ -4893,43 +4893,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "409": {
         "cardNumber": "409",
-        "field1": "standul",
-        "field2": "Starea actuală a negocierilor nu este satisfăcătoare",
+        "field1": "stadiul / nivelul",
+        "field2": "Stadiul actual al negocierilor nu este satisfăcător.",
         "field3": "Fabrica este de ultimă generație",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "410": {
         "cardNumber": "410",
-        "field1": "vânzări",
-        "field2": "vanzari",
-        "field3": "implementează",
+        "field1": "cifra de afaceri",
+        "field2": "cifrele de afaceri",
+        "field3": "a realiza o cifră de afaceri / a vinde",
         "field4": "Restaurantul are cea mai mare cifră de afaceri în weekend",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "411": {
         "cardNumber": "411",
-        "field1": "Concurentul",
-        "field2": "concurentii",
+        "field1": "concurentul",
+        "field2": "concurenții",
         "field3": "Compania mai mică a fost depășită de concurentul său",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "412": {
         "cardNumber": "412",
@@ -4941,43 +4941,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "413": {
         "cardNumber": "413",
-        "field1": "atașamentul",
-        "field2": "facilitatile",
-        "field3": "investi",
-        "field4": "Casa este o facilitate sigura",
+        "field1": "investiția",
+        "field2": "investițiile",
+        "field3": "a investi",
+        "field4": "Casa este o investiție sigură.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "414": {
         "cardNumber": "414",
-        "field1": "industria",
-        "field2": "industriile",
+        "field1": "ramura economică / sectorul",
+        "field2": "ramurile economice / sectoarele",
         "field3": "Aceste sectoare se confruntă în prezent cu un boom",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "415": {
         "cardNumber": "415",
         "field1": "pierderea",
         "field2": "pierderile",
-        "field3": "pierdere",
+        "field3": "a pierde",
         "field4": "Când a apărut inflația, și-a pierdut averea",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "416": {
         "cardNumber": "416",
@@ -4989,7 +4989,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "417": {
         "cardNumber": "417",
@@ -5001,7 +5001,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "418": {
         "cardNumber": "418",
@@ -5013,55 +5013,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "419": {
         "cardNumber": "419",
         "field1": "eficient",
-        "field2": "ineficace",
+        "field2": "ineficient",
         "field3": "Această metodă este incredibil de eficientă",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "420": {
         "cardNumber": "420",
-        "field1": "Genera",
-        "field2": "productia",
+        "field1": "a produce / a genera",
+        "field2": "producția",
         "field3": "Centrala a reușit să genereze mai multă energie electrică de la modernizare",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "421": {
         "cardNumber": "421",
-        "field1": "prospera",
-        "field2": "(prosperat-prosperat-prosperat)",
+        "field1": "a prospera / a se dezvolta bine",
+        "field2": "(prezent: gedeiht; preterit: gedieh; participiu: gediehen)",
         "field3": "Noua lui afacere este înfloritoare",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "422": {
         "cardNumber": "422",
-        "field1": "inhiba",
-        "field2": "inhibarea",
-        "field3": "inhibiţiile",
+        "field1": "a frâna / a inhiba",
+        "field2": "frânarea / inhibiția",
+        "field3": "frânările / inhibițiile",
         "field4": "Creșterea economică a fost inhibată de criză",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "423": {
         "cardNumber": "423",
@@ -5073,67 +5073,67 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "424": {
         "cardNumber": "424",
-        "field1": "reconstrui",
-        "field2": "modificarea",
-        "field3": "Economia se transformă ecologic",
+        "field1": "a restructura / a transforma",
+        "field2": "restructurarea / transformarea",
+        "field3": "Economia este restructurată pe baze ecologice.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "425": {
         "cardNumber": "425",
         "field1": "insolvabil",
-        "field2": "insolventa",
-        "field3": "Firma este in insolventa",
+        "field2": "incapacitatea de plată",
+        "field3": "Firma se află în incapacitate de plată.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Afaceri"
+        "category": "Economie"
     },
     "426": {
         "cardNumber": "426",
-        "field1": "avocat",
-        "field2": "Avocatul",
-        "field3": "suporterii",
+        "field1": "a susține / a se pronunța în favoarea",
+        "field2": "susținătorul",
+        "field3": "susținătorii",
         "field4": "Proiectul are atât susținători, cât și oponenți",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "427": {
         "cardNumber": "427",
-        "field1": "biroul de ocupare a fortei de munca",
-        "field2": "birourile de angajare",
-        "field3": "Prezentați imediat biroul de ocupare a forței de muncă",
+        "field1": "agenția pentru ocuparea forței de muncă",
+        "field2": "agențiile pentru ocuparea forței de muncă",
+        "field3": "Înregistrați-vă fără întârziere la agenția pentru ocuparea forței de muncă.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "428": {
         "cardNumber": "428",
         "field1": "țara gazdă",
-        "field2": "ţările gazdă",
-        "field3": "Țara invitată anul acesta a fost Olanda",
+        "field2": "țările gazdă",
+        "field3": "Țara invitată anul acesta a fost Țările de Jos.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "429": {
         "cardNumber": "429",
@@ -5145,23 +5145,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "430": {
         "cardNumber": "430",
-        "field1": "potentialul",
-        "field2": "potenţialele",
+        "field1": "potențialul",
+        "field2": "potențialele",
         "field3": "Potențialul economic al statului este mare",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "431": {
         "cardNumber": "431",
-        "field1": "Comitetul",
+        "field1": "comitetul",
         "field2": "comitetele",
         "field3": "Comitetul de oameni de știință se întrunește astăzi aici",
         "field4": "",
@@ -5169,43 +5169,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "432": {
         "cardNumber": "432",
         "field1": "ambasadorul",
         "field2": "ambasadorii",
-        "field3": "mesajul",
-        "field4": "mesajele",
+        "field3": "ambasada",
+        "field4": "ambasadele",
         "field5": "A fost numit ambasador",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "433": {
         "cardNumber": "433",
         "field1": "scandalul",
-        "field2": "scandalul",
+        "field2": "scandalurile",
         "field3": "flagrant",
         "field4": "Negocierile s-au încheiat cu un scandal",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "434": {
         "cardNumber": "434",
         "field1": "principiul",
         "field2": "principiile",
-        "field3": "pe scurt",
+        "field3": "în principiu / fundamental",
         "field4": "Nu poți contrazice aceste principii",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "435": {
         "cardNumber": "435",
@@ -5217,31 +5217,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "436": {
         "cardNumber": "436",
-        "field1": "opinia",
-        "field2": "opiniile",
-        "field3": "Politicianul nu vrea să comenteze acest lucru",
+        "field1": "luarea de poziție",
+        "field2": "luările de poziție",
+        "field3": "Politicianul nu vrea să ia poziție în această chestiune.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "437": {
         "cardNumber": "437",
         "field1": "certificatul",
-        "field2": "documentele",
+        "field2": "certificatele",
         "field3": "Cine poate elibera un astfel de certificat?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "438": {
         "cardNumber": "438",
@@ -5253,91 +5253,91 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "439": {
         "cardNumber": "439",
-        "field1": "intervenţie",
-        "field2": "(intervine-intervine-intervine)",
-        "field3": "angajamentul",
-        "field4": "interventiile",
-        "field5": "Orice interferență cu confidențialitatea nu este permisă",
+        "field1": "a interveni",
+        "field2": "(prezent: greift ein; preterit: griff ein; participiu: eingegriffen)",
+        "field3": "intervenția",
+        "field4": "intervențiile",
+        "field5": "Orice ingerință în viața privată este interzisă.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "440": {
         "cardNumber": "440",
-        "field1": "acorda",
-        "field2": "acordarea",
+        "field1": "a admite / a acorda",
+        "field2": "recunoașterea / acordarea",
         "field3": "Ministrul și-a recunoscut greșeala",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "441": {
         "cardNumber": "441",
-        "field1": "contracara",
-        "field2": "Scopul este de a contracara deficitul de muncitori",
+        "field1": "a contracara",
+        "field2": "Trebuie contracarat deficitul de forță de muncă.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "442": {
         "cardNumber": "442",
-        "field1": "comemora",
-        "field2": "(gând-amintit-gând)",
+        "field1": "a comemora",
+        "field2": "(prezent: gedenkt; preterit: gedachte; participiu: gedacht)",
         "field3": "memorialul",
         "field4": "memorialele",
-        "field5": "Astăzi ne amintim de victimele celui de-al Doilea Război Mondial",
+        "field5": "Astăzi comemorăm victimele celui de-al Doilea Război Mondial.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "443": {
         "cardNumber": "443",
-        "field1": "in spate",
-        "field2": "(se sustrage-se sustrage-se sustrage)",
-        "field3": "evaziunea",
-        "field4": "evaziunile",
-        "field5": "S-a sustras de la impozite de ani de zile",
+        "field1": "a se sustrage de la plata (impozitelor)",
+        "field2": "(prezent: hinterzieht; preterit: hinterzog; participiu: hinterzogen)",
+        "field3": "evaziunea fiscală",
+        "field4": "evaziunile fiscale",
+        "field5": "Ani de zile s-a sustras de la plata impozitelor.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "444": {
         "cardNumber": "444",
         "field1": "a se implica",
-        "field2": "utilizarea",
-        "field3": "mizele",
-        "field4": "Politicianul este angajat în reforma fiscală",
+        "field2": "implicarea / angajamentul",
+        "field3": "implicările / angajamentele",
+        "field4": "Politicianul militează pentru o reformă fiscală.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "445": {
         "cardNumber": "445",
-        "field1": "gestionabil",
-        "field2": "Riscurile acestei decizii nu sunt gestionabile",
+        "field1": "ușor de evaluat / de cuprins",
+        "field2": "Riscurile acestei decizii nu pot fi evaluate în ansamblu.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "446": {
         "cardNumber": "446",
@@ -5349,59 +5349,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "447": {
         "cardNumber": "447",
-        "field1": "muşamaliza",
-        "field2": "S-au încercat mușamalizarea scandalului",
+        "field1": "a mușamaliza",
+        "field2": "S-a încercat mușamalizarea scandalului.",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "448": {
         "cardNumber": "448",
-        "field1": "administra",
-        "field2": "administratia",
+        "field1": "a administra",
+        "field2": "administrația",
         "field3": "Cine conduce afacerea aici?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "449": {
         "cardNumber": "449",
         "field1": "responsabil",
-        "field2": "jurisdicția",
-        "field3": "responsabilitățile",
-        "field4": "Oficiul registrului este responsabil pentru acest lucru",
+        "field2": "competența / responsabilitatea",
+        "field3": "competențele / responsabilitățile",
+        "field4": "Aceasta ține de competența oficiului stării civile.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Țară"
+        "category": "Stat"
     },
     "450": {
         "cardNumber": "450",
-        "field1": "Dreapta",
-        "field2": "(cântărește sus-cântărește sus-cântărește sus)",
-        "field3": "echilibrarea",
-        "field4": "compromisurile",
+        "field1": "dreptul",
+        "field2": "(prezent: wägt ab; preterit: wog ab; participiu: abgewogen)",
+        "field3": "cântărirea / evaluarea",
+        "field4": "cântăririle / evaluările",
         "field5": "Trebuie să cântărim cu atenție argumentele pro și contra",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "451": {
         "cardNumber": "451",
-        "field1": "pedepsi",
+        "field1": "a sancționa",
         "field2": "pedeapsa",
         "field3": "pedepsele",
         "field4": "Omorul se pedepsește cu închisoare",
@@ -5409,23 +5409,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "452": {
         "cardNumber": "452",
-        "field1": "comite",
-        "field2": "(comite-commit-committed)",
+        "field1": "a comite",
+        "field2": "(prezent: begeht; preterit: beging; participiu: begangen)",
         "field3": "S-a sinucis",
         "field4": "Dar ai făcut o greșeală acolo",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "453": {
         "cardNumber": "453",
-        "field1": "confisca",
+        "field1": "a confisca",
         "field2": "confiscarea",
         "field3": "confiscările",
         "field4": "Polițiștii au confiscat opere de artă furate",
@@ -5433,55 +5433,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "454": {
         "cardNumber": "454",
-        "field1": "mită",
-        "field2": "(mita-mita-mita)",
-        "field3": "mita",
-        "field4": "mita",
+        "field1": "a mitui",
+        "field2": "(prezent: besticht; preterit: bestach; participiu: bestochen)",
+        "field3": "mituirea",
+        "field4": "mituirile",
         "field5": "incoruptibil",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "455": {
         "cardNumber": "455",
-        "field1": "înşela",
-        "field2": "(înșelat-înșelat-înșelat)",
-        "field3": "fraudă",
+        "field1": "a înșela / a frauda",
+        "field2": "(prezent: betrügt; preterit: betrog; participiu: betrogen)",
+        "field3": "frauda",
         "field4": "necinstit",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "456": {
         "cardNumber": "456",
         "field1": "amenda",
         "field2": "amenzile",
-        "field3": "Dacă comiți o infracțiune, trebuie să plătești o amendă",
+        "field3": "Dacă săvârșești o faptă sancționabilă, trebuie să plătești o amendă.",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "457": {
         "cardNumber": "457",
-        "field1": "drept internațional",
-        "field2": "drept internațional",
+        "field1": "dreptul internațional",
+        "field2": "privind dreptul internațional",
         "field3": "Acest lucru este contrar dreptului internațional",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "458": {
         "cardNumber": "458",
@@ -5493,91 +5493,91 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "459": {
         "cardNumber": "459",
-        "field1": "Legiuitorul",
+        "field1": "legiuitorul",
         "field2": "legiuitorii",
-        "field3": "legislatia",
+        "field3": "legislația",
         "field4": "legislativ",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "460": {
         "cardNumber": "460",
-        "field1": "escrocheria căsătoriei",
-        "field2": "fraudul căsătoriei",
-        "field3": "escrocii de căsătorie",
-        "field4": "S-a îndrăgostit de un escroc de căsătorie",
+        "field1": "escrocheria matrimonială",
+        "field2": "escrocul matrimonial",
+        "field3": "escrocii matrimoniali",
+        "field4": "Ea a căzut victimă unui escroc matrimonial.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "461": {
         "cardNumber": "461",
         "field1": "clientul",
-        "field2": "clientii",
+        "field2": "clienții",
         "field3": "Nu pot dezvălui nimic despre clienții mei",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "462": {
         "cardNumber": "462",
-        "field1": "ordinea",
-        "field2": "ordinele",
-        "field3": "aranja",
+        "field1": "ordinul / dispoziția",
+        "field2": "ordinele / dispozițiile",
+        "field3": "a dispune / a ordona",
         "field4": "prin ordin oficial",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "463": {
         "cardNumber": "463",
         "field1": "prada",
-        "field2": "captură",
+        "field2": "a captura / a lua ca pradă",
         "field3": "Hoții au scăpat cu prada",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "464": {
         "cardNumber": "464",
-        "field1": "consimtamantul",
-        "field2": "consimtamanturile",
-        "field3": "consimţământ",
+        "field1": "consimțământul",
+        "field2": "consimțămintele",
+        "field3": "a consimți",
         "field4": "Încă nu mi-am dat acordul",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "465": {
         "cardNumber": "465",
-        "field1": "răspundere",
-        "field2": "fi răspunzător",
+        "field1": "răspunderea",
+        "field2": "a răspunde (juridic)",
         "field3": "Părinții sunt responsabili pentru copii",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "466": {
         "cardNumber": "466",
@@ -5589,35 +5589,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "467": {
         "cardNumber": "467",
-        "field1": "demis",
-        "field2": "(tras-tras-tras)",
-        "field3": "concedierea",
-        "field4": "disponibilizările",
-        "field5": "Infractorul a fost eliberat sub supraveghere",
+        "field1": "a elibera / a concedia",
+        "field2": "(prezent: entlässt; preterit: entließ; participiu: entlassen)",
+        "field3": "eliberarea / concedierea",
+        "field4": "eliberările / concedierile",
+        "field5": "Infractorul a fost eliberat condiționat.",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "468": {
         "cardNumber": "468",
-        "field1": "a determina",
-        "field2": "investigatia",
-        "field3": "investigatiile",
+        "field1": "a ancheta / a investiga",
+        "field2": "ancheta",
+        "field3": "anchetele",
         "field4": "Ancheta nu a fost încă finalizată",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "469": {
         "cardNumber": "469",
-        "field1": "şantaj",
+        "field1": "a șantaja",
         "field2": "șantajul",
         "field3": "șantajele",
         "field4": "A fost șantajat cu documente de afaceri furate",
@@ -5625,23 +5625,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "470": {
         "cardNumber": "470",
-        "field1": "căutare",
-        "field2": "vânătoarea de oameni",
-        "field3": "căutările",
-        "field4": "Căutarea făptuitorului este fără succes",
+        "field1": "a căuta (prin poliție)",
+        "field2": "căutarea polițienească",
+        "field3": "căutările polițienești",
+        "field4": "Căutarea făptuitorului nu dă rezultate.",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "471": {
         "cardNumber": "471",
-        "field1": "fals",
+        "field1": "a falsifica",
         "field2": "falsul",
         "field3": "falsurile",
         "field4": "Pictura este un fals",
@@ -5649,47 +5649,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "472": {
         "cardNumber": "472",
-        "field1": "daca este aplicabil",
-        "field2": "eventual.",
+        "field1": "dacă este cazul",
+        "field2": "dacă este cazul (abreviere germană)",
         "field3": "Dacă este necesar, vor fi adoptate noi legi",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "473": {
         "cardNumber": "473",
-        "field1": "părăsi",
-        "field2": "Anulabil",
+        "field1": "a rezilia / a demisiona",
+        "field2": "reziliabil",
         "field3": "Contractul poate fi reziliat după trei ani",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "474": {
         "cardNumber": "474",
-        "field1": "în ambuscadă",
-        "field2": "(pândit-pândit-pândit)",
-        "field3": "raidul",
-        "field4": "raidurile",
+        "field1": "a ataca prin surprindere / a jefui",
+        "field2": "(prezent: überfällt; preterit: überfiel; participiu: überfallen)",
+        "field3": "atacul",
+        "field4": "atacurile",
         "field5": "jaful",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "475": {
         "cardNumber": "475",
-        "field1": "Trimite",
+        "field1": "a prezenta",
         "field2": "Puteți prezenta contractul spre semnare",
         "field3": "",
         "field4": "",
@@ -5697,7 +5697,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Dreapta"
+        "category": "Drept"
     },
     "476": {
         "cardNumber": "476",
@@ -5713,7 +5713,7 @@
     },
     "477": {
         "cardNumber": "477",
-        "field1": "exclude",
+        "field1": "a exclude / a marginaliza",
         "field2": "excluderea",
         "field3": "excluderile",
         "field4": "Se simțea exclus",
@@ -5725,8 +5725,8 @@
     },
     "478": {
         "cardNumber": "478",
-        "field1": "rupe în",
-        "field2": "(smuls-smuls-smuls)",
+        "field1": "a fugi (de acasă) / a smulge",
+        "field2": "(prezent: reißt aus; preterit: riss aus; participiu: ausgerissen)",
         "field3": "Copilul a fugit de acasă de mai multe ori",
         "field4": "",
         "field5": "",
@@ -5737,9 +5737,9 @@
     },
     "479": {
         "cardNumber": "479",
-        "field1": "trece peste",
-        "field2": "copingul",
-        "field3": "Unele trecute nu sunt ușor de acceptat",
+        "field1": "a face față / a depăși",
+        "field2": "depășirea / gestionarea",
+        "field3": "Unele experiențe din trecut sunt greu de depășit.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5750,8 +5750,8 @@
     "480": {
         "cardNumber": "480",
         "field1": "mizeria",
-        "field2": "mizerie",
-        "field3": "Ajutăm acolo unde nefericirea este cea mai mare",
+        "field2": "mizerabil / nenorocit",
+        "field3": "Ajutăm acolo unde mizeria este cea mai mare.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5763,8 +5763,8 @@
         "cardNumber": "481",
         "field1": "alarma",
         "field2": "alarmele",
-        "field3": "alerta",
-        "field4": "Ar trebui să trag alarma?",
+        "field3": "a alerta",
+        "field4": "Ar trebui să dau alarma?",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5773,10 +5773,10 @@
     },
     "482": {
         "cardNumber": "482",
-        "field1": "trăgaciul",
-        "field2": "declanșatorii",
-        "field3": "declanșatorul",
-        "field4": "Ce a stârnit argumentul?",
+        "field1": "factorul declanșator",
+        "field2": "factorii declanșatori",
+        "field3": "a declanșa",
+        "field4": "Ce a declanșat cearta?",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5786,7 +5786,7 @@
     "483": {
         "cardNumber": "483",
         "field1": "cel afectat",
-        "field2": "cel afectat",
+        "field2": "cei afectați",
         "field3": "Aflăm de ce au nevoie cei afectați în acel moment",
         "field4": "",
         "field5": "",
@@ -5809,10 +5809,10 @@
     },
     "485": {
         "cardNumber": "485",
-        "field1": "conducatorul",
-        "field2": "cei de la putere",
-        "field3": "prinderea puterii",
-        "field4": "puternic",
+        "field1": "deținătorul puterii",
+        "field2": "deținătorii puterii",
+        "field3": "comportamentul autoritar / dorința de a domina",
+        "field4": "autoritar / dominator",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5822,8 +5822,8 @@
     "486": {
         "cardNumber": "486",
         "field1": "calea de mijloc",
-        "field2": "calea de mijloc",
-        "field3": "Putem în sfârșit să cădem de acord asupra unui punct de mijloc?",
+        "field2": "căile de mijloc",
+        "field3": "Putem cădea în sfârșit de acord asupra unei căi de mijloc?",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5834,8 +5834,8 @@
     "487": {
         "cardNumber": "487",
         "field1": "tributul",
-        "field2": "tributul",
-        "field3": "Erupția vulcanică a avut un efect grav asupra vieților umane",
+        "field2": "tributurile",
+        "field3": "Erupția vulcanică a făcut multe victime omenești.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5845,8 +5845,8 @@
     },
     "488": {
         "cardNumber": "488",
-        "field1": "Faptul",
-        "field2": "circumstantele",
+        "field1": "împrejurarea",
+        "field2": "împrejurările",
         "field3": "Un acord nu este posibil în astfel de circumstanțe",
         "field4": "Nu te deranja prea tare de dragul meu",
         "field5": "",
@@ -5857,10 +5857,10 @@
     },
     "489": {
         "cardNumber": "489",
-        "field1": "contradicţie",
-        "field2": "contradictiile",
+        "field1": "contradicția",
+        "field2": "contradicțiile",
         "field3": "contradictoriu",
-        "field4": "Vestea era foarte contradictorie",
+        "field4": "Știrile erau foarte contradictorii.",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5870,8 +5870,8 @@
     "490": {
         "cardNumber": "490",
         "field1": "mașinația",
-        "field2": "mașinațiunile",
-        "field3": "Și-au atins obiectivele prin mașinațiuni întunecate",
+        "field2": "mașinațiile",
+        "field3": "Și-au atins obiectivele prin mașinații obscure.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5881,9 +5881,9 @@
     },
     "491": {
         "cardNumber": "491",
-        "field1": "urgenta",
-        "field2": "o urgență financiară",
-        "field3": "A intrat într-o urgență",
+        "field1": "situația dificilă / situația de criză",
+        "field2": "o situație financiară dificilă",
+        "field3": "A ajuns într-o situație de criză.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5893,9 +5893,9 @@
     },
     "492": {
         "cardNumber": "492",
-        "field1": "încorporează",
+        "field1": "a integra",
         "field2": "integrarea",
-        "field3": "Nu vrea să se alăture echipei",
+        "field3": "Nu vrea să se integreze în echipă.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5905,8 +5905,8 @@
     },
     "493": {
         "cardNumber": "493",
-        "field1": "niste",
-        "field2": "unitatea",
+        "field1": "de acord / unit",
+        "field2": "unitatea / acordul",
         "field3": "A existat un acord total asupra acestui punct",
         "field4": "",
         "field5": "",
@@ -5917,7 +5917,7 @@
     },
     "494": {
         "cardNumber": "494",
-        "field1": "aprinde",
+        "field1": "a aprinde / a stârni",
         "field2": "Cuvintele lui au stârnit o ceartă",
         "field3": "",
         "field4": "",
@@ -5929,8 +5929,8 @@
     },
     "495": {
         "cardNumber": "495",
-        "field1": "comanda",
-        "field2": "(comandă-comandă-comandă)",
+        "field1": "a impune / a porunci",
+        "field2": "(prezent: gebietet; preterit: gebot; participiu: geboten)",
         "field3": "Aici se recomandă prudență",
         "field4": "Situația necesită intervenție rapidă",
         "field5": "",
@@ -5941,7 +5941,7 @@
     },
     "496": {
         "cardNumber": "496",
-        "field1": "Donează",
+        "field1": "a provoca / a dona",
         "field2": "El a provocat neliniște prin comentariile sale",
         "field3": "",
         "field4": "",
@@ -5953,9 +5953,9 @@
     },
     "497": {
         "cardNumber": "497",
-        "field1": "banaliza",
-        "field2": "banalizarea",
-        "field3": "Consecințele accidentului nu trebuie banalizate",
+        "field1": "a minimaliza",
+        "field2": "minimalizarea",
+        "field3": "Consecințele accidentului nu trebuie minimalizate.",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5965,7 +5965,7 @@
     },
     "498": {
         "cardNumber": "498",
-        "field1": "calomnie",
+        "field1": "a calomnia",
         "field2": "calomnia",
         "field3": "calomniile",
         "field4": "A fost calomniat din invidie",
@@ -5977,8 +5977,8 @@
     },
     "499": {
         "cardNumber": "499",
-        "field1": "tradat",
-        "field2": "(trăda-trădat-trădat)",
+        "field1": "a trăda / a divulga",
+        "field2": "(prezent: verrät; preterit: verriet; participiu: verraten)",
         "field3": "trădarea",
         "field4": "trădătorul",
         "field5": "trădătorii",
@@ -5989,7 +5989,7 @@
     },
     "500": {
         "cardNumber": "500",
-        "field1": "apăra",
+        "field1": "a apăra",
         "field2": "apărarea",
         "field3": "Războinicii s-au apărat hotărât",
         "field4": "",

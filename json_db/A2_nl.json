@@ -2,7 +2,7 @@
     "1": {
         "cardNumber": "1",
         "field1": "bakken",
-        "field2": "(gebakken-gebakken-gebakken)",
+        "field2": "(tegenwoordige tijd: bäckt; verleden tijd: backte; voltooid deelwoord: gebacken)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -25,8 +25,8 @@
     },
     "3": {
         "cardNumber": "3",
-        "field1": "geroosterd vlees",
-        "field2": "(gebakken-gebakken-gebakken)",
+        "field1": "bakken / braden",
+        "field2": "(tegenwoordige tijd: brät; verleden tijd: briet; voltooid deelwoord: gebraten)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -37,20 +37,20 @@
     },
     "4": {
         "cardNumber": "4",
-        "field1": "het cafe",
-        "field2": "De cafés",
+        "field1": "het café",
+        "field2": "de cafés",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "in het cafe",
+        "field7": "in het café",
         "field8": "Op zondag ga ik naar het café",
         "category": "Voeding"
     },
     "5": {
         "cardNumber": "5",
         "field1": "de kip",
-        "field2": "de kip",
+        "field2": "de kippen",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -67,7 +67,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "bak in olie",
+        "field7": "in olie bakken",
         "field8": "",
         "category": "Voeding"
     },
@@ -91,7 +91,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Heb jij magere yoghurt?",
+        "field7": "Hebt u magere yoghurt?",
         "field8": "",
         "category": "Voeding"
     },
@@ -133,7 +133,7 @@
     },
     "12": {
         "cardNumber": "12",
-        "field1": "de paprika's",
+        "field1": "de paprika",
         "field2": "de paprika's",
         "field3": "zoete paprika",
         "field4": "",
@@ -145,7 +145,7 @@
     },
     "13": {
         "cardNumber": "13",
-        "field1": "de Peper",
+        "field1": "de peper",
         "field2": "",
         "field3": "de pepermolen",
         "field4": "",
@@ -157,7 +157,7 @@
     },
     "14": {
         "cardNumber": "14",
-        "field1": "de champignon",
+        "field1": "de paddenstoel",
         "field2": "de paddenstoelen",
         "field3": "",
         "field4": "",
@@ -182,7 +182,7 @@
     "16": {
         "cardNumber": "16",
         "field1": "de ham",
-        "field2": "de ham",
+        "field2": "de hammen",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -194,7 +194,7 @@
     "17": {
         "cardNumber": "17",
         "field1": "de bar",
-        "field2": "de tralies",
+        "field2": "de bars",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -268,13 +268,13 @@
     },
     "23": {
         "cardNumber": "23",
-        "field1": "de noedels",
+        "field1": "de pasta / de noedels",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "De noedels zijn klaar",
+        "field7": "De pasta is klaar.",
         "field8": "",
         "category": "Voeding"
     },
@@ -292,7 +292,7 @@
     },
     "25": {
         "cardNumber": "25",
-        "field1": "de crème",
+        "field1": "de room",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -322,7 +322,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Het brood is vers",
+        "field7": "Het broodje is vers.",
         "field8": "",
         "category": "Voeding"
     },
@@ -352,7 +352,7 @@
     },
     "30": {
         "cardNumber": "30",
-        "field1": "zout",
+        "field1": "zouten",
         "field2": "",
         "field3": "het zout",
         "field4": "",
@@ -364,9 +364,9 @@
     },
     "31": {
         "cardNumber": "31",
-        "field1": "smaakt goed",
+        "field1": "smaken",
         "field2": "",
-        "field3": "smaakvol",
+        "field3": "smakelijk",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -376,13 +376,13 @@
     },
     "32": {
         "cardNumber": "32",
-        "field1": "snee",
-        "field2": "(bezuinigingen-bezuinigingen-bezuinigingen)",
+        "field1": "snijden",
+        "field2": "(tegenwoordige tijd: schneidet; verleden tijd: schnitt; voltooid deelwoord: geschnitten)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "plak",
+        "field7": "in plakjes snijden",
         "field8": "",
         "category": "Voeding"
     },
@@ -394,21 +394,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Maak het jezelf gemakkelijk!",
+        "field7": "Maakt u het zich gemakkelijk!",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "34": {
         "cardNumber": "34",
-        "field1": "de studie",
-        "field2": "de studiezalen",
+        "field1": "de werkkamer",
+        "field2": "de werkkamers",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Hij zit in zijn studeerkamer",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "35": {
         "cardNumber": "35",
@@ -418,9 +418,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Al het speelgoed staat in de kinderkamer",
+        "field7": "Al het speelgoed ligt in de kinderkamer.",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "36": {
         "cardNumber": "36",
@@ -432,7 +432,7 @@
         "field6": "",
         "field7": "We hebben een tapijt nodig voor de woonkamer",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "37": {
         "cardNumber": "37",
@@ -442,9 +442,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Neem jij de lift?",
+        "field7": "Nemen jullie de lift?",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "38": {
         "cardNumber": "38",
@@ -456,7 +456,7 @@
         "field6": "",
         "field7": "Wat ligt er op de vloer?",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "39": {
         "cardNumber": "39",
@@ -468,7 +468,7 @@
         "field6": "",
         "field7": "Mijn buren zijn aardig",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "40": {
         "cardNumber": "40",
@@ -480,31 +480,31 @@
         "field6": "",
         "field7": "De deur wordt geopend met de sleutel",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "41": {
         "cardNumber": "41",
-        "field1": "de vloer",
-        "field2": "de vloeren",
+        "field1": "de verdieping",
+        "field2": "de verdiepingen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Ik woon op de eerste verdieping",
         "field8": "",
-        "category": "Huis"
+        "category": "Wonen"
     },
     "42": {
         "cardNumber": "42",
-        "field1": "(zichzelf wassen",
-        "field2": "(gewassen-gewassen-gewassen)",
+        "field1": "wassen / zich wassen",
+        "field2": "(tegenwoordige tijd: wäscht; verleden tijd: wusch; voltooid deelwoord: gewaschen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ik was mijn handen",
+        "field7": "Ik was mijn handen",
         "field8": "Ik was mezelf elke dag",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "43": {
         "cardNumber": "43",
@@ -516,23 +516,23 @@
         "field6": "",
         "field7": "een glas wijn",
         "field8": "een wijnglas",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "44": {
         "cardNumber": "44",
         "field1": "het afval",
         "field2": "",
-        "field3": "afval scheiden",
+        "field3": "de afvalscheiding",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Ze gooit de fles in de prullenbak",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "45": {
         "cardNumber": "45",
-        "field1": "de aarde",
+        "field1": "het vuil",
         "field2": "",
         "field3": "vies",
         "field4": "",
@@ -540,7 +540,7 @@
         "field6": "",
         "field7": "Je bril is vuil",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "46": {
         "cardNumber": "46",
@@ -552,19 +552,19 @@
         "field6": "",
         "field7": "Veeg het bord af met de spons!",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "47": {
         "cardNumber": "47",
-        "field1": "de pot",
-        "field2": "de potten",
+        "field1": "de pan / de pot",
+        "field2": "de pannen / de potten",
         "field3": "de bloempot",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "zet een pot op het vuur",
+        "field7": "een pan op het vuur zetten",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "48": {
         "cardNumber": "48",
@@ -576,7 +576,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "49": {
         "cardNumber": "49",
@@ -588,32 +588,32 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Elke dag",
+        "category": "Dagelijks leven",
         "imageName": ""
     },
     "50": {
         "cardNumber": "50",
-        "field1": "de bestelling",
+        "field1": "de orde",
         "field2": "",
-        "field3": "de rotzooi",
+        "field3": "de wanorde",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Er moet orde zijn",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "51": {
         "cardNumber": "51",
-        "field1": "de pan",
-        "field2": "de pannen",
+        "field1": "de koekenpan",
+        "field2": "de koekenpannen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Ik bak de vis in de pan",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "52": {
         "cardNumber": "52",
@@ -623,9 +623,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "opruimen",
+        "field7": "schoonmaken",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "53": {
         "cardNumber": "53",
@@ -637,7 +637,7 @@
         "field6": "",
         "field7": "vloeibare zeep",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "54": {
         "cardNumber": "54",
@@ -649,35 +649,35 @@
         "field6": "",
         "field7": "Ze koopt een tube tandpasta",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "55": {
         "cardNumber": "55",
-        "field1": "compleet",
+        "field1": "klaar",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Het eten is klaar",
-        "field8": "Ben je klaar?",
-        "category": "Elke dag"
+        "field8": "Bent u al klaar?",
+        "category": "Dagelijks leven"
     },
     "56": {
         "cardNumber": "56",
-        "field1": "functie",
+        "field1": "functioneren / werken",
         "field2": "",
         "field3": "de functie",
-        "field4": "De functies",
+        "field4": "de functies",
         "field5": "",
         "field6": "",
         "field7": "Hoe werkt dit?",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "57": {
         "cardNumber": "57",
-        "field1": "verslaan",
+        "field1": "kloppen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -685,7 +685,7 @@
         "field6": "",
         "field7": "Er klopt iemand op de deur",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "58": {
         "cardNumber": "58",
@@ -697,7 +697,7 @@
         "field6": "",
         "field7": "De badkamervloer is nat",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "59": {
         "cardNumber": "59",
@@ -709,19 +709,19 @@
         "field6": "",
         "field7": "Deze schoenen zijn zeer praktisch",
         "field8": "",
-        "category": "Elke dag"
+        "category": "Dagelijks leven"
     },
     "60": {
         "cardNumber": "60",
-        "field1": "op zijn",
-        "field2": "(is was)",
+        "field1": "open zijn",
+        "field2": "(tegenwoordige tijd: ist; verleden tijd: war; voltooid deelwoord: gewesen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "De bakkerij is geopend",
         "field8": "De deur is open",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "61": {
         "cardNumber": "61",
@@ -733,7 +733,7 @@
         "field6": "",
         "field7": "Doe alsjeblieft boodschappen!",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "62": {
         "cardNumber": "62",
@@ -745,7 +745,7 @@
         "field6": "",
         "field7": "De kranten koop ik bij de kiosk",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "63": {
         "cardNumber": "63",
@@ -757,19 +757,19 @@
         "field6": "",
         "field7": "Hier is iedere klant koning",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "64": {
         "cardNumber": "64",
         "field1": "de winkel",
         "field2": "de winkels",
-        "field3": "de schoenen winkel",
+        "field3": "de schoenenwinkel",
         "field4": "",
-        "field5": "de teller",
+        "field5": "de toonbank",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "65": {
         "cardNumber": "65",
@@ -781,7 +781,7 @@
         "field6": "",
         "field7": "Ik breng mijn schoenen naar de schoenmaker",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "66": {
         "cardNumber": "66",
@@ -793,23 +793,23 @@
         "field6": "",
         "field7": "Zijn oom is een ervaren horlogemaker",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "67": {
         "cardNumber": "67",
         "field1": "de bakkerij",
-        "field2": "De bakkerijen",
-        "field3": "de Bakker",
+        "field2": "de bakkerijen",
+        "field3": "de bakker",
         "field4": "de bakkers",
         "field5": "",
         "field6": "",
         "field7": "Hoe kom ik bij de bakkerij?",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "68": {
         "cardNumber": "68",
-        "field1": "de boekenwinkel",
+        "field1": "de boekhandel",
         "field2": "de boekhandels",
         "field3": "",
         "field4": "",
@@ -817,19 +817,19 @@
         "field6": "",
         "field7": "Is er hier in de buurt een boekwinkel?",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "69": {
         "cardNumber": "69",
-        "field1": "de apotheek",
+        "field1": "de drogisterij",
         "field2": "de drogisterijen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ik moet even naar de apotheek",
+        "field7": "Ik moet even naar de drogisterij.",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "70": {
         "cardNumber": "70",
@@ -841,35 +841,35 @@
         "field6": "",
         "field7": "Betaal ik bij de kassa?",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "71": {
         "cardNumber": "71",
         "field1": "geven",
-        "field2": "(geeft-gaf-gegeven)",
+        "field2": "(tegenwoordige tijd: gibt; verleden tijd: gab; voltooid deelwoord: gegeben)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Geef me drie rollen, alsjeblieft!",
-        "field8": "Hij geeft mij het ontvangstbewijs",
-        "category": "Aankopen en diensten"
+        "field7": "Geeft u mij alstublieft drie broodjes!",
+        "field8": "Hij geeft mij de kassabon.",
+        "category": "Winkelen en dienstverlening"
     },
     "72": {
         "cardNumber": "72",
-        "field1": "gevallen",
-        "field2": "(like-like-like)",
+        "field1": "bevallen / in de smaak vallen",
+        "field2": "(tegenwoordige tijd: gefällt; verleden tijd: gefiel; voltooid deelwoord: gefallen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Welke blouse vind jij leuk?",
         "field8": "Ik vind deze schoenen leuk",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "73": {
         "cardNumber": "73",
-        "field1": "Goed",
+        "field1": "goed",
         "field2": "",
         "field3": "slecht",
         "field4": "",
@@ -877,19 +877,19 @@
         "field6": "",
         "field7": "goede kwaliteit",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "74": {
         "cardNumber": "74",
-        "field1": "Look",
+        "field1": "kijken",
         "field2": "",
         "field3": "de etalage",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Kijk gewoon!",
+        "field7": "Kijk eens!",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "75": {
         "cardNumber": "75",
@@ -897,15 +897,15 @@
         "field2": "",
         "field3": "welke?",
         "field4": "",
-        "field5": "welke?",
+        "field5": "welk?",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "76": {
         "cardNumber": "76",
-        "field1": "wil",
+        "field1": "willen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -913,35 +913,35 @@
         "field6": "",
         "field7": "Ik wil niets kopen",
         "field8": "Wij willen wat boodschappen doen",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "77": {
         "cardNumber": "77",
-        "field1": "zijn",
-        "field2": "(is was)",
+        "field1": "dicht zijn / gesloten zijn",
+        "field2": "(tegenwoordige tijd: ist; verleden tijd: war; voltooid deelwoord: gewesen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "De winkel is gesloten",
         "field8": "De deur is dicht",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "78": {
         "cardNumber": "78",
         "field1": "tevreden",
         "field2": "",
-        "field3": "niet tevreden",
+        "field3": "ontevreden",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ben je tevreden?",
+        "field7": "Bent u tevreden?",
         "field8": "",
-        "category": "Aankopen en diensten"
+        "category": "Winkelen en dienstverlening"
     },
     "79": {
         "cardNumber": "79",
-        "field1": "alle",
+        "field1": "alle / allemaal",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -965,7 +965,7 @@
     },
     "81": {
         "cardNumber": "81",
-        "field1": "Al het beste!",
+        "field1": "Het allerbeste!",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -978,7 +978,7 @@
     "82": {
         "cardNumber": "82",
         "field1": "ontvangen",
-        "field2": "(heb-heb-heb)",
+        "field2": "(tegenwoordige tijd: bekommt; verleden tijd: bekam; voltooid deelwoord: bekommen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -989,11 +989,11 @@
     },
     "83": {
         "cardNumber": "83",
-        "field1": "de andere",
+        "field1": "de ander",
         "field2": "",
-        "field3": "de andere",
+        "field3": "de ander",
         "field4": "",
-        "field5": "de andere",
+        "field5": "het andere",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -1002,9 +1002,9 @@
     "84": {
         "cardNumber": "84",
         "field1": "de kleinzoon",
-        "field2": "de kleinkinderen",
+        "field2": "de kleinzonen",
         "field3": "de kleindochter",
-        "field4": "De kleindochters",
+        "field4": "de kleindochters",
         "field5": "de kleinkinderen",
         "field6": "",
         "field7": "",
@@ -1063,7 +1063,7 @@
     "89": {
         "cardNumber": "89",
         "field1": "de persoon",
-        "field2": "de mensen",
+        "field2": "de personen",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1098,9 +1098,9 @@
     },
     "92": {
         "cardNumber": "92",
-        "field1": "dit",
+        "field1": "deze",
         "field2": "",
-        "field3": "dit",
+        "field3": "deze",
         "field4": "",
         "field5": "dit",
         "field6": "",
@@ -1110,9 +1110,9 @@
     },
     "93": {
         "cardNumber": "93",
-        "field1": "Jij",
+        "field1": "jij / je",
         "field2": "",
-        "field3": "Voornaam",
+        "field3": "tutoyeren / met jij aanspreken",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1122,8 +1122,8 @@
     },
     "94": {
         "cardNumber": "94",
-        "field1": "uitnodiging",
-        "field2": "(uitnodigt-uitgenodigd-uitgenodigd)",
+        "field1": "uitnodigen",
+        "field2": "(tegenwoordige tijd: lädt ein; verleden tijd: lud ein; voltooid deelwoord: eingeladen)",
         "field3": "de uitnodiging",
         "field4": "de uitnodigingen",
         "field5": "",
@@ -1170,9 +1170,9 @@
     },
     "98": {
         "cardNumber": "98",
-        "field1": "Nee",
+        "field1": "geen",
         "field2": "",
-        "field3": "Nee",
+        "field3": "geen",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1182,7 +1182,7 @@
     },
     "99": {
         "cardNumber": "99",
-        "field1": "enkel",
+        "field1": "ongehuwd",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1209,7 +1209,7 @@
         "field1": "geven",
         "field2": "",
         "field3": "het geschenk",
-        "field4": "de cadeau's",
+        "field4": "de geschenken",
         "field5": "",
         "field6": "",
         "field7": "Wat moeten we haar voor haar verjaardag geven?",
@@ -1218,13 +1218,13 @@
     },
     "102": {
         "cardNumber": "102",
-        "field1": "Zij",
-        "field2": "Zij",
+        "field1": "u (beleefdheidsvorm)",
+        "field2": "u (beleefdheidsvorm)",
         "field3": "",
         "field4": "",
-        "field5": "gebruik de formele aanspreektitel",
+        "field5": "met u aanspreken",
         "field6": "",
-        "field7": "Ben je moe?",
+        "field7": "Bent u moe?",
         "field8": "",
         "category": "Familie"
     },
@@ -1248,14 +1248,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "zij is aardig",
+        "field7": "Zij is aardig",
         "field8": "",
         "category": "Familie"
     },
     "105": {
         "cardNumber": "105",
-        "field1": "dood gaan",
-        "field2": "(sterft-gestorven-gestorven)",
+        "field1": "sterven",
+        "field2": "(tegenwoordige tijd: stirbt; verleden tijd: starb; voltooid deelwoord: gestorben)",
         "field3": "de dood",
         "field4": "",
         "field5": "",
@@ -1302,7 +1302,7 @@
     },
     "109": {
         "cardNumber": "109",
-        "field1": "Wij",
+        "field1": "wij / we",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1314,9 +1314,9 @@
     },
     "110": {
         "cardNumber": "110",
-        "field1": "wens",
+        "field1": "wensen",
         "field2": "",
-        "field3": "het verlangen",
+        "field3": "de wens",
         "field4": "de wensen",
         "field5": "",
         "field6": "",
@@ -1326,39 +1326,39 @@
     },
     "111": {
         "cardNumber": "111",
-        "field1": "(aankleden",
-        "field2": "(jurken-jurken-jurken)",
+        "field1": "aankleden / zich aankleden",
+        "field2": "(tegenwoordige tijd: zieht an; verleden tijd: zog an; voltooid deelwoord: angezogen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ik kleed me aan",
-        "field8": "Ik heb de jas aangetrokken",
-        "category": "Kijk"
+        "field7": "Ik kleed me aan",
+        "field8": "Ik trek de jas aan.",
+        "category": "Uiterlijk"
     },
     "112": {
         "cardNumber": "112",
-        "field1": "(uitkleden",
-        "field2": "(opstijgt-opstijgt-opstijgt)",
+        "field1": "uitkleden / zich uitkleden",
+        "field2": "(tegenwoordige tijd: zieht aus; verleden tijd: zog aus; voltooid deelwoord: ausgezogen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Het kind trekt zijn kleren uit",
         "field8": "Het kind trekt zijn schoenen uit",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "113": {
         "cardNumber": "113",
         "field1": "beschrijven",
-        "field2": "(beschrijft-beschreven-beschreven)",
+        "field2": "(tegenwoordige tijd: beschreibt; verleden tijd: beschrieb; voltooid deelwoord: beschrieben)",
         "field3": "de omschrijving",
         "field4": "de beschrijvingen",
         "field5": "",
         "field6": "",
         "field7": "Omschrijf hem!",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "114": {
         "cardNumber": "114",
@@ -1369,32 +1369,32 @@
         "field5": "",
         "field6": "",
         "field7": "Ik ben blond",
-        "field8": "zij heeft blond haar",
-        "category": "Kijk"
+        "field8": "Zij heeft blond haar",
+        "category": "Uiterlijk"
     },
     "115": {
         "cardNumber": "115",
         "field1": "de hoed",
-        "field2": "hoeden",
+        "field2": "de hoeden",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "De hoed is te duur",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "116": {
         "cardNumber": "116",
         "field1": "de paraplu",
-        "field2": "de parasols",
+        "field2": "de paraplu's",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Neem de paraplu mee!",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "117": {
         "cardNumber": "117",
@@ -1406,11 +1406,11 @@
         "field6": "",
         "field7": "Ze draagt een zilveren ring",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "118": {
         "cardNumber": "118",
-        "field1": "Het figuur",
+        "field1": "het figuur",
         "field2": "de figuren",
         "field3": "",
         "field4": "",
@@ -1418,7 +1418,7 @@
         "field6": "",
         "field7": "Zijn vriendin heeft een goed figuur",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "119": {
         "cardNumber": "119",
@@ -1430,19 +1430,19 @@
         "field6": "",
         "field7": "een modern kapsel",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "120": {
         "cardNumber": "120",
         "field1": "de mode",
         "field2": "",
-        "field3": "stijlvol",
+        "field3": "modieus",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "volgens de laatste mode",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "121": {
         "cardNumber": "121",
@@ -1454,19 +1454,19 @@
         "field6": "",
         "field7": "een paar gebreide sokken",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "122": {
         "cardNumber": "122",
-        "field1": "de zak",
-        "field2": "de zakken",
+        "field1": "de tas / de zak",
+        "field2": "de tassen / de zakken",
         "field3": "de handtas",
         "field4": "",
         "field5": "de portemonnee",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "123": {
         "cardNumber": "123",
@@ -1476,37 +1476,37 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je tante is mager",
+        "field7": "Uw tante is mager.",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "124": {
         "cardNumber": "124",
-        "field1": "nauw",
+        "field1": "strak / nauw",
         "field2": "",
-        "field3": "ver",
+        "field3": "wijd",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Deze broek is voor mij te groot",
+        "field7": "Deze broek zit mij te wijd.",
         "field8": "",
-        "category": "Kijk"
+        "category": "Uiterlijk"
     },
     "125": {
         "cardNumber": "125",
-        "field1": "vriendelijk",
+        "field1": "braaf",
         "field2": "",
         "field3": "stout",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Wees beleefd!",
+        "field7": "Wees braaf!",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "126": {
         "cardNumber": "126",
-        "field1": "het personage",
+        "field1": "het karakter",
         "field2": "de karakters",
         "field3": "karakteristiek",
         "field4": "",
@@ -1514,7 +1514,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "127": {
         "cardNumber": "127",
@@ -1526,7 +1526,7 @@
         "field6": "",
         "field7": "Ik zal je een grapje vertellen",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "128": {
         "cardNumber": "128",
@@ -1537,8 +1537,8 @@
         "field5": "",
         "field6": "",
         "field7": "Ik ben bang",
-        "field8": "Geen schrik hebben!",
-        "category": "gevoelens"
+        "field8": "Wees niet bang!",
+        "category": "Gevoelens"
     },
     "129": {
         "cardNumber": "129",
@@ -1550,7 +1550,7 @@
         "field6": "",
         "field7": "Je verbeelding kent geen grenzen",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "130": {
         "cardNumber": "130",
@@ -1560,9 +1560,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ik ben blij",
+        "field7": "Ik ben blij",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "131": {
         "cardNumber": "131",
@@ -1574,7 +1574,7 @@
         "field6": "",
         "field7": "Iedereen is zo ongeduldig vandaag!",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "132": {
         "cardNumber": "132",
@@ -1584,25 +1584,25 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ik haat hem",
+        "field7": "Ik haat hem",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "133": {
         "cardNumber": "133",
-        "field1": "hoop",
+        "field1": "hopen",
         "field2": "",
         "field3": "de hoop",
-        "field4": "de hoop",
+        "field4": "de verwachtingen",
         "field5": "",
         "field6": "",
-        "field7": "ik hoop het",
+        "field7": "Ik hoop het",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "134": {
         "cardNumber": "134",
-        "field1": "kus",
+        "field1": "kussen",
         "field2": "",
         "field3": "de kus",
         "field4": "de kussen",
@@ -1610,7 +1610,7 @@
         "field6": "",
         "field7": "Kus me!",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "135": {
         "cardNumber": "135",
@@ -1622,11 +1622,11 @@
         "field6": "",
         "field7": "Dat geeft mij vreugde",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "136": {
         "cardNumber": "136",
-        "field1": "strikt",
+        "field1": "streng",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1634,11 +1634,11 @@
         "field6": "",
         "field7": "Mijn leraar Duits is streng",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "137": {
         "cardNumber": "137",
-        "field1": "vriendelijk",
+        "field1": "sympathiek",
         "field2": "",
         "field3": "onsympathiek",
         "field4": "",
@@ -1646,11 +1646,11 @@
         "field6": "",
         "field7": "Ze vindt hem best sympathiek",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "138": {
         "cardNumber": "138",
-        "field1": "schreeuw",
+        "field1": "huilen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1658,17 +1658,17 @@
         "field6": "",
         "field7": "Niet huilen!",
         "field8": "",
-        "category": "gevoelens"
+        "category": "Gevoelens"
     },
     "139": {
         "cardNumber": "139",
-        "field1": "(voelen",
+        "field1": "voelen / zich voelen",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ik voel me ziek",
+        "field7": "Ik voel me ziek",
         "field8": "",
         "category": "Gezondheid"
     },
@@ -1686,13 +1686,13 @@
     },
     "141": {
         "cardNumber": "141",
-        "field1": "koorts",
+        "field1": "de koorts",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ik heb koorts",
+        "field7": "Ik heb koorts",
         "field8": "Heb jij je temperatuur al gemeten?",
         "category": "Gezondheid"
     },
@@ -1710,7 +1710,7 @@
     },
     "143": {
         "cardNumber": "143",
-        "field1": "De drugs",
+        "field1": "het medicijn",
         "field2": "de medicijnen",
         "field3": "",
         "field4": "",
@@ -1740,7 +1740,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mijn maag doet pijn",
+        "field7": "Mijn buik doet pijn.",
         "field8": "",
         "category": "Gezondheid"
     },
@@ -1759,7 +1759,7 @@
     "147": {
         "cardNumber": "147",
         "field1": "de vinger",
-        "field2": "de vinger",
+        "field2": "de vingers",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1770,7 +1770,7 @@
     },
     "148": {
         "cardNumber": "148",
-        "field1": "de nek",
+        "field1": "de hals / de keel",
         "field2": "de halzen",
         "field3": "",
         "field4": "",
@@ -1783,10 +1783,10 @@
     "149": {
         "cardNumber": "149",
         "field1": "de pijn",
-        "field2": "de pijn",
+        "field2": "de pijnen",
         "field3": "de hoofdpijn",
         "field4": "",
-        "field5": "keelpijn",
+        "field5": "de keelpijn",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -1794,13 +1794,13 @@
     },
     "150": {
         "cardNumber": "150",
-        "field1": "de keelpijn",
+        "field1": "de amandelontsteking (angina)",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je hebt alle symptomen van angina pectoris",
+        "field7": "U hebt alle symptomen van een amandelontsteking.",
         "field8": "",
         "category": "Gezondheid"
     },
@@ -1820,7 +1820,7 @@
         "cardNumber": "152",
         "field1": "de borst",
         "field2": "de borsten",
-        "field3": "schoolslag",
+        "field3": "schoolslag zwemmen",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1857,7 +1857,7 @@
         "cardNumber": "155",
         "field1": "de huid",
         "field2": "",
-        "field3": "huidsverzorging",
+        "field3": "de huidverzorging",
         "field4": "",
         "field5": "de dermatoloog",
         "field6": "",
@@ -1891,7 +1891,7 @@
     },
     "158": {
         "cardNumber": "158",
-        "field1": "de pil",
+        "field1": "de tablet",
         "field2": "de tabletten",
         "field3": "de pijnstiller",
         "field4": "",
@@ -1921,26 +1921,26 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Laat alsjeblieft je tong zien!",
+        "field7": "Laat uw tong alstublieft zien!",
         "field8": "",
         "category": "Gezondheid"
     },
     "161": {
         "cardNumber": "161",
-        "field1": "rook",
+        "field1": "roken",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Roken is niet toegestaan",
+        "field7": "U mag niet roken.",
         "field8": "",
         "category": "Gezondheid"
     },
     "162": {
         "cardNumber": "162",
-        "field1": "telefoongesprek",
-        "field2": "(oproepen-gebeld-gebeld)",
+        "field1": "roepen",
+        "field2": "(tegenwoordige tijd: ruft; verleden tijd: rief; voltooid deelwoord: gerufen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1951,19 +1951,19 @@
     },
     "163": {
         "cardNumber": "163",
-        "field1": "schade",
+        "field1": "schaden",
         "field2": "",
         "field3": "schadelijk",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "rook schaadt de gezondheid",
+        "field7": "Roken schaadt de gezondheid.",
         "field8": "",
         "category": "Gezondheid"
     },
     "164": {
         "cardNumber": "164",
-        "field1": "zou moeten",
+        "field1": "moeten / behoren te",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -1981,7 +1981,7 @@
         "field4": "de onderzoeken",
         "field5": "",
         "field6": "",
-        "field7": "Ik zal je meteen onderzoeken",
+        "field7": "Ik onderzoek u zo meteen.",
         "field8": "",
         "category": "Gezondheid"
     },
@@ -2011,8 +2011,8 @@
     },
     "168": {
         "cardNumber": "168",
-        "field1": "lijken",
-        "field2": "(leek-leek)",
+        "field1": "schijnen",
+        "field2": "(tegenwoordige tijd: scheint; verleden tijd: schien; voltooid deelwoord: geschienen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2023,7 +2023,7 @@
     },
     "169": {
         "cardNumber": "169",
-        "field1": "sneeuw",
+        "field1": "sneeuwen",
         "field2": "",
         "field3": "de sneeuw",
         "field4": "",
@@ -2054,14 +2054,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "stap op het paard",
+        "field7": "op het paard stijgen",
         "field8": "",
         "category": "Natuur"
     },
     "172": {
         "cardNumber": "172",
         "field1": "het schaap",
-        "field2": "Het schaap",
+        "field2": "de schapen",
         "field3": "de schapenkaas",
         "field4": "",
         "field5": "",
@@ -2079,16 +2079,16 @@
         "field5": "",
         "field6": "",
         "field7": "wild varken",
-        "field8": "Hij had een varken",
+        "field8": "Hij heeft geluk gehad.",
         "category": "Natuur"
     },
     "174": {
         "cardNumber": "174",
-        "field1": "de Arend",
-        "field2": "De adelaars",
+        "field1": "de arend",
+        "field2": "de adelaars",
         "field3": "de adelaarsneus",
         "field4": "",
-        "field5": "het oog van de adelaar",
+        "field5": "de scherpe blik",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2126,7 +2126,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je maakt van een molshoop een berg!",
+        "field7": "Je maakt van een mug een olifant!",
         "field8": "",
         "category": "Natuur"
     },
@@ -2138,14 +2138,14 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Wees geen kikker!",
+        "field7": "Doe niet zo flauw!",
         "field8": "Deze kikker is groen",
         "category": "Natuur"
     },
     "179": {
         "cardNumber": "179",
-        "field1": "de Vos",
-        "field2": "de Vossen",
+        "field1": "de vos",
+        "field2": "de vossen",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2156,19 +2156,19 @@
     },
     "180": {
         "cardNumber": "180",
-        "field1": "het konijn",
-        "field2": "de konijnen",
+        "field1": "de haas",
+        "field2": "de hazen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "jong konijntje",
+        "field7": "een jonge haas",
         "field8": "",
         "category": "Natuur"
     },
     "181": {
         "cardNumber": "181",
-        "field1": "de Leeuw",
+        "field1": "de leeuw",
         "field2": "de leeuwen",
         "field3": "",
         "field4": "",
@@ -2241,7 +2241,7 @@
     "187": {
         "cardNumber": "187",
         "field1": "de tijger",
-        "field2": "de Tijgers",
+        "field2": "de tijgers",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -2252,13 +2252,13 @@
     },
     "188": {
         "cardNumber": "188",
-        "field1": "de Wolf",
+        "field1": "de wolf",
         "field2": "de wolven",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Als je het over de wolf hebt, kijkt hij over de heg",
+        "field7": "Als je het over de duivel hebt, trap je op zijn staart.",
         "field8": "",
         "category": "Natuur"
     },
@@ -2295,7 +2295,7 @@
         "field5": "",
         "field6": "",
         "field7": "De lucht is fris",
-        "field8": "Je moet veel lucht krijgen",
+        "field8": "Je moet vaak naar buiten gaan.",
         "category": "Natuur"
     },
     "192": {
@@ -2324,21 +2324,21 @@
     },
     "194": {
         "cardNumber": "194",
-        "field1": "de slang",
-        "field2": "de slangen",
+        "field1": "de slang / de rij",
+        "field2": "de slangen / de rijen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Deze lijn is lang",
+        "field7": "Deze slang is lang.",
         "field8": "in de rij staan",
         "category": "Natuur"
     },
     "195": {
         "cardNumber": "195",
-        "field1": "de omgeving",
+        "field1": "het milieu",
         "field2": "",
-        "field3": "de vervuiling",
+        "field3": "de milieuvervuiling",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2350,7 +2350,7 @@
         "cardNumber": "196",
         "field1": "de wereld",
         "field2": "",
-        "field3": "de wereldtournee",
+        "field3": "de wereldreis",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2364,7 +2364,7 @@
         "field2": "",
         "field3": "de bescherming",
         "field4": "",
-        "field5": "milieubescherming",
+        "field5": "de milieubescherming",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -2392,23 +2392,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "200": {
         "cardNumber": "200",
         "field1": "bespreken",
-        "field2": "(besproken-besproken-besproken)",
-        "field3": "de bijeenkomst",
-        "field4": "de vergaderingen",
+        "field2": "(tegenwoordige tijd: bespricht; verleden tijd: besprach; voltooid deelwoord: besprochen)",
+        "field3": "de bespreking",
+        "field4": "de besprekingen",
         "field5": "",
         "field6": "",
         "field7": "Ik wil deze vraag bespreken",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "201": {
         "cardNumber": "201",
-        "field1": "bezoek",
+        "field1": "bezoeken",
         "field2": "",
         "field3": "het bezoek",
         "field4": "de bezoeken",
@@ -2416,31 +2416,31 @@
         "field6": "",
         "field7": "Gaat uw zoon naar school?",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "202": {
         "cardNumber": "202",
+        "field1": "het schoolvak",
+        "field2": "de schoolvakken",
+        "field3": "",
+        "field4": "",
+        "field5": "",
+        "field6": "",
+        "field7": "Mijn lievelingsvak is Duits.",
+        "field8": "",
+        "category": "Wetenschap en onderwijs"
+    },
+    "203": {
+        "cardNumber": "203",
         "field1": "het onderwerp",
         "field2": "de onderwerpen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Mijn favoriete les is Duits",
-        "field8": "",
-        "category": "wetenschap en onderwijs"
-    },
-    "203": {
-        "cardNumber": "203",
-        "field1": "het onderwerp",
-        "field2": "de hoogtepunten",
-        "field3": "",
-        "field4": "",
-        "field5": "",
-        "field6": "",
-        "field7": "naar dit onderwerp",
-        "field8": "verander het onderwerp",
-        "category": "wetenschap en onderwijs"
+        "field7": "over dit onderwerp",
+        "field8": "van onderwerp veranderen",
+        "category": "Wetenschap en onderwijs"
     },
     "204": {
         "cardNumber": "204",
@@ -2452,31 +2452,31 @@
         "field6": "",
         "field7": "Je maakt veel fouten",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "205": {
         "cardNumber": "205",
         "field1": "de leraar",
-        "field2": "de docenten",
+        "field2": "de leraren",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Duitse leraar",
+        "field7": "leraar Duits",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "206": {
         "cardNumber": "206",
-        "field1": "de student",
-        "field2": "de studenten",
+        "field1": "de leerling",
+        "field2": "de leerlingen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Je bent een goede student",
+        "field7": "Je bent een goede leerling.",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "207": {
         "cardNumber": "207",
@@ -2486,9 +2486,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "een zes in biologie",
+        "field7": "een 6 voor biologie (in het Duitse cijfersysteem)",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "208": {
         "cardNumber": "208",
@@ -2498,21 +2498,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "een C in scheikunde",
+        "field7": "een 3 voor scheikunde (in het Duitse cijfersysteem)",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "209": {
         "cardNumber": "209",
-        "field1": "de geografie",
+        "field1": "de aardrijkskunde",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "een B in aardrijkskunde",
+        "field7": "een 2 voor aardrijkskunde (in het Duitse cijfersysteem)",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "210": {
         "cardNumber": "210",
@@ -2522,9 +2522,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "een vijf in de geschiedenis",
+        "field7": "een 5 voor geschiedenis (in het Duitse cijfersysteem)",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "211": {
         "cardNumber": "211",
@@ -2536,19 +2536,19 @@
         "field6": "",
         "field7": "De klas heeft 20 leerlingen",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "212": {
         "cardNumber": "212",
-        "field1": "het klaswerk",
-        "field2": "het klassenwerk",
+        "field1": "het proefwerk",
+        "field2": "de proefwerken",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "We bespreken het klaswerk",
+        "field7": "We bespreken het proefwerk.",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "213": {
         "cardNumber": "213",
@@ -2560,7 +2560,7 @@
         "field6": "",
         "field7": "Ik schrijf met krijt",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "214": {
         "cardNumber": "214",
@@ -2572,19 +2572,19 @@
         "field6": "",
         "field7": "We zijn bij de 4e les Engels",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "215": {
         "cardNumber": "215",
-        "field1": "wiskunde",
+        "field1": "de wiskunde",
         "field2": "",
         "field3": "de wiskunde",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "een A in wiskunde",
+        "field7": "een 1 voor wiskunde (in het Duitse cijfersysteem)",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "216": {
         "cardNumber": "216",
@@ -2596,7 +2596,7 @@
         "field6": "",
         "field7": "twee miljard",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "217": {
         "cardNumber": "217",
@@ -2608,7 +2608,7 @@
         "field6": "",
         "field7": "vier miljoen",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "218": {
         "cardNumber": "218",
@@ -2618,9 +2618,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "een vier in natuurkunde",
+        "field7": "een 4 voor natuurkunde (in het Duitse cijfersysteem)",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "219": {
         "cardNumber": "219",
@@ -2632,19 +2632,19 @@
         "field6": "",
         "field7": "op pagina 26",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "220": {
         "cardNumber": "220",
-        "field1": "het whiteboard",
-        "field2": "de planken",
+        "field1": "het schoolbord",
+        "field2": "de schoolborden",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Schrijf dit alstublieft op het bord!",
+        "field7": "Schrijf dat alsjeblieft op het bord!",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "221": {
         "cardNumber": "221",
@@ -2656,7 +2656,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "222": {
         "cardNumber": "222",
@@ -2668,23 +2668,23 @@
         "field6": "",
         "field7": "Hij is een slimme man",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "223": {
         "cardNumber": "223",
-        "field1": "A",
+        "field1": "één / een",
         "field2": "",
         "field3": "elf",
         "field4": "",
-        "field5": "de tafel van vermenigvuldiging",
+        "field5": "de tafels van vermenigvuldiging",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "224": {
         "cardNumber": "224",
-        "field1": "gewoon",
+        "field1": "eenvoudig",
         "field2": "",
         "field3": "moeilijk",
         "field4": "",
@@ -2692,7 +2692,7 @@
         "field6": "",
         "field7": "De taak is eenvoudig",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "225": {
         "cardNumber": "225",
@@ -2704,7 +2704,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "226": {
         "cardNumber": "226",
@@ -2712,11 +2712,11 @@
         "field2": "",
         "field3": "tweeduizend",
         "field4": "",
-        "field5": "drie duizend",
+        "field5": "drieduizend",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "227": {
         "cardNumber": "227",
@@ -2728,7 +2728,7 @@
         "field6": "",
         "field7": "Deze leerling is lui",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "228": {
         "cardNumber": "228",
@@ -2740,7 +2740,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "229": {
         "cardNumber": "229",
@@ -2752,7 +2752,7 @@
         "field6": "",
         "field7": "Je moet leren",
         "field8": "Je moet hardwerkend zijn",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "230": {
         "cardNumber": "230",
@@ -2764,7 +2764,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "231": {
         "cardNumber": "231",
@@ -2776,7 +2776,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "232": {
         "cardNumber": "232",
@@ -2788,31 +2788,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "233": {
         "cardNumber": "233",
         "field1": "begrijpen",
-        "field2": "(begrijpt-begrijpt)",
+        "field2": "(tegenwoordige tijd: versteht; verleden tijd: verstand; voltooid deelwoord: verstanden)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Ik begrijp deze tekst niet",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "234": {
         "cardNumber": "234",
         "field1": "veertien",
         "field2": "",
-        "field3": "Veertig",
+        "field3": "veertig",
         "field4": "",
         "field5": "vierenveertig",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "235": {
         "cardNumber": "235",
@@ -2824,11 +2824,11 @@
         "field6": "",
         "field7": "Ik ben vandaag niet voorbereid",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "236": {
         "cardNumber": "236",
-        "field1": "show",
+        "field1": "laten zien / tonen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -2836,7 +2836,7 @@
         "field6": "",
         "field7": "Laat me zien wat je in handen hebt!",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "237": {
         "cardNumber": "237",
@@ -2848,17 +2848,17 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "wetenschap en onderwijs"
+        "category": "Wetenschap en onderwijs"
     },
     "238": {
         "cardNumber": "238",
-        "field1": "het verhaal",
+        "field1": "het sprookje",
         "field2": "de sprookjes",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Oma leest een sprookje",
+        "field7": "Oma leest een sprookje voor.",
         "field8": "",
         "category": "Cultuur en kunst"
     },
@@ -2878,12 +2878,12 @@
     "240": {
         "cardNumber": "240",
         "field1": "de auteur",
-        "field2": "De auteurs",
+        "field2": "de auteurs",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Kent u de auteur?",
+        "field7": "Ken je de auteur?",
         "field8": "",
         "category": "Cultuur en kunst"
     },
@@ -2925,9 +2925,9 @@
     },
     "244": {
         "cardNumber": "244",
-        "field1": "luidruchtig",
+        "field1": "luid",
         "field2": "",
-        "field3": "rustig",
+        "field3": "zacht / stil",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2940,7 +2940,7 @@
         "field1": "tekenen",
         "field2": "",
         "field3": "de tekening",
-        "field4": "het schilderij",
+        "field4": "de tekeningen",
         "field5": "",
         "field6": "",
         "field7": "Ze tekent de natuur",
@@ -2949,7 +2949,7 @@
     },
     "246": {
         "cardNumber": "246",
-        "field1": "licht",
+        "field1": "aansteken",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -2957,7 +2957,7 @@
         "field6": "",
         "field7": "Ik steek de kaarsen aan",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "247": {
         "cardNumber": "247",
@@ -2969,7 +2969,7 @@
         "field6": "",
         "field7": "Ze maakte een kruis",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "248": {
         "cardNumber": "248",
@@ -2981,19 +2981,19 @@
         "field6": "",
         "field7": "Ik geloof niet in wonderen",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "249": {
         "cardNumber": "249",
         "field1": "de engel",
-        "field2": "de engel",
+        "field2": "de engelen",
         "field3": "de beschermengel",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie",
+        "category": "Religie",
         "imageName": ""
     },
     "250": {
@@ -3006,20 +3006,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie",
+        "category": "Religie",
         "imageName": ""
     },
     "251": {
         "cardNumber": "251",
-        "field1": "Kerstman",
+        "field1": "Sinterklaas / Sint-Nicolaas",
         "field2": "",
-        "field3": "Sinterklaasdag",
+        "field3": "Sint-Nicolaasdag (6 december)",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Morgen komt Sinterklaas",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "252": {
         "cardNumber": "252",
@@ -3031,19 +3031,19 @@
         "field6": "",
         "field7": "De priester houdt de Heilige Mis",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "253": {
         "cardNumber": "253",
         "field1": "de duivel",
-        "field2": "de Duivels",
+        "field2": "de duivels",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Zet de duivel niet op de muur!",
+        "field7": "Roep het onheil niet over je af!",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "254": {
         "cardNumber": "254",
@@ -3055,20 +3055,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "religie",
+        "category": "Religie",
         "imageName": ""
     },
     "255": {
         "cardNumber": "255",
-        "field1": "het geloof",
-        "field2": "het geloof",
+        "field1": "de religie",
+        "field2": "de religies",
         "field3": "religieus",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tot welke religie behoort u?",
+        "field7": "Tot welke religie behoor je?",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "256": {
         "cardNumber": "256",
@@ -3080,7 +3080,7 @@
         "field6": "",
         "field7": "Ik geloof in God",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "257": {
         "cardNumber": "257",
@@ -3092,12 +3092,12 @@
         "field6": "",
         "field7": "De kinderen versieren de kerstboom",
         "field8": "",
-        "category": "religie"
+        "category": "Religie"
     },
     "258": {
         "cardNumber": "258",
         "field1": "beginnen",
-        "field2": "(begint-begon-begon)",
+        "field2": "(tegenwoordige tijd: beginnt; verleden tijd: begann; voltooid deelwoord: begonnen)",
         "field3": "het begin",
         "field4": "",
         "field5": "",
@@ -3109,7 +3109,7 @@
     "259": {
         "cardNumber": "259",
         "field1": "de kalender",
-        "field2": "de kalender",
+        "field2": "de kalenders",
         "field3": "de afsprakenkalender",
         "field4": "",
         "field5": "",
@@ -3133,20 +3133,20 @@
     },
     "261": {
         "cardNumber": "261",
-        "field1": "de middag",
-        "field2": "de middagen",
+        "field1": "de namiddag",
+        "field2": "de namiddagen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "in de middag",
-        "field8": "middag",
+        "field7": "in de namiddag",
+        "field8": "'s middags",
         "category": "Tijd"
     },
     "262": {
         "cardNumber": "262",
         "field1": "de zomer",
-        "field2": "de zomer",
+        "field2": "de zomers",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3157,14 +3157,14 @@
     },
     "263": {
         "cardNumber": "263",
-        "field1": "de ochtend",
-        "field2": "de ochtenden",
+        "field1": "de voormiddag / de ochtend",
+        "field2": "de voormiddagen / de ochtenden",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "in de ochtend",
-        "field8": "ochtend",
+        "field8": "'s ochtends",
         "category": "Tijd"
     },
     "264": {
@@ -3193,7 +3193,7 @@
     },
     "266": {
         "cardNumber": "266",
-        "field1": "middernacht",
+        "field1": "de middernacht",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3206,7 +3206,7 @@
     "267": {
         "cardNumber": "267",
         "field1": "de seconde",
-        "field2": "De seconde",
+        "field2": "de seconden",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3229,19 +3229,19 @@
     },
     "269": {
         "cardNumber": "269",
-        "field1": "tegen",
+        "field1": "rond / tegen (bij een tijdstip)",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Tegen negen",
+        "field7": "rond negen uur",
         "field8": "",
         "category": "Tijd"
     },
     "270": {
         "cardNumber": "270",
-        "field1": "direct",
+        "field1": "net / op dit moment",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3253,7 +3253,7 @@
     },
     "271": {
         "cardNumber": "271",
-        "field1": "zelfs",
+        "field1": "zo / meteen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3301,7 +3301,7 @@
     },
     "275": {
         "cardNumber": "275",
-        "field1": "het nieuwe jaar/nieuwjaar",
+        "field1": "Nieuwjaar / het nieuwe jaar",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3325,13 +3325,13 @@
     },
     "277": {
         "cardNumber": "277",
-        "field1": "nog steeds",
+        "field1": "nog / nog steeds",
         "field2": "",
         "field3": "al",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ben je klaar?",
+        "field7": "Ben je al klaar?",
         "field8": "",
         "category": "Tijd"
     },
@@ -3387,13 +3387,13 @@
         "cardNumber": "282",
         "field1": "alles",
         "field2": "",
-        "field3": "Niets",
+        "field3": "niets",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Alles is bij mij",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "283": {
         "cardNumber": "283",
@@ -3405,23 +3405,23 @@
         "field6": "",
         "field7": "De straat is breed",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "284": {
         "cardNumber": "284",
-        "field1": "het gram",
-        "field2": "de gram",
+        "field1": "de gram",
+        "field2": "de grammen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "twee gram zout",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "285": {
         "cardNumber": "285",
-        "field1": "het plein",
+        "field1": "het vierkant",
         "field2": "de vierkanten",
         "field3": "vierkant",
         "field4": "",
@@ -3429,11 +3429,11 @@
         "field6": "",
         "field7": "De kamer is vierkant",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "286": {
         "cardNumber": "286",
-        "field1": "De cirkel",
+        "field1": "de cirkel",
         "field2": "de cirkels",
         "field3": "",
         "field4": "",
@@ -3441,19 +3441,19 @@
         "field6": "",
         "field7": "Wij staan in een cirkel",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "287": {
         "cardNumber": "287",
-        "field1": "formulier",
-        "field2": "de formulieren",
+        "field1": "de vorm",
+        "field2": "de vormen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Het object heeft een ovale vorm",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "288": {
         "cardNumber": "288",
@@ -3465,7 +3465,7 @@
         "field6": "",
         "field7": "drie ton aardappelen",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "289": {
         "cardNumber": "289",
@@ -3477,7 +3477,7 @@
         "field6": "",
         "field7": "iets te eten",
         "field8": "Zeg iets!",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "290": {
         "cardNumber": "290",
@@ -3489,23 +3489,23 @@
         "field6": "",
         "field7": "Dit land is vlak",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "291": {
         "cardNumber": "291",
-        "field1": "nogal",
+        "field1": "heel / helemaal",
         "field2": "",
-        "field3": "Best goed",
+        "field3": "best goed",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "De hele familie is hier",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "292": {
         "cardNumber": "292",
-        "field1": "Precies",
+        "field1": "precies / nauwkeurig",
         "field2": "",
         "field3": "onnauwkeurig",
         "field4": "",
@@ -3513,19 +3513,19 @@
         "field6": "",
         "field7": "precies twee kilo",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "293": {
         "cardNumber": "293",
-        "field1": "direct",
+        "field1": "recht",
         "field2": "",
-        "field3": "scheef",
+        "field3": "krom",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Deze weg is recht",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "294": {
         "cardNumber": "294",
@@ -3537,7 +3537,7 @@
         "field6": "",
         "field7": "De rok is te lang",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "295": {
         "cardNumber": "295",
@@ -3549,7 +3549,7 @@
         "field6": "",
         "field7": "Het blik is leeg",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "296": {
         "cardNumber": "296",
@@ -3561,11 +3561,11 @@
         "field6": "",
         "field7": "Ik heb maar een week vakantie",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "297": {
         "cardNumber": "297",
-        "field1": "rondom",
+        "field1": "rond",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3573,19 +3573,19 @@
         "field6": "",
         "field7": "Haar gezicht is rond",
         "field8": "",
-        "category": "Dimensies"
+        "category": "Maten"
     },
     "298": {
         "cardNumber": "298",
         "field1": "brengen",
-        "field2": "(brengt-gebracht-gebracht)",
+        "field2": "(tegenwoordige tijd: bringt; verleden tijd: brachte; voltooid deelwoord: gebracht)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Morgen breng ik het eten mee",
         "field8": "",
-        "category": "Artikelen"
+        "category": "Voorwerpen"
     },
     "299": {
         "cardNumber": "299",
@@ -3597,31 +3597,31 @@
         "field6": "",
         "field7": "Ik vergeet altijd het etui",
         "field8": "",
-        "category": "Artikelen"
+        "category": "Voorwerpen"
     },
     "300": {
         "cardNumber": "300",
         "field1": "de liniaal",
-        "field2": "de heersers",
+        "field2": "de linialen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Hij tekent een vierkant met de liniaal",
         "field8": "",
-        "category": "Artikelen"
+        "category": "Voorwerpen"
     },
     "301": {
         "cardNumber": "301",
-        "field1": "behoren",
+        "field1": "toebehoren",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Van wie is dit?",
-        "field8": "Dat hoort bij mij",
-        "category": "Artikelen"
+        "field8": "Dat is van mij.",
+        "category": "Voorwerpen"
     },
     "302": {
         "cardNumber": "302",
@@ -3633,24 +3633,24 @@
         "field6": "",
         "field7": "Ik haal het meteen",
         "field8": "",
-        "category": "Artikelen"
+        "category": "Voorwerpen"
     },
     "303": {
         "cardNumber": "303",
         "field1": "laten",
-        "field2": "(bladeren-bladeren-bladeren)",
+        "field2": "(tegenwoordige tijd: lässt; verleden tijd: ließ; voltooid deelwoord: gelassen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Laat het hier!",
         "field8": "Ze laat de auto achter op de parkeerplaats",
-        "category": "Artikelen"
+        "category": "Voorwerpen"
     },
     "304": {
         "cardNumber": "304",
         "field1": "bestaan uit",
-        "field2": "(pas-pas-pas)",
+        "field2": "(tegenwoordige tijd: besteht; verleden tijd: bestand; voltooid deelwoord: bestanden)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -3733,7 +3733,7 @@
     },
     "311": {
         "cardNumber": "311",
-        "field1": "Grijs",
+        "field1": "grijs",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3745,7 +3745,7 @@
     },
     "312": {
         "cardNumber": "312",
-        "field1": "moeilijk",
+        "field1": "hard",
         "field2": "",
         "field3": "zacht",
         "field4": "",
@@ -3757,13 +3757,13 @@
     },
     "313": {
         "cardNumber": "313",
-        "field1": "helder",
+        "field1": "licht",
         "field2": "",
         "field3": "donker",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Het is helder",
+        "field7": "Het is licht.",
         "field8": "",
         "category": "Stoffen en materialen"
     },
@@ -3781,7 +3781,7 @@
     },
     "315": {
         "cardNumber": "315",
-        "field1": "Schaken",
+        "field1": "het schaken",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -3789,7 +3789,7 @@
         "field6": "",
         "field7": "Ik speel vaak schaak met mijn vader",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "316": {
         "cardNumber": "316",
@@ -3801,19 +3801,19 @@
         "field6": "",
         "field7": "Op dinsdag ga ik naar het zwembad",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "317": {
         "cardNumber": "317",
         "field1": "het spel",
         "field2": "de spellen",
-        "field3": "het voetbal spel",
+        "field3": "de voetbalwedstrijd",
         "field4": "",
         "field5": "het speelgoed",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "318": {
         "cardNumber": "318",
@@ -3825,19 +3825,19 @@
         "field6": "",
         "field7": "Kun jij schaatsen?",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "319": {
         "cardNumber": "319",
-        "field1": "De sportman",
-        "field2": "de atleten",
+        "field1": "de sporter",
+        "field2": "de sporters",
         "field3": "sportief",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Hij werd een atleet",
+        "field7": "Hij is sporter geworden.",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "320": {
         "cardNumber": "320",
@@ -3849,7 +3849,7 @@
         "field6": "",
         "field7": "Ik ga niet graag naar het circus",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "321": {
         "cardNumber": "321",
@@ -3861,7 +3861,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport en vrije tijd",
+        "category": "Sport en vrije tijd",
         "imageName": ""
     },
     "322": {
@@ -3874,20 +3874,20 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "sport en vrije tijd",
+        "category": "Sport en vrije tijd",
         "imageName": ""
     },
     "323": {
         "cardNumber": "323",
-        "field1": "vangst",
-        "field2": "(vangst-gevangen-gevangen)",
+        "field1": "vangen",
+        "field2": "(tegenwoordige tijd: fängt; verleden tijd: fing; voltooid deelwoord: gefangen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Klaus vangt de bal",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "324": {
         "cardNumber": "324",
@@ -3897,13 +3897,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ze zijn erg sterk",
+        "field7": "Ze zijn erg sterk",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "325": {
         "cardNumber": "325",
-        "field1": "Geïnteresseerd in",
+        "field1": "zich interesseren",
         "field2": "",
         "field3": "de interesse",
         "field4": "de interesses",
@@ -3911,11 +3911,11 @@
         "field6": "",
         "field7": "Waar ben je in geïnteresseerd?",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "326": {
         "cardNumber": "326",
-        "field1": "verveeld zijn",
+        "field1": "zich vervelen",
         "field2": "",
         "field3": "saai",
         "field4": "",
@@ -3923,11 +3923,11 @@
         "field6": "",
         "field7": "Ik verveel me nooit",
         "field8": "",
-        "category": "sport en vrije tijd"
+        "category": "Sport en vrije tijd"
     },
     "327": {
         "cardNumber": "327",
-        "field1": "(Laat u informeren",
+        "field1": "informeren / zich informeren",
         "field2": "",
         "field3": "de informatie",
         "field4": "de informatie",
@@ -3935,19 +3935,19 @@
         "field6": "",
         "field7": "Hij heeft wat informatie nodig",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "328": {
         "cardNumber": "328",
-        "field1": "elkaar leren kennen).",
+        "field1": "leren kennen / elkaar leren kennen",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ik hou er van om nieuwe mensen te ontmoeten",
-        "field8": "We hebben elkaar gisteren ontmoet",
-        "category": "Reis"
+        "field7": "Ik leer graag nieuwe mensen kennen.",
+        "field8": "We hebben elkaar gisteren leren kennen.",
+        "category": "Reizen"
     },
     "329": {
         "cardNumber": "329",
@@ -3957,21 +3957,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "een gezellige dag",
+        "field7": "een aangename dag",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "330": {
         "cardNumber": "330",
         "field1": "baden",
         "field2": "",
-        "field3": "de badkamer",
+        "field3": "het bad",
         "field4": "de baden",
         "field5": "",
         "field6": "",
         "field7": "Ik hou van zwemmen in de zee",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "331": {
         "cardNumber": "331",
@@ -3983,19 +3983,19 @@
         "field6": "",
         "field7": "Berlijn is een bekende stad",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "332": {
         "cardNumber": "332",
-        "field1": "weergave",
+        "field1": "bezichtigen",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Wij willen graag Bremen bezoeken",
+        "field7": "We willen Bremen bezichtigen.",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "333": {
         "cardNumber": "333",
@@ -4007,7 +4007,7 @@
         "field6": "",
         "field7": "het Mozart-monument",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "334": {
         "cardNumber": "334",
@@ -4017,33 +4017,33 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Morgen gaan we op reis naar Hamburg",
+        "field7": "Morgen maken we een uitstapje naar Hamburg.",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "335": {
         "cardNumber": "335",
-        "field1": "de vreemdeling",
-        "field2": "de vreemdeling",
+        "field1": "de buitenlander",
+        "field2": "de buitenlanders",
         "field3": "buitenlands",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Er wonen hier veel buitenlanders",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "336": {
         "cardNumber": "336",
-        "field1": "De gids",
-        "field2": "de toeristische gidsen",
+        "field1": "de reisgids",
+        "field2": "de reisgidsen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Heeft u gidsen?",
+        "field7": "Hebt u reisgidsen?",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "337": {
         "cardNumber": "337",
@@ -4055,19 +4055,19 @@
         "field6": "",
         "field7": "Ik pak de rugzak in",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "338": {
         "cardNumber": "338",
         "field1": "het strand",
-        "field2": "De stranden",
+        "field2": "de stranden",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ze liggen op het strand",
+        "field7": "Ze zijn op het strand.",
         "field8": "Vandaag gaan we naar het strand",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "339": {
         "cardNumber": "339",
@@ -4075,11 +4075,11 @@
         "field2": "de toeristen",
         "field3": "het toerisme",
         "field4": "",
-        "field5": "Toeristeninformatie",
+        "field5": "de toeristeninformatie",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "340": {
         "cardNumber": "340",
@@ -4091,7 +4091,7 @@
         "field6": "",
         "field7": "We hebben twee uur bij de grens gewacht",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "341": {
         "cardNumber": "341",
@@ -4103,44 +4103,44 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Reis",
+        "category": "Reizen",
         "imageName": ""
     },
     "342": {
         "cardNumber": "342",
-        "field1": "buitenlands",
+        "field1": "vreemd / buitenlands",
         "field2": "",
-        "field3": "buitenlandse taal",
+        "field3": "de vreemde taal",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Ik ben een vreemde hier",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "343": {
         "cardNumber": "343",
         "field1": "groeten",
         "field2": "",
         "field3": "de groet",
-        "field4": "groeten",
+        "field4": "de groeten",
         "field5": "",
         "field6": "",
         "field7": "Groeten uit Berlijn",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "344": {
         "cardNumber": "344",
-        "field1": "weten",
-        "field2": "(wist-wist-wist)",
+        "field1": "kennen",
+        "field2": "(tegenwoordige tijd: kennt; verleden tijd: kannte; voltooid deelwoord: gekannt)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Ken jij deze man?",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "345": {
         "cardNumber": "345",
@@ -4152,35 +4152,35 @@
         "field6": "",
         "field7": "Ik vertaal de tekst",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "346": {
         "cardNumber": "346",
-        "field1": "camping",
+        "field1": "in een tent kamperen",
         "field2": "",
         "field3": "de tent",
         "field4": "de tenten",
-        "field5": "De camping",
+        "field5": "de camping",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Reis"
+        "category": "Reizen"
     },
     "347": {
         "cardNumber": "347",
-        "field1": "(Gaan liggen",
+        "field1": "leggen / gaan liggen",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Liggen!",
+        "field7": "Ga liggen!",
         "field8": "Ik ga op mijn zij liggen",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "348": {
         "cardNumber": "348",
-        "field1": "bij",
+        "field1": "aan / tegen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4188,19 +4188,19 @@
         "field6": "",
         "field7": "Hij hangt de foto aan de muur",
         "field8": "De bank staat tegen de muur",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "349": {
         "cardNumber": "349",
         "field1": "blijven",
-        "field2": "(verblijven-verblijven-verblijven)",
+        "field2": "(tegenwoordige tijd: bleibt; verleden tijd: blieb; voltooid deelwoord: geblieben)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Hoe lang blijf je hier?",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "350": {
         "cardNumber": "350",
@@ -4212,7 +4212,7 @@
         "field6": "",
         "field7": "De uitgang is daar",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "351": {
         "cardNumber": "351",
@@ -4224,7 +4224,7 @@
         "field6": "",
         "field7": "Waar is de ingang?",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "352": {
         "cardNumber": "352",
@@ -4235,12 +4235,12 @@
         "field5": "",
         "field6": "",
         "field7": "in het noorden",
-        "field8": "noorden",
-        "category": "Verplaatsings- en locatiebepaling"
+        "field8": "naar het noorden",
+        "category": "Beweging en plaatsbepaling"
     },
     "353": {
         "cardNumber": "353",
-        "field1": "Het oosten",
+        "field1": "het oosten",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4248,7 +4248,7 @@
         "field6": "",
         "field7": "in het oosten",
         "field8": "oostwaards",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "354": {
         "cardNumber": "354",
@@ -4260,7 +4260,7 @@
         "field6": "",
         "field7": "in het zuiden",
         "field8": "naar het zuiden",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "355": {
         "cardNumber": "355",
@@ -4272,7 +4272,7 @@
         "field6": "",
         "field7": "in het westen",
         "field8": "naar het westen",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "356": {
         "cardNumber": "356",
@@ -4284,7 +4284,7 @@
         "field6": "",
         "field7": "Het boek ligt in het midden",
         "field8": "Zet de vaas in het midden!",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "357": {
         "cardNumber": "357",
@@ -4296,11 +4296,11 @@
         "field6": "",
         "field7": "Ik hoor de muziek door de muur",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "358": {
         "cardNumber": "358",
-        "field1": "tegenovergestelde",
+        "field1": "tegenover",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4308,31 +4308,31 @@
         "field6": "",
         "field7": "tegenover het huis",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "359": {
         "cardNumber": "359",
-        "field1": "recht vooruit",
+        "field1": "rechtdoor",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ga alsjeblieft rechtdoor!",
+        "field7": "Gaat u alstublieft rechtdoor!",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "360": {
         "cardNumber": "360",
         "field1": "hangen",
-        "field2": "(hang-hung-hung)",
+        "field2": "(tegenwoordige tijd: hängt; verleden tijd: hing; voltooid deelwoord: gehangen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Hij hangt het pak in de kast",
         "field8": "De lamp hangt boven de tafel",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "361": {
         "cardNumber": "361",
@@ -4344,11 +4344,11 @@
         "field6": "",
         "field7": "Ik ga naar de keuken",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "362": {
         "cardNumber": "362",
-        "field1": "Links",
+        "field1": "links",
         "field2": "",
         "field3": "rechts",
         "field4": "",
@@ -4356,7 +4356,7 @@
         "field6": "",
         "field7": "Ga naar links!",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "363": {
         "cardNumber": "363",
@@ -4368,11 +4368,11 @@
         "field6": "",
         "field7": "We zijn dicht bij het doel",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "364": {
         "cardNumber": "364",
-        "field1": "set",
+        "field1": "neerzetten / laten zitten",
         "field2": "",
         "field3": "gaan zitten",
         "field4": "",
@@ -4380,23 +4380,23 @@
         "field6": "",
         "field7": "Ga alsjeblieft op de stoel zitten!",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "365": {
         "cardNumber": "365",
-        "field1": "stellage",
-        "field2": "(staat-stond-stond)",
+        "field1": "staan",
+        "field2": "(tegenwoordige tijd: steht; verleden tijd: stand; voltooid deelwoord: gestanden)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Ik sta hier al twee uur",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "366": {
         "cardNumber": "366",
-        "field1": "plaats",
+        "field1": "neerzetten / plaatsen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4404,7 +4404,7 @@
         "field6": "",
         "field7": "Zet de pot daar!",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "367": {
         "cardNumber": "367",
@@ -4416,7 +4416,7 @@
         "field6": "",
         "field7": "Ze wonen boven mij",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "368": {
         "cardNumber": "368",
@@ -4428,7 +4428,7 @@
         "field6": "",
         "field7": "De auto staat voor het huis",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "369": {
         "cardNumber": "369",
@@ -4440,19 +4440,19 @@
         "field6": "",
         "field7": "tussen het park en de bank",
         "field8": "",
-        "category": "Verplaatsings- en locatiebepaling"
+        "category": "Beweging en plaatsbepaling"
     },
     "370": {
         "cardNumber": "370",
-        "field1": "Gevaar!",
+        "field1": "Let op!",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Pas op stap!",
+        "field7": "Let op, een trede!",
         "field8": "",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "371": {
         "cardNumber": "371",
@@ -4464,43 +4464,43 @@
         "field6": "",
         "field7": "Kun je motorrijden?",
         "field8": "",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "372": {
         "cardNumber": "372",
-        "field1": "de poort",
-        "field2": "De havens",
+        "field1": "de haven",
+        "field2": "de havens",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Het schip ligt in de haven",
         "field8": "",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "373": {
         "cardNumber": "373",
         "field1": "de piloot",
-        "field2": "De piloten",
+        "field2": "de piloten",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "De piloot bestuurt het vliegtuig",
         "field8": "",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "374": {
         "cardNumber": "374",
-        "field1": "de ruimte",
-        "field2": "de plekken",
+        "field1": "de plaats",
+        "field2": "de plaatsen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Gaat u zitten!",
         "field8": "",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "375": {
         "cardNumber": "375",
@@ -4512,7 +4512,7 @@
         "field6": "",
         "field7": "Ik rijd met de auto naar Berlijn",
         "field8": "",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "376": {
         "cardNumber": "376",
@@ -4522,21 +4522,21 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Is deze stoel bezet?",
+        "field7": "Is deze plaats vrij?",
         "field8": "",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "377": {
         "cardNumber": "377",
         "field1": "op tijd",
         "field2": "",
-        "field3": "niet-punctueel",
+        "field3": "te laat",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "de trein is op tijd gearriveerd",
+        "field7": "De trein kwam op tijd aan.",
         "field8": "",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "378": {
         "cardNumber": "378",
@@ -4548,7 +4548,7 @@
         "field6": "",
         "field7": "Hij wacht op het treinstation",
         "field8": "Ik wacht op de trein",
-        "category": "vervoer"
+        "category": "Vervoer"
     },
     "379": {
         "cardNumber": "379",
@@ -4600,10 +4600,10 @@
     },
     "383": {
         "cardNumber": "383",
-        "field1": "uitstel",
-        "field2": "(vastgehouden-vastgehouden)",
-        "field3": "de bushalte",
-        "field4": "de bushaltes",
+        "field1": "stoppen / vasthouden",
+        "field2": "(tegenwoordige tijd: hält; verleden tijd: hielt; voltooid deelwoord: gehalten)",
+        "field3": "de halte",
+        "field4": "de haltes",
         "field5": "",
         "field6": "",
         "field7": "bij de bushalte",
@@ -4612,7 +4612,7 @@
     },
     "384": {
         "cardNumber": "384",
-        "field1": "voornaamst-",
+        "field1": "hoofd-",
         "field2": "",
         "field3": "de hoofdingang",
         "field4": "",
@@ -4648,13 +4648,13 @@
     },
     "387": {
         "cardNumber": "387",
-        "field1": "park",
+        "field1": "parkeren",
         "field2": "",
-        "field3": "Het autopark",
+        "field3": "de parkeerplaats",
         "field4": "de parkeerplaatsen",
         "field5": "",
         "field6": "",
-        "field7": "je kan hier niet parkeren",
+        "field7": "Je mag hier niet parkeren.",
         "field8": "",
         "category": "Stad"
     },
@@ -4666,7 +4666,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "om op de velden te werken",
+        "field7": "op het veld werken",
         "field8": "",
         "category": "Dorp"
     },
@@ -4686,7 +4686,7 @@
         "cardNumber": "390",
         "field1": "de boerderij",
         "field2": "de boerderijen",
-        "field3": "de landbouweconomie",
+        "field3": "het boerenbedrijf",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4721,11 +4721,11 @@
     },
     "393": {
         "cardNumber": "393",
-        "field1": "de FIR",
-        "field2": "de sparren",
-        "field3": "de kerstboom",
+        "field1": "de zilverspar",
+        "field2": "de zilversparren",
+        "field3": "de zilverspar",
         "field4": "",
-        "field5": "het dennenbos",
+        "field5": "het zilversparrenbos",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -4746,7 +4746,7 @@
     },
     "395": {
         "cardNumber": "395",
-        "field1": "als",
+        "field1": "dan / als",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4754,11 +4754,11 @@
         "field6": "",
         "field7": "Ze loopt sneller dan ik",
         "field8": "Hij is groter dan ik",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "396": {
         "cardNumber": "396",
-        "field1": "verschillend",
+        "field1": "anders",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4766,11 +4766,11 @@
         "field6": "",
         "field7": "Doe het anders!",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "397": {
         "cardNumber": "397",
-        "field1": "gemeen",
+        "field1": "betekenen",
         "field2": "",
         "field3": "de betekenis",
         "field4": "de betekenissen",
@@ -4778,7 +4778,7 @@
         "field6": "",
         "field7": "Wat betekent dat?",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "398": {
         "cardNumber": "398",
@@ -4790,19 +4790,19 @@
         "field6": "",
         "field7": "Je hebt zeker honger",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "399": {
         "cardNumber": "399",
         "field1": "spellen",
         "field2": "",
-        "field3": "de brief",
-        "field4": "De brieven",
+        "field3": "de letter",
+        "field4": "de letters",
         "field5": "",
         "field6": "",
         "field7": "Spel je naam!",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "400": {
         "cardNumber": "400",
@@ -4814,7 +4814,7 @@
         "field6": "",
         "field7": "rangschikken volgens het alfabet",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "401": {
         "cardNumber": "401",
@@ -4824,9 +4824,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Bijvoorbeeld",
+        "field7": "bijvoorbeeld",
         "field8": "Het voorbeeld is treffend",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "402": {
         "cardNumber": "402",
@@ -4836,13 +4836,13 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ik heb geen woorden meer",
+        "field7": "Ik ben sprakeloos.",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "403": {
         "cardNumber": "403",
-        "field1": "Dat",
+        "field1": "dat",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4850,23 +4850,23 @@
         "field6": "",
         "field7": "Ik weet dat je van hem houdt",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "404": {
         "cardNumber": "404",
         "field1": "denken",
-        "field2": "(denkt-gedachte-gedachte)",
+        "field2": "(tegenwoordige tijd: denkt; verleden tijd: dachte; voltooid deelwoord: gedacht)",
         "field3": "de gedachte",
-        "field4": "gedachten",
+        "field4": "de gedachten",
         "field5": "",
         "field6": "",
         "field7": "Ik denk dat...",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "405": {
         "cardNumber": "405",
-        "field1": "omdat",
+        "field1": "want / omdat",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4874,7 +4874,7 @@
         "field6": "",
         "field7": "Ik ga naar huis, want het is laat",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "406": {
         "cardNumber": "406",
@@ -4884,9 +4884,9 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Kunt u deze zin in het Duits vertalen?",
+        "field7": "Kun je deze zin in het Duits vertalen?",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "407": {
         "cardNumber": "407",
@@ -4898,31 +4898,31 @@
         "field6": "",
         "field7": "Het is laat, dus ik ga naar huis",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "408": {
         "cardNumber": "408",
-        "field1": "maakt niet uit",
+        "field1": "onverschillig / om het even",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "Ik zit er niet mee in",
+        "field7": "Het maakt me niet uit.",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "409": {
         "cardNumber": "409",
-        "field1": "Ja",
+        "field1": "ja",
         "field2": "",
-        "field3": "Nee",
+        "field3": "nee",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Antwoord alstublieft met ja of nee",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "410": {
         "cardNumber": "410",
@@ -4934,11 +4934,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "411": {
         "cardNumber": "411",
-        "field1": "van nature",
+        "field1": "natuurlijk",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4946,11 +4946,11 @@
         "field6": "",
         "field7": "Natuurlijk kom ik ook",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "412": {
         "cardNumber": "412",
-        "field1": "als",
+        "field1": "of",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4958,11 +4958,11 @@
         "field6": "",
         "field7": "Ik weet niet of hij komt",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "413": {
         "cardNumber": "413",
-        "field1": "inspraak",
+        "field1": "zeggen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4970,11 +4970,11 @@
         "field6": "",
         "field7": "Zeg dat in het Duits!",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "414": {
         "cardNumber": "414",
-        "field1": "voorstellen",
+        "field1": "zich voorstellen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -4982,23 +4982,23 @@
         "field6": "",
         "field7": "Stel jezelf voor!",
         "field8": "Mag ik mezelf voorstellen?",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "415": {
         "cardNumber": "415",
-        "field1": "Dus",
+        "field1": "zo",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "zij is zo mooi",
+        "field7": "Zij is zo mooi",
         "field8": "Het is hier zo mooi!",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "416": {
         "cardNumber": "416",
-        "field1": "liever",
+        "field1": "maar",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5006,7 +5006,7 @@
         "field6": "",
         "field7": "Dit is niet rood maar geel",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "417": {
         "cardNumber": "417",
@@ -5018,11 +5018,11 @@
         "field6": "",
         "field7": "Misschien ga ik naar het meer",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "418": {
         "cardNumber": "418",
-        "field1": "WAAR",
+        "field1": "waar",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5030,11 +5030,11 @@
         "field6": "",
         "field7": "Is het waar?",
         "field8": "Niet waar?",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "419": {
         "cardNumber": "419",
-        "field1": "Wat",
+        "field1": "wat",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5042,7 +5042,7 @@
         "field6": "",
         "field7": "Wat ben je aan het doen?",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "420": {
         "cardNumber": "420",
@@ -5054,19 +5054,19 @@
         "field6": "",
         "field7": "Het is heel belangrijk voor hem",
         "field8": "",
-        "category": "Spraakcommunicatie"
+        "category": "Talige communicatie"
     },
     "421": {
         "cardNumber": "421",
-        "field1": "telefoongesprek",
-        "field2": "(oproepen-gebeld-gebeld)",
-        "field3": "de roeping",
-        "field4": "de oproepen",
+        "field1": "opbellen",
+        "field2": "(tegenwoordige tijd: ruft an; verleden tijd: rief an; voltooid deelwoord: angerufen)",
+        "field3": "het telefoontje",
+        "field4": "de telefoontjes",
         "field5": "",
         "field6": "",
-        "field7": "ik bel je morgen",
+        "field7": "Ik bel je morgen",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "422": {
         "cardNumber": "422",
@@ -5078,7 +5078,7 @@
         "field6": "",
         "field7": "het culturele programma",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "423": {
         "cardNumber": "423",
@@ -5090,31 +5090,31 @@
         "field6": "",
         "field7": "Wanneer komt de postbode?",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "424": {
         "cardNumber": "424",
         "field1": "de computer",
-        "field2": "de computer",
+        "field2": "de computers",
         "field3": "het computerspel",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Wij werken op de computer",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "425": {
         "cardNumber": "425",
-        "field1": "de televisie",
+        "field1": "het televisietoestel",
         "field2": "de televisietoestellen",
         "field3": "de televisie",
-        "field4": "de televisie",
+        "field4": "de televisies",
         "field5": "",
         "field6": "",
         "field7": "Zet de tv uit!",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "426": {
         "cardNumber": "426",
@@ -5126,7 +5126,7 @@
         "field6": "",
         "field7": "Hoeveel kost de postzegel voor deze brief?",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "427": {
         "cardNumber": "427",
@@ -5138,19 +5138,19 @@
         "field6": "",
         "field7": "Ik ben op het postkantoor",
         "field8": "Ik moet naar het postkantoor",
-        "category": "media"
+        "category": "Media"
     },
     "428": {
         "cardNumber": "428",
-        "field1": "de postkaart",
+        "field1": "de ansichtkaart",
         "field2": "de ansichtkaarten",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "heb je mijn ansichtkaart ontvangen?",
+        "field7": "Heb je mijn ansichtkaart ontvangen?",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "429": {
         "cardNumber": "429",
@@ -5162,23 +5162,23 @@
         "field6": "",
         "field7": "een lege telefoonkaart",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "430": {
         "cardNumber": "430",
-        "field1": "TV",
-        "field2": "(kijkt tv, zag tv, keek tv)",
+        "field1": "televisiekijken",
+        "field2": "(tegenwoordige tijd: sieht fern; verleden tijd: sah fern; voltooid deelwoord: ferngesehen)",
         "field3": "de televisie",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "op tv",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "431": {
         "cardNumber": "431",
-        "field1": "ring",
+        "field1": "bellen / rinkelen",
         "field2": "",
         "field3": "de bel",
         "field4": "de bellen",
@@ -5186,7 +5186,7 @@
         "field6": "",
         "field7": "De telefoon gaat!",
         "field8": "",
-        "category": "media"
+        "category": "Media"
     },
     "432": {
         "cardNumber": "432",
@@ -5203,7 +5203,7 @@
     "433": {
         "cardNumber": "433",
         "field1": "de baas",
-        "field2": "de leiders",
+        "field2": "de bazen",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -5215,7 +5215,7 @@
     "434": {
         "cardNumber": "434",
         "field1": "de directeur",
-        "field2": "De regisseurs",
+        "field2": "de directeuren",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -5226,7 +5226,7 @@
     },
     "435": {
         "cardNumber": "435",
-        "field1": "de monteur",
+        "field1": "de ingenieur",
         "field2": "de ingenieurs",
         "field3": "",
         "field4": "",
@@ -5238,7 +5238,7 @@
     },
     "436": {
         "cardNumber": "436",
-        "field1": "De collega",
+        "field1": "de collega",
         "field2": "de collega’s",
         "field3": "",
         "field4": "",
@@ -5251,7 +5251,7 @@
     "437": {
         "cardNumber": "437",
         "field1": "de plaats",
-        "field2": "de locaties",
+        "field2": "de plaatsen",
         "field3": "de geboorteplaats",
         "field4": "",
         "field5": "de woonplaats",
@@ -5264,11 +5264,11 @@
         "cardNumber": "438",
         "field1": "de voornaam",
         "field2": "de voornamen",
-        "field3": "achternaam",
+        "field3": "de achternaam",
         "field4": "de achternamen",
         "field5": "",
         "field6": "",
-        "field7": "Wat is je voornaam?",
+        "field7": "Wat is uw voornaam?",
         "field8": "",
         "category": "Werk"
     },
@@ -5298,8 +5298,8 @@
     },
     "441": {
         "cardNumber": "441",
-        "field1": "de secretaris",
-        "field2": "de secretarissen",
+        "field1": "de secretaresse",
+        "field2": "de secretaresses",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -5310,7 +5310,7 @@
     },
     "442": {
         "cardNumber": "442",
-        "field1": "Helaas",
+        "field1": "helaas",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5346,13 +5346,13 @@
     },
     "445": {
         "cardNumber": "445",
-        "field1": "zichzelf",
+        "field1": "zelf",
         "field2": "",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ik doe het zelf",
+        "field7": "Ik doe het zelf",
         "field8": "",
         "category": "Werk"
     },
@@ -5370,27 +5370,27 @@
     },
     "447": {
         "cardNumber": "447",
-        "field1": "het account",
-        "field2": "de rekeningen",
+        "field1": "de bankrekening",
+        "field2": "de bankrekeningen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Ik heb geen geld op de rekening",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "448": {
         "cardNumber": "448",
         "field1": "de zakenman",
         "field2": "de zakenmensen",
-        "field3": "De zakenvrouw",
+        "field3": "de zakenvrouw",
         "field4": "de zakenvrouwen",
         "field5": "",
         "field6": "",
         "field7": "Hij is geen goede zakenman",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "449": {
         "cardNumber": "449",
@@ -5402,7 +5402,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "450": {
         "cardNumber": "450",
@@ -5414,7 +5414,7 @@
         "field6": "",
         "field7": "volgens mijn berekening",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "451": {
         "cardNumber": "451",
@@ -5426,7 +5426,7 @@
         "field6": "",
         "field7": "Het dichtstbijzijnde wisselkantoor bevindt zich in het centrum",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "452": {
         "cardNumber": "452",
@@ -5438,7 +5438,7 @@
         "field6": "",
         "field7": "Ik heb mijn eigen huis",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "453": {
         "cardNumber": "453",
@@ -5450,7 +5450,7 @@
         "field6": "",
         "field7": "De reis kost bijna € 500,-",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "454": {
         "cardNumber": "454",
@@ -5462,23 +5462,23 @@
         "field6": "",
         "field7": "Ik heb niet genoeg geld voor de reis",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "455": {
         "cardNumber": "455",
         "field1": "hebben",
-        "field2": "(heeft-had-gehad)",
+        "field2": "(tegenwoordige tijd: hat; verleden tijd: hatte; voltooid deelwoord: gehabt)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "ik heb geen geld",
-        "field8": "Jij hebt veel geld",
-        "category": "Bedrijf"
+        "field7": "Ik heb geen geld",
+        "field8": "U hebt veel geld.",
+        "category": "Economie"
     },
     "456": {
         "cardNumber": "456",
-        "field1": "Privaat",
+        "field1": "privé / particulier",
         "field2": "",
         "field3": "de particuliere school",
         "field4": "",
@@ -5486,11 +5486,11 @@
         "field6": "",
         "field7": "Dit is een privé-evenement",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "457": {
         "cardNumber": "457",
-        "field1": "redden",
+        "field1": "sparen",
         "field2": "",
         "field3": "de spaarbank",
         "field4": "",
@@ -5498,11 +5498,11 @@
         "field6": "",
         "field7": "Wij zijn aan het sparen voor een nieuwe auto",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "458": {
         "cardNumber": "458",
-        "field1": "wijziging",
+        "field1": "wisselen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5510,23 +5510,23 @@
         "field6": "",
         "field7": "Waar kan ik geld wisselen?",
         "field8": "",
-        "category": "Bedrijf"
+        "category": "Economie"
     },
     "459": {
         "cardNumber": "459",
-        "field1": "(ontmoeten",
-        "field2": "(hit-hit-hit)",
+        "field1": "ontmoeten / elkaar ontmoeten",
+        "field2": "(tegenwoordige tijd: trifft; verleden tijd: traf; voltooid deelwoord: getroffen)",
         "field3": "de bijeenkomst",
-        "field4": "de vergaderingen",
+        "field4": "de bijeenkomsten",
         "field5": "",
         "field6": "",
         "field7": "Wanneer gaan we elkaar ontmoeten?",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "460": {
         "cardNumber": "460",
-        "field1": "parlement",
+        "field1": "het parlement",
         "field2": "de parlementen",
         "field3": "",
         "field4": "",
@@ -5534,7 +5534,7 @@
         "field6": "",
         "field7": "Dit jaar kiest het volk een nieuw parlement",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "461": {
         "cardNumber": "461",
@@ -5546,7 +5546,7 @@
         "field6": "",
         "field7": "de koning van Spanje",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "462": {
         "cardNumber": "462",
@@ -5558,45 +5558,45 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "463": {
         "cardNumber": "463",
         "field1": "de president",
         "field2": "de presidenten",
-        "field3": "De minister president",
+        "field3": "de minister-president",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land",
+        "category": "Staat",
         "imageName": ""
     },
     "464": {
         "cardNumber": "464",
         "field1": "de prins",
-        "field2": "de prinses",
+        "field2": "de prinsen",
         "field3": "de prinses",
         "field4": "de prinsessen",
         "field5": "de sprookjesprins",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land",
+        "category": "Staat",
         "imageName": ""
     },
     "465": {
         "cardNumber": "465",
         "field1": "de staat",
-        "field2": "de Staten",
-        "field3": "staat",
+        "field2": "de staten",
+        "field3": "staats- / van de staat",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "een onafhankelijke staat",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "466": {
         "cardNumber": "466",
@@ -5608,7 +5608,7 @@
         "field6": "",
         "field7": "persvrijheid",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "467": {
         "cardNumber": "467",
@@ -5616,23 +5616,23 @@
         "field2": "de naties",
         "field3": "nationaal",
         "field4": "",
-        "field5": "Internationale",
+        "field5": "internationaal",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "468": {
         "cardNumber": "468",
-        "field1": "het feest",
-        "field2": "de feestjes",
+        "field1": "de partij",
+        "field2": "de partijen",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Hij is lid van deze partij",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "469": {
         "cardNumber": "469",
@@ -5644,7 +5644,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "470": {
         "cardNumber": "470",
@@ -5654,21 +5654,21 @@
         "field4": "de organisaties",
         "field5": "",
         "field6": "",
-        "field7": "Organisatie van de Verenigde Naties (UNO)",
+        "field7": "de Verenigde Naties (VN)",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "471": {
         "cardNumber": "471",
         "field1": "regeren",
         "field2": "",
-        "field3": "de overheid",
-        "field4": "de overheid",
+        "field3": "de regering",
+        "field4": "de regeringen",
         "field5": "",
         "field6": "",
         "field7": "De koningin regeert het land",
         "field8": "",
-        "category": "Land"
+        "category": "Staat"
     },
     "472": {
         "cardNumber": "472",
@@ -5680,7 +5680,7 @@
         "field6": "",
         "field7": "Hij gaat zeker de gevangenis in",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "473": {
         "cardNumber": "473",
@@ -5692,19 +5692,19 @@
         "field6": "",
         "field7": "Morgen komt de zaak voor de rechter",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "474": {
         "cardNumber": "474",
         "field1": "het recht",
-        "field2": "het recht",
-        "field3": "legaal",
+        "field2": "de rechten",
+        "field3": "juridisch",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Rechten en plichten",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "475": {
         "cardNumber": "475",
@@ -5716,32 +5716,32 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Rechts",
+        "category": "Recht",
         "imageName": ""
     },
     "476": {
         "cardNumber": "476",
         "field1": "de rechter",
-        "field2": "de rechter",
+        "field2": "de rechters",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "een strenge rechter",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "477": {
         "cardNumber": "477",
         "field1": "de politie",
         "field2": "",
         "field3": "de politieagent",
-        "field4": "De politieagenten",
+        "field4": "de politieagenten",
         "field5": "het politiebureau",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "478": {
         "cardNumber": "478",
@@ -5753,11 +5753,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "479": {
         "cardNumber": "479",
-        "field1": "kunnen",
+        "field1": "mogen",
         "field2": "",
         "field3": "",
         "field4": "",
@@ -5765,19 +5765,19 @@
         "field6": "",
         "field7": "Je mag niet roken!",
         "field8": "Het is hier niet toegestaan om te roken!",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "480": {
         "cardNumber": "480",
         "field1": "stelen",
-        "field2": "(stelt-staal-gestolen)",
+        "field2": "(tegenwoordige tijd: stiehlt; verleden tijd: stahl; voltooid deelwoord: gestohlen)",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "Waarom steelt hij?",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "481": {
         "cardNumber": "481",
@@ -5789,19 +5789,19 @@
         "field6": "",
         "field7": "Hij is dood",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "482": {
         "cardNumber": "482",
         "field1": "doden",
         "field2": "",
-        "field3": "de moord",
-        "field4": "de moorden",
+        "field3": "het doden",
+        "field4": "de dodingen",
         "field5": "",
         "field6": "",
-        "field7": "Je hebt een persoon vermoord",
+        "field7": "U hebt een mens gedood.",
         "field8": "",
-        "category": "Rechts"
+        "category": "Recht"
     },
     "483": {
         "cardNumber": "483",
@@ -5823,7 +5823,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "de Olympische vlam",
+        "field7": "het olympisch vuur",
         "field8": "",
         "category": "Sociale conflicten"
     },
@@ -5847,15 +5847,15 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "U mag geen alcohol drinken",
-        "field8": "frisdrank",
+        "field7": "Je mag geen alcohol drinken.",
+        "field8": "alcoholvrije dranken",
         "category": "Sociale conflicten"
     },
     "487": {
         "cardNumber": "487",
         "field1": "de vijand",
-        "field2": "de vijand",
-        "field3": "gewelddadig",
+        "field2": "de vijanden",
+        "field3": "vijandig",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5883,7 +5883,7 @@
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "de tweede Wereldoorlog",
+        "field7": "de Tweede Wereldoorlog",
         "field8": "",
         "category": "Sociale conflicten"
     },
@@ -5891,7 +5891,7 @@
         "cardNumber": "490",
         "field1": "de tank",
         "field2": "de tanks",
-        "field3": "de tank",
+        "field3": "de pantserwagen",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5939,13 +5939,13 @@
     },
     "494": {
         "cardNumber": "494",
-        "field1": "De drugs",
+        "field1": "de drug",
         "field2": "de drugs",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
-        "field7": "De medicijnen zijn schadelijk voor uw gezondheid",
+        "field7": "Drugs zijn schadelijk voor de gezondheid.",
         "field8": "",
         "category": "Sociale conflicten"
     },
@@ -5963,7 +5963,7 @@
     },
     "496": {
         "cardNumber": "496",
-        "field1": "het geweer",
+        "field1": "het pistool",
         "field2": "de pistolen",
         "field3": "",
         "field4": "",
@@ -5975,9 +5975,9 @@
     },
     "497": {
         "cardNumber": "497",
-        "field1": "de bewaking",
+        "field1": "de veiligheid",
         "field2": "",
-        "field3": "zeker",
+        "field3": "veilig",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -6000,7 +6000,7 @@
     "499": {
         "cardNumber": "499",
         "field1": "schieten",
-        "field2": "(schiet-schot-schot)",
+        "field2": "(tegenwoordige tijd: schießt; verleden tijd: schoss; voltooid deelwoord: geschossen)",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -6013,7 +6013,7 @@
         "cardNumber": "500",
         "field1": "voorzichtig",
         "field2": "",
-        "field3": "onzorgvuldig",
+        "field3": "onvoorzichtig",
         "field4": "",
         "field5": "",
         "field6": "",

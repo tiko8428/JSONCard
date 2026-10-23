@@ -1,7 +1,7 @@
 {
     "1": {
         "cardNumber": "1",
-        "field1": "現在",
+        "field1": "食卓に出す / 料理を出す",
         "field2": "美味しいお食事が出されました",
         "field3": "",
         "field4": "",
@@ -9,7 +9,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "2": {
         "cardNumber": "2",
@@ -21,19 +21,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "3": {
         "cardNumber": "3",
-        "field1": "必要",
-        "field2": "(必要-必要-必要)",
+        "field1": "必要とする",
+        "field2": "（現在形：bedarf；過去形：bedurfte；過去分詞：bedurft）",
         "field3": "その料理には特別な注意が必要です",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "4": {
         "cardNumber": "4",
@@ -45,19 +45,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "5": {
         "cardNumber": "5",
-        "field1": "完成品",
-        "field2": "完成品",
+        "field1": "調理済み食品 / 完成品",
+        "field2": "調理済み食品 / 完成品",
         "field3": "これらの既製品はどれくらい栄養価が高いのでしょうか？",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "6": {
         "cardNumber": "6",
@@ -69,55 +69,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "7": {
         "cardNumber": "7",
         "field1": "ピューレ",
         "field2": "ピューレ",
-        "field3": "ピューレ",
+        "field3": "ピューレにする",
         "field4": "子供の頃はマッシュポテトが嫌いでした",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "8": {
-        "cardNumber": "8位",
+        "cardNumber": "8",
         "field1": "ふるい",
         "field2": "ふるい",
-        "field3": "セブン",
-        "field4": "あなたはふるいのような記憶を持っています",
+        "field3": "ふるいにかける",
+        "field4": "あなたは物忘れがひどいですね。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "9": {
         "cardNumber": "9",
-        "field1": "広がり",
+        "field1": "パンに塗るもの / スプレッド",
         "field2": "スプレッド",
-        "field3": "スプレッドとして何が欲しいですか？",
+        "field3": "パンに何を塗りたいですか？",
         "field4": "私はバターをスプレッドとして使うのが好きです",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "10": {
         "cardNumber": "10",
-        "field1": "ツバメ",
+        "field1": "一口（飲み物）",
         "field2": "一口",
         "field3": "飲み込む",
-        "field4": "お水を一杯いただけますか？",
+        "field4": "水を一口もらえますか？",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "11": {
         "cardNumber": "11",
@@ -129,47 +129,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "12": {
         "cardNumber": "12",
-        "field1": "レンズ",
-        "field2": "レンズ",
+        "field1": "レンズ豆 / レンズ",
+        "field2": "レンズ豆 / レンズ",
         "field3": "夕食にレンズ豆を作ります",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "13": {
         "cardNumber": "13",
-        "field1": "無駄",
-        "field2": "無駄",
-        "field3": "食品廃棄物",
+        "field1": "浪費 / 無駄遣い",
+        "field2": "浪費する / 無駄にする",
+        "field3": "食品の無駄遣い / 食品ロス",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "14": {
         "cardNumber": "14",
-        "field1": "互換性",
-        "field2": "互換性がある",
-        "field3": "この食べ物は耐えるのが難しいです",
+        "field1": "消化のよさ / 耐容性",
+        "field2": "消化のよい / 体に合う",
+        "field3": "この料理は消化がよくありません。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "15": {
         "cardNumber": "15",
-        "field1": "食用",
+        "field1": "食べられる",
         "field2": "食べられない",
         "field3": "その魚はもう食べられません。",
         "field4": "",
@@ -177,11 +177,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "16": {
         "cardNumber": "16",
-        "field1": "飽和する",
+        "field1": "満腹にする / 満たす",
         "field2": "この食べ物はお腹が満たされます",
         "field3": "彼の好奇心は満たされない",
         "field4": "",
@@ -189,35 +189,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "17": {
         "cardNumber": "17",
-        "field1": "自分を甘やかす",
-        "field2": "(甘やかされて、甘やかされて、甘やかされて)",
+        "field1": "傷む / 腐る / 損なわれる",
+        "field2": "（現在形：verdirbt；過去形：verdarb；過去分詞：verdorben）",
         "field3": "腐りやすい",
         "field4": "これらの食品は非常に傷みやすいです",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "18": {
         "cardNumber": "18",
         "field1": "むさぼり食う",
-        "field2": "(貪り食う貪り食う)",
+        "field2": "（現在形：verschlingt；過去形：verschlang；過去分詞：verschlungen）",
         "field3": "彼女はロールパンをあっという間に食べてしまいました",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "19": {
         "cardNumber": "19",
-        "field1": "消費する",
+        "field1": "食べる / 飲食する",
         "field2": "もう朝食は食べましたか？",
         "field3": "",
         "field4": "",
@@ -225,11 +225,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "栄養"
+        "category": "食生活"
     },
     "20": {
         "cardNumber": "20",
-        "field1": "空にする",
+        "field1": "不要な物を処分する / 家畜のふんを取り除く",
         "field2": "またクローゼットを掃除しなければなりません",
         "field3": "",
         "field4": "",
@@ -237,11 +237,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "21": {
         "cardNumber": "21",
-        "field1": "を明らかにする",
+        "field1": "照らす / 解明する",
         "field2": "照明",
         "field3": "照明",
         "field4": "この照明では仕事はできません!",
@@ -249,19 +249,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "22": {
         "cardNumber": "22",
-        "field1": "盆地",
-        "field2": "プール",
-        "field3": "プールが封鎖されている",
+        "field1": "洗面台 / 水槽 / 盆地",
+        "field2": "洗面台 / 水槽 / 盆地",
+        "field3": "洗面台が詰まっています。",
         "field4": "洗面器に水を入れていただけませんか。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "23": {
         "cardNumber": "23",
@@ -273,7 +273,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "24": {
         "cardNumber": "24",
@@ -285,11 +285,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "25": {
         "cardNumber": "25",
-        "field1": "白い馬; カビ",
+        "field1": "カビ",
         "field2": "カビに対する最善の予防策は定期的な換気です",
         "field3": "",
         "field4": "",
@@ -297,35 +297,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "26": {
         "cardNumber": "26",
-        "field1": "カウチポテト",
-        "field2": "カウチポテト",
-        "field3": "このカウチポテトはめったにアパートから出ない",
+        "field1": "家にこもりがちな人",
+        "field2": "家にこもりがちな人",
+        "field3": "この家にこもりがちな人は、ほとんど外に出ません。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "27": {
         "cardNumber": "27",
-        "field1": "基本家賃",
-        "field2": "基本家賃",
-        "field3": "暖かい家賃",
-        "field4": "暖かい家賃",
+        "field1": "諸経費を含まない基本家賃",
+        "field2": "諸経費を含まない基本家賃",
+        "field3": "暖房費などの諸経費を含む家賃",
+        "field4": "暖房費などの諸経費を含む家賃",
         "field5": "基本家賃は700ユーロです",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "28": {
         "cardNumber": "28",
-        "field1": "管理",
+        "field1": "配管 / 回線",
         "field2": "回線が故障している",
         "field3": "まだガス管を敷設しなければなりません",
         "field4": "",
@@ -333,7 +333,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "29": {
         "cardNumber": "29",
@@ -345,19 +345,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "30": {
         "cardNumber": "30",
         "field1": "詰まる",
-        "field2": "便秘",
+        "field2": "詰まり / 便秘",
         "field3": "詰まり",
         "field4": "髪の毛が排水溝を詰まらせている",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "31": {
         "cardNumber": "31",
@@ -369,11 +369,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "家"
+        "category": "住まい"
     },
     "32": {
         "cardNumber": "32",
-        "field1": "ライト",
+        "field1": "火をつける",
         "field2": "彼はタバコに火をつけた",
         "field3": "",
         "field4": "",
@@ -381,59 +381,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "33": {
         "cardNumber": "33",
-        "field1": "エラー",
-        "field2": "エラー",
-        "field3": "間違っている",
+        "field1": "思い違い / 誤り",
+        "field2": "思い違い / 誤り",
+        "field3": "思い違いをする",
         "field4": "しかし、あなたは間違っています！",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "34": {
         "cardNumber": "34",
         "field1": "普通の人間",
         "field2": "普通の人間",
-        "field3": "ここにただの人間のための部屋はあるのか？",
-        "field4": "すべての定命の者はそれが何であるかを知っています",
+        "field3": "ここに一般人向けの部屋はありますか？",
+        "field4": "それが何かは普通の人なら誰でも知っています。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "35": {
         "cardNumber": "35",
         "field1": "音",
         "field2": "音",
-        "field3": "音",
+        "field3": "鳴り響く",
         "field4": "突然悲鳴が聞こえた",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "36": {
         "cardNumber": "36",
-        "field1": "減速",
-        "field2": "加速度",
+        "field1": "生活のペースを落とすこと / 減速",
+        "field2": "加速 / 加速度",
         "field3": "これを最高速度でやらなければならない",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "37": {
         "cardNumber": "37",
-        "field1": "あくびをしている",
+        "field1": "あくびをする",
         "field2": "彼女は疲れていてあくびをした",
         "field3": "退屈であくびをせずにはいられなかった",
         "field4": "",
@@ -441,23 +441,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "38": {
         "cardNumber": "38",
-        "field1": "扱う",
-        "field2": "今は少し休んでいます",
+        "field1": "人がよいものを得ることを喜ぶ / 自分に許す",
+        "field2": "今、少し休憩を取ることにします。",
         "field3": "彼は本当にこの成功に値する",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "39": {
         "cardNumber": "39",
-        "field1": "ハンドル",
+        "field1": "取り扱う / 操作する",
         "field2": "取り扱い",
         "field3": "この装置の使い方を説明してもらえますか？",
         "field4": "",
@@ -465,7 +465,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "40": {
         "cardNumber": "40",
@@ -477,7 +477,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "41": {
         "cardNumber": "41",
@@ -489,7 +489,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "42": {
         "cardNumber": "42",
@@ -501,11 +501,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "43": {
         "cardNumber": "43",
-        "field1": "忘れる",
+        "field1": "おろそかにする / 放置する",
         "field2": "庭は放置されているように見える",
         "field3": "子どもたちは親に無視されていると感じている",
         "field4": "",
@@ -513,11 +513,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "44": {
         "cardNumber": "44",
-        "field1": "気づく",
+        "field1": "実現する",
         "field2": "彼女はついに自分の家を持つという夢を実現した",
         "field3": "すべてのアイデアが簡単に実現できるわけではありません",
         "field4": "",
@@ -525,19 +525,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "45": {
         "cardNumber": "45",
         "field1": "起こる",
-        "field2": "（起こる、起こる、起こる）",
+        "field2": "（現在形：kommt vor；過去形：kam vor；過去分詞：vorgekommen）",
         "field3": "こんなこと今まで経験したことがない",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "毎日"
+        "category": "日常生活"
     },
     "46": {
         "cardNumber": "46",
@@ -549,23 +549,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "47": {
         "cardNumber": "47",
-        "field1": "取得する",
+        "field1": "購入する / 買いそろえる",
         "field2": "購入",
         "field3": "購入品",
-        "field4": "新しいアパートの購入はもうすべて済ませましたか?",
+        "field4": "新しいアパートに必要な物はもう全部買いそろえましたか？",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "48": {
         "cardNumber": "48",
-        "field1": "レイアウト",
+        "field1": "陳列する / 解釈する",
         "field2": "なぜ誰も新しい商品をショーウィンドウに展示しなかったのですか?",
         "field3": "",
         "field4": "",
@@ -573,19 +573,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "49": {
         "cardNumber": "49",
         "field1": "供給過剰",
         "field2": "供給過剰",
         "field3": "供給不足",
-        "field4": "サブオファー",
+        "field4": "供給不足",
         "field5": "スーパーマーケットでは食品が供給過剰になっている",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "50": {
         "cardNumber": "50",
@@ -597,19 +597,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "51": {
         "cardNumber": "51",
-        "field1": "リクエスト",
-        "field2": "リクエスト",
-        "field3": "書面によるリクエストを会社に送信する必要があります",
+        "field1": "問い合わせ",
+        "field2": "問い合わせ",
+        "field3": "その会社に書面で問い合わせる必要があります。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "52": {
         "cardNumber": "52",
@@ -621,7 +621,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "53": {
         "cardNumber": "53",
@@ -633,19 +633,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "54": {
         "cardNumber": "54",
-        "field1": "新しいリリース",
-        "field2": "新しいリリース",
+        "field1": "新刊 / 新発売品",
+        "field2": "新刊 / 新発売品",
         "field3": "ブックフェアにはたくさんの新刊がありました",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "55": {
         "cardNumber": "55",
@@ -657,11 +657,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "56": {
         "cardNumber": "56",
-        "field1": "保証",
+        "field1": "保証する",
         "field2": "配達が時間通りに到着することを保証できますか?",
         "field3": "",
         "field4": "",
@@ -669,35 +669,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "57": {
         "cardNumber": "57",
         "field1": "保管する",
         "field2": "倉庫",
-        "field3": "キャンプ",
+        "field3": "倉庫 / 在庫 / 野営地",
         "field4": "このサイズはまだ在庫がございます",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "58": {
         "cardNumber": "58",
         "field1": "在庫切れ",
-        "field2": "残念ながらその本は現在絶版となっています",
+        "field2": "残念ながら、その本は現在品切れです。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "購入とサービス"
+        "category": "買い物とサービス"
     },
     "59": {
         "cardNumber": "59",
-        "field1": "採用する",
+        "field1": "養子にする",
         "field2": "養子",
         "field3": "養子たち",
         "field4": "養父母",
@@ -709,8 +709,8 @@
     },
     "60": {
         "cardNumber": "60",
-        "field1": "維持された",
-        "field2": "(維持-維持-維持)",
+        "field1": "維持する",
+        "field2": "（現在形：erhält aufrecht；過去形：erhielt aufrecht；過去分詞：aufrechterhalten）",
         "field3": "彼は家族との連絡を維持しようと努めている",
         "field4": "",
         "field5": "",
@@ -722,7 +722,7 @@
     "61": {
         "cardNumber": "61",
         "field1": "回避する",
-        "field2": "(回避、回避、回避)",
+        "field2": "（現在形：weicht aus；過去形：wich aus；過去分詞：ausgewichen）",
         "field3": "なぜ私を避けるのですか？",
         "field4": "",
         "field5": "",
@@ -733,9 +733,9 @@
     },
     "62": {
         "cardNumber": "62",
-        "field1": "付与",
-        "field2": "贈り物",
-        "field3": "贈り物",
+        "field1": "贈る / もたらす",
+        "field2": "クリスマスの贈り物の交換",
+        "field3": "クリスマスの贈り物の交換",
         "field4": "クリスマスに子供たちに何をプレゼントしましたか？",
         "field5": "",
         "field6": "",
@@ -759,7 +759,7 @@
         "cardNumber": "64",
         "field1": "人生のパートナー",
         "field2": "人生のパートナー",
-        "field3": "彼女はパートナーと一緒に引っ越しました",
+        "field3": "彼女はパートナーと同居を始めました。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -782,7 +782,7 @@
     "66": {
         "cardNumber": "66",
         "field1": "思春期",
-        "field2": "思春期",
+        "field2": "思春期に入る",
         "field3": "彼は徐々に思春期を迎えている",
         "field4": "",
         "field5": "",
@@ -793,7 +793,7 @@
     },
     "67": {
         "cardNumber": "67",
-        "field1": "義理の両親",
+        "field1": "継父母",
         "field2": "継父",
         "field3": "継父たち",
         "field4": "継母",
@@ -805,8 +805,8 @@
     },
     "68": {
         "cardNumber": "68",
-        "field1": "ピンチ",
-        "field2": "（ピンチ、ピンチ、ピンチ）",
+        "field1": "つねる / 逃げ腰になる",
+        "field2": "（現在形：kneift；過去形：kniff；過去分詞：gekniffen）",
         "field3": "彼女は子供の頬をつねった",
         "field4": "",
         "field5": "",
@@ -829,8 +829,8 @@
     },
     "70": {
         "cardNumber": "70",
-        "field1": "言うことがある",
-        "field2": "(共同決定、共同決定、共同決定)",
+        "field1": "共同で決定する",
+        "field2": "（現在形：mitentscheidet；過去形：mitentschied；過去分詞：mitentschieden）",
         "field3": "子どもたちにも発言権がある",
         "field4": "",
         "field5": "",
@@ -841,7 +841,7 @@
     },
     "71": {
         "cardNumber": "71",
-        "field1": "新生児",
+        "field1": "生まれたばかりの",
         "field2": "新生児",
         "field3": "新生児",
         "field4": "生まれたばかりの子供たちはこの病棟に寝ています",
@@ -853,8 +853,8 @@
     },
     "72": {
         "cardNumber": "72",
-        "field1": "例証する",
-        "field2": "彼女の両親は彼女の援助意欲を模倣した",
+        "field1": "自らの行動で手本を示す",
+        "field2": "彼女の両親は、人助けをする姿を通して彼女に手本を示しました。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -865,7 +865,7 @@
     },
     "73": {
         "cardNumber": "73",
-        "field1": "関連する",
+        "field1": "所属する / 属している",
         "field2": "所属",
         "field3": "彼は自分に最も近い人々に帰属意識を持っていた",
         "field4": "",
@@ -885,23 +885,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "75": {
         "cardNumber": "75",
         "field1": "現れる",
-        "field2": "（起こる、起こる、起こる）",
-        "field3": "見た目",
+        "field2": "（現在形：tritt auf；過去形：trat auf；過去分詞：aufgetreten）",
+        "field3": "振る舞い / 登場",
         "field4": "今日は少し自信がなかったようですね",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "76": {
         "cardNumber": "76",
-        "field1": "裁判官",
+        "field1": "判断する / 評価する",
         "field2": "アセスメント",
         "field3": "評価",
         "field4": "人を見た目で判断してはいけません",
@@ -909,7 +909,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "77": {
         "cardNumber": "77",
@@ -921,11 +921,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "78": {
         "cardNumber": "78",
-        "field1": "天秤",
+        "field1": "ふけ",
         "field2": "どのフケ取りシャンプーがおすすめですか？",
         "field3": "",
         "field4": "",
@@ -933,7 +933,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "79": {
         "cardNumber": "79",
@@ -945,23 +945,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "80": {
         "cardNumber": "80",
         "field1": "タトゥー",
         "field2": "タトゥー",
-        "field3": "入れ墨",
+        "field3": "入れ墨をする",
         "field4": "彼はタトゥーを除去した",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "81": {
         "cardNumber": "81",
-        "field1": "櫛",
+        "field1": "髪を整える / 結う",
         "field2": "美容師さんはあなたの髪をとても素敵にしてくれました",
         "field3": "",
         "field4": "",
@@ -969,7 +969,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "82": {
         "cardNumber": "82",
@@ -981,7 +981,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "83": {
         "cardNumber": "83",
@@ -993,11 +993,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "84": {
         "cardNumber": "84",
-        "field1": "ぐったりしている",
+        "field1": "足を引きずって歩く",
         "field2": "子供の頃でさえ、彼は左足を引きずっていました",
         "field3": "",
         "field4": "",
@@ -1005,7 +1005,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "85": {
         "cardNumber": "85",
@@ -1017,23 +1017,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "86": {
         "cardNumber": "86",
-        "field1": "許された",
-        "field2": "(ワープ、ワープ、ワープ)",
+        "field1": "ゆがめる / しかめる",
+        "field2": "（現在形：verzieht；過去形：verzog；過去分詞：verzogen）",
         "field3": "彼女は苦しそうに顔をしかめた",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "87": {
         "cardNumber": "87",
-        "field1": "引き出す",
+        "field1": "ぴくっと動く / けいれんする",
         "field2": "けいれん",
         "field3": "けいれん",
         "field4": "彼は眉を少しひくひくさせた",
@@ -1041,11 +1041,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "見て"
+        "category": "外見"
     },
     "88": {
         "cardNumber": "88",
-        "field1": "推測",
+        "field1": "予感する / 察する",
         "field2": "私たちは何も疑っていませんでした",
         "field3": "誰がそんなことを予想できただろう！",
         "field4": "",
@@ -1057,9 +1057,9 @@
     },
     "89": {
         "cardNumber": "89",
-        "field1": "感動する",
-        "field2": "(だった)",
-        "field3": "彼女はすぐに彼と一緒に連れて行かれた",
+        "field1": "気に入っている / 心を引かれている",
+        "field2": "（現在形：ist；過去形：war；過去分詞：gewesen）",
+        "field3": "彼女はすぐに彼を気に入りました。",
         "field4": "最初、彼らは私のアイデアに特に興味を持っていませんでした",
         "field5": "",
         "field6": "",
@@ -1069,7 +1069,7 @@
     },
     "90": {
         "cardNumber": "90",
-        "field1": "心から",
+        "field1": "誠実な / 心からの",
         "field2": "本当にごめんなさい！",
         "field3": "彼は誠実な性格を持っている",
         "field4": "",
@@ -1081,8 +1081,8 @@
     },
     "91": {
         "cardNumber": "91",
-        "field1": "主張",
-        "field2": "しつこく",
+        "field1": "固執する / 主張し続ける",
+        "field2": "粘り強い",
         "field3": "あらゆる議論にもかかわらず、彼は自分の意見を主張する",
         "field4": "",
         "field5": "",
@@ -1093,7 +1093,7 @@
     },
     "92": {
         "cardNumber": "92",
-        "field1": "後悔",
+        "field1": "後悔する",
         "field2": "後悔",
         "field3": "私はこの決断を一度も後悔したことはありません",
         "field4": "",
@@ -1106,7 +1106,7 @@
     "93": {
         "cardNumber": "93",
         "field1": "懸念",
-        "field2": "感謝",
+        "field2": "懸念 / 疑念",
         "field3": "躊躇せずに",
         "field4": "検討する価値がある",
         "field5": "",
@@ -1119,7 +1119,7 @@
         "cardNumber": "94",
         "field1": "良心",
         "field2": "後悔",
-        "field3": "悪い良心は自らを裏切る",
+        "field3": "やましい心は自然と表に出るものだ。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1129,8 +1129,8 @@
     },
     "95": {
         "cardNumber": "95",
-        "field1": "判決",
-        "field2": "合理的な判断を決してオフにしてはなりません",
+        "field1": "判断力",
+        "field2": "理性的な判断力を失ってはいけません。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1165,8 +1165,8 @@
     },
     "98": {
         "cardNumber": "98",
-        "field1": "ハートブレイカー",
-        "field2": "ハートブレイカーズ",
+        "field1": "ハートブレイカー（人を恋に落とし、心を傷つける人）",
+        "field2": "ハートブレイカー（人を恋に落とし、心を傷つける人）",
         "field3": "彼女は本当にハートブレイカーだよ",
         "field4": "",
         "field5": "",
@@ -1177,7 +1177,7 @@
     },
     "99": {
         "cardNumber": "99",
-        "field1": "失恋した人",
+        "field1": "恋の悩み / 失恋の痛み",
         "field2": "彼は恋に悩んでいる",
         "field3": "",
         "field4": "",
@@ -1189,7 +1189,7 @@
     },
     "100": {
         "cardNumber": "100",
-        "field1": "不機嫌な",
+        "field1": "不機嫌な人 / へそ曲がり",
         "field2": "不機嫌者",
         "field3": "そんなに不機嫌になるな！",
         "field4": "",
@@ -1201,8 +1201,8 @@
     },
     "101": {
         "cardNumber": "101",
-        "field1": "暗闇",
-        "field2": "暗い",
+        "field1": "憂うつ / 気のふさぎ",
+        "field2": "憂うつな",
         "field3": "彼女は再び悲しみに陥った",
         "field4": "",
         "field5": "",
@@ -1226,8 +1226,8 @@
     "103": {
         "cardNumber": "103",
         "field1": "献身",
-        "field2": "降伏",
-        "field3": "（諦める・諦める・降参する）",
+        "field2": "身を捧げる / 没頭する",
+        "field3": "（現在形：gibt hin；過去形：gab hin；過去分詞：hingegeben）",
         "field4": "彼は情熱を持ってピアノを弾きました",
         "field5": "",
         "field6": "",
@@ -1249,7 +1249,7 @@
     },
     "105": {
         "cardNumber": "105",
-        "field1": "理由",
+        "field1": "理性 / 分別",
         "field2": "合理的",
         "field3": "賢い人だと思ってた",
         "field4": "",
@@ -1273,7 +1273,7 @@
     },
     "107": {
         "cardNumber": "107",
-        "field1": "復讐をします",
+        "field1": "復讐する",
         "field2": "復讐",
         "field3": "これには復讐してやる",
         "field4": "",
@@ -1297,7 +1297,7 @@
     },
     "109": {
         "cardNumber": "109",
-        "field1": "マーベル",
+        "field1": "驚嘆する",
         "field2": "驚き",
         "field3": "彼の言葉は私を驚かせた",
         "field4": "",
@@ -1310,7 +1310,7 @@
     "110": {
         "cardNumber": "110",
         "field1": "奥深い",
-        "field2": "表面的な",
+        "field2": "表面的な / 浅薄な",
         "field3": "本当に彼はそんな表面的な人間なのでしょうか？",
         "field4": "",
         "field5": "",
@@ -1333,7 +1333,7 @@
     },
     "112": {
         "cardNumber": "112",
-        "field1": "対処",
+        "field1": "耐える / 乗り越える / 負担できる",
         "field2": "この失望に対処するのに苦労した",
         "field3": "私たちはこれらの費用を負担することはできません",
         "field4": "",
@@ -1345,7 +1345,7 @@
     },
     "113": {
         "cardNumber": "113",
-        "field1": "不安になる",
+        "field1": "不安にさせる / 自信を失わせる",
         "field2": "あなたは沈黙で私を不安にさせます",
         "field3": "自分の将来のことを考えるととても不安になります",
         "field4": "",
@@ -1357,8 +1357,8 @@
     },
     "114": {
         "cardNumber": "114",
-        "field1": "取り戻します",
-        "field2": "(勝利-勝利-勝利-勝利)",
+        "field1": "取り戻す",
+        "field2": "（現在形：gewinnt zurück；過去形：gewann zurück；過去分詞：zurückgewonnen）",
         "field3": "そう簡単に彼の信頼は取り戻せないよ",
         "field4": "",
         "field5": "",
@@ -1369,7 +1369,7 @@
     },
     "115": {
         "cardNumber": "115",
-        "field1": "エージング",
+        "field1": "年を取る / 老化する",
         "field2": "老化",
         "field3": "彼は早く老けた",
         "field4": "",
@@ -1382,7 +1382,7 @@
     "116": {
         "cardNumber": "116",
         "field1": "先天的な",
-        "field2": "取得した",
+        "field2": "後天的に得た",
         "field3": "この病気は先天性のものです",
         "field4": "",
         "field5": "",
@@ -1393,9 +1393,9 @@
     },
     "117": {
         "cardNumber": "117",
-        "field1": "その隣にいてください",
-        "field2": "(だった)",
-        "field3": "昨日は一日中休みでした",
+        "field1": "調子が悪い / 本調子でない",
+        "field2": "（現在形：ist；過去形：war；過去分詞：gewesen）",
+        "field3": "昨日は一日中調子が悪かったです。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1467,7 +1467,7 @@
         "cardNumber": "123",
         "field1": "神経",
         "field2": "神経",
-        "field3": "医者は神経を麻痺させなければならなかった",
+        "field3": "医師はその神経に麻酔をかける必要がありました。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1478,7 +1478,7 @@
     "124": {
         "cardNumber": "124",
         "field1": "汗",
-        "field2": "汗",
+        "field2": "汗をかく",
         "field3": "彼は汗だくだった",
         "field4": "",
         "field5": "",
@@ -1489,7 +1489,7 @@
     },
     "125": {
         "cardNumber": "125",
-        "field1": "守備",
+        "field1": "防御 / 抵抗力",
         "field2": "防御機構",
         "field3": "防御メカニズム",
         "field4": "体の防御機構が活性化されない",
@@ -1501,7 +1501,7 @@
     },
     "126": {
         "cardNumber": "126",
-        "field1": "動きの欠如",
+        "field1": "運動不足",
         "field2": "運動不足に悩む人は多い",
         "field3": "",
         "field4": "",
@@ -1525,9 +1525,9 @@
     },
     "128": {
         "cardNumber": "128",
-        "field1": "治療法",
-        "field2": "治療法",
-        "field3": "心臓発作の後、彼は2週間の治療を受けなければならなかった",
+        "field1": "療養 / 療養コース",
+        "field2": "療養 / 療養コース",
+        "field3": "心臓発作の後、彼は2週間の療養をしなければなりませんでした。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1550,8 +1550,8 @@
     "130": {
         "cardNumber": "130",
         "field1": "死亡率",
-        "field2": "定命の",
-        "field3": "すべての生き物は死すべきものである",
+        "field2": "いつか死ぬ運命にある",
+        "field3": "すべての生き物はいつか死にます。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1561,8 +1561,8 @@
     },
     "131": {
         "cardNumber": "131",
-        "field1": "同行した",
-        "field2": "(一緒に行く-一緒に行く-一緒に行く)",
+        "field1": "伴う / ともに起こる",
+        "field2": "（現在形：geht einher；過去形：ging einher；過去分詞：einhergegangen）",
         "field3": "この病気は通常、発疹を伴います",
         "field4": "",
         "field5": "",
@@ -1573,8 +1573,8 @@
     },
     "132": {
         "cardNumber": "132",
-        "field1": "指示する",
-        "field2": "（指示、指示、指示）",
+        "field1": "入院させる / 手ほどきする",
+        "field2": "（現在形：weist ein；過去形：wies ein；過去分詞：eingewiesen）",
         "field3": "医者は彼女を入院させた",
         "field4": "",
         "field5": "",
@@ -1609,8 +1609,8 @@
     },
     "135": {
         "cardNumber": "135",
-        "field1": "緩めます",
-        "field2": "（諦めて、諦めて、諦めて）",
+        "field1": "弱まる / 衰える",
+        "field2": "（現在形：lässt nach；過去形：ließ nach；過去分詞：nachgelassen）",
         "field3": "加齢とともに視力が低下する",
         "field4": "",
         "field5": "",
@@ -1621,10 +1621,10 @@
     },
     "136": {
         "cardNumber": "136",
-        "field1": "素因のある",
-        "field2": "素因",
-        "field3": "素因",
-        "field4": "その子は音楽的な傾向がある",
+        "field1": "素質のある / 素因のある",
+        "field2": "素質 / 素因",
+        "field3": "素質 / 素因",
+        "field4": "その子には音楽の才能があります。",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -1633,8 +1633,8 @@
     },
     "137": {
         "cardNumber": "137",
-        "field1": "押しのけます",
-        "field2": "弾圧",
+        "field1": "抑圧する / 押しのける",
+        "field2": "抑圧 / 排除",
         "field3": "この記憶を抑圧したい",
         "field4": "",
         "field5": "",
@@ -1646,8 +1646,8 @@
     "138": {
         "cardNumber": "138",
         "field1": "防ぐ",
-        "field2": "避妊薬",
-        "field3": "避妊薬",
+        "field2": "避妊具 / 避妊薬",
+        "field3": "避妊具 / 避妊薬",
         "field4": "私たちは避妊のためにピルを使用しています",
         "field5": "",
         "field6": "",
@@ -1657,7 +1657,7 @@
     },
     "139": {
         "cardNumber": "139",
-        "field1": "おそらく",
+        "field1": "そうだと思い込まれた / いわゆる",
         "field2": "インフルエンザと思われていたのはただの風邪だったことが判明",
         "field3": "",
         "field4": "",
@@ -1730,7 +1730,7 @@
     "145": {
         "cardNumber": "145",
         "field1": "浸透する",
-        "field2": "(貫通-貫通-貫通)",
+        "field2": "（現在形：dringt durch；過去形：drang durch；過去分詞：durchgedrungen）",
         "field3": "今日は太陽がほとんど差し込まなかった",
         "field4": "",
         "field5": "",
@@ -1741,7 +1741,7 @@
     },
     "146": {
         "cardNumber": "146",
-        "field1": "入れる",
+        "field1": "始まる / 使用する",
         "field2": "また雨が降り始めました",
         "field3": "",
         "field4": "",
@@ -1753,9 +1753,9 @@
     },
     "147": {
         "cardNumber": "147",
-        "field1": "湿気が多い",
+        "field1": "蒸し暑い",
         "field2": "蒸し暑さ",
-        "field3": "今日はすごい湿気ですね",
+        "field3": "今日はひどく蒸し暑いです。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1777,8 +1777,8 @@
     },
     "149": {
         "cardNumber": "149",
-        "field1": "追加",
-        "field2": "暑さは本当に影響しています",
+        "field1": "苦しめる / 負担をかける",
+        "field2": "この暑さにはひどく苦しめられています。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -1789,9 +1789,9 @@
     },
     "150": {
         "cardNumber": "150",
-        "field1": "好意",
-        "field2": "好意",
-        "field3": "メリット",
+        "field1": "有利にする / 優遇する",
+        "field2": "優遇 / 促進",
+        "field3": "優遇 / 便宜",
         "field4": "穏やかな気候は植物の成長に有利です",
         "field5": "",
         "field6": "",
@@ -1825,9 +1825,9 @@
     },
     "153": {
         "cardNumber": "153",
-        "field1": "夜明け",
-        "field2": "残光",
-        "field3": "夜明けが近づいています",
+        "field1": "朝焼け",
+        "field2": "夕焼け",
+        "field3": "朝焼けが現れます。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1849,8 +1849,8 @@
     },
     "155": {
         "cardNumber": "155",
-        "field1": "クレーン",
-        "field2": "クレーン",
+        "field1": "ツル",
+        "field2": "ツル",
         "field3": "鶴が空を飛んでいた",
         "field4": "",
         "field5": "",
@@ -1873,9 +1873,9 @@
     },
     "157": {
         "cardNumber": "157",
-        "field1": "搾取",
-        "field2": "エクスプロイト",
-        "field3": "自然保護区の水が搾取されている",
+        "field1": "搾取 / 乱開発",
+        "field2": "搾取する / 過剰に利用する",
+        "field3": "天然の水資源が過剰に利用されています。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1887,9 +1887,9 @@
         "cardNumber": "158",
         "field1": "引き潮",
         "field2": "引き潮",
-        "field3": "洪水",
-        "field4": "洪水",
-        "field5": "1時間以内に潮が来る",
+        "field3": "満ち潮 / 満潮",
+        "field4": "満ち潮 / 満潮",
+        "field5": "一時間後に潮が満ちてきます。",
         "field6": "",
         "field7": "",
         "field8": "",
@@ -1899,7 +1899,7 @@
         "cardNumber": "159",
         "field1": "属",
         "field2": "属",
-        "field3": "「ネコ科」には「ビッグネコ科」という属があります",
+        "field3": "ネコ科には「大型ネコ類」というグループがあります。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -1909,8 +1909,8 @@
     },
     "160": {
         "cardNumber": "160",
-        "field1": "ギャップ",
-        "field2": "ギャップ",
+        "field1": "裂け目 / 深い隔たり",
+        "field2": "裂け目 / 深い隔たり",
         "field3": "溝に落ちないように注意してください！",
         "field4": "",
         "field5": "",
@@ -1945,7 +1945,7 @@
     },
     "163": {
         "cardNumber": "163",
-        "field1": "厳しい",
+        "field1": "薄暗い / 陰うつな",
         "field2": "暗闇",
         "field3": "この風景は暗すぎると思う",
         "field4": "",
@@ -1957,8 +1957,8 @@
     },
     "164": {
         "cardNumber": "164",
-        "field1": "泣く",
-        "field2": "オオカミと一緒に泣かなければなりません",
+        "field1": "遠吠えする / 泣き叫ぶ",
+        "field2": "周りに合わせなければならない（郷に入っては郷に従え）。",
         "field3": "外では嵐が唸っていた",
         "field4": "",
         "field5": "",
@@ -1969,7 +1969,7 @@
     },
     "165": {
         "cardNumber": "165",
-        "field1": "急ぐ",
+        "field1": "ざわざわ鳴る / さらさら流れる",
         "field2": "海が轟く",
         "field3": "噴水のせせらぎが静かに聞こえます",
         "field4": "",
@@ -1981,7 +1981,7 @@
     },
     "166": {
         "cardNumber": "166",
-        "field1": "迷彩",
+        "field1": "カモフラージュする / 偽装する",
         "field2": "迷彩",
         "field3": "迷彩",
         "field4": "カモフラージュに優れた動物が多い",
@@ -2005,9 +2005,9 @@
     },
     "168": {
         "cardNumber": "168",
-        "field1": "切り落とす",
-        "field2": "（切り落とし、切り落とし、切り落とし）",
-        "field3": "彼は最後の試験で良い成績を収めた",
+        "field1": "成績を収める / 切り取る",
+        "field2": "（現在形：schneidet ab；過去形：schnitt ab；過去分詞：abgeschnitten）",
+        "field3": "彼は前回の試験で良い成績を収めました。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2017,8 +2017,8 @@
     },
     "169": {
         "cardNumber": "169",
-        "field1": "適当に",
-        "field2": "流用",
+        "field1": "身につける / 習得する / 自分のものにする",
+        "field2": "習得 / 占有",
         "field3": "大学では幅広い知識を身につけることができます",
         "field4": "",
         "field5": "",
@@ -2041,7 +2041,7 @@
     },
     "171": {
         "cardNumber": "171",
-        "field1": "画期的な",
+        "field1": "突破 / 飛躍的な進展",
         "field2": "この技術は画期的なものでした",
         "field3": "",
         "field4": "",
@@ -2077,9 +2077,9 @@
     },
     "174": {
         "cardNumber": "174",
-        "field1": "知識のギャップ",
-        "field2": "知識のギャップ",
-        "field3": "生物学の知識にはギャップがたくさんあります",
+        "field1": "知識の抜け / 知識不足",
+        "field2": "知識の抜け / 知識不足",
+        "field3": "私は生物学で知らないことがたくさんあります。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2125,7 +2125,7 @@
     },
     "178": {
         "cardNumber": "178",
-        "field1": "質問する",
+        "field1": "疑問を持って検討する",
         "field2": "彼は常に細部に至るまですべてを疑問視したがっていました",
         "field3": "",
         "field4": "",
@@ -2138,7 +2138,7 @@
     "179": {
         "cardNumber": "179",
         "field1": "理解する",
-        "field2": "(実装-理解-理解)",
+        "field2": "（現在形：vollzieht nach；過去形：vollzog nach；過去分詞：nachvollzogen）",
         "field3": "理解できる",
         "field4": "この理論は初心者には理解できない",
         "field5": "",
@@ -2149,8 +2149,8 @@
     },
     "180": {
         "cardNumber": "180",
-        "field1": "大変だ",
-        "field2": "(一生懸命やる-一生懸命やる-一生懸命やる-一生懸命やる)",
+        "field1": "～するのに苦労する",
+        "field2": "（現在形：tut schwer；過去形：tat schwer；過去分詞：schwergetan）",
         "field3": "この仕事には苦労しています",
         "field4": "",
         "field5": "",
@@ -2174,8 +2174,8 @@
     "182": {
         "cardNumber": "182",
         "field1": "実証する",
-        "field2": "基礎",
-        "field3": "基礎",
+        "field2": "裏付け / 補強",
+        "field3": "裏付け / 補強",
         "field4": "あなたの発言を証拠で裏付けることができますか?",
         "field5": "",
         "field6": "",
@@ -2185,8 +2185,8 @@
     },
     "183": {
         "cardNumber": "183",
-        "field1": "取り次ぐ",
-        "field2": "調停",
+        "field1": "伝える / 教える / 仲介する",
+        "field2": "伝達 / 仲介",
         "field3": "教授は自分の知識を学生に伝えるのが上手です",
         "field4": "",
         "field5": "",
@@ -2209,7 +2209,7 @@
     },
     "185": {
         "cardNumber": "185",
-        "field1": "不足する",
+        "field1": "十分に顧みられない / 不利益を被る",
         "field2": "学ぶ楽しさを無視してはいけません",
         "field3": "",
         "field4": "",
@@ -2233,8 +2233,8 @@
     },
     "187": {
         "cardNumber": "187",
-        "field1": "アピール",
-        "field2": "こだま",
+        "field1": "好評 / 共鳴 / 類似",
+        "field2": "類似した響き",
         "field3": "このメロディーにはジャズの響きがあります",
         "field4": "",
         "field5": "",
@@ -2259,7 +2259,7 @@
         "cardNumber": "189",
         "field1": "フレーム",
         "field2": "フレーム",
-        "field3": "フレーム",
+        "field3": "額に入れる",
         "field4": "油絵には金色のフレームが付いています",
         "field5": "",
         "field6": "",
@@ -2269,7 +2269,7 @@
     },
     "190": {
         "cardNumber": "190",
-        "field1": "呼び出し",
+        "field1": "評判 / 呼び声",
         "field2": "彼は今ではアーティストとして高い評価を得ています",
         "field3": "この見本市の評判はとても良いです",
         "field4": "",
@@ -2281,8 +2281,8 @@
     },
     "191": {
         "cardNumber": "191",
-        "field1": "アンティーク",
-        "field2": "アンティーク",
+        "field1": "古代（特にギリシャ・ローマ時代）",
+        "field2": "古代の",
         "field3": "彼は古代神話にはほとんど興味がありません",
         "field4": "",
         "field5": "",
@@ -2293,8 +2293,8 @@
     },
     "192": {
         "cardNumber": "192",
-        "field1": "ミーティング",
-        "field2": "会議",
+        "field1": "評論 / 話し合い",
+        "field2": "評論 / 話し合い",
         "field3": "映画のレビューもとてもよかったです",
         "field4": "",
         "field5": "",
@@ -2330,7 +2330,7 @@
     "195": {
         "cardNumber": "195",
         "field1": "空間",
-        "field2": "敷地内",
+        "field2": "部屋 / 会場",
         "field3": "見本市に適した会場が見つかりません",
         "field4": "",
         "field5": "",
@@ -2342,7 +2342,7 @@
     "196": {
         "cardNumber": "196",
         "field1": "完了",
-        "field2": "完了",
+        "field2": "完成させる",
         "field3": "この本で著者は一連の小説を完成させた",
         "field4": "",
         "field5": "",
@@ -2365,7 +2365,7 @@
     },
     "198": {
         "cardNumber": "198",
-        "field1": "人目を引く",
+        "field1": "一流の / 高水準の",
         "field2": "この役はトップクラスの俳優が演じる予定です",
         "field3": "",
         "field4": "",
@@ -2401,10 +2401,10 @@
     },
     "201": {
         "cardNumber": "201",
-        "field1": "破れ目",
-        "field2": "(破れた、破れた、破れた)",
-        "field3": "涙",
-        "field4": "涙",
+        "field1": "酷評する",
+        "field2": "（現在形：verreißt；過去形：verriss；過去分詞：verrissen）",
+        "field3": "酷評",
+        "field4": "酷評",
         "field5": "批評家たちはその劇を酷評した",
         "field6": "",
         "field7": "",
@@ -2413,7 +2413,7 @@
     },
     "202": {
         "cardNumber": "202",
-        "field1": "コンテンポラリー",
+        "field1": "同時代の / 現代の",
         "field2": "彼は現代美術にはほとんど興味がない",
         "field3": "",
         "field4": "",
@@ -2425,8 +2425,8 @@
     },
     "203": {
         "cardNumber": "203",
-        "field1": "夕食",
-        "field2": "夕食",
+        "field1": "聖餐 / 晩餐",
+        "field2": "聖餐 / 晩餐",
         "field3": "最後の晩餐",
         "field4": "聖体拝領に行きますか？",
         "field5": "",
@@ -2464,7 +2464,7 @@
         "field1": "無神論",
         "field2": "無神論者",
         "field3": "無神論者",
-        "field4": "無神論者",
+        "field4": "無神論の",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -2473,7 +2473,7 @@
     },
     "207": {
         "cardNumber": "207",
-        "field1": "ヒース",
+        "field1": "異教徒",
         "field2": "異教徒",
         "field3": "異教",
         "field4": "異教の",
@@ -2497,9 +2497,9 @@
     },
     "209": {
         "cardNumber": "209",
-        "field1": "カルト",
-        "field2": "カルト",
-        "field3": "彼女は異教カルトを扱っている",
+        "field1": "宗教的崇拝 / 祭儀",
+        "field2": "宗教的崇拝 / 祭儀",
+        "field3": "彼女は異教の祭儀を研究しています。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -2547,7 +2547,7 @@
         "cardNumber": "213",
         "field1": "罪",
         "field2": "罪",
-        "field3": "罪",
+        "field3": "罪を犯す",
         "field4": "彼は重大な罪を犯した",
         "field5": "",
         "field6": "",
@@ -2570,7 +2570,7 @@
     "215": {
         "cardNumber": "215",
         "field1": "変化",
-        "field2": "変更可能な",
+        "field2": "変わりやすい",
         "field3": "ファッションは変わりやすい",
         "field4": "",
         "field5": "",
@@ -2629,7 +2629,7 @@
     },
     "220": {
         "cardNumber": "220",
-        "field1": "以前は",
+        "field1": "かつての",
         "field2": "このオペラのかつての成功は今日では理解するのが難しい",
         "field3": "",
         "field4": "",
@@ -2653,7 +2653,7 @@
     },
     "222": {
         "cardNumber": "222",
-        "field1": "揮発性の",
+        "field1": "つかの間の / ざっとした / 揮発性の",
         "field2": "彼女はテーブルをちらっと見た",
         "field3": "",
         "field4": "",
@@ -2665,7 +2665,7 @@
     },
     "223": {
         "cardNumber": "223",
-        "field1": "遡及的に",
+        "field1": "後から / 事後に",
         "field2": "あらかじめ",
         "field3": "遅ればせながらお誕生日おめでとうございます",
         "field4": "",
@@ -2749,31 +2749,31 @@
     },
     "230": {
         "cardNumber": "230",
-        "field1": "ダースの",
-        "field2": "数十の",
+        "field1": "一ダース（十二個）",
+        "field2": "数ダース / 数十",
         "field3": "卵 12 個の値段はいくらですか?",
         "field4": "彼は毎日何十通もの手紙を受け取ります",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "231": {
         "cardNumber": "231",
-        "field1": "微積分",
-        "field2": "計算",
+        "field1": "計算 / 打算",
+        "field2": "計算 / 打算",
         "field3": "計算する",
         "field4": "まずコストを計算する必要があります",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "232": {
         "cardNumber": "232",
-        "field1": "ボリューム",
+        "field1": "体積 / 容積",
         "field2": "ボリュームのある",
         "field3": "この立方体の体積を計算できますか?",
         "field4": "",
@@ -2781,7 +2781,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "233": {
         "cardNumber": "233",
@@ -2793,19 +2793,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "234": {
         "cardNumber": "234",
-        "field1": "分数",
-        "field2": "分数",
+        "field1": "ごく一部",
+        "field2": "ごく一部",
         "field3": "私たちの収入は費用のほんの一部しかカバーしません",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "235": {
         "cardNumber": "235",
@@ -2817,7 +2817,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "236": {
         "cardNumber": "236",
@@ -2829,19 +2829,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "237": {
         "cardNumber": "237",
-        "field1": "１個半",
-        "field2": "１個半",
+        "field1": "一と二分の一",
+        "field2": "一と二分の一",
         "field3": "レッスンは1時間半です",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "238": {
         "cardNumber": "238",
@@ -2853,19 +2853,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "239": {
         "cardNumber": "239",
-        "field1": "法的に",
-        "field2": "合法性",
-        "field3": "法制",
-        "field4": "法律に従って開発が進められる",
+        "field1": "法則に従った",
+        "field2": "法則性",
+        "field3": "法則",
+        "field4": "発展は一定の法則に従って進みます。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "240": {
         "cardNumber": "240",
@@ -2877,7 +2877,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "241": {
         "cardNumber": "241",
@@ -2889,19 +2889,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "寸法"
+        "category": "度量衡"
     },
     "242": {
         "cardNumber": "242",
-        "field1": "奉仕する",
-        "field2": "私の古いバイクはその日を迎えました",
+        "field1": "役目を終える",
+        "field2": "私の古い自転車はもう役目を終えました。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "243": {
         "cardNumber": "243",
@@ -2913,7 +2913,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "244": {
         "cardNumber": "244",
@@ -2925,7 +2925,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "245": {
         "cardNumber": "245",
@@ -2937,7 +2937,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "246": {
         "cardNumber": "246",
@@ -2949,19 +2949,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "247": {
         "cardNumber": "247",
-        "field1": "クリップ",
-        "field2": "括弧",
-        "field3": "あと2つのブラケットが必要なのですが、ありますか？",
+        "field1": "クリップ / 括弧",
+        "field2": "クリップ / 括弧",
+        "field3": "クリップがあと二つ必要なのですが、ありますか？",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "248": {
         "cardNumber": "248",
@@ -2973,23 +2973,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "249": {
         "cardNumber": "249",
-        "field1": "アセンブリ",
-        "field2": "モンタージュ",
+        "field1": "組み立て / 取り付け",
+        "field2": "組み立て / 取り付け",
         "field3": "解体",
         "field4": "解体",
         "field5": "機械の解体が終わりました",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "250": {
         "cardNumber": "250",
-        "field1": "ハンディ",
+        "field1": "扱いやすい / 手ごろな大きさの",
         "field2": "このカメラはかなり便利です",
         "field3": "",
         "field4": "",
@@ -2997,7 +2997,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "251": {
         "cardNumber": "251",
@@ -3009,23 +3009,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "252": {
         "cardNumber": "252",
-        "field1": "色褪せ",
-        "field2": "すでに少し色が褪せてきましたが、",
+        "field1": "色あせる / 薄れる",
+        "field2": "色はもう少しあせています。",
         "field3": "私たちの思い出は時間とともに薄れていきます",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "アイテム"
+        "category": "物品"
     },
     "253": {
         "cardNumber": "253",
-        "field1": "失敗した",
+        "field1": "風変わりな / 独特の",
         "field2": "ドレスには珍しい模様があります",
         "field3": "",
         "field4": "",
@@ -3033,19 +3033,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "254": {
         "cardNumber": "254",
-        "field1": "外出",
-        "field2": "(出かける-出かけた-出かけた)",
+        "field1": "なくなる / 外出する",
+        "field2": "（現在形：geht aus；過去形：ging aus；過去分詞：ausgegangen）",
         "field3": "ガス欠になった",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "255": {
         "cardNumber": "255",
@@ -3057,31 +3057,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "256": {
         "cardNumber": "256",
-        "field1": "殺虫剤",
-        "field2": "殺虫剤",
+        "field1": "農薬",
+        "field2": "農薬",
         "field3": "一部の昆虫は殺虫剤に耐性を持つようになる",
         "field4": "バラは無農薬ですか？",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "257": {
         "cardNumber": "257",
-        "field1": "文",
-        "field2": "文章",
+        "field1": "沈殿物 / 文",
+        "field2": "沈殿物 / 文",
         "field3": "コーヒーの出がらし",
-        "field4": "ボトルの底に文が形成されています",
+        "field4": "瓶の底に沈殿物ができています。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "258": {
         "cardNumber": "258",
@@ -3093,7 +3093,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "259": {
         "cardNumber": "259",
@@ -3105,11 +3105,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "260": {
         "cardNumber": "260",
-        "field1": "テクスチャー",
+        "field1": "性質 / 状態",
         "field2": "調達する",
         "field3": "素材の性質を確認する必要があります",
         "field4": "",
@@ -3117,43 +3117,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "261": {
         "cardNumber": "261",
         "field1": "崩壊する",
-        "field2": "(崩壊する-崩壊する-崩壊する)",
+        "field2": "（現在形：zerfällt；過去形：zerfiel；過去分詞：zerfallen）",
         "field3": "衰退",
         "field4": "古い壁は崩れた",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "生地と素材"
+        "category": "物質と素材"
     },
     "262": {
         "cardNumber": "262",
-        "field1": "読み上げる",
-        "field2": "(読み取り - 読み取り - 読み取り)",
+        "field1": "選り分ける / データを読み取る",
+        "field2": "（現在形：liest aus；過去形：las aus；過去分詞：ausgelesen）",
         "field3": "通読する",
-        "field4": "(既読-既読-既読)",
-        "field5": "読み間違えた",
-        "field6": "(読み上げ-読み上げ-読み上げ)",
+        "field4": "（現在形：liest durch；過去形：las durch；過去分詞：durchgelesen）",
+        "field5": "読み間違える",
+        "field6": "（現在形：verliest；過去形：verlas；過去分詞：verlesen）",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "263": {
         "cardNumber": "263",
         "field1": "曲げる",
-        "field2": "回折",
-        "field3": "抑揚",
+        "field2": "屈曲 / 回折",
+        "field3": "屈曲 / 語形変化",
         "field4": "スクワット",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "264": {
         "cardNumber": "264",
@@ -3165,7 +3165,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "265": {
         "cardNumber": "265",
@@ -3177,55 +3177,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "266": {
         "cardNumber": "266",
-        "field1": "狂気",
-        "field2": "フィメル家",
+        "field1": "熱中 / ～狂 / 癖",
+        "field2": "熱中 / ～狂 / 癖",
         "field3": "彼は車に情熱を持っている",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "267": {
         "cardNumber": "267",
         "field1": "歌",
         "field2": "聖歌",
-        "field3": "彼女はギターで歌を伴奏した",
+        "field3": "彼女はギターで伴奏しながら歌いました。",
         "field4": "鳥のさえずりが魅力的です",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "268": {
         "cardNumber": "268",
         "field1": "歓声",
-        "field2": "応援します",
+        "field2": "歓声を上げる",
         "field3": "ゴールスコアラーは自分のゴールを祝った",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "269": {
         "cardNumber": "269",
-        "field1": "列車",
-        "field2": "電車",
-        "field3": "誰が最初の動きを持っていますか？",
+        "field1": "一手（ゲーム）/ 列車",
+        "field2": "手（ゲーム）/ 列車",
+        "field3": "誰が先手ですか？",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "270": {
         "cardNumber": "270",
@@ -3237,43 +3237,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "271": {
         "cardNumber": "271",
-        "field1": "不快感",
-        "field2": "彼女はジョギングに行きたくない",
-        "field3": "彼は不快感を克服できない",
+        "field1": "気乗りしないこと / 意欲のなさ",
+        "field2": "彼女はしぶしぶジョギングに行きます。",
+        "field3": "彼はやる気を出せずにいます。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "272": {
         "cardNumber": "272",
         "field1": "抽選会",
-        "field2": "ラッフルズ",
-        "field3": "配っ",
+        "field2": "抽選会",
+        "field3": "抽選で賞品を出す",
         "field4": "今回は世界一周旅行が抽選で当たる",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "273": {
         "cardNumber": "273",
         "field1": "ついていく",
-        "field2": "(続けます、続けます、続けます)",
+        "field2": "（現在形：hält mit；過去形：hielt mit；過去分詞：mitgehalten）",
         "field3": "その選手はもうついていけなくなった",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "274": {
         "cardNumber": "274",
@@ -3285,7 +3285,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "275": {
         "cardNumber": "275",
@@ -3297,43 +3297,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "276": {
         "cardNumber": "276",
         "field1": "劣った",
-        "field2": "劣等感",
+        "field2": "劣勢 / 劣っていること",
         "field3": "彼は創造性において兄より劣っている",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "277": {
         "cardNumber": "277",
-        "field1": "ベット",
-        "field2": "かけ金",
+        "field1": "賭ける",
+        "field2": "賭け",
         "field3": "賭け",
         "field4": "私たちはレースをしました",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "278": {
         "cardNumber": "278",
         "field1": "破壊する",
-        "field2": "何もなくなる",
-        "field3": "(無になる-無になる-無になる)",
+        "field2": "台無しになる / 無に帰する",
+        "field3": "（現在形：wird zunichte；過去形：wurde zunichte；過去分詞：zunichtegeworden）",
         "field4": "天気が私たちの計画を台無しにした",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "スポーツと自由時間"
+        "category": "スポーツと余暇"
     },
     "279": {
         "cardNumber": "279",
@@ -3373,8 +3373,8 @@
     },
     "282": {
         "cardNumber": "282",
-        "field1": "刺激",
-        "field2": "刺激",
+        "field1": "魅力 / 刺激",
+        "field2": "魅力 / 刺激",
         "field3": "素敵な",
         "field4": "それは休暇全体の中で最も素敵な経験でした",
         "field5": "",
@@ -3385,8 +3385,8 @@
     },
     "283": {
         "cardNumber": "283",
-        "field1": "コンパスの方向",
-        "field2": "カーディナルポイント",
+        "field1": "方位（東西南北）",
+        "field2": "方位（東西南北）",
         "field3": "北、南、西、東が基本的な方向です",
         "field4": "",
         "field5": "",
@@ -3397,10 +3397,10 @@
     },
     "284": {
         "cardNumber": "284",
-        "field1": "押し付け",
-        "field2": "押し付け",
-        "field3": "これは生意気です！",
-        "field4": "ホテルは旅行者にとって押し付けがましいものでした",
+        "field1": "無理な要求 / 耐え難いこと",
+        "field2": "無理な要求 / 耐え難いこと",
+        "field3": "こんなのひどすぎる！",
+        "field4": "そのホテルは旅行者にとって耐え難いものでした。",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3422,9 +3422,9 @@
     "286": {
         "cardNumber": "286",
         "field1": "奇妙な",
-        "field2": "奇妙さ",
-        "field3": "好奇心",
-        "field4": "旅行中にはたくさんの好奇心がありました",
+        "field2": "珍奇なもの / 奇妙な出来事",
+        "field3": "珍奇なもの / 奇妙な出来事",
+        "field4": "旅行中には奇妙な出来事がたくさんありました。",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -3470,8 +3470,8 @@
     "290": {
         "cardNumber": "290",
         "field1": "収容する",
-        "field2": "(収容-収容-収容)",
-        "field3": "避難所",
+        "field2": "（現在形：bringt unter；過去形：brachte unter；過去分詞：untergebracht）",
+        "field3": "宿泊の手配 / 収容",
         "field4": "宿泊施設",
         "field5": "私たちは市内で最高のホテルに泊まりました",
         "field6": "",
@@ -3483,29 +3483,29 @@
         "cardNumber": "291",
         "field1": "障害物",
         "field2": "障害物",
-        "field3": "防ぐ",
+        "field3": "妨げる",
         "field4": "これらの障害を取り除くのはそう簡単ではありません",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "292": {
         "cardNumber": "292",
-        "field1": "全国的に",
-        "field2": "この植物種はかつては世界中に広く普及していました",
+        "field1": "全域を覆う / 広範囲に",
+        "field2": "昔、この植物の種類は地域全体に分布していました。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "293": {
         "cardNumber": "293",
-        "field1": "見当識障害",
+        "field1": "方向が分からない / 途方に暮れた",
         "field2": "見当識障害",
         "field3": "彼女は方向感覚を失って建物の中を走り抜けた",
         "field4": "",
@@ -3513,7 +3513,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "294": {
         "cardNumber": "294",
@@ -3525,11 +3525,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "295": {
         "cardNumber": "295",
-        "field1": "ハッチ",
+        "field1": "滑り込む / するりと着る / 孵化する",
         "field2": "ネズミが穴に滑り込んだ",
         "field3": "彼女はコートを着て家を出た",
         "field4": "",
@@ -3537,23 +3537,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "296": {
         "cardNumber": "296",
         "field1": "硬い",
-        "field2": "氷結",
+        "field2": "固まる / 凍り付く",
         "field3": "彼らはショックで固まってしまった",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "297": {
         "cardNumber": "297",
-        "field1": "ストレッチ",
+        "field1": "伸ばす / 伸びをする",
         "field2": "ルート",
         "field3": "ルート",
         "field4": "彼は椅子から立ち上がって伸びをした",
@@ -3561,59 +3561,59 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "298": {
         "cardNumber": "298",
         "field1": "超える",
-        "field2": "(超える、超える、超える)",
+        "field2": "（現在形：überschreitet；過去形：überschritt；過去分詞：überschritten）",
         "field3": "線路横断は禁止です！",
         "field4": "制限速度を超えました",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "299": {
         "cardNumber": "299",
         "field1": "前進する",
-        "field2": "(進捗-進捗-進捗) ",
-        "field3": "車に関してはほとんど進歩がなかった",
+        "field2": "（現在形：kommt voran；過去形：kam voran；過去分詞：vorangekommen）",
+        "field3": "車でほとんど進めませんでした。",
         "field4": "作業は順調に進んでいます",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "移動と位置の決定"
+        "category": "移動と位置"
     },
     "300": {
         "cardNumber": "300",
         "field1": "踏切",
         "field2": "踏切",
-        "field3": "踏切は通行禁止なので注意してください",
+        "field3": "気をつけて、この踏切には遮断機がありません。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "301": {
         "cardNumber": "301",
-        "field1": "通路",
-        "field2": "廊下",
+        "field1": "ギア / 通路",
+        "field2": "ギア / 通路",
         "field3": "あなたのレーシングバイクにはギアが何段ありますか?",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "302": {
         "cardNumber": "302",
-        "field1": "対向車線",
+        "field1": "対向車 / 対向交通",
         "field2": "この通りは対面通行です",
         "field3": "対向車が多い",
         "field4": "",
@@ -3621,7 +3621,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "303": {
         "cardNumber": "303",
@@ -3633,7 +3633,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "304": {
         "cardNumber": "304",
@@ -3645,7 +3645,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "305": {
         "cardNumber": "305",
@@ -3657,47 +3657,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "306": {
         "cardNumber": "306",
-        "field1": "クローゼット",
-        "field2": "障壁",
-        "field3": "障壁が上がる",
+        "field1": "遮断機 / 障壁",
+        "field2": "遮断機 / 障壁",
+        "field3": "遮断機が上がります。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "307": {
         "cardNumber": "307",
-        "field1": "トラック",
-        "field2": "痕跡",
+        "field1": "車線 / 痕跡",
+        "field2": "車線 / 痕跡",
         "field3": "右車線に移動してみてください",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "308": {
         "cardNumber": "308",
-        "field1": "到着",
-        "field2": "(到着-到着-到着)",
+        "field1": "到着する",
+        "field2": "（現在形：trifft ein；過去形：traf ein；過去分詞：eingetroffen）",
         "field3": "バスはリヴィウに遅れて到着します",
-        "field4": "月曜日の午後12時に到着します",
+        "field4": "月曜日の正午に到着します。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "309": {
         "cardNumber": "309",
-        "field1": "到着",
+        "field1": "到着する / 至る",
         "field2": "どうやってこの街に行くことができますか？",
         "field3": "私はすでに目標を達成しました",
         "field4": "",
@@ -3705,7 +3705,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "310": {
         "cardNumber": "310",
@@ -3717,47 +3717,47 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "311": {
         "cardNumber": "311",
         "field1": "操縦する",
-        "field2": "ステアリング",
+        "field2": "ハンドル / 舵",
         "field3": "税金",
         "field4": "彼女はハンドルを握って車を発進させた",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "312": {
         "cardNumber": "312",
-        "field1": "過負荷な",
-        "field2": "(過負荷-過負荷-過負荷)",
+        "field1": "積み過ぎる / 過積載の",
+        "field2": "（現在形：überlädt；過去形：überlud；過去分詞：überladen）",
         "field3": "車は完全に過積載です",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "313": {
         "cardNumber": "313",
-        "field1": "事故",
-        "field2": "彼は車で死亡事故を起こした",
+        "field1": "事故に遭う",
+        "field2": "彼は交通事故で亡くなりました。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "輸送"
+        "category": "交通"
     },
     "314": {
         "cardNumber": "314",
-        "field1": "消す",
+        "field1": "駐車する / 止める",
         "field2": "ここには車を停める駐車スペースがありません",
         "field3": "",
         "field4": "",
@@ -3765,31 +3765,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "315": {
         "cardNumber": "315",
-        "field1": "船首像",
-        "field2": "船首像",
-        "field3": "カラフルな船首像はすぐに通行人の注目を集めます",
+        "field1": "看板 / 代表的な存在",
+        "field2": "看板 / 代表的な存在",
+        "field3": "色鮮やかな看板が、すぐに通行人の目を引きます。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "316": {
         "cardNumber": "316",
-        "field1": "努力",
-        "field2": "複雑な",
+        "field1": "手間 / 労力 / 費用",
+        "field2": "手間のかかる / 費用のかかる",
         "field3": "建設工事は最小限の労力で行われます",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "317": {
         "cardNumber": "317",
@@ -3801,7 +3801,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "318": {
         "cardNumber": "318",
@@ -3813,7 +3813,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "319": {
         "cardNumber": "319",
@@ -3825,31 +3825,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "320": {
         "cardNumber": "320",
-        "field1": "シャドウサイド",
-        "field2": "影の側面",
+        "field1": "悪い面 / 欠点",
+        "field2": "悪い面 / 欠点",
         "field3": "この地域での生活にはマイナス面もあります",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "321": {
         "cardNumber": "321",
-        "field1": "監修",
+        "field1": "監視 / 監督",
         "field2": "監視",
-        "field3": "モニター",
+        "field3": "監視する",
         "field4": "道路交通は監視されています",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "322": {
         "cardNumber": "322",
@@ -3861,67 +3861,67 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "323": {
         "cardNumber": "323",
-        "field1": "ボリュームアップ",
+        "field1": "～ばかり / ～だけ",
         "field2": "教会には老人しかいなかった",
-        "field3": "このエリアにはバーやディスコがたくさんあります",
+        "field3": "この地域にはバーやディスコばかりあります。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "324": {
         "cardNumber": "324",
-        "field1": "恥ずかしい",
+        "field1": "移転する / 敷設する",
         "field2": "移転",
-        "field3": "転送",
+        "field3": "移転 / 敷設",
         "field4": "停留所は1か月前に移転されました",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "市"
+        "category": "都市"
     },
     "325": {
         "cardNumber": "325",
         "field1": "毛皮",
-        "field2": "皮",
+        "field2": "毛皮",
         "field3": "羊の毛皮が刈られる",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "326": {
         "cardNumber": "326",
-        "field1": "食べ物",
-        "field2": "餌",
+        "field1": "飼料 / 餌",
+        "field2": "餌をやる",
         "field3": "もう鶏に餌をあげましたか？",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "327": {
         "cardNumber": "327",
         "field1": "干し草",
-        "field2": "彼は干し草のようにお金を持っている",
+        "field2": "彼はお金を有り余るほど持っています。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "328": {
         "cardNumber": "328",
@@ -3933,7 +3933,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "329": {
         "cardNumber": "329",
@@ -3945,19 +3945,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "330": {
         "cardNumber": "330",
         "field1": "シャベル",
         "field2": "シャベル",
-        "field3": "シャベル",
-        "field4": "まだ長い間シャベルをしなければならない",
+        "field3": "シャベルで掘る / すくう",
+        "field4": "そこはまだ長い間シャベルで掘らなければなりません。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "331": {
         "cardNumber": "331",
@@ -3969,7 +3969,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "332": {
         "cardNumber": "332",
@@ -3981,7 +3981,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "333": {
         "cardNumber": "333",
@@ -3993,23 +3993,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "334": {
         "cardNumber": "334",
         "field1": "逃げる",
-        "field2": "(エスケープ-エスケープ-エスケープ)",
+        "field2": "（現在形：entflieht；過去形：entfloh；過去分詞：entflohen）",
         "field3": "週末は都会の喧騒から逃れたい",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "335": {
         "cardNumber": "335",
-        "field1": "チャープ",
+        "field1": "（虫が）鳴く",
         "field2": "草の中でコオロギが鳴く",
         "field3": "蝉の鳴き声が藪の中で聞こえてきました",
         "field4": "",
@@ -4017,11 +4017,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "336": {
         "cardNumber": "336",
-        "field1": "追加",
+        "field1": "（損害などを）与える",
         "field2": "雨は農家に大きな被害をもたらした",
         "field3": "",
         "field4": "",
@@ -4029,23 +4029,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "村"
+        "category": "農村"
     },
     "337": {
         "cardNumber": "337",
-        "field1": "示す",
-        "field2": "(ギブギブギブ)",
+        "field1": "自慢する / 示す",
+        "field2": "（現在形：gibt an；過去形：gab an；過去分詞：angegeben）",
         "field3": "自慢する人",
-        "field4": "見せびらかし",
+        "field4": "自慢する人",
         "field5": "誰もが彼をポーザーだと思っている",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "338": {
         "cardNumber": "338",
-        "field1": "与えられた",
+        "field1": "～に直面して / ～を考慮して",
         "field2": "不足しているため",
         "field3": "ために",
         "field4": "",
@@ -4053,23 +4053,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "339": {
         "cardNumber": "339",
-        "field1": "選び出す",
-        "field2": "（取り上げる、取り上げる、取り上げる）",
+        "field1": "取り上げる / 再び話題にする",
+        "field2": "（現在形：greift auf；過去形：griff auf；過去分詞：aufgegriffen）",
         "field3": "前回の質問をもう一度おさらいしたいのですが",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "340": {
         "cardNumber": "340",
-        "field1": "啓発する",
+        "field1": "解明する / 説明する",
         "field2": "啓蒙",
         "field3": "説明",
         "field4": "弁護士は彼に自分の権利について説明した",
@@ -4077,7 +4077,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "341": {
         "cardNumber": "341",
@@ -4089,7 +4089,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "342": {
         "cardNumber": "342",
@@ -4101,31 +4101,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "343": {
         "cardNumber": "343",
-        "field1": "スリップ",
+        "field1": "失敗 / 失言 / 足を滑らせること",
         "field2": "失言",
-        "field3": "それはほんの一瞬でした！",
+        "field3": "それはただの一度の失敗でした！",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "344": {
         "cardNumber": "344",
         "field1": "異議",
         "field2": "反対意見",
-        "field3": "物体",
+        "field3": "異議を唱える",
         "field4": "その計画に異論はありますか？",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "345": {
         "cardNumber": "345",
@@ -4137,7 +4137,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "346": {
         "cardNumber": "346",
@@ -4149,7 +4149,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "347": {
         "cardNumber": "347",
@@ -4161,43 +4161,43 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "348": {
         "cardNumber": "348",
-        "field1": "敬意",
+        "field1": "点 / 側面",
         "field2": "側面",
         "field3": "に関して",
-        "field4": "この小屋に関して何か質問はありますか？",
+        "field4": "この提案に関してまだ質問はありますか？",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "349": {
         "cardNumber": "349",
         "field1": "結論",
         "field2": "結論",
         "field3": "結論する",
-        "field4": "ここから正しいことを理解していただければ幸いです",
-        "field5": "コ",
+        "field4": "そこから正しい結論を導いてくれることを願っています。",
+        "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "350": {
         "cardNumber": "350",
         "field1": "取得する",
-        "field2": "(取得-取得-取得)",
-        "field3": "買収",
+        "field2": "（現在形：erwirbt；過去形：erwarb；過去分詞：erworben）",
+        "field3": "取得 / 習得",
         "field4": "言語習得",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "351": {
         "cardNumber": "351",
@@ -4209,7 +4209,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "352": {
         "cardNumber": "352",
@@ -4221,7 +4221,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "353": {
         "cardNumber": "353",
@@ -4233,31 +4233,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "354": {
         "cardNumber": "354",
-        "field1": "所有",
-        "field2": "(ホールド-ホールド-ホールド)",
+        "field1": "～と思う / 持つ",
+        "field2": "（現在形：hält；過去形：hielt；過去分詞：gehalten）",
         "field3": "態度",
         "field4": "態度",
         "field5": "このアイデアについてどう思いますか?",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "355": {
         "cardNumber": "355",
-        "field1": "子孫",
-        "field2": "(次から次へと来る)",
+        "field1": "履行する / 後から来る",
+        "field2": "（現在形：kommt nach；過去形：kam nach；過去分詞：nachgekommen）",
         "field3": "彼はついに約束を果たした",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "356": {
         "cardNumber": "356",
@@ -4269,11 +4269,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "357": {
         "cardNumber": "357",
-        "field1": "もっと平らな",
+        "field1": "お世辞を言う / 喜ばせる",
         "field2": "お世辞",
         "field3": "お世辞",
         "field4": "彼の褒め言葉は私を喜ばせる",
@@ -4281,19 +4281,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "358": {
         "cardNumber": "358",
-        "field1": "自分に約束する",
-        "field2": "司会者は何度か約束した",
+        "field1": "言い間違える",
+        "field2": "司会者は何度か言い間違えました。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "359": {
         "cardNumber": "359",
@@ -4305,11 +4305,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "360": {
         "cardNumber": "360",
-        "field1": "もっともっと",
+        "field1": "むしろ / より正確に言えば",
         "field2": "対照的に",
         "field3": "しかし",
         "field4": "",
@@ -4317,11 +4317,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "コミュニケーション"
+        "category": "言語とコミュニケーション"
     },
     "361": {
         "cardNumber": "361",
-        "field1": "放射する",
+        "field1": "放送する / 放射する",
         "field2": "放送",
         "field3": "その番組はもう放送されていません",
         "field4": "",
@@ -4333,7 +4333,7 @@
     },
     "362": {
         "cardNumber": "362",
-        "field1": "スクロール",
+        "field1": "ページをめくる",
         "field2": "彼女は退屈して本をめくっていた",
         "field3": "",
         "field4": "",
@@ -4358,7 +4358,7 @@
     "364": {
         "cardNumber": "364",
         "field1": "概要",
-        "field2": "概要がわかりません",
+        "field2": "私はそこについて全体像を把握していません。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -4371,8 +4371,8 @@
         "cardNumber": "365",
         "field1": "アクセス",
         "field2": "アクセス",
-        "field3": "アクセス",
-        "field4": "(アクセス-アクセス-アクセス)",
+        "field3": "アクセスする / 手を伸ばして取る",
+        "field4": "（現在形：greift zu；過去形：griff zu；過去分詞：zugegriffen）",
         "field5": "コンピュータはこのファイルへのアクセスを拒否します",
         "field6": "",
         "field7": "",
@@ -4381,8 +4381,8 @@
     },
     "366": {
         "cardNumber": "366",
-        "field1": "文書",
-        "field2": "書類",
+        "field1": "ドキュメンタリー / 記録資料",
+        "field2": "ドキュメンタリー / 記録資料",
         "field3": "ドキュメンタリー",
         "field4": "ドキュメンタリー",
         "field5": "そのドキュメンタリーは見る価値がありますか?",
@@ -4393,7 +4393,7 @@
     },
     "367": {
         "cardNumber": "367",
-        "field1": "景色",
+        "field1": "見方 / 視点",
         "field2": "視点",
         "field3": "私は物事について異なる視点を持っています",
         "field4": "",
@@ -4407,7 +4407,7 @@
         "cardNumber": "368",
         "field1": "リンク",
         "field2": "リンク",
-        "field3": "リンク",
+        "field3": "結び付ける",
         "field4": "著者は異なる視点を論理的に結びつけることに成功した",
         "field5": "",
         "field6": "",
@@ -4430,8 +4430,8 @@
     "370": {
         "cardNumber": "370",
         "field1": "明らかにする",
-        "field2": "明らかにする",
-        "field3": "啓示",
+        "field2": "暴露 / 解明",
+        "field3": "暴露 / 解明",
         "field4": "マスコミがスキャンダルを暴露した",
         "field5": "",
         "field6": "",
@@ -4477,8 +4477,8 @@
     },
     "374": {
         "cardNumber": "374",
-        "field1": "ログインします",
-        "field2": "ログアウト",
+        "field1": "ログインする",
+        "field2": "ログアウトする",
         "field3": "今すぐログインしてください",
         "field4": "",
         "field5": "",
@@ -4489,7 +4489,7 @@
     },
     "375": {
         "cardNumber": "375",
-        "field1": "保存",
+        "field1": "保存する",
         "field2": "ストレージ容量",
         "field3": "ストレージ容量",
         "field4": "データは保存しましたか？",
@@ -4501,8 +4501,8 @@
     },
     "376": {
         "cardNumber": "376",
-        "field1": "療法",
-        "field2": "(固定-固定-固定)",
+        "field1": "修正する / 解消する",
+        "field2": "（現在形：behebt；過去形：behob；過去分詞：behoben）",
         "field3": "修正",
         "field4": "欠陥は数分で修正されました",
         "field5": "",
@@ -4525,8 +4525,8 @@
     },
     "378": {
         "cardNumber": "378",
-        "field1": "クラフト",
-        "field2": "工芸品",
+        "field1": "手工業 / 職人の仕事",
+        "field2": "手工業 / 職人の仕事",
         "field3": "職人",
         "field4": "職人たち",
         "field5": "あなたは自分の技術を本当によく知っていますね！",
@@ -4561,9 +4561,9 @@
     },
     "381": {
         "cardNumber": "381",
-        "field1": "景色",
-        "field2": "洞察",
-        "field3": "人事マネージャーは私の新しい職務についての洞察を与えてくれました",
+        "field1": "事情を知ること / 理解",
+        "field2": "事情を知ること / 理解",
+        "field3": "人事担当者は私の新しい職務の内容を説明してくれました。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4585,9 +4585,9 @@
     },
     "383": {
         "cardNumber": "383",
-        "field1": "常務取締役",
-        "field2": "常務取締役",
-        "field3": "本日、彼は常務取締役に任命されました",
+        "field1": "業務執行責任者 / 経営責任者",
+        "field2": "業務執行責任者 / 経営責任者",
+        "field3": "今日、彼は経営責任者に任命されます。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4597,10 +4597,10 @@
     },
     "384": {
         "cardNumber": "384",
-        "field1": "特典",
+        "field1": "利点 / 優先",
         "field2": "利点",
-        "field3": "できれば",
-        "field4": "上司は自分のアイデアを優先した",
+        "field3": "優先的に / できれば",
+        "field4": "上司は彼のアイデアを優先しました。",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -4621,7 +4621,7 @@
     },
     "386": {
         "cardNumber": "386",
-        "field1": "進歩の機会",
+        "field1": "昇進の機会",
         "field2": "昇進の機会",
         "field3": "昇進の可能性は低い",
         "field4": "",
@@ -4633,9 +4633,9 @@
     },
     "387": {
         "cardNumber": "387",
-        "field1": "回復力",
-        "field2": "耐久性のある",
-        "field3": "この仕事では、回復力が必要です",
+        "field1": "負荷に耐える能力 / ストレス耐性",
+        "field2": "負荷に耐えられる",
+        "field3": "この仕事にはストレスに耐えられることが必要です。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -4645,10 +4645,10 @@
     },
     "388": {
         "cardNumber": "388",
-        "field1": "永久的な地位",
-        "field2": "永久的なポジション",
-        "field3": "永久雇用",
-        "field4": "上司は彼に永久職を約束した",
+        "field1": "正規雇用 / 無期雇用",
+        "field2": "正規雇用 / 無期雇用",
+        "field3": "正規雇用されている",
+        "field4": "上司は彼に正規雇用を約束しました。",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -4657,7 +4657,7 @@
     },
     "389": {
         "cardNumber": "389",
-        "field1": "受信者",
+        "field1": "機転 / とっさにうまく応答する力",
         "field2": "機転が利く",
         "field3": "彼女は機知に富んだ答えをした",
         "field4": "",
@@ -4670,7 +4670,7 @@
     "390": {
         "cardNumber": "390",
         "field1": "チームで働く能力",
-        "field2": "チームプレイヤー",
+        "field2": "チームで協力できる",
         "field3": "チームプレイヤーを探しています",
         "field4": "",
         "field5": "",
@@ -4681,8 +4681,8 @@
     },
     "391": {
         "cardNumber": "391",
-        "field1": "第二の主力",
-        "field2": "自分自身の第二のビジネスソースを構築したい",
+        "field1": "第二の収入源 / もう一つの仕事",
+        "field2": "第二の収入源を築きたいです。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -4693,8 +4693,8 @@
     },
     "392": {
         "cardNumber": "392",
-        "field1": "休憩する",
-        "field2": "(休みを取る - 休みを取る - 休みを取る)",
+        "field1": "休暇を取る",
+        "field2": "（現在形：nimmt frei；過去形：nahm frei；過去分詞：freigenommen）",
         "field3": "今日は休みを取りました",
         "field4": "",
         "field5": "",
@@ -4706,7 +4706,7 @@
     "393": {
         "cardNumber": "393",
         "field1": "主に",
-        "field2": "偶発",
+        "field2": "副次的な / 重要でない",
         "field3": "彼の仕事は主に顧客へのアドバイスに限定されています",
         "field4": "",
         "field5": "",
@@ -4717,9 +4717,9 @@
     },
     "394": {
         "cardNumber": "394",
-        "field1": "名誉",
+        "field1": "報酬を払う / 評価する",
         "field2": "報酬",
-        "field3": "栄誉",
+        "field3": "報酬 / 評価",
         "field4": "仕事のパフォーマンスに応じて報酬を与えなければならない",
         "field5": "",
         "field6": "",
@@ -4741,8 +4741,8 @@
     },
     "396": {
         "cardNumber": "396",
-        "field1": "自分のやり方を知るために",
-        "field2": "(知っている - 知っている - 知っている)",
+        "field1": "よく知っている / 精通している",
+        "field2": "（現在形：kennt aus；過去形：kannte aus；過去分詞：ausgekannt）",
         "field3": "彼女はこの分野をよく知っています",
         "field4": "",
         "field5": "",
@@ -4753,7 +4753,7 @@
     },
     "397": {
         "cardNumber": "397",
-        "field1": "適切です",
+        "field1": "適している",
         "field2": "適合性",
         "field3": "彼はまず自分の職業的適性を証明しなければならない",
         "field4": "",
@@ -4765,8 +4765,8 @@
     },
     "398": {
         "cardNumber": "398",
-        "field1": "迷子になる",
-        "field2": "行き詰まってはいけません、最も重要なことに集中してください",
+        "field1": "細かいことにかまけて力を分散させる",
+        "field2": "細かいことに気を取られず、最も重要なことに集中して。",
         "field3": "",
         "field4": "",
         "field5": "",
@@ -4777,9 +4777,9 @@
     },
     "399": {
         "cardNumber": "399",
-        "field1": "代表",
+        "field1": "代理の / 代わりに",
         "field2": "副官",
-        "field3": "議員",
+        "field3": "代理人 / 副責任者",
         "field4": "彼は副理事長に選出された",
         "field5": "",
         "field6": "",
@@ -4801,8 +4801,8 @@
     },
     "401": {
         "cardNumber": "401",
-        "field1": "権利を得る",
-        "field2": "（起立、起立、承認）",
+        "field1": "（権利として）与えられている",
+        "field2": "（現在形：steht zu；過去形：stand zu；過去分詞：zugestanden）",
         "field3": "私たちは年間 21 日の休暇を取得する権利があります",
         "field4": "",
         "field5": "",
@@ -4813,15 +4813,15 @@
     },
     "402": {
         "cardNumber": "402",
-        "field1": "落とす",
-        "field2": "段落",
+        "field1": "販売する / 解任する",
+        "field2": "売れ行き / 販売量",
         "field3": "商品の売れ行きが停滞している",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "403": {
         "cardNumber": "403",
@@ -4833,71 +4833,71 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "404": {
         "cardNumber": "404",
-        "field1": "信用",
-        "field2": "クレジット",
+        "field1": "預金残高 / 貸方残高",
+        "field2": "預金残高 / 貸方残高",
         "field3": "スタイン氏は銀行に多額の残高を持っています",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "405": {
         "cardNumber": "405",
-        "field1": "首都",
+        "field1": "資本",
         "field2": "最低資本金",
-        "field3": "借りた資本",
+        "field3": "他人資本 / 借入資本",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "406": {
         "cardNumber": "406",
         "field1": "上昇傾向",
-        "field2": "上昇気流",
+        "field2": "景気上昇 / 好転",
         "field3": "不景気",
         "field4": "低迷",
         "field5": "経済は嵐のような好景気を経験している",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "407": {
         "cardNumber": "407",
         "field1": "お金の流れ",
-        "field2": "お金が流れる",
+        "field2": "資金の流れ",
         "field3": "すべてのキャッシュフローを追跡できるわけではありません",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "408": {
         "cardNumber": "408",
         "field1": "下落",
         "field2": "衰退",
-        "field3": "元に戻した",
+        "field3": "後退する / 取り消せる",
         "field4": "購入をキャンセルすることはできません",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "409": {
         "cardNumber": "409",
-        "field1": "スタンド",
+        "field1": "状態 / 段階 / 売店",
         "field2": "現在の交渉状況は満足のいくものではない",
         "field3": "工場は最新鋭です",
         "field4": "",
@@ -4905,19 +4905,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "410": {
         "cardNumber": "410",
-        "field1": "販売",
-        "field2": "セールス",
-        "field3": "埋め込む",
+        "field1": "売上高",
+        "field2": "売上高",
+        "field3": "販売する / 実行する",
         "field4": "そのレストランは週末に最も売上が高くなる",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "411": {
         "cardNumber": "411",
@@ -4929,7 +4929,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "412": {
         "cardNumber": "412",
@@ -4941,19 +4941,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "413": {
         "cardNumber": "413",
-        "field1": "アタッチメント",
-        "field2": "ファシリティ",
+        "field1": "投資 / 設備",
+        "field2": "投資 / 設備",
         "field3": "投資する",
-        "field4": "家は安全な施設です",
+        "field4": "その家は安全な投資先です。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "414": {
         "cardNumber": "414",
@@ -4965,19 +4965,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "415": {
         "cardNumber": "415",
         "field1": "損失",
         "field2": "損失",
-        "field3": "没収",
+        "field3": "失う",
         "field4": "インフレが起こったとき、彼は財産を失った",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "416": {
         "cardNumber": "416",
@@ -4989,7 +4989,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "417": {
         "cardNumber": "417",
@@ -5001,7 +5001,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "418": {
         "cardNumber": "418",
@@ -5013,7 +5013,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "419": {
         "cardNumber": "419",
@@ -5025,7 +5025,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "420": {
         "cardNumber": "420",
@@ -5037,31 +5037,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "421": {
         "cardNumber": "421",
         "field1": "繁栄する",
-        "field2": "(繁栄、繁栄、繁栄)",
+        "field2": "（現在形：gedeiht；過去形：gedieh；過去分詞：gediehen）",
         "field3": "彼の新しいビジネスは繁盛しています",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "422": {
         "cardNumber": "422",
         "field1": "阻害する",
         "field2": "抑制",
-        "field3": "阻害",
+        "field3": "ためらい / 抑制",
         "field4": "経済成長は危機によって抑制された",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "423": {
         "cardNumber": "423",
@@ -5073,31 +5073,31 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "424": {
         "cardNumber": "424",
         "field1": "再構築する",
-        "field2": "修正",
+        "field2": "改造 / 改築",
         "field3": "経済は環境的に変革されつつある",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "425": {
         "cardNumber": "425",
-        "field1": "破産した",
-        "field2": "破産",
-        "field3": "会社が破産した",
+        "field1": "支払い能力のない",
+        "field2": "支払い不能",
+        "field3": "その会社は支払い不能に陥っています。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "仕事"
+        "category": "経済"
     },
     "426": {
         "cardNumber": "426",
@@ -5109,7 +5109,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "427": {
         "cardNumber": "427",
@@ -5121,7 +5121,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "428": {
         "cardNumber": "428",
@@ -5133,11 +5133,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "429": {
         "cardNumber": "429",
-        "field1": "共通善",
+        "field1": "公共の利益",
         "field2": "これは公共の利益を危険にさらします",
         "field3": "これは本当に公共の利益にかなうのでしょうか?",
         "field4": "",
@@ -5145,19 +5145,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "430": {
         "cardNumber": "430",
         "field1": "可能性",
         "field2": "可能性",
-        "field3": "州の経済潜在力は高い",
+        "field3": "その国の経済的な潜在力は高いです。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "431": {
         "cardNumber": "431",
@@ -5169,19 +5169,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "432": {
         "cardNumber": "432",
         "field1": "大使",
         "field2": "大使たち",
-        "field3": "メッセージ",
-        "field4": "メッセージ",
+        "field3": "大使館 / メッセージ",
+        "field4": "大使館 / メッセージ",
         "field5": "彼は大使に任命された",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "433": {
         "cardNumber": "433",
@@ -5193,7 +5193,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "434": {
         "cardNumber": "434",
@@ -5205,7 +5205,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "435": {
         "cardNumber": "435",
@@ -5217,7 +5217,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "436": {
         "cardNumber": "436",
@@ -5229,7 +5229,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "437": {
         "cardNumber": "437",
@@ -5241,7 +5241,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "438": {
         "cardNumber": "438",
@@ -5253,91 +5253,91 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "439": {
         "cardNumber": "439",
-        "field1": "介入",
-        "field2": "(介入-介入-介入)",
-        "field3": "婚約",
+        "field1": "介入する",
+        "field2": "（現在形：greift ein；過去形：griff ein；過去分詞：eingegriffen）",
+        "field3": "介入 / 手術",
         "field4": "介入",
         "field5": "プライバシーへのいかなる干渉も許可されません",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "440": {
         "cardNumber": "440",
-        "field1": "付与",
-        "field2": "付与",
+        "field1": "認める / 与える",
+        "field2": "承認 / 付与",
         "field3": "大臣は自分の間違いを認めた",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "441": {
         "cardNumber": "441",
         "field1": "対抗する",
-        "field2": "狙いは人手不足対策だ",
+        "field2": "労働力不足に対処すべきです。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "442": {
         "cardNumber": "442",
-        "field1": "記念する",
-        "field2": "(思い出した-考えた-考えた)",
+        "field1": "追悼する / しのぶ",
+        "field2": "（現在形：gedenkt；過去形：gedachte；過去分詞：gedacht）",
         "field3": "記念碑",
         "field4": "記念碑",
         "field5": "今日、私たちは第二次世界大戦の犠牲者を追悼します",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "443": {
         "cardNumber": "443",
-        "field1": "後ろに",
-        "field2": "(回避、回避、回避)",
-        "field3": "回避",
-        "field4": "回避",
+        "field1": "脱税する / 不正に隠す",
+        "field2": "（現在形：hinterzieht；過去形：hinterzog；過去分詞：hinterzogen）",
+        "field3": "脱税 / 不正隠匿",
+        "field4": "脱税 / 不正隠匿",
         "field5": "彼は何年も脱税してきた",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "444": {
         "cardNumber": "444",
-        "field1": "参加する",
-        "field2": "使用",
-        "field3": "ステークス",
+        "field1": "尽力する / 積極的に取り組む",
+        "field2": "投入 / 活動",
+        "field3": "投入 / 活動",
         "field4": "その政治家は税制改革に熱心に取り組んでいる",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "445": {
         "cardNumber": "445",
-        "field1": "管理可能な",
-        "field2": "この決定のリスクは管理できない",
+        "field1": "全体を見渡せる / 把握できる",
+        "field2": "この決定のリスクは見通せません。",
         "field3": "",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "446": {
         "cardNumber": "446",
@@ -5349,7 +5349,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "447": {
         "cardNumber": "447",
@@ -5361,7 +5361,7 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "448": {
         "cardNumber": "448",
@@ -5373,11 +5373,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "449": {
         "cardNumber": "449",
-        "field1": "責任者",
+        "field1": "担当の / 管轄する",
         "field2": "管轄権",
         "field3": "責任",
         "field4": "登記所がこれを担当します",
@@ -5385,19 +5385,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "国"
+        "category": "国家と政治"
     },
     "450": {
         "cardNumber": "450",
-        "field1": "右",
-        "field2": "（体重が増えます、体重が増えます、体重が増えます）",
-        "field3": "バランスをとる",
-        "field4": "トレードオフ",
+        "field1": "比較検討する / 慎重に考慮する",
+        "field2": "（現在形：wägt ab；過去形：wog ab；過去分詞：abgewogen）",
+        "field3": "比較検討 / 考量",
+        "field4": "比較検討 / 考量",
         "field5": "私たちはメリットとデメリットを慎重に比較検討する必要がある",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "451": {
         "cardNumber": "451",
@@ -5409,55 +5409,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "452": {
         "cardNumber": "452",
-        "field1": "専念",
-        "field2": "(コミット-コミット-コミット)",
+        "field1": "（罪や過ちを）犯す",
+        "field2": "（現在形：begeht；過去形：beging；過去分詞：begangen）",
         "field3": "彼は自殺した",
         "field4": "しかし、あなたはそこで間違いを犯しました",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "453": {
         "cardNumber": "453",
-        "field1": "没収する",
-        "field2": "没収",
-        "field3": "没収物",
+        "field1": "押収する / 差し押さえる",
+        "field2": "押収 / 差し押さえ",
+        "field3": "押収 / 差し押さえ",
         "field4": "警察は盗まれた美術品を押収した",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "454": {
         "cardNumber": "454",
-        "field1": "賄賂",
-        "field2": "（賄賂、賄賂、賄賂）",
+        "field1": "賄賂を贈る",
+        "field2": "（現在形：besticht；過去形：bestach；過去分詞：bestochen）",
         "field3": "賄賂",
         "field4": "賄賂",
         "field5": "腐敗しない",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "455": {
         "cardNumber": "455",
         "field1": "欺く",
-        "field2": "(騙された、騙された、騙された)",
+        "field2": "（現在形：betrügt；過去形：betrog；過去分詞：betrogen）",
         "field3": "詐欺",
         "field4": "詐欺的な",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "456": {
         "cardNumber": "456",
@@ -5469,19 +5469,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "457": {
         "cardNumber": "457",
         "field1": "国際法",
-        "field2": "国際法",
+        "field2": "国際法上の",
         "field3": "これは国際法に違反します",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "458": {
         "cardNumber": "458",
@@ -5493,19 +5493,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "459": {
         "cardNumber": "459",
-        "field1": "議員",
-        "field2": "議員",
-        "field3": "法律",
+        "field1": "立法者 / 立法機関",
+        "field2": "立法者 / 立法機関",
+        "field3": "立法",
         "field4": "立法的な",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "460": {
         "cardNumber": "460",
@@ -5517,55 +5517,55 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "461": {
         "cardNumber": "461",
-        "field1": "クライアント",
-        "field2": "クライアント",
+        "field1": "依頼人（弁護士の）",
+        "field2": "依頼人（弁護士の）",
         "field3": "クライアントについては何も明らかにできません",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "462": {
         "cardNumber": "462",
-        "field1": "オーダー",
+        "field1": "命令 / 指示",
         "field2": "命令",
-        "field3": "整える",
-        "field4": "正式な命令により",
+        "field3": "命じる / 指示する",
+        "field4": "当局の命令により",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "463": {
         "cardNumber": "463",
-        "field1": "獲物",
-        "field2": "捕獲",
-        "field3": "泥棒たちは戦利品を持って逃走した",
+        "field1": "盗品 / 戦利品 / 獲物",
+        "field2": "奪い取る / 捕獲する",
+        "field3": "泥棒たちは盗品を持って逃げました。",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "464": {
         "cardNumber": "464",
         "field1": "同意",
         "field2": "同意",
-        "field3": "同意",
+        "field3": "同意する",
         "field4": "まだ同意していません",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "465": {
         "cardNumber": "465",
@@ -5577,35 +5577,35 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "466": {
         "cardNumber": "466",
         "field1": "逮捕",
-        "field2": "逮捕者",
-        "field3": "逮捕します",
+        "field2": "逮捕",
+        "field3": "逮捕する",
         "field4": "彼はその場で逮捕された",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "467": {
         "cardNumber": "467",
-        "field1": "解雇された",
-        "field2": "(発射-発射-発射)",
-        "field3": "解雇",
-        "field4": "一時解雇",
-        "field5": "犯人は執行猶予付きで釈放された",
+        "field1": "釈放する / 解雇する",
+        "field2": "（現在形：entlässt；過去形：entließ；過去分詞：entlassen）",
+        "field3": "釈放 / 解雇",
+        "field4": "釈放 / 解雇",
+        "field5": "その受刑者は仮釈放されました。",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "468": {
         "cardNumber": "468",
-        "field1": "決定する",
+        "field1": "捜査する / 調べて明らかにする",
         "field2": "調査",
         "field3": "調査",
         "field4": "調査はまだ完了していません",
@@ -5613,11 +5613,11 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "469": {
         "cardNumber": "469",
-        "field1": "脅迫",
+        "field1": "脅して金品を要求する / 恐喝する",
         "field2": "脅迫",
         "field3": "脅迫",
         "field4": "彼は盗まれたビジネス文書で脅迫された",
@@ -5625,23 +5625,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "470": {
         "cardNumber": "470",
-        "field1": "検索",
-        "field2": "マンハント",
-        "field3": "検索",
-        "field4": "犯人捜しは失敗に終わった",
+        "field1": "捜索する / 指名手配する",
+        "field2": "捜索 / 指名手配",
+        "field3": "捜索 / 指名手配",
+        "field4": "犯人の捜索はまだ成果を上げていません。",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "471": {
         "cardNumber": "471",
-        "field1": "偽物",
+        "field1": "偽造する",
         "field2": "偽物",
         "field3": "偽物",
         "field4": "絵は偽物です",
@@ -5649,23 +5649,23 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "472": {
         "cardNumber": "472",
-        "field1": "該当する場合",
-        "field2": "おそらく。",
+        "field1": "必要に応じて / 場合によっては",
+        "field2": "必要に応じて（gegebenenfallsの略）",
         "field3": "必要に応じて新たな法律が制定される",
         "field4": "",
         "field5": "",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "473": {
         "cardNumber": "473",
-        "field1": "やめる",
+        "field1": "解約する / 辞職する / 解雇を通知する",
         "field2": "キャンセル可能",
         "field3": "契約は3年後に打ち切ることができる",
         "field4": "",
@@ -5673,19 +5673,19 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "474": {
         "cardNumber": "474",
-        "field1": "待ち伏せされた",
-        "field2": "(待ち伏せ-待ち伏せ-待ち伏せ)",
+        "field1": "襲う / 強盗に入る",
+        "field2": "（現在形：überfällt；過去形：überfiel；過去分詞：überfallen）",
         "field3": "襲撃",
         "field4": "襲撃",
         "field5": "強盗",
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "475": {
         "cardNumber": "475",
@@ -5697,12 +5697,12 @@
         "field6": "",
         "field7": "",
         "field8": "",
-        "category": "右"
+        "category": "法律"
     },
     "476": {
         "cardNumber": "476",
         "field1": "押しつけがましい",
-        "field2": "侵入性",
+        "field2": "押しつけがましさ",
         "field3": "彼の態度はかなり強引だった",
         "field4": "",
         "field5": "",
@@ -5713,9 +5713,9 @@
     },
     "477": {
         "cardNumber": "477",
-        "field1": "除外する",
-        "field2": "除外",
-        "field3": "除外事項",
+        "field1": "排斥する / 仲間外れにする",
+        "field2": "排斥 / 仲間外れ",
+        "field3": "排斥 / 仲間外れ",
         "field4": "彼は疎外されていると感じた",
         "field5": "",
         "field6": "",
@@ -5725,8 +5725,8 @@
     },
     "478": {
         "cardNumber": "478",
-        "field1": "引き裂きます",
-        "field2": "(引き裂かれた、引き裂かれた、引き裂かれた)",
+        "field1": "家出する / 引き抜く",
+        "field2": "（現在形：reißt aus；過去形：riss aus；過去分詞：ausgerissen）",
         "field3": "子供は何度か家出をした",
         "field4": "",
         "field5": "",
@@ -5750,7 +5750,7 @@
     "480": {
         "cardNumber": "480",
         "field1": "悲惨さ",
-        "field2": "悲惨さ",
+        "field2": "悲惨な / ひどく具合の悪い",
         "field3": "私たちは最も悲惨な場所を支援します",
         "field4": "",
         "field5": "",
@@ -5763,7 +5763,7 @@
         "cardNumber": "481",
         "field1": "アラーム",
         "field2": "アラーム",
-        "field3": "警告",
+        "field3": "警報を出す / 緊急連絡する",
         "field4": "警報を鳴らすべきでしょうか？",
         "field5": "",
         "field6": "",
@@ -5775,7 +5775,7 @@
         "cardNumber": "482",
         "field1": "引き金",
         "field2": "トリガー",
-        "field3": "引き金",
+        "field3": "引き起こす",
         "field4": "何が口論のきっかけになったのでしょうか？",
         "field5": "",
         "field6": "",
@@ -5787,7 +5787,7 @@
         "cardNumber": "483",
         "field1": "影響を受けた人",
         "field2": "影響を受けた人",
-        "field3": "被災者がその瞬間に何を必要としているかを見つけます",
+        "field3": "当事者たちがその時何を必要としているのかを調べます。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5809,10 +5809,10 @@
     },
     "485": {
         "cardNumber": "485",
-        "field1": "定規",
+        "field1": "権力者 / 支配者",
         "field2": "権力者たち",
-        "field3": "権力の掌握",
-        "field4": "強力な",
+        "field3": "権力の乱用 / 横暴",
+        "field4": "横暴な / 権力を振りかざす",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5822,7 +5822,7 @@
     "486": {
         "cardNumber": "486",
         "field1": "中道",
-        "field2": "中間地点",
+        "field2": "中道 / 折衷案",
         "field3": "最終的に中間点で合意できるでしょうか？",
         "field4": "",
         "field5": "",
@@ -5833,8 +5833,8 @@
     },
     "487": {
         "cardNumber": "487",
-        "field1": "賛辞",
-        "field2": "賛辞",
+        "field1": "貢ぎ物 / 代償",
+        "field2": "貢ぎ物 / 代償",
         "field3": "火山の噴火は人命に大きな被害をもたらした",
         "field4": "",
         "field5": "",
@@ -5845,10 +5845,10 @@
     },
     "488": {
         "cardNumber": "488",
-        "field1": "事実",
+        "field1": "事情 / 状況",
         "field2": "状況",
         "field3": "このような状況では合意は不可能です",
-        "field4": "私のためにあまり気にしないでください",
+        "field4": "私のためにあまり手間をかけないでください。",
         "field5": "",
         "field6": "",
         "field7": "",
@@ -5881,9 +5881,9 @@
     },
     "491": {
         "cardNumber": "491",
-        "field1": "緊急事態",
-        "field2": "経済的緊急事態",
-        "field3": "彼は緊急事態に陥った",
+        "field1": "窮地 / 困窮",
+        "field2": "経済的な困窮",
+        "field3": "彼は窮地に陥りました。",
         "field4": "",
         "field5": "",
         "field6": "",
@@ -5905,8 +5905,8 @@
     },
     "493": {
         "cardNumber": "493",
-        "field1": "いくつかの",
-        "field2": "団結",
+        "field1": "意見の一致した",
+        "field2": "一致 / 団結",
         "field3": "この点に関しては完全に一致した",
         "field4": "",
         "field5": "",
@@ -5917,7 +5917,7 @@
     },
     "494": {
         "cardNumber": "494",
-        "field1": "発火",
+        "field1": "火をつける / 引き起こす",
         "field2": "彼の言葉が口論を引き起こした",
         "field3": "",
         "field4": "",
@@ -5929,8 +5929,8 @@
     },
     "495": {
         "cardNumber": "495",
-        "field1": "指示",
-        "field2": "(コマンド-コマンド-コマンド)",
+        "field1": "命じる / 必要とする",
+        "field2": "（現在形：gebietet；過去形：gebot；過去分詞：geboten）",
         "field3": "ここで注意が必要です",
         "field4": "状況には迅速な介入が必要です",
         "field5": "",
@@ -5941,7 +5941,7 @@
     },
     "496": {
         "cardNumber": "496",
-        "field1": "寄付する",
+        "field1": "引き起こす / 寄付する",
         "field2": "彼は自分のコメントを通じて不安を引き起こした",
         "field3": "",
         "field4": "",
@@ -5965,7 +5965,7 @@
     },
     "498": {
         "cardNumber": "498",
-        "field1": "中傷",
+        "field1": "中傷する",
         "field2": "誹謗中傷",
         "field3": "中傷",
         "field4": "彼は妬みから中傷された",
@@ -5977,8 +5977,8 @@
     },
     "499": {
         "cardNumber": "499",
-        "field1": "裏切られた",
-        "field2": "(裏切った、裏切られた、裏切られた)",
+        "field1": "裏切る / 秘密を漏らす",
+        "field2": "（現在形：verrät；過去形：verriet；過去分詞：verraten）",
         "field3": "裏切り",
         "field4": "裏切り者",
         "field5": "裏切り者たち",

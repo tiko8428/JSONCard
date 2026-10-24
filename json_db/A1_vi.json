@@ -14,7 +14,7 @@
   "2": {
     "cardNumber": "2",
     "field1": "bánh mì",
-    "field2": "bánh mì",
+    "field2": "những ổ bánh mì",
     "field3": "bánh mì đen",
     "field4": "",
     "field5": "",
@@ -25,13 +25,13 @@
   },
   "3": {
     "cardNumber": "3",
-    "field1": "cái bánh bao",
-    "field2": "cuộn",
+    "field1": "bánh mì nhỏ",
+    "field2": "những chiếc bánh mì nhỏ",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Chúng tôi ăn bánh cuốn vào bữa sáng",
+    "field7": "Chúng tôi ăn bánh mì nhỏ vào bữa sáng",
     "field8": "",
     "category": "Dinh dưỡng"
   },
@@ -39,7 +39,7 @@
     "cardNumber": "4",
     "field1": "quả trứng",
     "field2": "những quả trứng",
-    "field3": "trứng chiên",
+    "field3": "trứng ốp la",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -49,7 +49,7 @@
   },
   "5": {
     "cardNumber": "5",
-    "field1": "kem",
+    "field1": "đá; kem",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -73,7 +73,7 @@
   },
   "7": {
     "cardNumber": "7",
-    "field1": "các loại rau",
+    "field1": "rau củ",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -115,7 +115,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Những quả táo này thật ngọt ngào",
+    "field7": "Những quả táo này ngọt",
     "field8": "Có một quả táo đỏ trên bàn",
     "category": "Dinh dưỡng"
   },
@@ -128,7 +128,7 @@
     "field5": "",
     "field6": "",
     "field7": "Chúc bạn ngon miệng!",
-    "field8": "Sau chuyến đi dài cô ấy có cảm giác thèm ăn tuyệt vời",
+    "field8": "Sau khi đi dạo một quãng dài, cô ấy rất thèm ăn",
     "category": "Dinh dưỡng"
   },
   "12": {
@@ -139,7 +139,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi khát",
+    "field7": "Tôi khát",
     "field8": "",
     "category": "Dinh dưỡng"
   },
@@ -151,7 +151,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đói",
+    "field7": "Tôi đói",
     "field8": "",
     "category": "Dinh dưỡng"
   },
@@ -169,7 +169,7 @@
   },
   "15": {
     "cardNumber": "15",
-    "field1": "pho mát",
+    "field1": "phô mai",
     "field2": "",
     "field3": "bánh mì phô mai",
     "field4": "",
@@ -181,9 +181,9 @@
   },
   "16": {
     "cardNumber": "16",
-    "field1": "cái bánh",
-    "field2": "những chiếc bánh",
-    "field3": "bánh pho mát",
+    "field1": "bánh ngọt",
+    "field2": "những chiếc bánh ngọt",
+    "field3": "bánh phô mai",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -194,7 +194,7 @@
   },
   "17": {
     "cardNumber": "17",
-    "field1": "cơm",
+    "field1": "gạo; cơm",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -207,7 +207,7 @@
   "18": {
     "cardNumber": "18",
     "field1": "nước trái cây",
-    "field2": "nước ép",
+    "field2": "các loại nước ép",
     "field3": "nước ép táo",
     "field4": "",
     "field5": "",
@@ -220,7 +220,7 @@
   "19": {
     "cardNumber": "19",
     "field1": "món salad",
-    "field2": "món salad",
+    "field2": "các món salad",
     "field3": "salad khoai tây",
     "field4": "",
     "field5": "",
@@ -245,7 +245,7 @@
   "21": {
     "cardNumber": "21",
     "field1": "rượu vang",
-    "field2": "rượu vang",
+    "field2": "các loại rượu vang",
     "field3": "rượu vang đỏ",
     "field4": "",
     "field5": "",
@@ -294,8 +294,8 @@
   "25": {
     "cardNumber": "25",
     "field1": "khoai tây",
-    "field2": "khoai tây",
-    "field3": "khoai tây chiên",
+    "field2": "những củ khoai tây",
+    "field3": "khoai tây rán trong chảo",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -312,7 +312,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Sữa lạnh rồi",
+    "field7": "Sữa lạnh",
     "field8": "",
     "category": "Dinh dưỡng"
   },
@@ -355,7 +355,7 @@
   "30": {
     "cardNumber": "30",
     "field1": "súp",
-    "field2": "súp",
+    "field2": "các món súp",
     "field3": "súp rau",
     "field4": "",
     "field5": "",
@@ -367,7 +367,7 @@
   "31": {
     "cardNumber": "31",
     "field1": "cà chua",
-    "field2": "cà chua",
+    "field2": "những quả cà chua",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -378,9 +378,9 @@
   },
   "32": {
     "cardNumber": "32",
-    "field1": "cái bánh",
-    "field2": "những chiếc bánh",
-    "field3": "bánh sô cô la",
+    "field1": "bánh kem",
+    "field2": "những chiếc bánh kem",
+    "field3": "bánh kem sô cô la",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -392,9 +392,9 @@
   "33": {
     "cardNumber": "33",
     "field1": "xúc xích",
-    "field2": "xúc xích",
-    "field3": "xúc xích",
-    "field4": "xúc xích",
+    "field2": "những cây xúc xích",
+    "field3": "xúc xích nhỏ",
+    "field4": "những cây xúc xích nhỏ",
     "field5": "",
     "field6": "",
     "field7": "Xúc xích ngon quá",
@@ -404,19 +404,19 @@
   "34": {
     "cardNumber": "34",
     "field1": "quả chanh",
-    "field2": "quả chanh",
+    "field2": "những quả chanh",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "chanh có vị chua",
+    "field7": "Những quả chanh có vị chua",
     "field8": "",
     "category": "Dinh dưỡng"
   },
   "35": {
     "cardNumber": "35",
     "field1": "ăn",
-    "field2": "(ăn-ăn-ăn)",
+    "field2": "(hiện tại: isst; quá khứ đơn: aß; phân từ II: gegessen)",
     "field3": "thức ăn",
     "field4": "",
     "field5": "",
@@ -452,7 +452,7 @@
   "38": {
     "cardNumber": "38",
     "field1": "uống",
-    "field2": "(uống-uống-say)",
+    "field2": "(hiện tại: trinkt; quá khứ đơn: trank; phân từ II: getrunken)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -488,14 +488,14 @@
   "41": {
     "cardNumber": "41",
     "field1": "phòng tắm",
-    "field2": "phòng tắm",
+    "field2": "các phòng tắm",
     "field3": "phòng tắm",
-    "field4": "phòng tắm",
+    "field4": "các phòng tắm",
     "field5": "",
     "field6": "",
     "field7": "Phòng tắm sạch sẽ",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "42": {
     "cardNumber": "42",
@@ -507,7 +507,7 @@
     "field6": "",
     "field7": "Làm ơn dọn giường đi!",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "43": {
     "cardNumber": "43",
@@ -517,9 +517,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Cửa sổ bị bẩn",
+    "field7": "Những cửa sổ bị bẩn",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "44": {
     "cardNumber": "44",
@@ -529,9 +529,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đang ở nhà",
+    "field7": "Tôi đang ở nhà",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "45": {
     "cardNumber": "45",
@@ -543,7 +543,7 @@
     "field6": "",
     "field7": "Kệ trống",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "46": {
     "cardNumber": "46",
@@ -555,7 +555,7 @@
     "field6": "",
     "field7": "Chiếc ghế sofa này thật thoải mái",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "47": {
     "cardNumber": "47",
@@ -567,44 +567,44 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "nhà ở",
+    "category": "Nhà ở",
     "imageName": ""
   },
   "48": {
     "cardNumber": "48",
     "field1": "ban công",
-    "field2": "ban công",
+    "field2": "các ban công",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ai đang ở trên ban công?",
+    "field7": "Ai đang đứng trên ban công?",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "49": {
     "cardNumber": "49",
     "field1": "hành lang",
-    "field2": "hành lang",
+    "field2": "các hành lang",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "ở hành lang",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "50": {
     "cardNumber": "50",
-    "field1": "tủ quần áo",
-    "field2": "cái tủ",
+    "field1": "tủ",
+    "field2": "những cái tủ",
     "field3": "tủ bếp",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tủ đã đầy",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "51": {
     "cardNumber": "51",
@@ -616,7 +616,7 @@
     "field6": "",
     "field7": "Ông nội đang ngồi trên ghế bành",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "52": {
     "cardNumber": "52",
@@ -628,7 +628,7 @@
     "field6": "",
     "field7": "Chiếc gương ở trong phòng tắm",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "53": {
     "cardNumber": "53",
@@ -640,7 +640,7 @@
     "field6": "",
     "field7": "Bà nội ngồi trên ghế",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "54": {
     "cardNumber": "54",
@@ -652,24 +652,24 @@
     "field6": "",
     "field7": "Tấm thảm ở trên sàn",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "55": {
     "cardNumber": "55",
     "field1": "cái bàn",
     "field2": "những cái bàn",
-    "field3": "cái bàn",
+    "field3": "bàn viết",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "nhà ở",
+    "category": "Nhà ở",
     "imageName": ""
   },
   "56": {
     "cardNumber": "56",
-    "field1": "sàn nhà",
+    "field1": "tầng",
     "field2": "các tầng",
     "field3": "",
     "field4": "",
@@ -677,19 +677,19 @@
     "field6": "",
     "field7": "Tôi sống ở tầng một",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "57": {
     "cardNumber": "57",
     "field1": "nhà bếp",
-    "field2": "nhà bếp",
+    "field2": "các nhà bếp",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Họ có một căn bếp rất rộng",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "58": {
     "cardNumber": "58",
@@ -701,20 +701,20 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "nhà ở",
+    "category": "Nhà ở",
     "imageName": ""
   },
   "59": {
     "cardNumber": "59",
     "field1": "nhà vệ sinh",
-    "field2": "nhà vệ sinh",
+    "field2": "các nhà vệ sinh",
     "field3": "nhà vệ sinh",
-    "field4": "nhà vệ sinh",
+    "field4": "các nhà vệ sinh",
     "field5": "",
     "field6": "",
-    "field7": "tôi đang đi vệ sinh",
+    "field7": "Tôi đi vệ sinh",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "60": {
     "cardNumber": "60",
@@ -726,19 +726,19 @@
     "field6": "",
     "field7": "Cánh cửa đã đóng lại",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "61": {
     "cardNumber": "61",
-    "field1": "cái bình",
-    "field2": "những chiếc bình",
+    "field1": "bình hoa",
+    "field2": "những bình hoa",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Một chiếc bình lớn cắm hoa hồng ở trên bàn",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "62": {
     "cardNumber": "62",
@@ -750,7 +750,7 @@
     "field6": "",
     "field7": "Cái gì treo trên tường?",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "63": {
     "cardNumber": "63",
@@ -762,7 +762,7 @@
     "field6": "",
     "field7": "Bạn sống ở đâu?",
     "field8": "",
-    "category": "nhà ở"
+    "category": "Nhà ở"
   },
   "64": {
     "cardNumber": "64",
@@ -774,23 +774,23 @@
     "field6": "",
     "field7": "Tôi dọn phòng mỗi ngày",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "65": {
     "cardNumber": "65",
-    "field1": "thức dậy",
-    "field2": "(đứng dậy-đứng dậy-đứng dậy)",
+    "field1": "đứng dậy; dậy khỏi giường",
+    "field2": "(hiện tại: steht auf; quá khứ đơn: stand auf; phân từ II: aufgestanden)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Bạn thức dậy lúc mấy giờ?",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "66": {
     "cardNumber": "66",
-    "field1": "các món ăn",
+    "field1": "bát đĩa",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -798,68 +798,68 @@
     "field6": "",
     "field7": "Hôm nay ai rửa bát?",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "67": {
     "cardNumber": "67",
-    "field1": "cái kính",
-    "field2": "cái kính",
+    "field1": "ly thủy tinh",
+    "field2": "những chiếc ly thủy tinh",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "một ly rượu vang",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "68": {
     "cardNumber": "68",
     "field1": "chiếc khăn",
-    "field2": "khăn tắm",
+    "field2": "những chiếc khăn",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "một chiếc khăn tươi",
+    "field7": "một chiếc khăn sạch",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "69": {
     "cardNumber": "69",
     "field1": "con dao",
     "field2": "những con dao",
-    "field3": "con dao bánh mì",
+    "field3": "dao cắt bánh mì",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "cuộc sống hàng ngày",
+    "category": "Sinh hoạt hằng ngày",
     "imageName": ""
   },
   "70": {
     "cardNumber": "70",
     "field1": "tủ lạnh",
-    "field2": "tủ lạnh",
+    "field2": "những chiếc tủ lạnh",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Kem chua ở trong tủ lạnh",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "71": {
     "cardNumber": "71",
     "field1": "cái thìa",
     "field2": "những cái thìa",
-    "field3": "cái thìa",
+    "field3": "thìa cà phê",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "cuộc sống hàng ngày",
+    "category": "Sinh hoạt hằng ngày",
     "imageName": ""
   },
   "72": {
@@ -870,81 +870,81 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "một tấm sâu/nông",
+    "field7": "đĩa sâu lòng / đĩa nông lòng",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "73": {
     "cardNumber": "73",
     "field1": "cái nĩa",
-    "field2": "cái nĩa",
+    "field2": "những chiếc nĩa",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn ăn khoai tây bằng nĩa",
+    "field7": "Người ta ăn khoai tây bằng nĩa",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "74": {
     "cardNumber": "74",
-    "field1": "cái cốc",
-    "field2": "những chiếc cốc",
-    "field3": "cốc cà phê",
+    "field1": "tách",
+    "field2": "những chiếc tách",
+    "field3": "tách cà phê",
     "field4": "những tách cà phê",
     "field5": "",
     "field6": "",
     "field7": "Tôi uống một tách cà phê",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "75": {
     "cardNumber": "75",
-    "field1": "sạch sẽ",
+    "field1": "làm sạch; lau dọn",
     "field2": "",
-    "field3": "cô nàng dọn dẹp",
-    "field4": "những người phụ nữ dọn dẹp",
+    "field3": "nữ nhân viên vệ sinh",
+    "field4": "các nữ nhân viên vệ sinh",
     "field5": "",
     "field6": "",
-    "field7": "tôi đánh răng",
+    "field7": "Tôi đánh răng",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "76": {
     "cardNumber": "76",
     "field1": "ngủ",
-    "field2": "(ngủ-ngủ-ngủ)",
+    "field2": "(hiện tại: schläft; quá khứ đơn: schlief; phân từ II: geschlafen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Anh trai tôi ngủ muộn",
+    "field7": "Anh trai tôi ngủ lâu",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "77": {
     "cardNumber": "77",
-    "field1": "đi tắm",
+    "field1": "tắm vòi sen",
     "field2": "",
     "field3": "vòi hoa sen",
-    "field4": "những cơn mưa rào",
+    "field4": "những vòi hoa sen",
     "field5": "",
     "field6": "",
-    "field7": "Tôi tắm mỗi ngày",
+    "field7": "Tôi tắm vòi sen hằng ngày",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "78": {
     "cardNumber": "78",
     "field1": "rửa",
-    "field2": "(rửa-rửa-rửa)",
-    "field3": "rửa mình",
+    "field2": "(hiện tại: wäscht; quá khứ đơn: wusch; phân từ II: gewaschen)",
+    "field3": "tắm rửa",
     "field4": "",
     "field5": "máy giặt",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "cuộc sống hàng ngày"
+    "category": "Sinh hoạt hằng ngày"
   },
   "79": {
     "cardNumber": "79",
@@ -954,9 +954,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Tôi vẫn cần quark, bơ và kem",
+    "field7": "Tôi còn cần phô mai quark, bơ và kem sữa",
     "field8": "",
-    "category": "Mua hàng và dịch vụ"
+    "category": "Mua sắm và dịch vụ"
   },
   "80": {
     "cardNumber": "80",
@@ -968,11 +968,11 @@
     "field6": "",
     "field7": "Chúng ta đi đến quán cà phê nhé?",
     "field8": "",
-    "category": "Mua hàng và dịch vụ"
+    "category": "Mua sắm và dịch vụ"
   },
   "81": {
     "cardNumber": "81",
-    "field1": "việc kinh doanh",
+    "field1": "cửa hàng",
     "field2": "các cửa hàng",
     "field3": "cửa hàng",
     "field4": "các cửa hàng",
@@ -980,20 +980,20 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Mua hàng và dịch vụ",
+    "category": "Mua sắm và dịch vụ",
     "imageName": ""
   },
   "82": {
     "cardNumber": "82",
-    "field1": "thức ăn",
-    "field2": "các món ăn",
-    "field3": "cửa hàng tạp hóa",
+    "field1": "thực phẩm",
+    "field2": "các loại thực phẩm",
+    "field3": "cửa hàng thực phẩm",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Mua hàng và dịch vụ",
+    "category": "Mua sắm và dịch vụ",
     "imageName": ""
   },
   "83": {
@@ -1004,21 +1004,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Vào cuối tuần chúng tôi ghé thăm một nhà hàng Ý",
+    "field7": "Cuối tuần chúng tôi đến một nhà hàng Ý",
     "field8": "",
-    "category": "Mua hàng và dịch vụ"
+    "category": "Mua sắm và dịch vụ"
   },
   "84": {
     "cardNumber": "84",
-    "field1": "thị trường",
-    "field2": "các thị trường",
+    "field1": "chợ",
+    "field2": "các chợ",
     "field3": "siêu thị",
     "field4": "các siêu thị",
     "field5": "",
     "field6": "",
     "field7": "trong siêu thị",
     "field8": "",
-    "category": "Mua hàng và dịch vụ"
+    "category": "Mua sắm và dịch vụ"
   },
   "85": {
     "cardNumber": "85",
@@ -1030,7 +1030,7 @@
     "field6": "",
     "field7": "Sau giờ làm việc tôi đi mua sắm",
     "field8": "",
-    "category": "Mua hàng và dịch vụ"
+    "category": "Mua sắm và dịch vụ"
   },
   "86": {
     "cardNumber": "86",
@@ -1041,20 +1041,20 @@
     "field5": "",
     "field6": "",
     "field7": "Ngân hàng đã mở cửa",
-    "field8": "Hãy mở cửa sổ!",
-    "category": "Mua hàng và dịch vụ"
+    "field8": "Làm ơn mở cửa sổ!",
+    "category": "Mua sắm và dịch vụ"
   },
   "87": {
     "cardNumber": "87",
     "field1": "đóng",
-    "field2": "(đóng-khóa-đóng)",
+    "field2": "(hiện tại: schließt; quá khứ đơn: schloss; phân từ II: geschlossen)",
     "field3": "đóng cửa",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Cửa hàng đã đóng cửa",
     "field8": "",
-    "category": "Mua hàng và dịch vụ"
+    "category": "Mua sắm và dịch vụ"
   },
   "88": {
     "cardNumber": "88",
@@ -1064,9 +1064,9 @@
     "field4": "những người bán hàng",
     "field5": "",
     "field6": "",
-    "field7": "Bächer bán bánh mì",
+    "field7": "Người thợ làm bánh bán bánh mì",
     "field8": "",
-    "category": "Mua hàng và dịch vụ"
+    "category": "Mua sắm và dịch vụ"
   },
   "89": {
     "cardNumber": "89",
@@ -1076,9 +1076,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn có bao nhiêu đứa con?",
+    "field7": "Anh/chị có bao nhiêu người con?",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "90": {
     "cardNumber": "90",
@@ -1090,7 +1090,7 @@
     "field6": "",
     "field7": "Đó là một cô gái, cô ấy xinh đẹp",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "91": {
     "cardNumber": "91",
@@ -1102,31 +1102,31 @@
     "field6": "",
     "field7": "vấn đề của bạn",
     "field8": "Đó là vấn đề của bạn",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "92": {
     "cardNumber": "92",
-    "field1": "anh trai",
-    "field2": "anh em",
+    "field1": "anh trai; em trai",
+    "field2": "các anh em trai",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Tôi có hai anh em",
+    "field7": "Tôi có hai người anh em trai",
     "field8": "Tên anh trai của bạn là gì?",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "93": {
     "cardNumber": "93",
     "field1": "cháu trai, cháu gái",
-    "field2": "các cháu, các cháu gái",
+    "field2": "các cháu trai, các cháu gái",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Cháu trai tôi 4 tuổi",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "94": {
     "cardNumber": "94",
@@ -1138,44 +1138,44 @@
     "field6": "",
     "field7": "là khách",
     "field8": "Tôi là khách ở đây",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "95": {
     "cardNumber": "95",
     "field1": "sinh nhật",
-    "field2": "ngày sinh nhật",
-    "field3": "cô gái sinh nhật",
+    "field2": "những ngày sinh nhật",
+    "field3": "người có sinh nhật hôm nay",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "gia đình",
+    "category": "Gia đình",
     "imageName": ""
   },
   "96": {
     "cardNumber": "96",
-    "field1": "ông nội",
-    "field2": "ông nội",
-    "field3": "ông nội",
-    "field4": "ông nội",
+    "field1": "ông nội; ông ngoại",
+    "field2": "các ông (nội, ngoại)",
+    "field3": "ông (cách gọi thân mật)",
+    "field4": "các ông (cách gọi thân mật)",
     "field5": "",
     "field6": "",
     "field7": "Ông tôi đã nghỉ hưu",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "97": {
     "cardNumber": "97",
     "field1": "cậu bé",
-    "field2": "các chàng trai",
+    "field2": "những cậu bé",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Đây là một cậu bé, cậu ấy rất tốt",
+    "field7": "Đây là một cậu bé, cậu ấy dễ mến",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "98": {
     "cardNumber": "98",
@@ -1186,12 +1186,12 @@
     "field5": "",
     "field6": "",
     "field7": "Đây là một người đàn ông, anh ấy cao",
-    "field8": "Chồng bạn tên gì?",
-    "category": "gia đình"
+    "field8": "Chồng chị tên là gì?",
+    "category": "Gia đình"
   },
   "99": {
     "cardNumber": "99",
-    "field1": "chú",
+    "field1": "chú; bác; cậu",
     "field2": "các chú",
     "field3": "",
     "field4": "",
@@ -1199,7 +1199,7 @@
     "field6": "",
     "field7": "Chú tôi sống ở Berlin",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "100": {
     "cardNumber": "100",
@@ -1211,19 +1211,19 @@
     "field6": "",
     "field7": "Tôi có một đứa con trai",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "101": {
     "cardNumber": "101",
     "field1": "người cha",
     "field2": "những người cha",
-    "field3": "Người cha",
+    "field3": "bố; ba",
     "field4": "các ông bố",
     "field5": "",
     "field6": "",
-    "field7": "Bố tôi là tài xế xe buýt chuyên nghiệp",
+    "field7": "Bố tôi làm nghề lái xe buýt",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "102": {
     "cardNumber": "102",
@@ -1235,19 +1235,19 @@
     "field6": "",
     "field7": "Cả bố mẹ tôi đều làm việc",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "103": {
     "cardNumber": "103",
     "field1": "gia đình",
     "field2": "các gia đình",
-    "field3": "tên gia đình",
+    "field3": "họ",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Gia đình tôi đông con",
+    "field7": "Gia đình tôi đông người",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "104": {
     "cardNumber": "104",
@@ -1259,7 +1259,7 @@
     "field6": "",
     "field7": "Vợ anh tên gì?",
     "field8": "Đây là một người phụ nữ, cô ấy rất đẹp",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "105": {
     "cardNumber": "105",
@@ -1271,7 +1271,7 @@
     "field6": "",
     "field7": "Bạn có anh chị em ruột không?",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "106": {
     "cardNumber": "106",
@@ -1283,35 +1283,35 @@
     "field6": "",
     "field7": "Ông bà của bạn sống ở đâu?",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "107": {
     "cardNumber": "107",
-    "field1": "bà ngoại",
+    "field1": "bà nội; bà ngoại",
     "field2": "các bà",
-    "field3": "bà ngoại",
+    "field3": "bà (cách gọi thân mật)",
     "field4": "các bà",
     "field5": "",
     "field6": "",
     "field7": "Bà của bạn bao nhiêu tuổi?",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "108": {
     "cardNumber": "108",
     "field1": "người mẹ",
     "field2": "các bà mẹ",
-    "field3": "người mẹ",
+    "field3": "mẹ; má",
     "field4": "các bà mẹ",
     "field5": "",
     "field6": "",
     "field7": "Mẹ tôi là một bà nội trợ",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "109": {
     "cardNumber": "109",
-    "field1": "chị gái",
+    "field1": "chị gái; em gái",
     "field2": "các chị em",
     "field3": "",
     "field4": "",
@@ -1319,19 +1319,19 @@
     "field6": "",
     "field7": "Tôi có một người chị",
     "field8": "Em gái của bạn bao nhiêu tuổi?",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "110": {
     "cardNumber": "110",
-    "field1": "dì",
+    "field1": "cô; dì; bác gái",
     "field2": "các dì",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "dì của tôi là một bác sĩ",
+    "field7": "Dì tôi là bác sĩ",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "111": {
     "cardNumber": "111",
@@ -1343,7 +1343,7 @@
     "field6": "",
     "field7": "Inge có hai con trai và ba con gái",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "112": {
     "cardNumber": "112",
@@ -1353,9 +1353,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn có phải là người Đức không?",
-    "field8": "Bạn có phải là người Đức không?",
-    "category": "gia đình"
+    "field7": "Bạn là người Đức phải không? (hỏi nữ)",
+    "field8": "Bạn là người Đức phải không? (hỏi nam)",
+    "category": "Gia đình"
   },
   "113": {
     "cardNumber": "113",
@@ -1367,7 +1367,7 @@
     "field6": "",
     "field7": "Anh ấy là một giáo viên",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "114": {
     "cardNumber": "114",
@@ -1379,19 +1379,19 @@
     "field6": "",
     "field7": "Đây là một đứa trẻ, nó còn nhỏ",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "115": {
     "cardNumber": "115",
-    "field1": "của bạn",
+    "field1": "của các bạn",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "nhà của bạn",
-    "field8": "căn hộ của bạn",
-    "category": "gia đình"
+    "field7": "nhà của các bạn",
+    "field8": "căn hộ của các bạn",
+    "category": "Gia đình"
   },
   "116": {
     "cardNumber": "116",
@@ -1401,25 +1401,25 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi là một sinh viên",
+    "field7": "Tôi là học sinh",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "117": {
     "cardNumber": "117",
-    "field1": "bạn",
+    "field1": "của ông/bà (lịch sự)",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Con trai của bạn",
-    "field8": "Con gái của bạn",
-    "category": "gia đình"
+    "field7": "Con trai của ông/bà",
+    "field8": "Con gái của ông/bà",
+    "category": "Gia đình"
   },
   "118": {
     "cardNumber": "118",
-    "field1": "cô ấy",
+    "field1": "của cô ấy; của họ",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1427,19 +1427,19 @@
     "field6": "",
     "field7": "anh trai cô ấy",
     "field8": "con cái của họ",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "119": {
     "cardNumber": "119",
-    "field1": "cô ấy",
+    "field1": "các bạn",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn có phải là người Đức không?",
+    "field7": "Các bạn có phải là người Đức không?",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "120": {
     "cardNumber": "120",
@@ -1451,11 +1451,11 @@
     "field6": "",
     "field7": "bố tôi",
     "field8": "mẹ tôi",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "121": {
     "cardNumber": "121",
-    "field1": "được",
+    "field1": "của anh ấy",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1463,35 +1463,35 @@
     "field6": "",
     "field7": "xe của anh ấy",
     "field8": "em gái anh ấy",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "122": {
     "cardNumber": "122",
-    "field1": "được",
-    "field2": "(là-đã)",
+    "field1": "là; ở; tồn tại",
+    "field2": "(hiện tại: ist; quá khứ đơn: war; phân từ II: gewesen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "hãy hạnh phúc",
-    "field8": "tôi hạnh phúc",
-    "category": "gia đình"
+    "field7": "hạnh phúc",
+    "field8": "Tôi hạnh phúc",
+    "category": "Gia đình"
   },
   "123": {
     "cardNumber": "123",
-    "field1": "bạn",
-    "field2": "cô ấy",
+    "field1": "ông/bà (xưng hô lịch sự)",
+    "field2": "cô ấy; họ",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn có mệt không?",
+    "field7": "Ông/bà có mệt không?",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "124": {
     "cardNumber": "124",
-    "field1": "cô ấy",
+    "field1": "họ",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1499,7 +1499,7 @@
     "field6": "",
     "field7": "Họ là bác sĩ",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "125": {
     "cardNumber": "125",
@@ -1509,9 +1509,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Cô ấy thật tuyệt",
+    "field7": "Cô ấy dễ mến",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "126": {
     "cardNumber": "126",
@@ -1523,7 +1523,7 @@
     "field6": "",
     "field7": "khu vườn của chúng tôi",
     "field8": "gia đình của chúng tôi",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "127": {
     "cardNumber": "127",
@@ -1535,7 +1535,7 @@
     "field6": "",
     "field7": "Đó là ai?",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "128": {
     "cardNumber": "128",
@@ -1547,7 +1547,7 @@
     "field6": "",
     "field7": "Chúng tôi là sinh viên",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "129": {
     "cardNumber": "129",
@@ -1559,11 +1559,11 @@
     "field6": "",
     "field7": "Chúng tôi đang đi nghỉ cùng nhau",
     "field8": "",
-    "category": "gia đình"
+    "category": "Gia đình"
   },
   "130": {
     "cardNumber": "130",
-    "field1": "cũ",
+    "field1": "già; cũ; có tuổi",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1588,8 +1588,8 @@
   "132": {
     "cardNumber": "132",
     "field1": "chiếc váy",
-    "field2": "quần áo",
-    "field3": "trang phục buổi tối",
+    "field2": "những chiếc váy liền",
+    "field3": "váy dạ hội",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -1635,20 +1635,20 @@
   },
   "136": {
     "cardNumber": "136",
-    "field1": "váy",
-    "field2": "váy",
+    "field1": "chân váy",
+    "field2": "những chiếc chân váy",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Lisa đang mặc váy và áo sơ mi",
+    "field7": "Lisa mặc chân váy và áo sơ mi nữ",
     "field8": "",
     "category": "Ngoại hình"
   },
   "137": {
     "cardNumber": "137",
     "field1": "chiếc giày",
-    "field2": "đôi giày",
+    "field2": "những chiếc giày",
     "field3": "giày thể thao",
     "field4": "",
     "field5": "giày thể thao",
@@ -1659,13 +1659,13 @@
   },
   "138": {
     "cardNumber": "138",
-    "field1": "dày",
+    "field1": "béo; dày",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Chú của bạn béo lắm",
+    "field7": "Chú của cô ấy rất béo",
     "field8": "",
     "category": "Ngoại hình"
   },
@@ -1677,14 +1677,14 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn còn có chiếc áo màu trắng này không?",
+    "field7": "Anh/chị có mẫu áo sơ mi nữ này màu trắng không?",
     "field8": "",
     "category": "Ngoại hình"
   },
   "140": {
     "cardNumber": "140",
     "field1": "cái kính",
-    "field2": "cái kính",
+    "field2": "những cặp kính",
     "field3": "kính râm",
     "field4": "",
     "field5": "",
@@ -1696,7 +1696,7 @@
   "141": {
     "cardNumber": "141",
     "field1": "cái quần",
-    "field2": "cái quần",
+    "field2": "những chiếc quần",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -1743,14 +1743,14 @@
   },
   "145": {
     "cardNumber": "145",
-    "field1": "lớn",
+    "field1": "to; cao",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Chiếc áo khoác này quá lớn",
-    "field8": "Bạn cao bao nhiêu?",
+    "field8": "Anh/chị cao bao nhiêu?",
     "category": "Ngoại hình"
   },
   "146": {
@@ -1803,8 +1803,8 @@
   },
   "150": {
     "cardNumber": "150",
-    "field1": "mặc",
-    "field2": "(mặc-mặc-mặc)",
+    "field1": "mặc; mang",
+    "field2": "(hiện tại: trägt; quá khứ đơn: trug; phân từ II: getragen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -1817,13 +1817,13 @@
     "cardNumber": "151",
     "field1": "người bạn",
     "field2": "những người bạn",
-    "field3": "bạn gái",
-    "field4": "các bạn gái",
+    "field3": "bạn nữ; bạn gái",
+    "field4": "những người bạn nữ; các bạn gái",
     "field5": "tình bạn",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "cảm xúc",
+    "category": "Cảm xúc",
     "imageName": ""
   },
   "152": {
@@ -1836,7 +1836,7 @@
     "field6": "",
     "field7": "Cô ấy rất thân thiện",
     "field8": "",
-    "category": "cảm xúc"
+    "category": "Cảm xúc"
   },
   "153": {
     "cardNumber": "153",
@@ -1848,7 +1848,7 @@
     "field6": "",
     "field7": "Tôi rất hạnh phúc!",
     "field8": "",
-    "category": "cảm xúc"
+    "category": "Cảm xúc"
   },
   "154": {
     "cardNumber": "154",
@@ -1860,23 +1860,23 @@
     "field6": "",
     "field7": "Người vui vẻ thường cười",
     "field8": "",
-    "category": "cảm xúc"
+    "category": "Cảm xúc"
   },
   "155": {
     "cardNumber": "155",
-    "field1": "tình yêu",
+    "field1": "yêu",
     "field2": "",
     "field3": "tình yêu",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi yêu bạn",
+    "field7": "Tôi yêu bạn",
     "field8": "",
-    "category": "cảm xúc"
+    "category": "Cảm xúc"
   },
   "156": {
     "cardNumber": "156",
-    "field1": "buồn cười",
+    "field1": "vui nhộn; hài hước",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1884,7 +1884,7 @@
     "field6": "",
     "field7": "một người vui tính",
     "field8": "Ở đây luôn rất vui nhộn",
-    "category": "cảm xúc"
+    "category": "Cảm xúc"
   },
   "157": {
     "cardNumber": "157",
@@ -1894,21 +1894,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi thích sô cô la",
+    "field7": "Tôi thích sô cô la",
     "field8": "",
-    "category": "cảm xúc"
+    "category": "Cảm xúc"
   },
   "158": {
     "cardNumber": "158",
-    "field1": "tốt đẹp",
+    "field1": "dễ mến; tử tế",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Cô gái này thật tuyệt",
+    "field7": "Cô gái này dễ mến",
     "field8": "",
-    "category": "cảm xúc"
+    "category": "Cảm xúc"
   },
   "159": {
     "cardNumber": "159",
@@ -1920,7 +1920,7 @@
     "field6": "",
     "field7": "một khuôn mặt buồn",
     "field8": "Tại sao bạn lại buồn thế?",
-    "category": "cảm xúc"
+    "category": "Cảm xúc"
   },
   "160": {
     "cardNumber": "160",
@@ -1932,7 +1932,7 @@
     "field6": "",
     "field7": "mắt xanh",
     "field8": "Nhắm mắt lại!",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "161": {
     "cardNumber": "161",
@@ -1944,7 +1944,7 @@
     "field6": "",
     "field7": "Chân tôi đau",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "162": {
     "cardNumber": "162",
@@ -1956,19 +1956,19 @@
     "field6": "",
     "field7": "một khuôn mặt buồn",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "163": {
     "cardNumber": "163",
-    "field1": "mái tóc",
-    "field2": "mái tóc",
+    "field1": "sợi tóc",
+    "field2": "những sợi tóc",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Cô ấy có mái tóc dài",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "164": {
     "cardNumber": "164",
@@ -1978,9 +1978,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Cô ấy đang ở bệnh viện",
+    "field7": "Cô ấy đang nằm viện",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "165": {
     "cardNumber": "165",
@@ -1991,45 +1991,45 @@
     "field5": "",
     "field6": "",
     "field7": "tai to/nhỏ",
-    "field8": "Ông tôi có đôi tai xấu",
-    "category": "sức khỏe"
+    "field8": "Ông tôi nghe kém",
+    "category": "Sức khỏe"
   },
   "166": {
     "cardNumber": "166",
     "field1": "cánh tay",
-    "field2": "cánh tay",
+    "field2": "những cánh tay",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Người mẹ ôm con vào lòng",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "167": {
     "cardNumber": "167",
-    "field1": "bác sĩ",
+    "field1": "bác sĩ nam",
     "field2": "các bác sĩ",
-    "field3": "bác sĩ",
-    "field4": "các bác sĩ",
+    "field3": "bác sĩ nữ",
+    "field4": "các bác sĩ nữ",
     "field5": "nha sĩ",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "sức khỏe",
+    "category": "Sức khỏe",
     "imageName": ""
   },
   "168": {
     "cardNumber": "168",
     "field1": "bàn chân",
-    "field2": "bàn chân",
+    "field2": "những bàn chân",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "đi bộ",
-    "field8": "tôi đi bộ đến trường",
-    "category": "sức khỏe"
+    "field8": "Tôi đi bộ đến trường",
+    "category": "Sức khỏe"
   },
   "169": {
     "cardNumber": "169",
@@ -2039,9 +2039,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi bị đau đầu",
+    "field7": "Tôi bị đau đầu",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "170": {
     "cardNumber": "170",
@@ -2053,67 +2053,67 @@
     "field6": "",
     "field7": "một cơ thể thon thả",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "171": {
     "cardNumber": "171",
     "field1": "cái miệng",
-    "field2": "cái miệng",
+    "field2": "những cái miệng",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Hãy mở miệng ra",
+    "field7": "Xin hãy mở miệng ra",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "172": {
     "cardNumber": "172",
     "field1": "cái răng",
-    "field2": "răng",
+    "field2": "những chiếc răng",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đánh răng",
+    "field7": "Tôi đánh răng",
     "field8": "Răng của tôi trắng",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "173": {
     "cardNumber": "173",
     "field1": "bàn tay",
-    "field2": "bàn tay",
+    "field2": "những bàn tay",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "tay phải",
     "field8": "tay trái",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "174": {
     "cardNumber": "174",
     "field1": "cái mũi",
-    "field2": "mũi",
+    "field2": "những cái mũi",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Mũi tôi đang chảy nước",
+    "field7": "Tôi bị sổ mũi",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "175": {
     "cardNumber": "175",
     "field1": "giúp đỡ",
-    "field2": "(giúp-giúp-giúp)",
+    "field2": "(hiện tại: hilft; quá khứ đơn: half; phân từ II: geholfen)",
     "field3": "sự giúp đỡ",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Giúp đỡ!",
+    "field7": "Cứu với!",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "176": {
     "cardNumber": "176",
@@ -2125,7 +2125,7 @@
     "field6": "",
     "field7": "Tôi không nghe thấy gì cả",
     "field8": "Tôi thích nghe nhạc pop",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "177": {
     "cardNumber": "177",
@@ -2135,21 +2135,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Anh không thể sống thiếu em",
+    "field7": "Tôi không thể sống thiếu bạn",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "178": {
     "cardNumber": "178",
-    "field1": "xem",
-    "field2": "(thấy-thấy-thấy)",
+    "field1": "thấy; nhìn",
+    "field2": "(hiện tại: sieht; quá khứ đơn: sah; phân từ II: gesehen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Bạn có thấy điều đó không?",
     "field8": "",
-    "category": "sức khỏe"
+    "category": "Sức khỏe"
   },
   "179": {
     "cardNumber": "179",
@@ -2195,7 +2195,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "trời nắng",
+    "field7": "Trời nắng",
     "field8": "",
     "category": "Thời tiết"
   },
@@ -2207,7 +2207,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "trời nhiều mây",
+    "field7": "Trời nhiều mây",
     "field8": "",
     "category": "Thời tiết"
   },
@@ -2219,7 +2219,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "trời nóng quá",
+    "field7": "Trời nóng quá",
     "field8": "Những ngày thật nóng bức",
     "category": "Thời tiết"
   },
@@ -2231,19 +2231,19 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "trời lạnh",
+    "field7": "Trời lạnh",
     "field8": "Những đêm thật lạnh",
     "category": "Thời tiết"
   },
   "186": {
     "cardNumber": "186",
-    "field1": "mưa",
+    "field1": "mưa; có mưa",
     "field2": "",
     "field3": "mưa",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "trời đang mưa",
+    "field7": "Trời đang mưa",
     "field8": "",
     "category": "Thời tiết"
   },
@@ -2269,7 +2269,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "thiên nhiên",
+    "category": "Thiên nhiên",
     "imageName": ""
   },
   "189": {
@@ -2281,20 +2281,20 @@
     "field5": "",
     "field6": "",
     "field7": "ở vùng núi",
-    "field8": "Tháng ba chúng tôi đi leo núi",
-    "category": "thiên nhiên"
+    "field8": "Vào tháng ba chúng tôi đi đến vùng núi",
+    "category": "Thiên nhiên"
   },
   "190": {
     "cardNumber": "190",
     "field1": "con cá",
-    "field2": "con cá",
+    "field2": "những con cá",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi thích ăn cá",
     "field8": "",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "191": {
     "cardNumber": "191",
@@ -2306,7 +2306,7 @@
     "field6": "",
     "field7": "bên bờ sông",
     "field8": "",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "192": {
     "cardNumber": "192",
@@ -2316,21 +2316,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi thích chó",
+    "field7": "Tôi thích chó",
     "field8": "",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "193": {
     "cardNumber": "193",
     "field1": "biển",
-    "field2": "biển",
+    "field2": "các vùng biển",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "bên bờ biển",
     "field8": "Tôi sẽ đi biển vào tháng 7",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "194": {
     "cardNumber": "194",
@@ -2342,19 +2342,19 @@
     "field6": "",
     "field7": "Có sự sống trên mặt trăng?",
     "field8": "",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "195": {
     "cardNumber": "195",
     "field1": "công viên",
-    "field2": "công viên",
+    "field2": "các công viên",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Chúng tôi đi dạo trong công viên",
     "field8": "",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "196": {
     "cardNumber": "196",
@@ -2364,9 +2364,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "ở hồ",
+    "field7": "bên hồ",
     "field8": "Sabine đi đến hồ",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "197": {
     "cardNumber": "197",
@@ -2376,9 +2376,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Những con chim đang ngồi trên cây",
+    "field7": "Những con chim đậu trên cây",
     "field8": "",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "198": {
     "cardNumber": "198",
@@ -2390,7 +2390,7 @@
     "field6": "",
     "field7": "trong rừng",
     "field8": "Daniel đi vào rừng",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "199": {
     "cardNumber": "199",
@@ -2402,7 +2402,7 @@
     "field6": "",
     "field7": "trên đảo",
     "field8": "",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "200": {
     "cardNumber": "200",
@@ -2412,9 +2412,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn trai tôi không thích mèo",
+    "field7": "Bạn tôi không thích mèo",
     "field8": "",
-    "category": "thiên nhiên"
+    "category": "Thiên nhiên"
   },
   "201": {
     "cardNumber": "201",
@@ -2426,19 +2426,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "202": {
     "cardNumber": "202",
-    "field1": "câu trả lời",
+    "field1": "trả lời",
     "field2": "",
     "field3": "câu trả lời",
-    "field4": "câu trả lời",
+    "field4": "những câu trả lời",
     "field5": "",
     "field6": "",
     "field7": "Tôi không biết câu trả lời",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "203": {
     "cardNumber": "203",
@@ -2446,23 +2446,23 @@
     "field2": "những cuốn sách",
     "field3": "sách giáo khoa",
     "field4": "",
-    "field5": "sổ làm việc",
+    "field5": "sách bài tập",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "204": {
     "cardNumber": "204",
-    "field1": "tập sách nhỏ",
-    "field2": "những cuốn sổ tay",
-    "field3": "sách học",
+    "field1": "quyển vở",
+    "field2": "những quyển vở",
+    "field3": "vở học sinh",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi viết những ghi chú của mình vào một cuốn sổ",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "205": {
     "cardNumber": "205",
@@ -2474,7 +2474,7 @@
     "field6": "",
     "field7": "Tôi đang tham gia một khóa học",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "206": {
     "cardNumber": "206",
@@ -2486,31 +2486,31 @@
     "field6": "",
     "field7": "Xin vui lòng đọc văn bản!",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "207": {
     "cardNumber": "207",
-    "field1": "bài học",
+    "field1": "việc giảng dạy; giờ học",
     "field2": "",
-    "field3": "các bài học tiếng Đức",
+    "field3": "giờ học tiếng Đức",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "lớp học bắt đầu lúc tám giờ",
+    "field7": "Giờ học bắt đầu lúc tám giờ",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "208": {
     "cardNumber": "208",
-    "field1": "nhiệm vụ",
-    "field2": "các nhiệm vụ",
+    "field1": "bài tập; nhiệm vụ",
+    "field2": "các bài tập; các nhiệm vụ",
     "field3": "bài tập về nhà",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đang làm bài tập về nhà",
+    "field7": "Tôi đang làm bài tập về nhà",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "209": {
     "cardNumber": "209",
@@ -2522,32 +2522,32 @@
     "field6": "",
     "field7": "trong thư viện",
     "field8": "Sau giờ học tôi đi đến thư viện",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "210": {
     "cardNumber": "210",
     "field1": "lớp học",
     "field2": "các lớp học",
-    "field3": "lớp học",
+    "field3": "phòng học",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục",
+    "category": "Khoa học và giáo dục",
     "imageName": ""
   },
   "211": {
     "cardNumber": "211",
-    "field1": "ghi chú",
-    "field2": "các ghi chú",
+    "field1": "điểm số",
+    "field2": "các điểm số",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Con gái tôi đạt điểm cao",
+    "field7": "Con gái tôi được điểm tốt",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "212": {
     "cardNumber": "212",
@@ -2559,19 +2559,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "213": {
     "cardNumber": "213",
     "field1": "giờ nghỉ",
-    "field2": "giờ nghỉ",
-    "field3": "bữa trưa",
+    "field2": "những giờ nghỉ",
+    "field3": "bánh mì ăn trong giờ ra chơi",
     "field4": "",
-    "field5": "giờ nghỉ giải lao",
+    "field5": "giờ nghỉ uống cà phê",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "214": {
     "cardNumber": "214",
@@ -2583,7 +2583,7 @@
     "field6": "",
     "field7": "ở trường",
     "field8": "Bruno đã đi học rồi",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "215": {
     "cardNumber": "215",
@@ -2593,9 +2593,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Đây là ở trang 26",
+    "field7": "Điều đó được viết ở trang 26",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "216": {
     "cardNumber": "216",
@@ -2605,9 +2605,9 @@
     "field4": "các trường đại học",
     "field5": "",
     "field6": "",
-    "field7": "tôi học ở trường đại học",
+    "field7": "Tôi học ở trường đại học",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "217": {
     "cardNumber": "217",
@@ -2619,7 +2619,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "218": {
     "cardNumber": "218",
@@ -2631,7 +2631,7 @@
     "field6": "",
     "field7": "Anh ấy là số 1",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "219": {
     "cardNumber": "219",
@@ -2643,7 +2643,7 @@
     "field6": "",
     "field7": "Bây giờ là mười một giờ",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "220": {
     "cardNumber": "220",
@@ -2655,7 +2655,7 @@
     "field6": "",
     "field7": "Tôi có một câu hỏi",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "221": {
     "cardNumber": "221",
@@ -2667,11 +2667,11 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "222": {
     "cardNumber": "222",
-    "field1": "học hỏi",
+    "field1": "học; học hỏi",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2679,19 +2679,19 @@
     "field6": "",
     "field7": "Tôi đang học tiếng Đức",
     "field8": "Tôi không học tiếng Anh nữa",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "223": {
     "cardNumber": "223",
     "field1": "đọc",
-    "field2": "(đọc-đọc-đọc)",
+    "field2": "(hiện tại: liest; quá khứ đơn: las; phân từ II: gelesen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Bạn có thích đọc sách không?",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "224": {
     "cardNumber": "224",
@@ -2703,7 +2703,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "225": {
     "cardNumber": "225",
@@ -2713,21 +2713,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Người này là số không",
+    "field7": "Người này chẳng làm được trò trống gì",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "226": {
     "cardNumber": "226",
     "field1": "viết",
-    "field2": "(viết-viết-viết)",
+    "field2": "(hiện tại: schreibt; quá khứ đơn: schrieb; phân từ II: geschrieben)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Làm thế nào để bạn viết điều đó?",
+    "field7": "Từ đó viết như thế nào?",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "227": {
     "cardNumber": "227",
@@ -2739,7 +2739,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "228": {
     "cardNumber": "228",
@@ -2751,31 +2751,31 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "229": {
     "cardNumber": "229",
-    "field1": "học tập",
+    "field1": "học đại học",
     "field2": "",
     "field3": "sinh viên",
     "field4": "các sinh viên",
     "field5": "",
     "field6": "",
-    "field7": "Bạn đang học gì?",
+    "field7": "Bạn học ngành gì?",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "230": {
     "cardNumber": "230",
-    "field1": "bị lãng quên",
-    "field2": "(quên-quên-quên)",
+    "field1": "quên",
+    "field2": "(hiện tại: vergisst; quá khứ đơn: vergaß; phân từ II: vergessen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Đừng quên cuốn sách toán học của bạn!",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "231": {
     "cardNumber": "231",
@@ -2787,31 +2787,31 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "232": {
     "cardNumber": "232",
     "field1": "lặp lại",
     "field2": "",
     "field3": "sự lặp lại",
-    "field4": "sự lặp lại",
+    "field4": "những lần lặp lại",
     "field5": "",
     "field6": "",
-    "field7": "Bạn có thể vui lòng lặp lại điều đó?",
+    "field7": "Anh/chị có thể nhắc lại điều đó được không?",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "233": {
     "cardNumber": "233",
     "field1": "biết",
-    "field2": "(biết-biết-biết)",
+    "field2": "(hiện tại: weiß; quá khứ đơn: wusste; phân từ II: gewusst)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi không biết",
-    "field8": "Bạn có biết Ralf ở đâu không?",
-    "category": "khoa học và giáo dục"
+    "field7": "Tôi không biết",
+    "field8": "Các bạn có biết Ralf ở đâu không?",
+    "category": "Khoa học và giáo dục"
   },
   "234": {
     "cardNumber": "234",
@@ -2823,7 +2823,7 @@
     "field6": "",
     "field7": "Em gái tôi có thể đếm đến 100",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "235": {
     "cardNumber": "235",
@@ -2835,7 +2835,7 @@
     "field6": "",
     "field7": "Phòng 10",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "236": {
     "cardNumber": "236",
@@ -2847,7 +2847,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "khoa học và giáo dục"
+    "category": "Khoa học và giáo dục"
   },
   "237": {
     "cardNumber": "237",
@@ -2865,7 +2865,7 @@
   "238": {
     "cardNumber": "238",
     "field1": "bức tranh",
-    "field2": "những bức ảnh",
+    "field2": "những bức tranh",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2889,13 +2889,13 @@
   "240": {
     "cardNumber": "240",
     "field1": "rạp chiếu phim",
-    "field2": "rạp chiếu phim",
+    "field2": "các rạp chiếu phim",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "trong rạp chiếu phim",
-    "field8": "Hôm nay bạn có đi xem phim không?",
+    "field8": "Hôm nay các bạn có đi xem phim không?",
     "category": "Văn hóa và nghệ thuật"
   },
   "241": {
@@ -2913,7 +2913,7 @@
   "242": {
     "cardNumber": "242",
     "field1": "buổi hòa nhạc",
-    "field2": "buổi hòa nhạc",
+    "field2": "các buổi hòa nhạc",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2944,13 +2944,13 @@
     "field5": "",
     "field6": "",
     "field7": "trong bảo tàng",
-    "field8": "Ngày mai chúng ta sẽ đi bảo tàng",
+    "field8": "Ngày mai chúng tôi đi bảo tàng",
     "category": "Văn hóa và nghệ thuật"
   },
   "245": {
     "cardNumber": "245",
     "field1": "nhà hát",
-    "field2": "các rạp chiếu phim",
+    "field2": "các nhà hát",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2974,9 +2974,9 @@
   "247": {
     "cardNumber": "247",
     "field1": "máy ảnh",
-    "field2": "máy ảnh",
+    "field2": "những chiếc máy ảnh",
     "field3": "máy ảnh",
-    "field4": "máy ảnh",
+    "field4": "những chiếc máy ảnh",
     "field5": "",
     "field6": "",
     "field7": "Máy ảnh chụp ảnh tốt",
@@ -2991,7 +2991,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi chơi ghi-ta",
+    "field7": "Tôi chơi ghi-ta",
     "field8": "",
     "category": "Văn hóa và nghệ thuật"
   },
@@ -3011,7 +3011,7 @@
   "250": {
     "cardNumber": "250",
     "field1": "nghệ thuật",
-    "field2": "nghệ thuật",
+    "field2": "các bộ môn nghệ thuật",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -3034,7 +3034,7 @@
   },
   "252": {
     "cardNumber": "252",
-    "field1": "sơn",
+    "field1": "vẽ tranh",
     "field2": "",
     "field3": "họa sĩ",
     "field4": "",
@@ -3047,12 +3047,12 @@
   "253": {
     "cardNumber": "253",
     "field1": "hát",
-    "field2": "(hát-sang-sung)",
+    "field2": "(hiện tại: singt; quá khứ đơn: sang; phân từ II: gesungen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Các em hào hứng hát những bài hát mừng Giáng sinh",
+    "field7": "Trẻ em thích hát những bài hát Giáng sinh",
     "field8": "",
     "category": "Văn hóa và nghệ thuật"
   },
@@ -3070,40 +3070,40 @@
   },
   "255": {
     "cardNumber": "255",
-    "field1": "lễ hội",
-    "field2": "lễ hội",
-    "field3": "lễ kỷ niệm gia đình",
+    "field1": "lễ hội; buổi liên hoan",
+    "field2": "các lễ hội; các buổi liên hoan",
+    "field3": "buổi liên hoan gia đình",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "tôn giáo",
+    "category": "Tôn giáo",
     "imageName": ""
   },
   "256": {
     "cardNumber": "256",
     "field1": "lễ Phục sinh",
-    "field2": "lễ Phục sinh",
+    "field2": "các dịp lễ Phục sinh",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Chúc mừng lễ Phục sinh!",
     "field8": "",
-    "category": "tôn giáo"
+    "category": "Tôn giáo"
   },
   "257": {
     "cardNumber": "257",
     "field1": "Giáng sinh",
-    "field2": "Giáng sinh",
-    "field3": "những ngày lễ Giáng sinh",
+    "field2": "các dịp Giáng sinh",
+    "field3": "kỳ nghỉ Giáng sinh",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Giáng sinh vui vẻ!",
     "field8": "",
-    "category": "tôn giáo"
+    "category": "Tôn giáo"
   },
   "258": {
     "cardNumber": "258",
@@ -3115,11 +3115,11 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "tôn giáo"
+    "category": "Tôn giáo"
   },
   "259": {
     "cardNumber": "259",
-    "field1": "vị thần",
+    "field1": "Chúa; thần",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3127,7 +3127,7 @@
     "field6": "",
     "field7": "Cảm ơn Chúa!",
     "field8": "",
-    "category": "tôn giáo"
+    "category": "Tôn giáo"
   },
   "260": {
     "cardNumber": "260",
@@ -3139,7 +3139,7 @@
     "field6": "",
     "field7": "Ông già Noel mang quà vào dịp Giáng sinh",
     "field8": "",
-    "category": "tôn giáo"
+    "category": "Tôn giáo"
   },
   "261": {
     "cardNumber": "261",
@@ -3151,7 +3151,7 @@
     "field6": "",
     "field7": "trong nhà thờ",
     "field8": "Tôi đi nhà thờ vào ngày chủ nhật",
-    "category": "tôn giáo"
+    "category": "Tôn giáo"
   },
   "262": {
     "cardNumber": "262",
@@ -3163,11 +3163,11 @@
     "field6": "",
     "field7": "Đây là một truyền thống của người Đức",
     "field8": "",
-    "category": "tôn giáo"
+    "category": "Tôn giáo"
   },
   "263": {
     "cardNumber": "263",
-    "field1": "thánh thiện",
+    "field1": "thiêng liêng; thánh",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3175,7 +3175,7 @@
     "field6": "",
     "field7": "Đêm Giáng sinh",
     "field8": "vào đêm Giáng sinh",
-    "category": "tôn giáo"
+    "category": "Tôn giáo"
   },
   "264": {
     "cardNumber": "264",
@@ -3186,8 +3186,8 @@
     "field5": "",
     "field6": "",
     "field7": "Hẹn gặp lại bạn vào ngày mai!",
-    "field8": "Hẹn gặp lại bạn sớm!",
-    "category": "thời gian"
+    "field8": "Lát nữa gặp lại!",
+    "category": "Thời gian"
   },
   "265": {
     "cardNumber": "265",
@@ -3199,19 +3199,19 @@
     "field6": "",
     "field7": "hàng năm",
     "field8": "năm nay",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "266": {
     "cardNumber": "266",
-    "field1": "quý",
-    "field2": "khu phố",
+    "field1": "một phần tư",
+    "field2": "những phần tư",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Bây giờ là tám giờ kém mười lăm",
     "field8": "Bây giờ là hai giờ mười lăm",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "267": {
     "cardNumber": "267",
@@ -3222,8 +3222,8 @@
     "field5": "",
     "field6": "",
     "field7": "vào cuối tuần",
-    "field8": "Chúc bạn một ngày cuối tuần vui vẻ!",
-    "category": "thời gian"
+    "field8": "Chúc cuối tuần vui vẻ!",
+    "category": "Thời gian"
   },
   "268": {
     "cardNumber": "268",
@@ -3234,8 +3234,8 @@
     "field5": "",
     "field6": "",
     "field7": "vào buổi tối",
-    "field8": "buổi tối",
-    "category": "thời gian"
+    "field8": "vào các buổi tối",
+    "category": "Thời gian"
   },
   "269": {
     "cardNumber": "269",
@@ -3245,21 +3245,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng Tư",
+    "field7": "vào tháng tư",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "270": {
     "cardNumber": "270",
-    "field1": "tháng Tám",
+    "field1": "tháng tám",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng 8",
+    "field7": "vào tháng tám",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "271": {
     "cardNumber": "271",
@@ -3269,9 +3269,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng 12",
+    "field7": "vào tháng mười hai",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "272": {
     "cardNumber": "272",
@@ -3282,8 +3282,8 @@
     "field5": "",
     "field6": "",
     "field7": "vào thứ ba",
-    "field8": "Thứ Ba",
-    "category": "thời gian"
+    "field8": "vào các ngày thứ ba",
+    "category": "Thời gian"
   },
   "273": {
     "cardNumber": "273",
@@ -3294,8 +3294,8 @@
     "field5": "",
     "field6": "",
     "field7": "vào thứ năm",
-    "field8": "Thứ Năm",
-    "category": "thời gian"
+    "field8": "vào các ngày thứ năm",
+    "category": "Thời gian"
   },
   "274": {
     "cardNumber": "274",
@@ -3305,57 +3305,57 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng Hai",
+    "field7": "vào tháng hai",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "275": {
     "cardNumber": "275",
     "field1": "thứ sáu",
-    "field2": "những ngày thứ Sáu",
+    "field2": "những ngày thứ sáu",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "vào thứ sáu",
-    "field8": "thứ sáu",
-    "category": "thời gian"
+    "field8": "vào các ngày thứ sáu",
+    "category": "Thời gian"
   },
   "276": {
     "cardNumber": "276",
     "field1": "mùa xuân",
-    "field2": "lò xo",
+    "field2": "những mùa xuân",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "vào mùa xuân",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "277": {
     "cardNumber": "277",
     "field1": "mùa thu",
-    "field2": "mùa thu",
+    "field2": "những mùa thu",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "vào mùa thu",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "278": {
     "cardNumber": "278",
-    "field1": "tháng Giêng",
+    "field1": "tháng một",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng Giêng",
+    "field7": "vào tháng một",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "279": {
     "cardNumber": "279",
@@ -3367,7 +3367,7 @@
     "field6": "",
     "field7": "vào tháng bảy",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "280": {
     "cardNumber": "280",
@@ -3379,19 +3379,19 @@
     "field6": "",
     "field7": "vào tháng sáu",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "281": {
     "cardNumber": "281",
-    "field1": "tháng 5",
+    "field1": "tháng năm",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng Năm",
+    "field7": "vào tháng năm",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "282": {
     "cardNumber": "282",
@@ -3403,7 +3403,7 @@
     "field6": "",
     "field7": "vào tháng ba",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "283": {
     "cardNumber": "283",
@@ -3415,19 +3415,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "284": {
     "cardNumber": "284",
     "field1": "thứ tư",
-    "field2": "những ngày thứ Tư",
+    "field2": "những ngày thứ tư",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào thứ Tư",
-    "field8": "Thứ Tư",
-    "category": "thời gian"
+    "field7": "vào thứ tư",
+    "field8": "vào các ngày thứ tư",
+    "category": "Thời gian"
   },
   "285": {
     "cardNumber": "285",
@@ -3439,43 +3439,43 @@
     "field6": "",
     "field7": "mỗi tháng",
     "field8": "sau một tháng",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "286": {
     "cardNumber": "286",
     "field1": "thứ hai",
-    "field2": "hội đồng",
+    "field2": "những ngày thứ hai",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào thứ Hai",
-    "field8": "Thứ Hai",
-    "category": "thời gian"
+    "field7": "vào thứ hai",
+    "field8": "vào các ngày thứ hai",
+    "category": "Thời gian"
   },
   "287": {
     "cardNumber": "287",
     "field1": "buổi sáng",
-    "field2": "buổi sáng",
+    "field2": "những buổi sáng",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "vào buổi sáng",
-    "field8": "buổi sáng",
-    "category": "thời gian"
+    "field8": "vào các buổi sáng",
+    "category": "Thời gian"
   },
   "288": {
     "cardNumber": "288",
-    "field1": "tháng 11",
+    "field1": "tháng mười một",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng 11",
+    "field7": "vào tháng mười một",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "289": {
     "cardNumber": "289",
@@ -3485,21 +3485,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng 10",
+    "field7": "vào tháng mười",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "290": {
     "cardNumber": "290",
     "field1": "thứ bảy",
-    "field2": "những ngày thứ Bảy",
+    "field2": "những ngày thứ bảy",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "vào thứ bảy",
-    "field8": "thứ bảy",
-    "category": "thời gian"
+    "field8": "vào các ngày thứ bảy",
+    "category": "Thời gian"
   },
   "291": {
     "cardNumber": "291",
@@ -3509,21 +3509,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào tháng 9",
+    "field7": "vào tháng chín",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "292": {
     "cardNumber": "292",
     "field1": "mùa hè",
-    "field2": "mùa hè",
+    "field2": "những mùa hè",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "vào mùa hè",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "293": {
     "cardNumber": "293",
@@ -3533,9 +3533,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "vào Chủ Nhật",
-    "field8": "chủ nhật",
-    "category": "thời gian"
+    "field7": "vào chủ nhật",
+    "field8": "vào các ngày chủ nhật",
+    "category": "Thời gian"
   },
   "294": {
     "cardNumber": "294",
@@ -3547,19 +3547,19 @@
     "field6": "",
     "field7": "mỗi ngày",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "295": {
     "cardNumber": "295",
     "field1": "mùa đông",
-    "field2": "mùa đông",
+    "field2": "những mùa đông",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "vào mùa đông",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "296": {
     "cardNumber": "296",
@@ -3571,31 +3571,31 @@
     "field6": "",
     "field7": "vào ban đêm",
     "field8": "vào ban đêm",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "297": {
     "cardNumber": "297",
     "field1": "giờ",
-    "field2": "giờ",
+    "field2": "những giờ",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "hai giờ",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "298": {
     "cardNumber": "298",
     "field1": "đồng hồ",
     "field2": "",
     "field3": "đồng hồ",
-    "field4": "đồng hồ",
+    "field4": "những chiếc đồng hồ",
     "field5": "",
     "field6": "",
     "field7": "Bây giờ là mấy giờ?",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "299": {
     "cardNumber": "299",
@@ -3607,19 +3607,19 @@
     "field6": "",
     "field7": "mỗi tuần",
     "field8": "một tuần trước",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "300": {
     "cardNumber": "300",
     "field1": "thời gian",
-    "field2": "thời đại",
+    "field2": "những thời kỳ",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi không có thời gian",
     "field8": "Khi nào bạn có thời gian?",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "301": {
     "cardNumber": "301",
@@ -3631,7 +3631,7 @@
     "field6": "",
     "field7": "từ sáng sớm đến tối muộn",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "302": {
     "cardNumber": "302",
@@ -3643,7 +3643,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "303": {
     "cardNumber": "303",
@@ -3655,7 +3655,7 @@
     "field6": "",
     "field7": "sáng nay",
     "field8": "tối nay",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "304": {
     "cardNumber": "304",
@@ -3667,7 +3667,7 @@
     "field6": "",
     "field7": "mãi mãi",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "305": {
     "cardNumber": "305",
@@ -3679,19 +3679,19 @@
     "field6": "",
     "field7": "Bây giờ bạn đang làm gì?",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "306": {
     "cardNumber": "306",
     "field1": "ngày mai",
     "field2": "",
-    "field3": "ngày mốt",
+    "field3": "ngày kia",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "307": {
     "cardNumber": "307",
@@ -3701,13 +3701,13 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "muộn rồi",
+    "field7": "Muộn rồi",
     "field8": "Bây giờ là mấy giờ?",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "308": {
     "cardNumber": "308",
-    "field1": "xung quanh",
+    "field1": "vào lúc (giờ)",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -3715,7 +3715,7 @@
     "field6": "",
     "field7": "Mấy giờ?",
     "field8": "Vào lúc một giờ/lúc một giờ",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "309": {
     "cardNumber": "309",
@@ -3727,19 +3727,19 @@
     "field6": "",
     "field7": "Khi nào bạn đến?",
     "field8": "",
-    "category": "thời gian"
+    "category": "Thời gian"
   },
   "310": {
     "cardNumber": "310",
     "field1": "kilôgam",
-    "field2": "số kilôgam",
-    "field3": "kg",
-    "field4": "(các) kilôgam",
+    "field2": "các kilôgam",
+    "field3": "kilô",
+    "field4": "các kilô",
     "field5": "",
     "field6": "",
     "field7": "hai kg táo",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "311": {
     "cardNumber": "311",
@@ -3751,43 +3751,43 @@
     "field6": "",
     "field7": "một miếng bánh",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "312": {
     "cardNumber": "312",
     "field1": "lít",
-    "field2": "lít",
+    "field2": "các lít",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "hai lít sữa",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "313": {
     "cardNumber": "313",
-    "field1": "đồng hồ đo",
-    "field2": "mét",
-    "field3": "centimet",
+    "field1": "mét",
+    "field2": "các mét",
+    "field3": "xentimét",
     "field4": "",
-    "field5": "cây số",
+    "field5": "kilômét",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "314": {
     "cardNumber": "314",
     "field1": "cái lon",
-    "field2": "cái lon",
+    "field2": "những cái lon",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "một lon bia",
-    "field8": "một lon bia",
-    "category": "Kích thước"
+    "field8": "lon đựng bia",
+    "category": "Đo lường"
   },
   "315": {
     "cardNumber": "315",
@@ -3798,8 +3798,8 @@
     "field5": "",
     "field6": "",
     "field7": "một chai sữa",
-    "field8": "một chai sữa",
-    "category": "Kích thước"
+    "field8": "chai đựng sữa",
+    "category": "Đo lường"
   },
   "316": {
     "cardNumber": "316",
@@ -3811,7 +3811,7 @@
     "field6": "",
     "field7": "một gói bánh quy",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "317": {
     "cardNumber": "317",
@@ -3821,9 +3821,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn có cần một cái túi không?",
+    "field7": "Anh/chị có cần một chiếc túi không?",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "318": {
     "cardNumber": "318",
@@ -3835,7 +3835,7 @@
     "field6": "",
     "field7": "Phim quá ngắn",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "319": {
     "cardNumber": "319",
@@ -3847,7 +3847,7 @@
     "field6": "",
     "field7": "Váy quá dài",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "320": {
     "cardNumber": "320",
@@ -3859,7 +3859,7 @@
     "field6": "",
     "field7": "Ba lô nhẹ",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "321": {
     "cardNumber": "321",
@@ -3871,7 +3871,7 @@
     "field6": "",
     "field7": "Những chiếc vali này có nặng không?",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "322": {
     "cardNumber": "322",
@@ -3883,7 +3883,7 @@
     "field6": "",
     "field7": "Tôi có rất nhiều việc phải làm/Tôi có rất nhiều việc phải làm",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "323": {
     "cardNumber": "323",
@@ -3895,68 +3895,68 @@
     "field6": "",
     "field7": "Tôi có ít thời gian",
     "field8": "",
-    "category": "Kích thước"
+    "category": "Đo lường"
   },
   "324": {
     "cardNumber": "324",
-    "field1": "tờ giấy",
-    "field2": "những chiếc lá",
+    "field1": "tờ; lá",
+    "field2": "những tờ; những chiếc lá",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "một mảnh giấy",
+    "field7": "một tờ giấy",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "325": {
     "cardNumber": "325",
-    "field1": "người cai trị",
-    "field2": "những người cai trị",
+    "field1": "thước kẻ",
+    "field2": "những chiếc thước kẻ",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi không thể tìm thấy thước kẻ của mình",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "326": {
     "cardNumber": "326",
     "field1": "đồ chơi",
-    "field2": "đồ chơi",
+    "field2": "những món đồ chơi",
     "field3": "đồ chơi yêu thích",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Mặt hàng",
+    "category": "Đồ vật",
     "imageName": ""
   },
   "327": {
     "cardNumber": "327",
     "field1": "bút bi",
     "field2": "những chiếc bút bi",
-    "field3": "cu li",
-    "field4": "những người cu li",
+    "field3": "bút bi",
+    "field4": "những chiếc bút bi",
     "field5": "",
     "field6": "",
-    "field7": "Cây bút của tôi đâu?",
+    "field7": "Bút bi của tôi đâu?",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "328": {
     "cardNumber": "328",
     "field1": "cục tẩy",
-    "field2": "cục tẩy",
+    "field2": "những cục tẩy",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Bạn có một cục tẩy không?",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "329": {
     "cardNumber": "329",
@@ -3968,7 +3968,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Mặt hàng",
+    "category": "Đồ vật",
     "imageName": ""
   },
   "330": {
@@ -3981,43 +3981,43 @@
     "field6": "",
     "field7": "Andrea chơi với búp bê",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "331": {
     "cardNumber": "331",
-    "field1": "điều đó",
+    "field1": "đồ vật; sự việc",
     "field2": "những thứ",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Đây là những thứ của tôi",
-    "field8": "Đóng gói mọi thứ của bạn!",
-    "category": "Mặt hàng"
+    "field7": "Đây là đồ đạc của tôi",
+    "field8": "Hãy thu dọn đồ đạc của bạn!",
+    "category": "Đồ vật"
   },
   "332": {
     "cardNumber": "332",
     "field1": "cái kéo",
-    "field2": "cái kéo",
+    "field2": "những cái kéo",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "một chiếc kéo sắc bén",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "333": {
     "cardNumber": "333",
     "field1": "tìm thấy",
-    "field2": "(tìm-tìm thấy-tìm thấy)",
+    "field2": "(hiện tại: findet; quá khứ đơn: fand; phân từ II: gefunden)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi không thể tìm thấy kính của tôi",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "334": {
     "cardNumber": "334",
@@ -4029,7 +4029,7 @@
     "field6": "",
     "field7": "Tòa nhà này mới",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "335": {
     "cardNumber": "335",
@@ -4041,31 +4041,31 @@
     "field6": "",
     "field7": "Bạn đang tìm kiếm gì?",
     "field8": "Bạn đang tìm kiếm ai?",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "336": {
     "cardNumber": "336",
-    "field1": "thua",
-    "field2": "(thua-thua-thua)",
+    "field1": "làm mất; mất; thua",
+    "field2": "(hiện tại: verliert; quá khứ đơn: verlor; phân từ II: verloren)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi thường xuyên làm mất chìa khóa",
     "field8": "",
-    "category": "Mặt hàng"
+    "category": "Đồ vật"
   },
   "337": {
     "cardNumber": "337",
-    "field1": "màu xanh",
+    "field1": "xanh dương",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "xanh đậm",
-    "field8": "Tôi có đôi mắt xanh",
-    "category": "Vải và vật liệu"
+    "field7": "xanh dương đậm",
+    "field8": "Tôi có đôi mắt xanh dương",
+    "category": "Chất và vật liệu"
   },
   "338": {
     "cardNumber": "338",
@@ -4077,7 +4077,7 @@
     "field6": "",
     "field7": "Cha tôi có đôi mắt nâu",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "339": {
     "cardNumber": "339",
@@ -4089,11 +4089,11 @@
     "field6": "",
     "field7": "Bức tranh đầy màu sắc và hài hước",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "340": {
     "cardNumber": "340",
-    "field1": "cái kính",
+    "field1": "thủy tinh",
     "field2": "",
     "field3": "cửa kính",
     "field4": "",
@@ -4101,24 +4101,24 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "341": {
     "cardNumber": "341",
     "field1": "kim loại",
-    "field2": "kim loại",
+    "field2": "các kim loại",
     "field3": "kệ kim loại",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Vải và vật liệu",
+    "category": "Chất và vật liệu",
     "imageName": ""
   },
   "342": {
     "cardNumber": "342",
-    "field1": "tờ giấy",
+    "field1": "giấy",
     "field2": "",
     "field3": "giấy vệ sinh",
     "field4": "",
@@ -4126,7 +4126,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "343": {
     "cardNumber": "343",
@@ -4138,19 +4138,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "344": {
     "cardNumber": "344",
     "field1": "màu sắc",
-    "field2": "màu sắc",
+    "field2": "các màu sắc",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Bạn thích màu nào nhất?",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "345": {
     "cardNumber": "345",
@@ -4162,7 +4162,7 @@
     "field6": "",
     "field7": "Trời tối",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "346": {
     "cardNumber": "346",
@@ -4174,7 +4174,7 @@
     "field6": "",
     "field7": "đèn vàng (đèn giao thông)",
     "field8": "Có những bông hoa màu vàng trên bàn",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "347": {
     "cardNumber": "347",
@@ -4186,7 +4186,7 @@
     "field6": "",
     "field7": "Inge có đôi mắt màu xanh lá cây",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "348": {
     "cardNumber": "348",
@@ -4196,9 +4196,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "xanh nhạt",
+    "field7": "xanh dương nhạt",
     "field8": "một căn phòng sáng sủa",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "349": {
     "cardNumber": "349",
@@ -4210,7 +4210,7 @@
     "field6": "",
     "field7": "Anh ấy có mái tóc đỏ",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "350": {
     "cardNumber": "350",
@@ -4222,7 +4222,7 @@
     "field6": "",
     "field7": "đen và trắng",
     "field8": "một bức ảnh đen trắng",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "351": {
     "cardNumber": "351",
@@ -4234,14 +4234,14 @@
     "field6": "",
     "field7": "trắng như tuyết",
     "field8": "",
-    "category": "Vải và vật liệu"
+    "category": "Chất và vật liệu"
   },
   "352": {
     "cardNumber": "352",
     "field1": "chiếc xe đạp",
     "field2": "những chiếc xe đạp",
-    "field3": "bánh xe",
-    "field4": "các bánh xe",
+    "field3": "xe đạp; bánh xe",
+    "field4": "những chiếc xe đạp; các bánh xe",
     "field5": "",
     "field6": "",
     "field7": "Tôi thích đạp xe",
@@ -4251,7 +4251,7 @@
   "353": {
     "cardNumber": "353",
     "field1": "sở thích",
-    "field2": "sở thích",
+    "field2": "các sở thích",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -4280,7 +4280,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Ngày mai chúng ta sẽ chơi quần vợt",
+    "field7": "Ngày mai chúng tôi chơi quần vợt",
     "field8": "",
     "category": "Thể thao và giải trí"
   },
@@ -4292,7 +4292,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bọn trẻ chơi bóng ở sân trường",
+    "field7": "Bọn trẻ chơi bóng trong sân",
     "field8": "",
     "category": "Thể thao và giải trí"
   },
@@ -4316,16 +4316,16 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi chơi bóng đá",
+    "field7": "Tôi chơi bóng đá",
     "field8": "",
     "category": "Thể thao và giải trí"
   },
   "359": {
     "cardNumber": "359",
-    "field1": "ván trượt",
-    "field2": "ván trượt",
-    "field3": "trượt tuyết",
-    "field4": "ván trượt",
+    "field1": "ván trượt tuyết",
+    "field2": "những chiếc ván trượt tuyết",
+    "field3": "ván trượt tuyết",
+    "field4": "những chiếc ván trượt tuyết",
     "field5": "",
     "field6": "",
     "field7": "Tôi thích trượt tuyết",
@@ -4346,11 +4346,11 @@
   },
   "361": {
     "cardNumber": "361",
-    "field1": "môn thể thao",
+    "field1": "thể thao",
     "field2": "",
     "field3": "vận động viên",
     "field4": "các vận động viên",
-    "field5": "thể thao",
+    "field5": "thuộc thể thao; có tinh thần thể thao",
     "field6": "",
     "field7": "",
     "field8": "",
@@ -4382,7 +4382,7 @@
   },
   "364": {
     "cardNumber": "364",
-    "field1": "thời gian giải trí",
+    "field1": "thời gian rảnh",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4394,13 +4394,13 @@
   },
   "365": {
     "cardNumber": "365",
-    "field1": "vui vẻ",
+    "field1": "thích; sẵn lòng",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi thích đi du lịch",
+    "field7": "Tôi thích đi du lịch",
     "field8": "Tôi thích xem TV",
     "category": "Thể thao và giải trí"
   },
@@ -4413,7 +4413,7 @@
     "field5": "",
     "field6": "",
     "field7": "Bạn có thể giúp tôi được không?",
-    "field8": "tôi không biết bơi",
+    "field8": "Tôi không biết bơi",
     "category": "Thể thao và giải trí"
   },
   "367": {
@@ -4430,7 +4430,7 @@
   },
   "368": {
     "cardNumber": "368",
-    "field1": "thu thập",
+    "field1": "sưu tầm; thu thập",
     "field2": "",
     "field3": "bộ sưu tập",
     "field4": "các bộ sưu tập",
@@ -4443,12 +4443,12 @@
   "369": {
     "cardNumber": "369",
     "field1": "bơi lội",
-    "field2": "(bơi-bọt biển-bơi)",
+    "field2": "(hiện tại: schwimmt; quá khứ đơn: schwamm; phân từ II: geschwommen)",
     "field3": "hồ bơi",
     "field4": "các hồ bơi",
     "field5": "",
     "field6": "",
-    "field7": "Vào thứ Ba tôi đi đến bể bơi",
+    "field7": "Vào các ngày thứ ba tôi đi bơi ở hồ bơi",
     "field8": "",
     "category": "Thể thao và giải trí"
   },
@@ -4471,7 +4471,7 @@
     "field3": "trò chơi",
     "field4": "các trò chơi",
     "field5": "người chơi",
-    "field6": "các cầu thủ",
+    "field6": "những người chơi",
     "field7": "",
     "field8": "",
     "category": "Thể thao và giải trí"
@@ -4504,25 +4504,25 @@
     "cardNumber": "374",
     "field1": "Mỹ",
     "field2": "",
-    "field3": "người Mỹ, người phụ nữ Mỹ",
-    "field4": "người Mỹ, phụ nữ Mỹ",
-    "field5": "người Mỹ",
+    "field3": "người đàn ông Mỹ, người phụ nữ Mỹ",
+    "field4": "những người đàn ông Mỹ, những người phụ nữ Mỹ",
+    "field5": "thuộc Mỹ",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "375": {
     "cardNumber": "375",
     "field1": "nước ngoài",
     "field2": "",
     "field3": "người nước ngoài",
-    "field4": "người nước ngoài",
+    "field4": "những người nước ngoài",
     "field5": "nước ngoài",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "376": {
     "cardNumber": "376",
@@ -4534,7 +4534,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "377": {
     "cardNumber": "377",
@@ -4546,7 +4546,7 @@
     "field6": "",
     "field7": "trong khách sạn",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "378": {
     "cardNumber": "378",
@@ -4558,7 +4558,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch",
+    "category": "Du lịch",
     "imageName": ""
   },
   "379": {
@@ -4571,43 +4571,43 @@
     "field6": "",
     "field7": "Chiếc vali có đủ lớn không?",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "380": {
     "cardNumber": "380",
     "field1": "hộ chiếu",
-    "field2": "hộ chiếu",
+    "field2": "những cuốn hộ chiếu",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Tôi mang theo hộ chiếu và sách hướng dẫn",
+    "field7": "Tôi mang theo hộ chiếu và sách hướng dẫn du lịch",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "381": {
     "cardNumber": "381",
     "field1": "kỳ nghỉ",
-    "field2": "những ngày nghỉ",
+    "field2": "những kỳ nghỉ",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đang đi nghỉ",
+    "field7": "Tôi đang đi nghỉ",
     "field8": "Chúng tôi sẽ đi biển vào kỳ nghỉ",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "382": {
     "cardNumber": "382",
     "field1": "nước Đức",
     "field2": "",
-    "field3": "cái, người Đức",
-    "field4": "người Đức",
-    "field5": "tiếng Đức",
+    "field3": "người Đức (nam hoặc nữ)",
+    "field4": "những người Đức",
+    "field5": "thuộc Đức; tiếng Đức",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "383": {
     "cardNumber": "383",
@@ -4618,96 +4618,96 @@
     "field5": "",
     "field6": "",
     "field7": "Chúng tôi đang đi nghỉ",
-    "field8": "Bạn đang đi đâu vào kỳ nghỉ?",
-    "category": "du lịch"
+    "field8": "Các bạn đi đâu trong kỳ nghỉ?",
+    "category": "Du lịch"
   },
   "384": {
     "cardNumber": "384",
     "field1": "Thụy Sĩ",
     "field2": "",
-    "field3": "người Thụy Sĩ, người phụ nữ Thụy Sĩ",
-    "field4": "người Thụy Sĩ, người Thụy Sĩ",
-    "field5": "người Thụy Sĩ",
+    "field3": "người đàn ông Thụy Sĩ, người phụ nữ Thụy Sĩ",
+    "field4": "những người đàn ông Thụy Sĩ, những người phụ nữ Thụy Sĩ",
+    "field5": "thuộc Thụy Sĩ",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "385": {
     "cardNumber": "385",
     "field1": "nước Anh",
     "field2": "",
-    "field3": "người Anh, người phụ nữ Anh",
-    "field4": "người Anh, phụ nữ Anh",
-    "field5": "Tiếng Anh",
+    "field3": "người đàn ông Anh, người phụ nữ Anh",
+    "field4": "những người đàn ông Anh, những người phụ nữ Anh",
+    "field5": "thuộc Anh; tiếng Anh",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "386": {
     "cardNumber": "386",
     "field1": "Pháp",
     "field2": "",
-    "field3": "người Pháp, người phụ nữ Pháp",
-    "field4": "người Pháp, phụ nữ Pháp",
-    "field5": "người Pháp",
+    "field3": "người đàn ông Pháp, người phụ nữ Pháp",
+    "field4": "những người đàn ông Pháp, những người phụ nữ Pháp",
+    "field5": "thuộc Pháp; tiếng Pháp",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "387": {
     "cardNumber": "387",
     "field1": "Ý",
     "field2": "",
-    "field3": "người Ý, người phụ nữ Ý",
-    "field4": "người Ý, phụ nữ Ý",
-    "field5": "người Ý",
+    "field3": "người đàn ông Ý, người phụ nữ Ý",
+    "field4": "những người đàn ông Ý, những người phụ nữ Ý",
+    "field5": "thuộc Ý; tiếng Ý",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "388": {
     "cardNumber": "388",
     "field1": "lấy",
-    "field2": "(lấy-lấy-lấy)",
+    "field2": "(hiện tại: nimmt; quá khứ đơn: nahm; phân từ II: genommen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Bạn đang mang theo những gì?",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "389": {
     "cardNumber": "389",
     "field1": "Áo",
     "field2": "",
-    "field3": "người Áo, người phụ nữ Áo",
-    "field4": "người Áo, phụ nữ Áo",
-    "field5": "Áo",
+    "field3": "người đàn ông Áo, người phụ nữ Áo",
+    "field4": "những người đàn ông Áo, những người phụ nữ Áo",
+    "field5": "thuộc Áo",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "390": {
     "cardNumber": "390",
-    "field1": "gói",
+    "field1": "đóng gói; xếp hành lý",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Chúng ta vẫn phải đóng gói đồ đạc",
+    "field7": "Chúng tôi vẫn phải xếp hành lý vào vali",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "391": {
     "cardNumber": "391",
-    "field1": "kế hoạch",
+    "field1": "lên kế hoạch",
     "field2": "",
     "field3": "kế hoạch",
     "field4": "các kế hoạch",
@@ -4715,19 +4715,19 @@
     "field6": "",
     "field7": "Tôi đang lên kế hoạch cho chuyến đi tiếp theo",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "392": {
     "cardNumber": "392",
     "field1": "Ba Lan",
     "field2": "",
-    "field3": "người Ba Lan, người phụ nữ Ba Lan",
-    "field4": "người Ba Lan, phụ nữ Ba Lan",
-    "field5": "tiếng Ba Lan",
+    "field3": "người đàn ông Ba Lan, người phụ nữ Ba Lan",
+    "field4": "những người đàn ông Ba Lan, những người phụ nữ Ba Lan",
+    "field5": "thuộc Ba Lan; tiếng Ba Lan",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "393": {
     "cardNumber": "393",
@@ -4739,72 +4739,72 @@
     "field6": "",
     "field7": "Chúc bạn có một chuyến đi vui vẻ!",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "394": {
     "cardNumber": "394",
-    "field1": "dự trữ",
+    "field1": "đặt trước; đặt chỗ",
     "field2": "",
     "field3": "việc đặt chỗ",
-    "field4": "sự đặt chỗ",
+    "field4": "những lần đặt chỗ",
     "field5": "",
     "field6": "",
     "field7": "Tôi muốn đặt một phòng",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "395": {
     "cardNumber": "395",
     "field1": "Nga",
     "field2": "",
-    "field3": "người Nga, người đàn bà Nga",
-    "field4": "người Nga, phụ nữ Nga",
-    "field5": "tiếng Nga",
+    "field3": "người đàn ông Nga, người phụ nữ Nga",
+    "field4": "những người đàn ông Nga, những người phụ nữ Nga",
+    "field5": "thuộc Nga; tiếng Nga",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "396": {
     "cardNumber": "396",
     "field1": "Tây Ban Nha",
     "field2": "",
-    "field3": "người Tây Ban Nha, người Tây Ban Nha",
-    "field4": "người Tây Ban Nha, phụ nữ Tây Ban Nha",
+    "field3": "người đàn ông Tây Ban Nha, người phụ nữ Tây Ban Nha",
+    "field4": "những người đàn ông Tây Ban Nha, những người phụ nữ Tây Ban Nha",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "397": {
     "cardNumber": "397",
     "field1": "nói",
-    "field2": "(nói-nói-nói)",
+    "field2": "(hiện tại: spricht; quá khứ đơn: sprach; phân từ II: gesprochen)",
     "field3": "ngôn ngữ",
     "field4": "các ngôn ngữ",
-    "field5": "ngôn ngữ bản địa",
+    "field5": "tiếng mẹ đẻ",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "du lịch",
+    "category": "Du lịch",
     "imageName": ""
   },
   "398": {
     "cardNumber": "398",
-    "field1": "chi tiêu",
-    "field2": "(tiêu-tiêu-tiêu)",
+    "field1": "dành; trải qua (thời gian)",
+    "field2": "(hiện tại: verbringt; quá khứ đơn: verbrachte; phân từ II: verbracht)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi đang dành kỳ nghỉ của mình bên bờ biển",
     "field8": "",
-    "category": "du lịch"
+    "category": "Du lịch"
   },
   "399": {
     "cardNumber": "399",
-    "field1": "trên",
+    "field1": "sát; bên; lên (bề mặt thẳng đứng)",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4812,7 +4812,7 @@
     "field6": "",
     "field7": "Anh ấy treo bức tranh lên tường",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "400": {
     "cardNumber": "400",
@@ -4824,67 +4824,67 @@
     "field6": "",
     "field7": "Cuốn sách ở trên bàn",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "401": {
     "cardNumber": "401",
-    "field1": "ra ngoài",
+    "field1": "từ; ra khỏi",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đến từ Berlin",
+    "field7": "Tôi đến từ Berlin",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "402": {
     "cardNumber": "402",
-    "field1": "tại",
+    "field1": "ở chỗ; gần; bên cạnh",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bưu điện nằm ở ga xe lửa",
+    "field7": "Bưu điện ở gần ga xe lửa",
     "field8": "Hôm nay tôi ở với dì tôi",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "403": {
     "cardNumber": "403",
     "field1": "ở đó",
     "field2": "",
-    "field3": "ở đó",
+    "field3": "đến đó",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi sẽ đến đó",
+    "field7": "Tôi sẽ đến đó",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "404": {
     "cardNumber": "404",
     "field1": "đi",
-    "field2": "(đi-đi-đi)",
+    "field2": "(hiện tại: geht; quá khứ đơn: ging; phân từ II: gegangen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đi học",
-    "field8": "tôi đang đi làm",
-    "category": "Xác định chuyển động và vị trí"
+    "field7": "Tôi đi học",
+    "field8": "Tôi đang đi làm",
+    "category": "Di chuyển và định vị"
   },
   "405": {
     "cardNumber": "405",
     "field1": "ở đây",
     "field2": "",
-    "field3": "ở đây",
+    "field3": "đến đây",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi ở đây",
+    "field7": "Tôi ở đây",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "406": {
     "cardNumber": "406",
@@ -4896,35 +4896,35 @@
     "field6": "",
     "field7": "Tôi đang ở trong nhà",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "407": {
     "cardNumber": "407",
     "field1": "đến",
-    "field2": "(đến-đến-đến)",
+    "field2": "(hiện tại: kommt; quá khứ đơn: kam; phân từ II: gekommen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tàu đến muộn",
     "field8": "Bạn đến từ đâu?",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "408": {
     "cardNumber": "408",
-    "field1": "nói dối",
-    "field2": "(dối-dối-dối)",
+    "field1": "nằm; được đặt nằm; ở",
+    "field2": "(hiện tại: liegt; quá khứ đơn: lag; phân từ II: gelegen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Tại sao cái này lại ở đây?",
+    "field7": "Tại sao thứ này lại nằm ở đây?",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "409": {
     "cardNumber": "409",
-    "field1": "sau",
+    "field1": "đến; về; sau",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4932,7 +4932,7 @@
     "field6": "",
     "field7": "Anh ấy đang bay tới Đức",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "410": {
     "cardNumber": "410",
@@ -4944,19 +4944,19 @@
     "field6": "",
     "field7": "Bãi đỗ xe nằm ngay cạnh nhà",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "411": {
     "cardNumber": "411",
     "field1": "ngồi",
-    "field2": "(ngồi-ngồi-ngồi)",
+    "field2": "(hiện tại: sitzt; quá khứ đơn: saß; phân từ II: gesessen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi đang ngồi trên ghế",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "412": {
     "cardNumber": "412",
@@ -4968,11 +4968,11 @@
     "field6": "",
     "field7": "Bạn đang ở đâu?",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "413": {
     "cardNumber": "413",
-    "field1": "ở đâu",
+    "field1": "đến đâu",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4980,11 +4980,11 @@
     "field6": "",
     "field7": "Bạn đang đi đâu?",
     "field8": "",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "414": {
     "cardNumber": "414",
-    "field1": "để",
+    "field1": "đến; tới",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -4992,12 +4992,12 @@
     "field6": "",
     "field7": "Tôi đang đi gặp bác sĩ",
     "field8": "Ngày mai tôi sẽ đến thăm",
-    "category": "Xác định chuyển động và vị trí"
+    "category": "Di chuyển và định vị"
   },
   "415": {
     "cardNumber": "415",
-    "field1": "chiếc xe",
-    "field2": "những chiếc xe",
+    "field1": "ô tô",
+    "field2": "những chiếc ô tô",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -5014,20 +5014,20 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn đang bay bằng máy bay hay lái ô tô?",
+    "field7": "Các bạn đi bằng máy bay hay ô tô?",
     "field8": "",
     "category": "Giao thông vận tải"
   },
   "417": {
     "cardNumber": "417",
-    "field1": "con tàu",
-    "field2": "những con tàu",
+    "field1": "tàu thủy",
+    "field2": "những con tàu thủy",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Tôi không thích đi du lịch bằng tàu",
-    "field8": "Những con tàu đang ở bến cảng",
+    "field7": "Tôi không thích đi bằng tàu thủy",
+    "field8": "Những con tàu thủy neo ở cảng",
     "category": "Giao thông vận tải"
   },
   "418": {
@@ -5050,7 +5050,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đang ở sân bay",
+    "field7": "Tôi đang ở sân bay",
     "field8": "Bạn đang đi đến sân bay?",
     "category": "Giao thông vận tải"
   },
@@ -5069,7 +5069,7 @@
   },
   "421": {
     "cardNumber": "421",
-    "field1": "tàu",
+    "field1": "tàu hỏa",
     "field2": "những chuyến tàu",
     "field3": "",
     "field4": "",
@@ -5081,8 +5081,8 @@
   },
   "422": {
     "cardNumber": "422",
-    "field1": "cái thẻ",
-    "field2": "những tấm thẻ",
+    "field1": "thẻ; vé; bản đồ",
+    "field2": "những tấm thẻ; những tấm vé; các bản đồ",
     "field3": "vé",
     "field4": "",
     "field5": "vé xem phim",
@@ -5093,10 +5093,10 @@
   },
   "423": {
     "cardNumber": "423",
-    "field1": "lái xe",
-    "field2": "(lái-lái-lái)",
+    "field1": "đi bằng phương tiện; lái xe",
+    "field2": "(hiện tại: fährt; quá khứ đơn: fuhr; phân từ II: gefahren)",
     "field3": "người lái xe",
-    "field4": "các trình điều khiển",
+    "field4": "những người lái xe",
     "field5": "",
     "field6": "",
     "field7": "Bạn đang đi đâu?",
@@ -5106,7 +5106,7 @@
   "424": {
     "cardNumber": "424",
     "field1": "bay",
-    "field2": "(ruồi-bay-bay)",
+    "field2": "(hiện tại: fliegt; quá khứ đơn: flog; phân từ II: geflogen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -5149,7 +5149,7 @@
     "field6": "",
     "field7": "Chúng tôi đang xây một ngôi nhà",
     "field8": "",
-    "category": "thành phố"
+    "category": "Thành phố"
   },
   "428": {
     "cardNumber": "428",
@@ -5161,55 +5161,55 @@
     "field6": "",
     "field7": "Tôi hiếm khi đi taxi",
     "field8": "",
-    "category": "thành phố"
+    "category": "Thành phố"
   },
   "429": {
     "cardNumber": "429",
     "field1": "trung tâm",
     "field2": "các trung tâm",
-    "field3": "trung tâm",
+    "field3": "ở trung tâm; thuộc trung tâm",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "ở trung tâm",
     "field8": "",
-    "category": "thành phố"
+    "category": "Thành phố"
   },
   "430": {
     "cardNumber": "430",
     "field1": "xe buýt",
-    "field2": "xe buýt",
+    "field2": "những chiếc xe buýt",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi đi học bằng xe buýt",
     "field8": "",
-    "category": "thành phố"
+    "category": "Thành phố"
   },
   "431": {
     "cardNumber": "431",
     "field1": "công viên",
-    "field2": "công viên",
+    "field2": "các công viên",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "trong công viên",
-    "field8": "Vào thứ bảy tôi đi công viên",
-    "category": "thành phố"
+    "field8": "Vào các ngày thứ bảy tôi đi công viên",
+    "category": "Thành phố"
   },
   "432": {
     "cardNumber": "432",
     "field1": "sở thú",
-    "field2": "sở thú",
+    "field2": "các sở thú",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Hôm nay chúng ta đi sở thú",
+    "field7": "Hôm nay chúng tôi đi sở thú",
     "field8": "",
-    "category": "thành phố"
+    "category": "Thành phố"
   },
   "433": {
     "cardNumber": "433",
@@ -5221,11 +5221,11 @@
     "field6": "",
     "field7": "Tôi sống ở một thành phố",
     "field8": "",
-    "category": "thành phố"
+    "category": "Thành phố"
   },
   "434": {
     "cardNumber": "434",
-    "field1": "nhà ga",
+    "field1": "trạm; ga",
     "field2": "các trạm",
     "field3": "ga tàu điện ngầm",
     "field4": "",
@@ -5233,20 +5233,20 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "thành phố",
+    "category": "Thành phố",
     "imageName": ""
   },
   "435": {
     "cardNumber": "435",
     "field1": "đường phố",
-    "field2": "đường phố",
+    "field2": "các đường phố",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Tôi sống ở Schillerstrasse",
+    "field7": "Tôi sống ở phố Schiller",
     "field8": "",
-    "category": "thành phố"
+    "category": "Thành phố"
   },
   "436": {
     "cardNumber": "436",
@@ -5258,11 +5258,11 @@
     "field6": "",
     "field7": "Tôi sống ở làng",
     "field8": "",
-    "category": "làng"
+    "category": "Nông thôn"
   },
   "437": {
     "cardNumber": "437",
-    "field1": "đất nước",
+    "field1": "nông thôn; miền quê",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -5270,7 +5270,7 @@
     "field6": "",
     "field7": "Ông bà tôi sống ở quê",
     "field8": "",
-    "category": "làng"
+    "category": "Nông thôn"
   },
   "438": {
     "cardNumber": "438",
@@ -5282,7 +5282,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "làng",
+    "category": "Nông thôn",
     "imageName": ""
   },
   "439": {
@@ -5295,7 +5295,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "làng",
+    "category": "Nông thôn",
     "imageName": ""
   },
   "440": {
@@ -5308,19 +5308,19 @@
     "field6": "",
     "field7": "Tôi thích tặng hoa cho vợ",
     "field8": "",
-    "category": "làng"
+    "category": "Nông thôn"
   },
   "441": {
     "cardNumber": "441",
-    "field1": "phát triển",
-    "field2": "(tăng trưởng-tăng trưởng)",
+    "field1": "lớn lên; mọc; phát triển",
+    "field2": "(hiện tại: wächst; quá khứ đơn: wuchs; phân từ II: gewachsen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Cây lớn nhanh",
     "field8": "",
-    "category": "làng"
+    "category": "Nông thôn"
   },
   "442": {
     "cardNumber": "442",
@@ -5332,7 +5332,7 @@
     "field6": "",
     "field7": "Tôi không biết, nhưng Peter chắc chắn biết",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "443": {
     "cardNumber": "443",
@@ -5344,7 +5344,7 @@
     "field6": "",
     "field7": "Bạn cũng đang học tiếng Đức phải không?",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "444": {
     "cardNumber": "444",
@@ -5356,31 +5356,31 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "445": {
     "cardNumber": "445",
-    "field1": "hỏi",
-    "field2": "(Hỏi-Hỏi-Hỏi)",
+    "field1": "yêu cầu; nhờ; xin",
+    "field2": "(hiện tại: bittet; quá khứ đơn: bat; phân từ II: gebeten)",
     "field3": "Làm ơn!",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Vui lòng!",
+    "field7": "Xin mời!; Không có gì!",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "446": {
     "cardNumber": "446",
-    "field1": "cảm ơn bạn",
+    "field1": "cảm ơn",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Cảm ơn bạn rất nhiều!",
-    "field8": "Không có gì để cảm ơn!",
-    "category": "Giao tiếp bằng giọng nói"
+    "field8": "Không có gì!",
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "447": {
     "cardNumber": "447",
@@ -5392,19 +5392,19 @@
     "field6": "",
     "field7": "Xin lỗi nhé!",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "448": {
     "cardNumber": "448",
-    "field1": "nói",
+    "field1": "kể",
     "field2": "",
     "field3": "câu chuyện",
     "field4": "những câu chuyện",
     "field5": "",
     "field6": "",
-    "field7": "Nói cho tôi biết!",
+    "field7": "Kể đi!",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "449": {
     "cardNumber": "449",
@@ -5416,7 +5416,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói",
+    "category": "Giao tiếp bằng ngôn ngữ",
     "imageName": ""
   },
   "450": {
@@ -5427,45 +5427,45 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Tôi chúc bạn một đêm tốt lành",
+    "field7": "Chúc bạn ngủ ngon",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "451": {
     "cardNumber": "451",
     "field1": "Chào buổi tối!",
     "field2": "",
-    "field3": "Buổi tối!",
+    "field3": "Chào buổi tối!",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "452": {
     "cardNumber": "452",
     "field1": "Chào buổi sáng!",
     "field2": "",
-    "field3": "Buổi sáng!",
+    "field3": "Chào buổi sáng!",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "453": {
     "cardNumber": "453",
-    "field1": "Chúc một ngày tốt lành!",
+    "field1": "Xin chào! (ban ngày)",
     "field2": "",
-    "field3": "Ngày!",
+    "field3": "Chào!",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "454": {
     "cardNumber": "454",
@@ -5477,24 +5477,24 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói",
+    "category": "Giao tiếp bằng ngôn ngữ",
     "imageName": ""
   },
   "455": {
     "cardNumber": "455",
-    "field1": "được gọi là",
-    "field2": "(được-được-gọi)",
+    "field1": "tên là; được gọi là",
+    "field2": "(hiện tại: heißt; quá khứ đơn: hieß; phân từ II: geheißen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tên bạn là gì?",
     "field8": "Tên tôi là Maria",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "456": {
     "cardNumber": "456",
-    "field1": "Chúa",
+    "field1": "ông; ngài",
     "field2": "các quý ông",
     "field3": "",
     "field4": "",
@@ -5502,7 +5502,7 @@
     "field6": "",
     "field7": "Ông Schmidt",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "457": {
     "cardNumber": "457",
@@ -5514,7 +5514,7 @@
     "field6": "",
     "field7": "Vâng, bạn nói đúng",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "458": {
     "cardNumber": "458",
@@ -5526,11 +5526,11 @@
     "field6": "",
     "field7": "Tất cả đều rõ ràng?",
     "field8": "Đã hiểu!",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "459": {
     "cardNumber": "459",
-    "field1": "Hãy cẩn thận!",
+    "field1": "Giữ gìn sức khỏe nhé!; Tạm biệt nhé!",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -5538,7 +5538,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói",
+    "category": "Giao tiếp bằng ngôn ngữ",
     "imageName": ""
   },
   "460": {
@@ -5551,7 +5551,7 @@
     "field6": "",
     "field7": "Không, cảm ơn bạn",
     "field8": "Ồ không!",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "461": {
     "cardNumber": "461",
@@ -5562,8 +5562,8 @@
     "field5": "",
     "field6": "",
     "field7": "chưa",
-    "field8": "tôi không biết",
-    "category": "Giao tiếp bằng giọng nói"
+    "field8": "Tôi không biết",
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "462": {
     "cardNumber": "462",
@@ -5575,31 +5575,31 @@
     "field6": "",
     "field7": "Tôi đi xem phim hoặc buổi hòa nhạc",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "463": {
     "cardNumber": "463",
-    "field1": "Quá tệ!",
+    "field1": "Tiếc quá!",
     "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Thật là xấu hổ!",
+    "field7": "Thật đáng tiếc!",
     "field8": "Thật tiếc là tôi phải đi bây giờ",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "464": {
     "cardNumber": "464",
     "field1": "nói",
-    "field2": "(nói-nói-nói)",
+    "field2": "(hiện tại: spricht; quá khứ đơn: sprach; phân từ II: gesprochen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Bạn có nói được tiếng Đức không?",
     "field8": "Bạn nói ngôn ngữ nào?",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "465": {
     "cardNumber": "465",
@@ -5611,7 +5611,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói",
+    "category": "Giao tiếp bằng ngôn ngữ",
     "imageName": ""
   },
   "466": {
@@ -5624,7 +5624,7 @@
     "field6": "",
     "field7": "cô ấy và anh ấy",
     "field8": "Tôi ổn, còn bạn thì sao?",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "467": {
     "cardNumber": "467",
@@ -5636,7 +5636,7 @@
     "field6": "",
     "field7": "Tại sao bạn mệt mỏi?",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "468": {
     "cardNumber": "468",
@@ -5648,19 +5648,19 @@
     "field6": "",
     "field7": "Bạn đang làm gì vậy?",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "469": {
     "cardNumber": "469",
     "field1": "Bạn khỏe không?",
     "field2": "",
-    "field3": "Bạn dạo này thế nào?",
+    "field3": "Ông/bà có khỏe không? (lịch sự)",
     "field4": "",
     "field5": "Cảm ơn, tôi ổn",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Giao tiếp bằng giọng nói"
+    "category": "Giao tiếp bằng ngôn ngữ"
   },
   "470": {
     "cardNumber": "470",
@@ -5672,31 +5672,31 @@
     "field6": "",
     "field7": "trên Internet",
     "field8": "",
-    "category": "Phương tiện truyền thông"
+    "category": "Truyền thông"
   },
   "471": {
     "cardNumber": "471",
-    "field1": "đài phát thanh",
-    "field2": "radio",
+    "field1": "máy thu thanh",
+    "field2": "những chiếc máy thu thanh",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "trên đài phát thanh",
     "field8": "Bạn có nghe radio không?",
-    "category": "Phương tiện truyền thông"
+    "category": "Truyền thông"
   },
   "472": {
     "cardNumber": "472",
     "field1": "lá thư",
-    "field2": "các chữ cái",
+    "field2": "những lá thư",
     "field3": "người đưa thư",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Người cha viết thư",
     "field8": "",
-    "category": "Phương tiện truyền thông"
+    "category": "Truyền thông"
   },
   "473": {
     "cardNumber": "473",
@@ -5708,7 +5708,7 @@
     "field6": "",
     "field7": "Địa chỉ của bạn là gì?",
     "field8": "Tôi không có địa chỉ của bạn",
-    "category": "Phương tiện truyền thông"
+    "category": "Truyền thông"
   },
   "474": {
     "cardNumber": "474",
@@ -5720,12 +5720,12 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Phương tiện truyền thông",
+    "category": "Truyền thông",
     "imageName": ""
   },
   "475": {
     "cardNumber": "475",
-    "field1": "tin nhắn",
+    "field1": "tin; tin nhắn",
     "field2": "tin tức",
     "field3": "",
     "field4": "",
@@ -5733,7 +5733,7 @@
     "field6": "",
     "field7": "Tôi có tin tốt",
     "field8": "",
-    "category": "Phương tiện truyền thông"
+    "category": "Truyền thông"
   },
   "476": {
     "cardNumber": "476",
@@ -5745,7 +5745,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Phương tiện truyền thông",
+    "category": "Truyền thông",
     "imageName": ""
   },
   "477": {
@@ -5758,7 +5758,7 @@
     "field6": "",
     "field7": "Bạn có thích đọc báo không?",
     "field8": "",
-    "category": "Phương tiện truyền thông"
+    "category": "Truyền thông"
   },
   "478": {
     "cardNumber": "478",
@@ -5770,7 +5770,7 @@
     "field6": "",
     "field7": "Tôi sẽ gửi thư bằng đường hàng không",
     "field8": "",
-    "category": "Phương tiện truyền thông"
+    "category": "Truyền thông"
   },
   "479": {
     "cardNumber": "479",
@@ -5782,7 +5782,7 @@
     "field6": "những chiếc điện thoại di động",
     "field7": "",
     "field8": "",
-    "category": "Phương tiện truyền thông"
+    "category": "Truyền thông"
   },
   "480": {
     "cardNumber": "480",
@@ -5791,10 +5791,10 @@
     "field3": "công việc",
     "field4": "",
     "field5": "công nhân",
-    "field6": "công nhân",
+    "field6": "các công nhân",
     "field7": "",
     "field8": "",
-    "category": "làm việc"
+    "category": "Công việc"
   },
   "481": {
     "cardNumber": "481",
@@ -5806,19 +5806,19 @@
     "field6": "",
     "field7": "Lars sẽ không đến văn phòng hôm nay",
     "field8": "",
-    "category": "làm việc"
+    "category": "Công việc"
   },
   "482": {
     "cardNumber": "482",
-    "field1": "ngày",
-    "field2": "dữ liệu",
+    "field1": "ngày tháng",
+    "field2": "các ngày tháng",
     "field3": "ngày sinh",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "làm việc",
+    "category": "Công việc",
     "imageName": ""
   },
   "483": {
@@ -5831,7 +5831,7 @@
     "field6": "",
     "field7": "một tài liệu quan trọng",
     "field8": "",
-    "category": "làm việc"
+    "category": "Công việc"
   },
   "484": {
     "cardNumber": "484",
@@ -5841,21 +5841,21 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Nghề nghiệp của bạn là gì?",
+    "field7": "Anh/chị làm nghề gì?",
     "field8": "",
-    "category": "làm việc"
+    "category": "Công việc"
   },
   "485": {
     "cardNumber": "485",
     "field1": "cái tên",
     "field2": "những cái tên",
-    "field3": "tên đầu tiên",
-    "field4": "những cái tên đầu tiên",
+    "field3": "tên riêng",
+    "field4": "các tên riêng",
     "field5": "họ",
-    "field6": "họ",
+    "field6": "các họ",
     "field7": "",
     "field8": "",
-    "category": "làm việc",
+    "category": "Công việc",
     "imageName": ""
   },
   "486": {
@@ -5868,7 +5868,7 @@
     "field6": "",
     "field7": "Ngày này không chính xác",
     "field8": "",
-    "category": "làm việc"
+    "category": "Công việc"
   },
   "487": {
     "cardNumber": "487",
@@ -5878,9 +5878,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Bạn đang làm gì vào cuối tuần?",
+    "field7": "Bạn làm gì vào cuối tuần?",
     "field8": "",
-    "category": "làm việc"
+    "category": "Công việc"
   },
   "488": {
     "cardNumber": "488",
@@ -5892,7 +5892,7 @@
     "field6": "",
     "field7": "Tôi mệt mỏi sau giờ làm việc",
     "field8": "",
-    "category": "làm việc"
+    "category": "Công việc"
   },
   "489": {
     "cardNumber": "489",
@@ -5903,20 +5903,20 @@
     "field5": "",
     "field6": "",
     "field7": "Điều đó có đúng không?",
-    "field8": "Mẫu này đúng",
-    "category": "làm việc"
+    "field8": "Biểu mẫu này chính xác",
+    "category": "Công việc"
   },
   "490": {
     "cardNumber": "490",
     "field1": "kiếm tiền",
     "field2": "",
-    "field3": "công đức",
+    "field3": "thu nhập",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Anh ấy kiếm được rất nhiều tiền",
     "field8": "",
-    "category": "làm việc"
+    "category": "Công việc"
   },
   "491": {
     "cardNumber": "491",
@@ -5945,7 +5945,7 @@
   "493": {
     "cardNumber": "493",
     "field1": "giá cả",
-    "field2": "giá cả",
+    "field2": "các mức giá",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -5962,7 +5962,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "tôi đang ở ngân hàng",
+    "field7": "Tôi đang ở ngân hàng",
     "field8": "Tôi phải đến ngân hàng",
     "category": "Kinh tế"
   },
@@ -5970,8 +5970,8 @@
     "cardNumber": "495",
     "field1": "nhà máy",
     "field2": "các nhà máy",
-    "field3": "công việc",
-    "field4": "công trình",
+    "field3": "nhà máy",
+    "field4": "các nhà máy",
     "field5": "",
     "field6": "",
     "field7": "Chú tôi làm việc ở nhà máy",
@@ -5994,18 +5994,18 @@
   "497": {
     "cardNumber": "497",
     "field1": "có",
-    "field2": "(đã-đã-có)",
+    "field2": "(hiện tại: hat; quá khứ đơn: hatte; phân từ II: gehabt)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Tôi không có tiền",
-    "field8": "Bạn có rất nhiều tiền",
+    "field8": "Họ có rất nhiều tiền",
     "category": "Kinh tế"
   },
   "498": {
     "cardNumber": "498",
-    "field1": "chi phí",
+    "field1": "có giá; tốn",
     "field2": "",
     "field3": "",
     "field4": "",

@@ -19,6 +19,7 @@ const language = [
   { label: 'ua', value: 'ua' },
   { label: 'ru', value: 'ru' },
   { label: 'en', value: 'en' },
+  { label: 'pl', value: 'pl' },
   { label: 'sq', value: 'sq' },
   { label: 'fa', value: 'fa' },
   { label: 'vi', value: 'vi' },

@@ -7,8 +7,8 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Peppermint Candy",
-    "field8": "cough drop",
+    "field7": "Peppermint candy",
+    "field8": "Cough drop",
     "category": "Nutrition"
   },
   "2": {
@@ -31,7 +31,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "At the party there were only soft drinks",
+    "field7": "There were only nonalcoholic drinks at the party",
     "field8": "",
     "category": "Nutrition"
   },
@@ -63,8 +63,8 @@
     "cardNumber": "6",
     "field1": "the waiter",
     "field2": "the waiters",
-    "field3": "the waiter (formal address)",
-    "field4": "the waiters (formal address)",
+    "field3": "the waiter",
+    "field4": "the waiters",
     "field5": "",
     "field6": "",
     "field7": "Waiter!",
@@ -86,7 +86,7 @@
   "8": {
     "cardNumber": "8",
     "field1": "the garlic",
-    "field2": "garlic",
+    "field2": "",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -201,7 +201,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Rabbits eat carrots",
+    "field7": "Hares eat carrots",
     "field8": "",
     "category": "Nutrition"
   },
@@ -293,7 +293,7 @@
   "25": {
     "cardNumber": "25",
     "field1": "smell",
-    "field2": "(smells-smelled-smelled)",
+    "field2": "(present: riecht; simple past: roch; past participle: gerochen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -336,19 +336,19 @@
     "field6": "",
     "field7": "Turn off the radio!",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "29": {
     "cardNumber": "29",
     "field1": "to move out",
-    "field2": "(moves out-moved out-moved out)",
+    "field2": "(present: zieht aus; simple past: zog aus; past participle: ausgezogen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Our neighbor has moved out",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "30": {
     "cardNumber": "30",
@@ -360,7 +360,7 @@
     "field6": "",
     "field7": "In our neighborhood there are two schools and a post office",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "31": {
     "cardNumber": "31",
@@ -372,7 +372,7 @@
     "field6": "",
     "field7": "Get potatoes from the basement!",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "32": {
     "cardNumber": "32",
@@ -384,7 +384,7 @@
     "field6": "",
     "field7": "Please take the lift to the second floor!",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "33": {
     "cardNumber": "33",
@@ -396,7 +396,7 @@
     "field6": "",
     "field7": "Draw the curtains!",
     "field8": "Open the curtains!",
-    "category": "House"
+    "category": "Home"
   },
   "34": {
     "cardNumber": "34",
@@ -408,7 +408,7 @@
     "field6": "",
     "field7": "A lamp is hanging from the ceiling",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "35": {
     "cardNumber": "35",
@@ -420,7 +420,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "House",
+    "category": "Home",
     "imageName": ""
   },
   "36": {
@@ -433,7 +433,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "37": {
     "cardNumber": "37",
@@ -445,7 +445,7 @@
     "field6": "",
     "field7": "on the terrace",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "38": {
     "cardNumber": "38",
@@ -457,19 +457,19 @@
     "field6": "",
     "field7": "Go up the stairs!",
     "field8": "Go down the stairs!",
-    "category": "House"
+    "category": "Home"
   },
   "39": {
     "cardNumber": "39",
     "field1": "to move in",
-    "field2": "(moves in-moved in-moved in)",
+    "field2": "(present: zieht ein; simple past: zog ein; past participle: eingezogen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "I just moved in",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "40": {
     "cardNumber": "40",
@@ -481,19 +481,19 @@
     "field6": "",
     "field7": "a cozy room",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "41": {
     "cardNumber": "41",
     "field1": "move",
-    "field2": "(moved-moved-moved)",
+    "field2": "(present: zieht um; simple past: zog um; past participle: umgezogen)",
     "field3": "the move",
     "field4": "the moves",
     "field5": "",
     "field6": "",
     "field7": "My parents have moved",
     "field8": "",
-    "category": "House"
+    "category": "Home"
   },
   "42": {
     "cardNumber": "42",
@@ -505,7 +505,7 @@
     "field6": "",
     "field7": "I like ironing",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "43": {
     "cardNumber": "43",
@@ -517,7 +517,7 @@
     "field6": "",
     "field7": "He doesn't use deodorant",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "44": {
     "cardNumber": "44",
@@ -529,7 +529,7 @@
     "field6": "",
     "field7": "an anti-dandruff shampoo",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "45": {
     "cardNumber": "45",
@@ -541,7 +541,7 @@
     "field6": "",
     "field7": "The pillow is too hard",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "46": {
     "cardNumber": "46",
@@ -553,7 +553,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Everyday",
+    "category": "Everyday Life",
     "imageName": ""
   },
   "47": {
@@ -566,7 +566,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Everyday",
+    "category": "Everyday Life",
     "imageName": ""
   },
   "48": {
@@ -579,7 +579,7 @@
     "field6": "",
     "field7": "The tablecloth has a stain",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "49": {
     "cardNumber": "49",
@@ -591,7 +591,7 @@
     "field6": "",
     "field7": "a deep sleep",
     "field8": "Do you talk in your sleep?",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "50": {
     "cardNumber": "50",
@@ -603,7 +603,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "51": {
     "cardNumber": "51",
@@ -615,19 +615,19 @@
     "field6": "",
     "field7": "I put the laundry in the machine",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "52": {
     "cardNumber": "52",
     "field1": "fall asleep",
-    "field2": "(falls asleep-fell asleep-fallen asleep)",
+    "field2": "(present: schläft ein; simple past: schlief ein; past participle: eingeschlafen)",
     "field3": "to wake up",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "I fell asleep late",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "53": {
     "cardNumber": "53",
@@ -639,7 +639,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "54": {
     "cardNumber": "54",
@@ -651,7 +651,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "55": {
     "cardNumber": "55",
@@ -663,7 +663,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "56": {
     "cardNumber": "56",
@@ -675,19 +675,19 @@
     "field6": "",
     "field7": "The alarm clock is ringing",
     "field8": "",
-    "category": "Everyday"
+    "category": "Everyday Life"
   },
   "57": {
     "cardNumber": "57",
     "field1": "to decide",
-    "field2": "(decides-decided-decided)",
+    "field2": "(present: entscheidet; simple past: entschied; past participle: entschieden)",
     "field3": "the decision",
     "field4": "the decisions",
     "field5": "",
     "field6": "",
     "field7": "I have decided",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "58": {
     "cardNumber": "58",
@@ -699,19 +699,19 @@
     "field6": "",
     "field7": "Please don't touch that!",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "59": {
     "cardNumber": "59",
     "field1": "offer",
-    "field2": "(offers-offered-offered)",
+    "field2": "(present: bietet an; simple past: bot an; past participle: angeboten)",
     "field3": "the offer",
     "field4": "the offers",
     "field5": "the special offer",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Purchases and services",
+    "category": "Shopping and Services",
     "imageName": ""
   },
   "60": {
@@ -724,7 +724,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "61": {
     "cardNumber": "61",
@@ -736,7 +736,7 @@
     "field6": "",
     "field7": "I'll get the theater tickets",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "62": {
     "cardNumber": "62",
@@ -748,7 +748,7 @@
     "field6": "",
     "field7": "Order two cups of coffee!",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "63": {
     "cardNumber": "63",
@@ -760,7 +760,7 @@
     "field6": "",
     "field7": "I forgot to buy milk",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "64": {
     "cardNumber": "64",
@@ -772,19 +772,19 @@
     "field6": "",
     "field7": "Do you need the receipt?",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "65": {
     "cardNumber": "65",
     "field1": "the catalog",
-    "field2": "the catalogues",
+    "field2": "the catalogs",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "I would like to order the furniture from the catalogue",
+    "field7": "I would like to order the furniture from the catalog",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "66": {
     "cardNumber": "66",
@@ -796,7 +796,7 @@
     "field6": "",
     "field7": "The swimming pool has new opening times",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "67": {
     "cardNumber": "67",
@@ -808,7 +808,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Purchases and services",
+    "category": "Shopping and Services",
     "imageName": ""
   },
   "68": {
@@ -821,19 +821,19 @@
     "field6": "",
     "field7": "Could you wrap this for me as a gift, please?",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "69": {
     "cardNumber": "69",
     "field1": "recommend",
-    "field2": "(recommends-recommended-recommended)",
+    "field2": "(present: empfiehlt; simple past: empfahl; past participle: empfohlen)",
     "field3": "the recommendation",
     "field4": "the recommendations",
     "field5": "",
     "field6": "",
     "field7": "What did the seller recommend?",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "70": {
     "cardNumber": "70",
@@ -845,19 +845,19 @@
     "field6": "",
     "field7": "a good deal",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "71": {
     "cardNumber": "71",
     "field1": "advertise",
-    "field2": "(advertises-advertised-advertised)",
+    "field2": "(present: wirbt; simple past: warb; past participle: geworben)",
     "field3": "advertising",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "I don't watch ads",
     "field8": "",
-    "category": "Purchases and services"
+    "category": "Shopping and Services"
   },
   "72": {
     "cardNumber": "72",
@@ -885,9 +885,9 @@
   },
   "74": {
     "cardNumber": "74",
-    "field1": "the congratulation",
+    "field1": "the congratulatory message",
     "field2": "the congratulations",
-    "field3": "the greeting card",
+    "field3": "the congratulations card",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -1005,7 +1005,7 @@
   },
   "84": {
     "cardNumber": "84",
-    "field1": "care",
+    "field1": "take care (of)",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1018,14 +1018,14 @@
   "85": {
     "cardNumber": "85",
     "field1": "to get changed",
-    "field2": "(gets changed-got changed-got changed)",
+    "field2": "(present: zieht um; simple past: zog um; past participle: umgezogen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Change your clothes!",
     "field8": "I just got changed",
-    "category": "Look"
+    "category": "Appearance"
   },
   "86": {
     "cardNumber": "86",
@@ -1037,19 +1037,19 @@
     "field6": "",
     "field7": "Try on this skirt!",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "87": {
     "cardNumber": "87",
-    "field1": "the costume",
-    "field2": "the costumes",
+    "field1": "the women's suit",
+    "field2": "the women's suits",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "a fashionable costume",
+    "field7": "a fashionable women's suit",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "88": {
     "cardNumber": "88",
@@ -1061,7 +1061,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "89": {
     "cardNumber": "89",
@@ -1073,7 +1073,7 @@
     "field6": "",
     "field7": "My grandpa has a beard",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "90": {
     "cardNumber": "90",
@@ -1085,7 +1085,7 @@
     "field6": "",
     "field7": "the elegant gloves",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "91": {
     "cardNumber": "91",
@@ -1097,7 +1097,7 @@
     "field6": "",
     "field7": "Undo the button!",
     "field8": "Fasten the buttons!",
-    "category": "Look"
+    "category": "Appearance"
   },
   "92": {
     "cardNumber": "92",
@@ -1109,7 +1109,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Look",
+    "category": "Appearance",
     "imageName": ""
   },
   "93": {
@@ -1122,7 +1122,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "94": {
     "cardNumber": "94",
@@ -1134,7 +1134,7 @@
     "field6": "",
     "field7": "The swimming trunks are too tight for me",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "95": {
     "cardNumber": "95",
@@ -1146,7 +1146,7 @@
     "field6": "",
     "field7": "What's your size?",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "96": {
     "cardNumber": "96",
@@ -1158,7 +1158,7 @@
     "field6": "",
     "field7": "Can you tie a tie?",
     "field8": "He doesn't like wearing ties",
-    "category": "Look"
+    "category": "Appearance"
   },
   "97": {
     "cardNumber": "97",
@@ -1170,7 +1170,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "98": {
     "cardNumber": "98",
@@ -1182,7 +1182,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "99": {
     "cardNumber": "99",
@@ -1194,11 +1194,11 @@
     "field6": "",
     "field7": "a plaid shirt",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "100": {
     "cardNumber": "100",
-    "field1": "smooth",
+    "field1": "straight; smooth",
     "field2": "",
     "field3": "curly",
     "field4": "",
@@ -1206,19 +1206,19 @@
     "field6": "",
     "field7": "curly hair",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "101": {
     "cardNumber": "101",
     "field1": "to suit someone",
-    "field2": "(suits-suited-suited)",
+    "field2": "(present: steht; simple past: stand; past participle: gestanden)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "This blouse looks good on you",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "102": {
     "cardNumber": "102",
@@ -1230,11 +1230,11 @@
     "field6": "",
     "field7": "My dad is going bald",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "103": {
     "cardNumber": "103",
-    "field1": "fit",
+    "field1": "fit; match",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1242,7 +1242,7 @@
     "field6": "",
     "field7": "The scarf matches the coat",
     "field8": "The ring doesn't fit on my finger.",
-    "category": "Look"
+    "category": "Appearance"
   },
   "104": {
     "cardNumber": "104",
@@ -1254,23 +1254,23 @@
     "field6": "",
     "field7": "She is always elegantly dressed",
     "field8": "",
-    "category": "Look"
+    "category": "Appearance"
   },
   "105": {
     "cardNumber": "105",
     "field1": "to argue",
-    "field2": "(argues-argued-argued)",
+    "field2": "(present: streitet; simple past: stritt; past participle: gestritten)",
     "field3": "the argument",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "My parents often argued",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "106": {
     "cardNumber": "106",
-    "field1": "to surprise",
+    "field1": "surprise; be surprised",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1278,7 +1278,7 @@
     "field6": "",
     "field7": "His behavior surprises me",
     "field8": "He was surprised that she called",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "107": {
     "cardNumber": "107",
@@ -1290,7 +1290,7 @@
     "field6": "",
     "field7": "Everyone thinks Anna is hardworking",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "108": {
     "cardNumber": "108",
@@ -1302,7 +1302,7 @@
     "field6": "",
     "field7": "I find my boss arrogant",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "109": {
     "cardNumber": "109",
@@ -1314,12 +1314,12 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "feelings",
+    "category": "Feelings",
     "imageName": ""
   },
   "110": {
     "cardNumber": "110",
-    "field1": "luck",
+    "field1": "luck; happiness",
     "field2": "",
     "field3": "misfortune",
     "field4": "",
@@ -1327,7 +1327,7 @@
     "field6": "",
     "field7": "Fortunately",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "111": {
     "cardNumber": "111",
@@ -1339,7 +1339,7 @@
     "field6": "",
     "field7": "He has bad luck.",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "112": {
     "cardNumber": "112",
@@ -1351,7 +1351,7 @@
     "field6": "",
     "field7": "I'm stressed every day",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "113": {
     "cardNumber": "113",
@@ -1363,7 +1363,7 @@
     "field6": "",
     "field7": "I feel so lonely.",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "114": {
     "cardNumber": "114",
@@ -1375,7 +1375,7 @@
     "field6": "",
     "field7": "I'm in a good mood",
     "field8": "Why is he in a bad mood?",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "115": {
     "cardNumber": "115",
@@ -1387,7 +1387,7 @@
     "field6": "",
     "field7": "I feel like having ice cream.",
     "field8": "I feel like swimming",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "116": {
     "cardNumber": "116",
@@ -1399,7 +1399,7 @@
     "field6": "",
     "field7": "Honestly...",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "117": {
     "cardNumber": "117",
@@ -1411,7 +1411,7 @@
     "field6": "",
     "field7": "Is he always this serious?",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "118": {
     "cardNumber": "118",
@@ -1423,7 +1423,7 @@
     "field6": "",
     "field7": "She is always helpful",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "119": {
     "cardNumber": "119",
@@ -1435,7 +1435,7 @@
     "field6": "",
     "field7": "I have never seen such a rude person",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "120": {
     "cardNumber": "120",
@@ -1447,11 +1447,11 @@
     "field6": "",
     "field7": "black humor",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "121": {
     "cardNumber": "121",
-    "field1": "funny",
+    "field1": "funny; strange",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -1459,7 +1459,7 @@
     "field6": "",
     "field7": "a funny story",
     "field8": "I have a strange feeling",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "122": {
     "cardNumber": "122",
@@ -1471,7 +1471,7 @@
     "field6": "",
     "field7": "I smile often",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "123": {
     "cardNumber": "123",
@@ -1483,7 +1483,7 @@
     "field6": "",
     "field7": "Don't be naive!",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "124": {
     "cardNumber": "124",
@@ -1495,7 +1495,7 @@
     "field6": "",
     "field7": "Why are you so nervous?",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "125": {
     "cardNumber": "125",
@@ -1507,19 +1507,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "126": {
     "cardNumber": "126",
     "field1": "behave",
-    "field2": "(behaves-behaved-behaved)",
+    "field2": "(present: verhält; simple past: verhielt; past participle: verhalten)",
     "field3": "behavior",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Your son is misbehaving",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "127": {
     "cardNumber": "127",
@@ -1531,7 +1531,7 @@
     "field6": "",
     "field7": "He is in love with her",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "128": {
     "cardNumber": "128",
@@ -1543,7 +1543,7 @@
     "field6": "",
     "field7": "I miss you",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "129": {
     "cardNumber": "129",
@@ -1555,11 +1555,11 @@
     "field6": "",
     "field7": "a reliable friend",
     "field8": "",
-    "category": "feelings"
+    "category": "Feelings"
   },
   "130": {
     "cardNumber": "130",
-    "field1": "to get injured",
+    "field1": "injure; get injured",
     "field2": "",
     "field3": "the injury",
     "field4": "the injuries",
@@ -1584,7 +1584,7 @@
   "132": {
     "cardNumber": "132",
     "field1": "break",
-    "field2": "(breaks-broke-broken)",
+    "field2": "(present: bricht; simple past: brach; past participle: gebrochen)",
     "field3": "the fracture",
     "field4": "the fractures",
     "field5": "",
@@ -1596,7 +1596,7 @@
   "133": {
     "cardNumber": "133",
     "field1": "prescribe",
-    "field2": "(prescribes-prescribed-prescribed)",
+    "field2": "(present: verschreibt; simple past: verschrieb; past participle: verschrieben)",
     "field3": "the medication",
     "field4": "the medications",
     "field5": "",
@@ -1765,7 +1765,7 @@
   "147": {
     "cardNumber": "147",
     "field1": "to take (medicine)",
-    "field2": "(takes-took-taken)",
+    "field2": "(present: nimmt ein; simple past: nahm ein; past participle: eingenommen)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -1777,7 +1777,7 @@
   "148": {
     "cardNumber": "148",
     "field1": "to get sick",
-    "field2": "(gets sick-got sick-gotten sick)",
+    "field2": "(present: wird; simple past: wurde; past participle: geworden)",
     "field3": "to get well",
     "field4": "",
     "field5": "",
@@ -1813,7 +1813,7 @@
   "151": {
     "cardNumber": "151",
     "field1": "hurt",
-    "field2": "(hurt-hurt-hurt)",
+    "field2": "(present: tut weh; simple past: tat weh; past participle: wehgetan)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -1838,7 +1838,7 @@
     "cardNumber": "153",
     "field1": "the storm",
     "field2": "the storms",
-    "field3": "the blizzard",
+    "field3": "the snowstorm",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -1854,7 +1854,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "a chilly morning",
+    "field7": "a frosty morning",
     "field8": "",
     "category": "Weather"
   },
@@ -1909,7 +1909,7 @@
   "159": {
     "cardNumber": "159",
     "field1": "to rise",
-    "field2": "(rises-rose-risen)",
+    "field2": "(present: geht auf; simple past: ging auf; past participle: aufgegangen)",
     "field3": "the sunrise",
     "field4": "",
     "field5": "",
@@ -1921,7 +1921,7 @@
   "160": {
     "cardNumber": "160",
     "field1": "bite",
-    "field2": "(bites-bit-bitten)",
+    "field2": "(present: beißt; simple past: biss; past participle: gebissen)",
     "field3": "the bite",
     "field4": "the bites",
     "field5": "",
@@ -1944,7 +1944,7 @@
   },
   "162": {
     "cardNumber": "162",
-    "field1": "the mountains",
+    "field1": "the mountain range",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2022,13 +2022,13 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "catch butterflies",
+    "field7": "Catch butterflies",
     "field8": "",
     "category": "Nature"
   },
   "169": {
     "cardNumber": "169",
-    "field1": "the earth",
+    "field1": "the Earth",
     "field2": "",
     "field3": "",
     "field4": "",
@@ -2113,8 +2113,8 @@
   },
   "176": {
     "cardNumber": "176",
-    "field1": "the dove",
-    "field2": "the doves",
+    "field1": "the pigeon; the dove",
+    "field2": "the pigeons; the doves",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -2210,7 +2210,7 @@
   "184": {
     "cardNumber": "184",
     "field1": "to set",
-    "field2": "(sets-set-set)",
+    "field2": "(present: geht unter; simple past: ging unter; past participle: untergegangen)",
     "field3": "the sunset",
     "field4": "the sunsets",
     "field5": "",
@@ -2241,19 +2241,19 @@
     "field6": "",
     "field7": "I am preparing for the exam",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "187": {
     "cardNumber": "187",
-    "field1": "the high school",
-    "field2": "the high schools",
+    "field1": "the academic secondary school (Gymnasium)",
+    "field2": "the academic secondary schools",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "at the high school",
-    "field8": "I attend a high school.",
-    "category": "science and education"
+    "field7": "at a Gymnasium",
+    "field8": "I attend a Gymnasium",
+    "category": "Science and Education"
   },
   "188": {
     "cardNumber": "188",
@@ -2265,7 +2265,7 @@
     "field6": "",
     "field7": "the first chapter",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "189": {
     "cardNumber": "189",
@@ -2275,9 +2275,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "May I have your attention please!",
+    "field7": "May I have your attention, please?",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "190": {
     "cardNumber": "190",
@@ -2289,7 +2289,7 @@
     "field6": "",
     "field7": "She is still in elementary school.",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "191": {
     "cardNumber": "191",
@@ -2301,7 +2301,7 @@
     "field6": "",
     "field7": "I have a good idea",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "192": {
     "cardNumber": "192",
@@ -2313,7 +2313,7 @@
     "field6": "",
     "field7": "He seems intelligent",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "193": {
     "cardNumber": "193",
@@ -2325,7 +2325,7 @@
     "field6": "",
     "field7": "My son has difficulties at school",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "194": {
     "cardNumber": "194",
@@ -2337,7 +2337,7 @@
     "field6": "",
     "field7": "Arabic numerals",
     "field8": "Roman numerals",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "195": {
     "cardNumber": "195",
@@ -2349,7 +2349,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "196": {
     "cardNumber": "196",
@@ -2361,20 +2361,20 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "science and education",
+    "category": "Science and Education",
     "imageName": ""
   },
   "197": {
     "cardNumber": "197",
     "field1": "to invent",
-    "field2": "(invents-invented-invented)",
+    "field2": "(present: erfindet; simple past: erfand; past participle: erfunden)",
     "field3": "the invention",
     "field4": "the inventions",
     "field5": "the inventor",
     "field6": "the inventors",
     "field7": "",
     "field8": "",
-    "category": "science and education",
+    "category": "Science and Education",
     "imageName": ""
   },
   "198": {
@@ -2387,7 +2387,7 @@
     "field6": "",
     "field7": "Can you explain that to me?",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "199": {
     "cardNumber": "199",
@@ -2397,9 +2397,9 @@
     "field4": "the solutions",
     "field5": "",
     "field6": "",
-    "field7": "Can you solve this task?",
+    "field7": "Can you solve this problem?",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "200": {
     "cardNumber": "200",
@@ -2411,7 +2411,7 @@
     "field6": "",
     "field7": "Two times two is four",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "201": {
     "cardNumber": "201",
@@ -2423,7 +2423,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "202": {
     "cardNumber": "202",
@@ -2435,19 +2435,19 @@
     "field6": "",
     "field7": "Five minus two is three",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "203": {
     "cardNumber": "203",
     "field1": "compare",
-    "field2": "(compares-compared-compared)",
+    "field2": "(present: vergleicht; simple past: verglich; past participle: verglichen)",
     "field3": "the comparison",
     "field4": "the comparisons",
     "field5": "",
     "field6": "",
     "field7": "compared to...",
     "field8": "",
-    "category": "science and education"
+    "category": "Science and Education"
   },
   "204": {
     "cardNumber": "204",
@@ -2459,7 +2459,7 @@
     "field6": "",
     "field7": "We went to an art exhibition yesterday",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "205": {
     "cardNumber": "205",
@@ -2471,7 +2471,7 @@
     "field6": "",
     "field7": "a famous poet",
     "field8": "a famous artist",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "206": {
     "cardNumber": "206",
@@ -2483,7 +2483,7 @@
     "field6": "",
     "field7": "Today we're going to the opera.",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "207": {
     "cardNumber": "207",
@@ -2495,7 +2495,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "culture and art",
+    "category": "Culture and Art",
     "imageName": ""
   },
   "208": {
@@ -2508,7 +2508,7 @@
     "field6": "",
     "field7": "I memorized the poem",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "209": {
     "cardNumber": "209",
@@ -2520,7 +2520,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "culture and art",
+    "category": "Culture and Art",
     "imageName": ""
   },
   "210": {
@@ -2533,7 +2533,7 @@
     "field6": "",
     "field7": "German-language literature",
     "field8": "I am interested in literature",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "211": {
     "cardNumber": "211",
@@ -2545,7 +2545,7 @@
     "field6": "",
     "field7": "Good luck!",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "212": {
     "cardNumber": "212",
@@ -2557,7 +2557,7 @@
     "field6": "",
     "field7": "an unknown artist",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "213": {
     "cardNumber": "213",
@@ -2569,7 +2569,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "culture and art",
+    "category": "Culture and Art",
     "imageName": ""
   },
   "214": {
@@ -2582,7 +2582,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "215": {
     "cardNumber": "215",
@@ -2594,7 +2594,7 @@
     "field6": "",
     "field7": "He's a famous actor",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "216": {
     "cardNumber": "216",
@@ -2606,7 +2606,7 @@
     "field6": "",
     "field7": "My favorite writer is...",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "217": {
     "cardNumber": "217",
@@ -2618,7 +2618,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "culture and art",
+    "category": "Culture and Art",
     "imageName": ""
   },
   "218": {
@@ -2631,7 +2631,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "culture and art",
+    "category": "Culture and Art",
     "imageName": ""
   },
   "219": {
@@ -2644,7 +2644,7 @@
     "field6": "",
     "field7": "a popular opera",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "220": {
     "cardNumber": "220",
@@ -2656,7 +2656,7 @@
     "field6": "",
     "field7": "Who plays the leading role?",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "221": {
     "cardNumber": "221",
@@ -2668,7 +2668,7 @@
     "field6": "",
     "field7": "He has a deep voice",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "222": {
     "cardNumber": "222",
@@ -2680,19 +2680,19 @@
     "field6": "the photographers",
     "field7": "",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "223": {
     "cardNumber": "223",
     "field1": "to succeed",
-    "field2": "(succeeds-succeeded-succeeded)",
+    "field2": "(present: gelingt; simple past: gelang; past participle: gelungen)",
     "field3": "to fail",
-    "field4": "(fails-failed-failed)",
+    "field4": "(present: misslingt; simple past: misslang; past participle: misslungen)",
     "field5": "",
     "field6": "",
     "field7": "The performance was successful",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "224": {
     "cardNumber": "224",
@@ -2704,7 +2704,7 @@
     "field6": "",
     "field7": "That's a strange story",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "225": {
     "cardNumber": "225",
@@ -2716,7 +2716,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "culture and art"
+    "category": "Culture and Art"
   },
   "226": {
     "cardNumber": "226",
@@ -2728,7 +2728,7 @@
     "field6": "",
     "field7": "I pray to God",
     "field8": "",
-    "category": "religion"
+    "category": "Religion"
   },
   "227": {
     "cardNumber": "227",
@@ -2738,9 +2738,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "a life like in paradise",
+    "field7": "a life as if in paradise",
     "field8": "",
-    "category": "religion"
+    "category": "Religion"
   },
   "228": {
     "cardNumber": "228",
@@ -2752,7 +2752,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "religion"
+    "category": "Religion"
   },
   "229": {
     "cardNumber": "229",
@@ -2762,9 +2762,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "the Cologne Cathedral",
+    "field7": "Cologne Cathedral",
     "field8": "",
-    "category": "religion"
+    "category": "Religion"
   },
   "230": {
     "cardNumber": "230",
@@ -2776,7 +2776,7 @@
     "field6": "",
     "field7": "I was at the cemetery today",
     "field8": "We're going to the cemetery",
-    "category": "religion"
+    "category": "Religion"
   },
   "231": {
     "cardNumber": "231",
@@ -2788,7 +2788,7 @@
     "field6": "",
     "field7": "Monks and nuns live in the monastery",
     "field8": "",
-    "category": "religion"
+    "category": "Religion"
   },
   "232": {
     "cardNumber": "232",
@@ -2800,19 +2800,19 @@
     "field6": "",
     "field7": "He wants to be a pastor",
     "field8": "",
-    "category": "religion"
+    "category": "Religion"
   },
   "233": {
     "cardNumber": "233",
-    "field1": "the mass",
-    "field2": "the masses",
+    "field1": "the Mass",
+    "field2": "the Masses",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "Who is leading the mass today?",
-    "field8": "Did you go to mass?",
-    "category": "religion"
+    "field7": "Who is celebrating Mass today?",
+    "field8": "Did you go to Mass?",
+    "category": "Religion"
   },
   "234": {
     "cardNumber": "234",
@@ -2824,25 +2824,25 @@
     "field6": "",
     "field7": "This is a Christian custom",
     "field8": "",
-    "category": "religion"
+    "category": "Religion"
   },
   "235": {
     "cardNumber": "235",
     "field1": "appear",
-    "field2": "(appears-appeared-appeared)",
+    "field2": "(present: erscheint; simple past: erschien; past participle: erschienen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "The ghosts appear in the night",
+    "field7": "The ghosts appear at night",
     "field8": "",
-    "category": "religion"
+    "category": "Religion"
   },
   "236": {
     "cardNumber": "236",
     "field1": "from",
     "field2": "",
-    "field3": "since",
+    "field3": "since; for",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -2853,7 +2853,7 @@
   "237": {
     "cardNumber": "237",
     "field1": "begin",
-    "field2": "(begins-began-begun)",
+    "field2": "(present: fängt an; simple past: fing an; past participle: angefangen)",
     "field3": "the beginning",
     "field4": "the beginnings",
     "field5": "",
@@ -2924,7 +2924,7 @@
   },
   "243": {
     "cardNumber": "243",
-    "field1": "frequently",
+    "field1": "frequent; common",
     "field2": "",
     "field3": "never",
     "field4": "",
@@ -2986,7 +2986,7 @@
     "cardNumber": "248",
     "field1": "from ... to...",
     "field2": "",
-    "field3": "while",
+    "field3": "during; while",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -3016,19 +3016,19 @@
     "field6": "",
     "field7": "draw a triangle",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "251": {
     "cardNumber": "251",
-    "field1": "the pound",
-    "field2": "the pounds",
+    "field1": "the German pound (500 g)",
+    "field2": "the German pounds (500 g each)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "half a pound of cheese",
-    "field8": "four pounds of meat",
-    "category": "Dimensions"
+    "field7": "half a German pound of cheese (250 g)",
+    "field8": "four German pounds of meat (2 kg)",
+    "category": "Measurements"
   },
   "252": {
     "cardNumber": "252",
@@ -3040,19 +3040,19 @@
     "field6": "",
     "field7": "pack in cartons",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "253": {
     "cardNumber": "253",
-    "field1": "the box",
-    "field2": "the boxes",
+    "field1": "the crate; the box",
+    "field2": "the crates; the boxes",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "a crate of beer",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "254": {
     "cardNumber": "254",
@@ -3064,7 +3064,7 @@
     "field6": "",
     "field7": "a straight line",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "255": {
     "cardNumber": "255",
@@ -3076,7 +3076,7 @@
     "field6": "",
     "field7": "a large amount of milk",
     "field8": "lots of money",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "256": {
     "cardNumber": "256",
@@ -3088,7 +3088,7 @@
     "field6": "",
     "field7": "The cat wants some milk",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "257": {
     "cardNumber": "257",
@@ -3100,7 +3100,7 @@
     "field6": "",
     "field7": "The more the better",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "258": {
     "cardNumber": "258",
@@ -3112,7 +3112,7 @@
     "field6": "",
     "field7": "I waited several hours",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "259": {
     "cardNumber": "259",
@@ -3124,7 +3124,7 @@
     "field6": "",
     "field7": "He is at most 30 years old",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "260": {
     "cardNumber": "260",
@@ -3136,7 +3136,7 @@
     "field6": "",
     "field7": "per person",
     "field8": "once a day",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "261": {
     "cardNumber": "261",
@@ -3148,7 +3148,7 @@
     "field6": "",
     "field7": "a vertical line",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "262": {
     "cardNumber": "262",
@@ -3160,7 +3160,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "263": {
     "cardNumber": "263",
@@ -3172,7 +3172,7 @@
     "field6": "",
     "field7": "Is there any beer left?",
     "field8": "",
-    "category": "Dimensions"
+    "category": "Measurements"
   },
   "264": {
     "cardNumber": "264",
@@ -3184,7 +3184,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "items",
+    "category": "Objects",
     "imageName": ""
   },
   "265": {
@@ -3197,7 +3197,7 @@
     "field6": "",
     "field7": "the lighter doesn't work",
     "field8": "",
-    "category": "items"
+    "category": "Objects"
   },
   "266": {
     "cardNumber": "266",
@@ -3209,7 +3209,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "items",
+    "category": "Objects",
     "imageName": ""
   },
   "267": {
@@ -3222,7 +3222,7 @@
     "field6": "",
     "field7": "lose the thread",
     "field8": "",
-    "category": "items"
+    "category": "Objects"
   },
   "268": {
     "cardNumber": "268",
@@ -3234,7 +3234,7 @@
     "field6": "",
     "field7": "That's on the note",
     "field8": "",
-    "category": "items"
+    "category": "Objects"
   },
   "269": {
     "cardNumber": "269",
@@ -3244,9 +3244,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "the battery is full",
+    "field7": "The battery is fully charged",
     "field8": "The battery is dead",
-    "category": "items"
+    "category": "Objects"
   },
   "270": {
     "cardNumber": "270",
@@ -3258,7 +3258,7 @@
     "field6": "",
     "field7": "I lost my wallet",
     "field8": "",
-    "category": "items"
+    "category": "Objects"
   },
   "271": {
     "cardNumber": "271",
@@ -3270,7 +3270,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "items",
+    "category": "Objects",
     "imageName": ""
   },
   "272": {
@@ -3283,7 +3283,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "items"
+    "category": "Objects"
   },
   "273": {
     "cardNumber": "273",
@@ -3295,7 +3295,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "fabrics and materials"
+    "category": "Substances and Materials"
   },
   "274": {
     "cardNumber": "274",
@@ -3307,7 +3307,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "fabrics and materials",
+    "category": "Substances and Materials",
     "imageName": ""
   },
   "275": {
@@ -3320,7 +3320,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "fabrics and materials"
+    "category": "Substances and Materials"
   },
   "276": {
     "cardNumber": "276",
@@ -3332,7 +3332,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "fabrics and materials",
+    "category": "Substances and Materials",
     "imageName": ""
   },
   "277": {
@@ -3345,7 +3345,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "fabrics and materials",
+    "category": "Substances and Materials",
     "imageName": ""
   },
   "278": {
@@ -3358,7 +3358,7 @@
     "field6": "",
     "field7": "the artificial flowers",
     "field8": "",
-    "category": "fabrics and materials"
+    "category": "Substances and Materials"
   },
   "279": {
     "cardNumber": "279",
@@ -3370,7 +3370,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "fabrics and materials"
+    "category": "Substances and Materials"
   },
   "280": {
     "cardNumber": "280",
@@ -3382,7 +3382,7 @@
     "field6": "",
     "field7": "the button is loose",
     "field8": "",
-    "category": "fabrics and materials"
+    "category": "Substances and Materials"
   },
   "281": {
     "cardNumber": "281",
@@ -3394,7 +3394,7 @@
     "field6": "",
     "field7": "a matte photo",
     "field8": "",
-    "category": "fabrics and materials"
+    "category": "Substances and Materials"
   },
   "282": {
     "cardNumber": "282",
@@ -3406,7 +3406,7 @@
     "field6": "",
     "field7": "a pink dress",
     "field8": "",
-    "category": "fabrics and materials"
+    "category": "Substances and Materials"
   },
   "283": {
     "cardNumber": "283",
@@ -3418,7 +3418,7 @@
     "field6": "",
     "field7": "a sharp knife",
     "field8": "",
-    "category": "fabrics and materials"
+    "category": "Substances and Materials"
   },
   "284": {
     "cardNumber": "284",
@@ -3430,7 +3430,7 @@
     "field6": "",
     "field7": "I like doing crafts",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "285": {
     "cardNumber": "285",
@@ -3438,11 +3438,11 @@
     "field2": "the fans",
     "field3": "the sports fan",
     "field4": "",
-    "field5": "the football fan",
+    "field5": "the soccer fan",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "286": {
     "cardNumber": "286",
@@ -3454,20 +3454,20 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "sport and freetime",
+    "category": "Sports and Leisure",
     "imageName": ""
   },
   "287": {
     "cardNumber": "287",
     "field1": "the sled",
     "field2": "the sleds",
-    "field3": "the sleigh ride",
+    "field3": "the sled ride",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "My sister likes to go sledding",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "288": {
     "cardNumber": "288",
@@ -3479,31 +3479,31 @@
     "field6": "",
     "field7": "He keeps fit by going for regular walks",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "289": {
     "cardNumber": "289",
     "field1": "win",
-    "field2": "(wins-won-won)",
+    "field2": "(present: gewinnt; simple past: gewann; past participle: gewonnen)",
     "field3": "the winner",
     "field4": "the winners",
     "field5": "",
     "field6": "",
     "field7": "Our team won first prize",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "290": {
     "cardNumber": "290",
-    "field1": "ride",
-    "field2": "(rides-rode-ridden)",
-    "field3": "riding",
+    "field1": "ride a horse",
+    "field2": "(present: reitet; simple past: ritt; past participle: geritten)",
+    "field3": "horseback riding",
     "field4": "",
     "field5": "the rider",
     "field6": "the riders",
     "field7": "",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "291": {
     "cardNumber": "291",
@@ -3515,19 +3515,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "292": {
     "cardNumber": "292",
     "field1": "jump",
-    "field2": "(jumps-jumped-jumped)",
+    "field2": "(present: springt; simple past: sprang; past participle: gesprungen)",
     "field3": "the jump",
     "field4": "the jumps",
     "field5": "",
     "field6": "",
     "field7": "How far did Max jump?",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "293": {
     "cardNumber": "293",
@@ -3539,19 +3539,19 @@
     "field6": "the trainers",
     "field7": "",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "294": {
     "cardNumber": "294",
-    "field1": "the power",
-    "field2": "the strengths",
-    "field3": "powerful",
+    "field1": "the strength",
+    "field2": "the strengths; the forces",
+    "field3": "strong",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "strongly built",
+    "field7": "powerfully built",
     "field8": "",
-    "category": "sport and freetime"
+    "category": "Sports and Leisure"
   },
   "295": {
     "cardNumber": "295",
@@ -3682,7 +3682,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "free admission",
+    "field7": "Free admission",
     "field8": "",
     "category": "Travel"
   },
@@ -3700,13 +3700,13 @@
   },
   "307": {
     "cardNumber": "307",
-    "field1": "the reception",
-    "field2": "the receptions",
+    "field1": "the reception desk",
+    "field2": "the reception desks",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "at the reception",
+    "field7": "at the reception desk",
     "field8": "",
     "category": "Travel"
   },
@@ -3786,9 +3786,9 @@
   },
   "314": {
     "cardNumber": "314",
-    "field1": "to recover",
-    "field2": "the recovery",
-    "field3": "I recover best from work in the countryside",
+    "field1": "relax; recuperate",
+    "field2": "the rest; the recuperation",
+    "field3": "I recover from work best in the countryside",
     "field4": "",
     "field5": "",
     "field6": "",
@@ -3813,7 +3813,7 @@
   "316": {
     "cardNumber": "316",
     "field1": "to intend",
-    "field2": "(intends-intended-intended)",
+    "field2": "(present: hat vor; simple past: hatte vor; past participle: vorgehabt)",
     "field3": "the intention",
     "field4": "the intentions",
     "field5": "I intend to go to the Baltic Sea",
@@ -3831,9 +3831,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "step by step",
+    "field7": "Step by step",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "318": {
     "cardNumber": "318",
@@ -3845,7 +3845,7 @@
     "field6": "",
     "field7": "at the corner",
     "field8": "around the corner",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "319": {
     "cardNumber": "319",
@@ -3857,7 +3857,7 @@
     "field6": "",
     "field7": "near the train station",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "320": {
     "cardNumber": "320",
@@ -3869,43 +3869,43 @@
     "field6": "",
     "field7": "It's warm inside",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "321": {
     "cardNumber": "321",
     "field1": "press",
     "field2": "",
     "field3": "pull",
-    "field4": "(pulls-pulled-pulled)",
+    "field4": "(present: zieht; simple past: zog; past participle: gezogen)",
     "field5": "",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "322": {
     "cardNumber": "322",
     "field1": "fall",
-    "field2": "(falls-fell-fallen)",
+    "field2": "(present: fällt; simple past: fiel; past participle: gefallen)",
     "field3": "to drop",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "She dropped the plate",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "323": {
     "cardNumber": "323",
     "field1": "lift",
-    "field2": "(lifts-lifted-lifted)",
+    "field2": "(present: hebt; simple past: hob; past participle: gehoben)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Please raise your hand if you want to say something!",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "324": {
     "cardNumber": "324",
@@ -3917,19 +3917,19 @@
     "field6": "",
     "field7": "up",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "325": {
     "cardNumber": "325",
     "field1": "to be located",
-    "field2": "(is located-was located-been located)",
+    "field2": "(present: befindet sich; simple past: befand sich; past participle: befunden)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Where is the nearest bank?",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "326": {
     "cardNumber": "326",
@@ -3939,21 +3939,21 @@
     "field4": "the movements",
     "field5": "",
     "field6": "",
-    "field7": "He has to move a lot",
+    "field7": "He needs to get plenty of exercise",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "327": {
     "cardNumber": "327",
     "field1": "to push",
-    "field2": "(pushes-pushed-pushed)",
+    "field2": "(present: stößt; simple past: stieß; past participle: gestoßen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "He pushed me into the water",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "328": {
     "cardNumber": "328",
@@ -3965,7 +3965,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "329": {
     "cardNumber": "329",
@@ -3977,7 +3977,7 @@
     "field6": "",
     "field7": "from Hamburg to Munich",
     "field8": "from here to the train station",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "330": {
     "cardNumber": "330",
@@ -3989,19 +3989,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "331": {
     "cardNumber": "331",
-    "field1": "in front",
+    "field1": "at the front",
     "field2": "",
-    "field3": "back",
+    "field3": "at the back",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "forward",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "332": {
     "cardNumber": "332",
@@ -4013,55 +4013,55 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "movement and location"
+    "category": "Movement and Location"
   },
   "333": {
     "cardNumber": "333",
     "field1": "depart",
-    "field2": "(departs-departed-departed)",
+    "field2": "(present: fährt ab; simple past: fuhr ab; past participle: abgefahren)",
     "field3": "the departure",
     "field4": "the departures",
     "field5": "",
     "field6": "",
     "field7": "What time does the train leave?",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "334": {
     "cardNumber": "334",
     "field1": "arrive",
-    "field2": "(arrives-arrived-arrived)",
+    "field2": "(present: kommt an; simple past: kam an; past participle: angekommen)",
     "field3": "the arrival",
     "field4": "the arrivals",
     "field5": "",
     "field6": "",
     "field7": "I arrived in Munich yesterday",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "335": {
     "cardNumber": "335",
     "field1": "to get off",
-    "field2": "(gets off-got off-got off)",
+    "field2": "(present: steigt aus; simple past: stieg aus; past participle: ausgestiegen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "I get off in Cologne",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "336": {
     "cardNumber": "336",
     "field1": "forbid",
-    "field2": "(forbids-forbade-forbidden)",
+    "field2": "(present: verbietet; simple past: verbot; past participle: verboten)",
     "field3": "the ban",
     "field4": "the prohibitions",
     "field5": "forbidden",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "337": {
     "cardNumber": "337",
@@ -4071,9 +4071,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "The train arrives on platform 3",
+    "field7": "The train arrives on track 3",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "338": {
     "cardNumber": "338",
@@ -4085,7 +4085,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "339": {
     "cardNumber": "339",
@@ -4097,7 +4097,7 @@
     "field6": "",
     "field7": "according to the timetable",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "340": {
     "cardNumber": "340",
@@ -4109,7 +4109,7 @@
     "field6": "",
     "field7": "When does your flight leave?",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "341": {
     "cardNumber": "341",
@@ -4121,7 +4121,7 @@
     "field6": "",
     "field7": "I'm a non-smoker",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "342": {
     "cardNumber": "342",
@@ -4133,7 +4133,7 @@
     "field6": "",
     "field7": "Two people were injured in the car accident",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "343": {
     "cardNumber": "343",
@@ -4143,9 +4143,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "to provide information",
+    "field7": "To provide information",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "344": {
     "cardNumber": "344",
@@ -4157,7 +4157,7 @@
     "field6": "",
     "field7": "I have to stop at the next gas station",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "345": {
     "cardNumber": "345",
@@ -4169,19 +4169,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "346": {
     "cardNumber": "346",
     "field1": "get in",
-    "field2": "(gets in-got in-got in)",
+    "field2": "(present: steigt ein; simple past: stieg ein; past participle: eingestiegen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Hop in!",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "347": {
     "cardNumber": "347",
@@ -4193,7 +4193,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "348": {
     "cardNumber": "348",
@@ -4205,7 +4205,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "349": {
     "cardNumber": "349",
@@ -4217,7 +4217,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "350": {
     "cardNumber": "350",
@@ -4229,19 +4229,19 @@
     "field6": "",
     "field7": "We're starting soon",
     "field8": "",
-    "category": "transport"
+    "category": "Transport"
   },
   "351": {
     "cardNumber": "351",
     "field1": "transfer",
-    "field2": "(changes-changed-changed)",
+    "field2": "(present: steigt um; simple past: stieg um; past participle: umgestiegen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "I'm changing trains in Wroclaw",
+    "field7": "I'm changing trains in Wrocław",
     "field8": "I have to change trains twice",
-    "category": "transport"
+    "category": "Transport"
   },
   "352": {
     "cardNumber": "352",
@@ -4257,8 +4257,8 @@
   },
   "353": {
     "cardNumber": "353",
-    "field1": "the skyscraper",
-    "field2": "the skyscrapers",
+    "field1": "the high-rise building",
+    "field2": "the high-rise buildings",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -4428,7 +4428,7 @@
     "field1": "the shovel",
     "field2": "the shovels",
     "field3": "to dig",
-    "field4": "(digs-dug-dug)",
+    "field4": "(present: gräbt; simple past: grub; past participle: gegraben)",
     "field5": "the snow shovel",
     "field6": "",
     "field7": "",
@@ -4469,19 +4469,19 @@
     "field6": "",
     "field7": "I beg your pardon!",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "371": {
     "cardNumber": "371",
     "field1": "depend",
-    "field2": "(depends-depended-depended)",
+    "field2": "(present: hängt ab; simple past: hing ab; past participle: abgehangen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "It depends on you",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "372": {
     "cardNumber": "372",
@@ -4493,7 +4493,7 @@
     "field6": "",
     "field7": "There were two other people there besides me",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "373": {
     "cardNumber": "373",
@@ -4505,7 +4505,7 @@
     "field6": "",
     "field7": "He greeted everyone politely",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "374": {
     "cardNumber": "374",
@@ -4517,7 +4517,7 @@
     "field6": "",
     "field7": "He is particularly interested in art",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "375": {
     "cardNumber": "375",
@@ -4529,7 +4529,7 @@
     "field6": "",
     "field7": "That's no longer a secret",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "376": {
     "cardNumber": "376",
@@ -4539,9 +4539,9 @@
     "field4": "the periods",
     "field5": "",
     "field6": "",
-    "field7": "put a comma",
+    "field7": "insert a comma",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "377": {
     "cardNumber": "377",
@@ -4553,7 +4553,7 @@
     "field6": "",
     "field7": "conduct a dialogue",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "378": {
     "cardNumber": "378",
@@ -4565,11 +4565,11 @@
     "field6": "",
     "field7": "That doesn't make any sense!",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "379": {
     "cardNumber": "379",
-    "field1": "clearly",
+    "field1": "clear",
     "field2": "",
     "field3": "unclear",
     "field4": "",
@@ -4577,19 +4577,19 @@
     "field6": "",
     "field7": "You must speak more clearly!",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "380": {
     "cardNumber": "380",
     "field1": "to concern",
-    "field2": "(concerns-concerned-concerned)",
+    "field2": "(present: betrifft; simple past: betraf; past participle: betroffen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "This issue does not concern you",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "381": {
     "cardNumber": "381",
@@ -4601,19 +4601,19 @@
     "field6": "",
     "field7": "I have a request for you",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "382": {
     "cardNumber": "382",
     "field1": "the reason",
     "field2": "the reasons",
-    "field3": "basically",
+    "field3": "in principle; fundamentally",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "due to the heavy rain",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "383": {
     "cardNumber": "383",
@@ -4625,7 +4625,7 @@
     "field6": "",
     "field7": "in this way",
     "field8": "I do it my way",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "384": {
     "cardNumber": "384",
@@ -4637,7 +4637,7 @@
     "field6": "",
     "field7": "a lively discussion",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "385": {
     "cardNumber": "385",
@@ -4649,7 +4649,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "386": {
     "cardNumber": "386",
@@ -4661,19 +4661,19 @@
     "field6": "",
     "field7": "We'll clarify all the problems later",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "387": {
     "cardNumber": "387",
     "field1": "lie",
-    "field2": "(tells lies-told lies-told lies)",
+    "field2": "(present: lügt; simple past: log; past participle: gelogen)",
     "field3": "the lie",
     "field4": "the lies",
     "field5": "the liar",
     "field6": "the liars",
     "field7": "",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "388": {
     "cardNumber": "388",
@@ -4685,19 +4685,19 @@
     "field6": "",
     "field7": "In my opinion...",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "389": {
     "cardNumber": "389",
     "field1": "to name",
-    "field2": "(names-named-named)",
+    "field2": "(present: nennt; simple past: nannte; past participle: genannt)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Just call me Susi!",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "390": {
     "cardNumber": "390",
@@ -4709,19 +4709,19 @@
     "field6": "",
     "field7": "You are wrong about that",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "391": {
     "cardNumber": "391",
     "field1": "to talk",
-    "field2": "(talks-talked-talked)",
+    "field2": "(present: unterhält; simple past: unterhielt; past participle: unterhalten)",
     "field3": "the conversation",
     "field4": "the conversations",
     "field5": "",
     "field6": "",
     "field7": "We talked about it for a long time",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "392": {
     "cardNumber": "392",
@@ -4733,7 +4733,7 @@
     "field6": "",
     "field7": "She says goodbye to her parents",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "393": {
     "cardNumber": "393",
@@ -4745,7 +4745,7 @@
     "field6": "",
     "field7": "If you have any questions, please call me!",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "394": {
     "cardNumber": "394",
@@ -4757,19 +4757,19 @@
     "field6": "",
     "field7": "Tell him the truth or he will get angry!",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "395": {
     "cardNumber": "395",
     "field1": "to distinguish",
-    "field2": "(distinguishes-distinguished-distinguished)",
+    "field2": "(present: unterscheidet; simple past: unterschied; past participle: unterschieden)",
     "field3": "the difference",
     "field4": "the differences",
     "field5": "different",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "396": {
     "cardNumber": "396",
@@ -4781,7 +4781,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "397": {
     "cardNumber": "397",
@@ -4793,7 +4793,7 @@
     "field6": "",
     "field7": "This sentence is incomprehensible",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "398": {
     "cardNumber": "398",
@@ -4805,7 +4805,7 @@
     "field6": "",
     "field7": "Probably no one is home",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "399": {
     "cardNumber": "399",
@@ -4817,7 +4817,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "voice communication"
+    "category": "Verbal Communication"
   },
   "400": {
     "cardNumber": "400",
@@ -4829,7 +4829,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "401": {
     "cardNumber": "401",
@@ -4841,7 +4841,7 @@
     "field6": "",
     "field7": "Call me on my cellphone!",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "402": {
     "cardNumber": "402",
@@ -4853,7 +4853,7 @@
     "field6": "",
     "field7": "an article in the newspaper",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "403": {
     "cardNumber": "403",
@@ -4865,7 +4865,7 @@
     "field6": "",
     "field7": "Put the letter in the mailbox!",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "404": {
     "cardNumber": "404",
@@ -4877,7 +4877,7 @@
     "field6": "",
     "field7": "work as a journalist on television",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "405": {
     "cardNumber": "405",
@@ -4889,7 +4889,7 @@
     "field6": "",
     "field7": "My laptop is broken",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "406": {
     "cardNumber": "406",
@@ -4901,19 +4901,19 @@
     "field6": "",
     "field7": "I want to place an advertisement",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "407": {
     "cardNumber": "407",
     "field1": "the postal code",
     "field2": "the postal codes",
-    "field3": "the ZIP code",
+    "field3": "the postal code",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "What is the postal code of Bonn?",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "408": {
     "cardNumber": "408",
@@ -4925,7 +4925,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "409": {
     "cardNumber": "409",
@@ -4937,7 +4937,7 @@
     "field6": "",
     "field7": "Can you print this out twice?",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "410": {
     "cardNumber": "410",
@@ -4949,24 +4949,24 @@
     "field6": "",
     "field7": "Make a copy of this letter!",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "411": {
     "cardNumber": "411",
     "field1": "to text",
     "field2": "",
-    "field3": "the SMS",
-    "field4": "the SMS",
+    "field3": "the text message",
+    "field4": "the text messages",
     "field5": "",
     "field6": "",
     "field7": "I'll send you a text message",
     "field8": "",
-    "category": "media"
+    "category": "Media"
   },
   "412": {
     "cardNumber": "412",
     "field1": "to submit",
-    "field2": "(submits-submitted-submitted)",
+    "field2": "(present: gibt ab; simple past: gab ab; past participle: abgegeben)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -5085,8 +5085,8 @@
   },
   "422": {
     "cardNumber": "422",
-    "field1": "the official",
-    "field2": "the officials",
+    "field1": "the civil servant",
+    "field2": "the civil servants",
     "field3": "the customs officer",
     "field4": "",
     "field5": "",
@@ -5151,7 +5151,7 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "She wants to pursue a career in law",
+    "field7": "She wants to pursue a career as a lawyer",
     "field8": "",
     "category": "Work"
   },
@@ -5241,9 +5241,9 @@
   },
   "435": {
     "cardNumber": "435",
-    "field1": "to deal (with)",
+    "field1": "occupy oneself (with); deal (with)",
     "field2": "",
-    "field3": "employment",
+    "field3": "the occupation; the employment",
     "field4": "the occupations",
     "field5": "busy",
     "field6": "",
@@ -5257,7 +5257,7 @@
     "field2": "",
     "field3": "the concentration",
     "field4": "",
-    "field5": "concentrated",
+    "field5": "focused",
     "field6": "",
     "field7": "",
     "field8": "",
@@ -5266,7 +5266,7 @@
   "437": {
     "cardNumber": "437",
     "field1": "do",
-    "field2": "(does-did-done)",
+    "field2": "(present: tut; simple past: tat; past participle: getan)",
     "field3": "",
     "field4": "",
     "field5": "",
@@ -5278,7 +5278,7 @@
   "438": {
     "cardNumber": "438",
     "field1": "sign",
-    "field2": "(signs-signed-signed)",
+    "field2": "(present: unterschreibt; simple past: unterschrieb; past participle: unterschrieben)",
     "field3": "the signature",
     "field4": "the signatures",
     "field5": "",
@@ -5297,23 +5297,23 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "440": {
     "cardNumber": "440",
     "field1": "spend",
-    "field2": "(spends-spent-spent)",
+    "field2": "(present: gibt aus; simple past: gab aus; past participle: ausgegeben)",
     "field3": "the expense",
     "field4": "the expenses",
     "field5": "",
     "field6": "",
     "field7": "I spend 100 euros on my apartment",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "441": {
     "cardNumber": "441",
-    "field1": "cash",
+    "field1": "in cash",
     "field2": "",
     "field3": "the cash",
     "field4": "",
@@ -5321,7 +5321,7 @@
     "field6": "",
     "field7": "I pay in cash",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "442": {
     "cardNumber": "442",
@@ -5333,7 +5333,7 @@
     "field6": "",
     "field7": "Who pays the bills?",
     "field8": "Can you pay by credit card here?",
-    "category": "Business"
+    "category": "Economy"
   },
   "443": {
     "cardNumber": "443",
@@ -5345,31 +5345,31 @@
     "field6": "",
     "field7": "I withdraw cash from the ATM",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "444": {
     "cardNumber": "444",
-    "field1": "the credit",
-    "field2": "the credits",
+    "field1": "the loan; the credit",
+    "field2": "the loans",
     "field3": "the credit card",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "We bought the house on credit",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "445": {
     "cardNumber": "445",
     "field1": "to withdraw",
-    "field2": "(withdraws-withdrew-withdrawn)",
+    "field2": "(present: hebt ab; simple past: hob ab; past participle: abgehoben)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "I withdrew 50 euros from the account",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "446": {
     "cardNumber": "446",
@@ -5381,7 +5381,7 @@
     "field6": "",
     "field7": "Uwe collects old coins",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "447": {
     "cardNumber": "447",
@@ -5391,9 +5391,9 @@
     "field4": "",
     "field5": "",
     "field6": "",
-    "field7": "You have to be frugal with drinking water",
+    "field7": "You must use drinking water sparingly",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "448": {
     "cardNumber": "448",
@@ -5405,7 +5405,7 @@
     "field6": "",
     "field7": "We pay high taxes",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "449": {
     "cardNumber": "449",
@@ -5417,19 +5417,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "450": {
     "cardNumber": "450",
     "field1": "to lend",
-    "field2": "(lends-lent-lent)",
+    "field2": "(present: leiht; simple past: lieh; past participle: geliehen)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "Can you lend me 100 euros?",
     "field8": "He lent me the book",
-    "category": "Business"
+    "category": "Economy"
   },
   "451": {
     "cardNumber": "451",
@@ -5441,19 +5441,19 @@
     "field6": "the producers",
     "field7": "",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "452": {
     "cardNumber": "452",
     "field1": "to undertake",
-    "field2": "(undertakes-undertook-undertaken)",
+    "field2": "(present: unternimmt; simple past: unternahm; past participle: unternommen)",
     "field3": "the company",
     "field4": "the companies",
     "field5": "the entrepreneur",
     "field6": "the entrepreneurs",
     "field7": "",
     "field8": "",
-    "category": "Business"
+    "category": "Economy"
   },
   "453": {
     "cardNumber": "453",
@@ -5465,7 +5465,7 @@
     "field6": "",
     "field7": "Did someone influence your decision?",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "454": {
     "cardNumber": "454",
@@ -5477,7 +5477,7 @@
     "field6": "",
     "field7": "the political system",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "455": {
     "cardNumber": "455",
@@ -5489,7 +5489,7 @@
     "field6": "",
     "field7": "the whole nation",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "456": {
     "cardNumber": "456",
@@ -5501,7 +5501,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "457": {
     "cardNumber": "457",
@@ -5513,7 +5513,7 @@
     "field6": "",
     "field7": "the German embassy",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "458": {
     "cardNumber": "458",
@@ -5525,7 +5525,7 @@
     "field6": "",
     "field7": "Is he taking part in the conference?",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "459": {
     "cardNumber": "459",
@@ -5537,7 +5537,7 @@
     "field6": "",
     "field7": "be in power",
     "field8": "come to power",
-    "category": "Country"
+    "category": "State"
   },
   "460": {
     "cardNumber": "460",
@@ -5549,7 +5549,7 @@
     "field6": "",
     "field7": "the national minorities",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "461": {
     "cardNumber": "461",
@@ -5561,7 +5561,7 @@
     "field6": "",
     "field7": "the elections to Parliament",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "462": {
     "cardNumber": "462",
@@ -5573,7 +5573,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "463": {
     "cardNumber": "463",
@@ -5585,43 +5585,43 @@
     "field6": "",
     "field7": "the official election results",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "464": {
     "cardNumber": "464",
     "field1": "to participate",
-    "field2": "(participates-participated-participated)",
+    "field2": "(present: nimmt teil; simple past: nahm teil; past participle: teilgenommen)",
     "field3": "the participation",
     "field4": "",
     "field5": "the participant",
     "field6": "the participants",
     "field7": "",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "465": {
     "cardNumber": "465",
     "field1": "promise",
-    "field2": "(promises-promised-promised)",
+    "field2": "(present: verspricht; simple past: versprach; past participle: versprochen)",
     "field3": "the promise",
     "field4": "the promises",
     "field5": "",
     "field6": "",
     "field7": "I promise you",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "466": {
     "cardNumber": "466",
     "field1": "to suggest",
-    "field2": "(suggests-suggested-suggested)",
+    "field2": "(present: schlägt vor; simple past: schlug vor; past participle: vorgeschlagen)",
     "field3": "the suggestion",
     "field4": "the suggestions",
     "field5": "",
     "field6": "",
     "field7": "What do you suggest?",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "467": {
     "cardNumber": "467",
@@ -5633,7 +5633,7 @@
     "field6": "",
     "field7": "We collaborate",
     "field8": "",
-    "category": "Country"
+    "category": "State"
   },
   "468": {
     "cardNumber": "468",
@@ -5645,7 +5645,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "469": {
     "cardNumber": "469",
@@ -5657,7 +5657,7 @@
     "field6": "",
     "field7": "He broke the law",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "470": {
     "cardNumber": "470",
@@ -5669,7 +5669,7 @@
     "field6": "",
     "field7": "The criminal was arrested",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "471": {
     "cardNumber": "471",
@@ -5681,7 +5681,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "472": {
     "cardNumber": "472",
@@ -5693,11 +5693,11 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "473": {
     "cardNumber": "473",
-    "field1": "the killer",
+    "field1": "the murderer",
     "field2": "the murderers",
     "field3": "the murder",
     "field4": "the murders",
@@ -5705,7 +5705,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "474": {
     "cardNumber": "474",
@@ -5717,7 +5717,7 @@
     "field6": "",
     "field7": "a fair punishment",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "475": {
     "cardNumber": "475",
@@ -5729,7 +5729,7 @@
     "field6": "",
     "field7": "That is regulated by law",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "476": {
     "cardNumber": "476",
@@ -5741,19 +5741,19 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "477": {
     "cardNumber": "477",
     "field1": "avoid",
-    "field2": "(avoids-avoided-avoided)",
+    "field2": "(present: vermeidet; simple past: vermied; past participle: vermieden)",
     "field3": "",
     "field4": "",
     "field5": "",
     "field6": "",
     "field7": "He will not avoid punishment",
     "field8": "",
-    "category": "Right"
+    "category": "Law"
   },
   "478": {
     "cardNumber": "478",
@@ -5765,11 +5765,11 @@
     "field6": "",
     "field7": "small changes",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "479": {
     "cardNumber": "479",
-    "field1": "to defend oneself",
+    "field1": "defend (oneself)",
     "field2": "",
     "field3": "the defense",
     "field4": "",
@@ -5777,31 +5777,31 @@
     "field6": "the defenders",
     "field7": "",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "480": {
     "cardNumber": "480",
     "field1": "to attack",
-    "field2": "(attacks-attacked-attacked)",
+    "field2": "(present: greift an; simple past: griff an; past participle: angegriffen)",
     "field3": "the attack",
     "field4": "the attacks",
     "field5": "the attacker",
     "field6": "the attackers",
     "field7": "",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "481": {
     "cardNumber": "481",
     "field1": "to burn",
-    "field2": "(burns-burned-burned)",
+    "field2": "(present: brennt; simple past: brannte; past participle: gebrannt)",
     "field3": "the fire",
     "field4": "the fires",
     "field5": "",
     "field6": "",
     "field7": "It's burning!",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "482": {
     "cardNumber": "482",
@@ -5813,7 +5813,7 @@
     "field6": "",
     "field7": "heroic behavior",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "483": {
     "cardNumber": "483",
@@ -5825,7 +5825,7 @@
     "field6": "",
     "field7": "There are many homeless people in my town",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "484": {
     "cardNumber": "484",
@@ -5837,7 +5837,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "485": {
     "cardNumber": "485",
@@ -5849,7 +5849,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "486": {
     "cardNumber": "486",
@@ -5861,7 +5861,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "487": {
     "cardNumber": "487",
@@ -5873,7 +5873,7 @@
     "field6": "",
     "field7": "to live in poverty",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "488": {
     "cardNumber": "488",
@@ -5885,7 +5885,7 @@
     "field6": "",
     "field7": "We've already called the fire department",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "489": {
     "cardNumber": "489",
@@ -5897,7 +5897,7 @@
     "field6": "",
     "field7": "Unfortunately, I can't keep you company today",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "490": {
     "cardNumber": "490",
@@ -5909,7 +5909,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "491": {
     "cardNumber": "491",
@@ -5921,7 +5921,7 @@
     "field6": "",
     "field7": "Don't panic!",
     "field8": "People panicked",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "492": {
     "cardNumber": "492",
@@ -5933,7 +5933,7 @@
     "field6": "",
     "field7": "in reality",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "493": {
     "cardNumber": "493",
@@ -5945,7 +5945,7 @@
     "field6": "",
     "field7": "We fight for our rights",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "494": {
     "cardNumber": "494",
@@ -5957,7 +5957,7 @@
     "field6": "",
     "field7": "The fire department extinguished the fire",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "495": {
     "cardNumber": "495",
@@ -5969,7 +5969,7 @@
     "field6": "",
     "field7": "What happened?",
     "field8": "An accident happened at the intersection",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "496": {
     "cardNumber": "496",
@@ -5981,19 +5981,19 @@
     "field6": "",
     "field7": "The doctors are protesting against government policy",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "497": {
     "cardNumber": "497",
     "field1": "to hit",
-    "field2": "(hits-hit-hit)",
+    "field2": "(present: schlägt; simple past: schlug; past participle: geschlagen)",
     "field3": "the blow",
     "field4": "the blows",
     "field5": "",
     "field6": "",
     "field7": "You must not hit children!",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "498": {
     "cardNumber": "498",
@@ -6005,7 +6005,7 @@
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "499": {
     "cardNumber": "499",
@@ -6017,18 +6017,18 @@
     "field6": "",
     "field7": "to go on strike",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   },
   "500": {
     "cardNumber": "500",
     "field1": "destroy",
     "field2": "",
     "field3": "the destruction",
-    "field4": "the destructions",
+    "field4": "the acts of destruction",
     "field5": "destroyed",
     "field6": "",
     "field7": "",
     "field8": "",
-    "category": "social conflicts"
+    "category": "Social Conflicts"
   }
 }
